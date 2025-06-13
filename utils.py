@@ -23,17 +23,7 @@ def search_pubmed_and_save_csv(query, start_year, end_year, drive_folder_name="P
     """
     Entrez.email = "YOUR_EMAIL@example.com"  # Replace with your email address
 
-    # Mount Google Drive
-    drive.mount('/content/drive')
-
-    # Create the folder path in Google Drive
-    drive_folder_path = os.path.join('/content/drive/MyDrive', drive_folder_name)
-
-    # Create the folder if it doesn't exist
-    if not os.path.exists(drive_folder_path):
-        os.makedirs(drive_folder_path)
-        print(f"Created folder: {drive_folder_path}")
-
+ 
     # Construct the date range query part
     date_query = f'("{start_year}/01/01"[PDAT] : "{end_year}/12/31"[PDAT])'
     full_query = f'{query} AND {date_query}'
