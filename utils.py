@@ -100,10 +100,9 @@ def search_pubmed_and_save_csv(query, start_year, end_year, drive_folder_name="P
 
     Args:
         query (str): The search query for PubMed.
-        start_year (int): The starting publication year (inclusive).
-        end_year (int): The ending publication year (inclusive).
-        drive_folder_name (str): The name of the folder in Google Drive to save the CSV.
-                                 If it doesn't exist, it will be created.
+        start_year (int): The starting publication year .
+ 
+       
     """
     Entrez.email = "YOUR_EMAIL@example.com"  #
 
@@ -515,31 +514,24 @@ def concurrence_matriz_keywords(df, columna_keywords='keywords'):
 
 def detect_keywords(row, keyword_dict):
     """
-    Detects occurrences of dictionary keys in the 'title' and 'summary' columns
-    of a DataFrame row and returns the corresponding values.
-
-    Args:
-        row: A pandas Series representing a row of the DataFrame.
-        keyword_dict: A dictionary where keys are strings to search for and
-                      values are the keywords to return if found.
+    detects queries in the title and summary of a row.
 
     Returns:
-        A comma-separated string of keywords found in the row's title or summary.
+
     """
-    keywords_found = set() # Use a set to avoid duplicate keywords
+    keywords_found = set() 
 
     title = str(row.get('title', '')).lower()
     summary = str(row.get('summary', '')).lower()
 
-    # Combine text from title and summary for searching
     text_to_search = title + " " + summary
 
     for key, keyword_value in keyword_dict.items():
-        # Use find() for case-insensitive search (after converting to lower)
+
         if text_to_search.find(key.lower()) != -1:
             keywords_found.add(keyword_value)
 
-    # Return keywords as a comma-separated string, sorted for consistency
+
     return ', '.join(sorted(list(keywords_found)))
 
 
