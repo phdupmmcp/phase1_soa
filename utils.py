@@ -7,12 +7,96 @@ import pandas as pd
 import xml.etree.ElementTree as ET
 import time
 from datetime import datetime
+from itertools import combinations
+
+domain_keywords = {
+    'Retrieval-Augmented Generation': 'rag',
+    'Retrieval Augmented Generation': 'rag', 
+    'Knowledge Graph': 'KG',
+    'Knowledge-Graph': 'KG',
+    'semantic network': 'KG',
+    'linked network': 'KG',
+    'gnn': 'KG',
+    'graph': 'graph',
+    'Graph Database': 'KG',
+    'neo4j': 'KG',
+    'Cancer': 'cancer',
+    'onco': 'cancer',
+    'Agentic': 'agentic',
+    'Multiagent Systems': 'MAS',
+    'Multi-agent Systems': 'MAS',
+    'Chatbot': 'chatbot',
+    'Conversational AI': 'conversational AI',
+    'qa':'qa',
+    'multimodal':'mm',
+    'multi-modal':'mm',
+    'vlms':'vlms',
+    'name entity recognition':'ner',
+    'name entity':'ner',
+    'name recognition':'ner',
+    'entity recognition':'ner',
+    'entity identification':'ner',
+    'information extraction':'ner',
+    'sequence labeling':'ner',
+    'uml':'ner',
+    'ulm':'ner',
+    'speech':'speech',
+    'speech recognition':'speech',
+    'nlp':'nlp',
+    'natural language processing':'nlp',
+    'diagno':'diag',
+    'review':'rev',
+    'survei':'sur',
+    'survey':'sur',
+    'chatgpt':'cllm',
+    'openai':'cllm',
+    'gemini':'cllm',
+    'claude':'cllm',
+    'mistral':'cllm',
+    'llama':'osllm',
+    'deepseek':'osllm',
+    'deepseek':'osllm',
+    'finetune':'finetune',
+    'finetun':'finetune',
+    'fine-tune':'finetune',
+    'rag':'rag',
+    'agents':'agents',
+    'patient care':'patient care',
+    'patient monitoring':'patient monitoring',
+    'imaging':'image',
+    'image':'image',
+    'img':'image',
+    'decision support':'decision support',
+    'decision':'decision support',
+    'evaluation':'eval',
+    'treatment':'treatment',
+    'question answering':'qa',
+    'question-answering':'qa',
+    'question and answering':'qa',
+    'hallucination':'hallucination',
+    'large language model':'llm',
+    'llm':'llm',
+    'foundation model':'llm',
+    'LLM':'llm',
+    'LLMs':'llm',
+    'LLMs':'llm',
+    'LLM':'llm',
+    'LLM':'llm',
+    'heatlthcare':'domain',
+    'medicine':'domain',
+    'medical':'domain',
+    'finance':'neg',
+    'mental':'neg',
+    'pshi':'neg',
+
+
+
+}
 
 
 def search_pubmed_and_save_csv(query, start_year, end_year, drive_folder_name="PubMed_Results"):
     """
-    Searches PubMed for papers based on a query and year range, retrieves all fields,
-    and saves the results as a CSV file in a specified Google Drive folder.
+   script para la busqueda masiva de papers en pubmed por criterios.
 
     Args:
         query (str): The search query for PubMed.
@@ -21,14 +105,14 @@ def search_pubmed_and_save_csv(query, start_year, end_year, drive_folder_name="P
         drive_folder_name (str): The name of the folder in Google Drive to save the CSV.
                                  If it doesn't exist, it will be created.
     """
-    Entrez.email = "YOUR_EMAIL@example.com"  # Replace with your email address
+    Entrez.email = "YOUR_EMAIL@example.com"  #
 
  
-    # Construct the date range query part
+
     date_query = f'("{start_year}/01/01"[PDAT] : "{end_year}/12/31"[PDAT])'
     full_query = f'{query} AND {date_query}'
 
-    # Search PubMed
+
     handle = Entrez.esearch(db="pubmed", term=full_query, retmax="100000") # Set retmax to a sufficiently large number
     record = Entrez.read(handle)
     handle.close()
@@ -174,19 +258,19 @@ def search_pubmed_and_save_csv(query, start_year, end_year, drive_folder_name="P
 
 def search_arxiv(query, max_results=100, start=0, sort_by='relevance', date_range=None, retries=3, delay=5):
     """
-    buscador papers en arXiv y devuelve los resultados en un panda.
+    buscador papers en arxiv, devuelve los resultados en un panda.
 
     Args:
         query: consulta de búsqueda
         max_results: numero máximo de resultados
         start: Índice de inicio para paginación
-        sort_by: Criterio de ordenación ('relevance', 'lastUpdatedDate', 'submittedDate')
+        sort_by: criterio de ordenación , posibilidades('relevance', 'lastUpdatedDate', 'submittedDate')
         date_range:
         retries: Number of times to retry the request in case of connection errors
         delay: Initial delay in seconds between retries
 
     Returns:
-        DataFrame con los resultados
+        panda con los resultados
     """
     base_url = 'http://export.arxiv.org/api/query?'
 
@@ -320,3 +404,233 @@ def search_and_export(query, max_results=100, year_start=None, year_end=None, fi
 
 
     return df_results
+
+def df_to_latex_with_integers(df, filename=None, caption=None, label=None):
+    df_copy = df.copy()
+    numeric_cols = df_copy.select_dtypes(include=['number']).columns
+    for col in numeric_cols:
+        df_copy[col] = df_copy[col].fillna(0).astype(int)
+    latex_table = df_copy.to_latex(index=False, escape=False)
+    latex_table = latex_table.replace('\\begin{tabular}', '\\begin{tabular}{|' + '|'.join(['c'] * len(df_copy.columns)) + '|}')
+    latex_table = latex_table.replace('\\end{tabular}', '\\hline\n\\end{tabular}')
+    latex_table = latex_table.replace('\\toprule', '\\hline\\hline')
+    latex_table = latex_table.replace('\\midrule', '\\hline\\hline')
+    latex_table = latex_table.replace('\\bottomrule', '\\hline')
+    header_line = latex_table.split('\n')[2]  # La línea con los encabezados
+    bold_header = ' & '.join(['\\textbf{' + col + '}' for col in df_copy.columns])
+    latex_table = latex_table.replace(header_line, bold_header + ' \\\\')
+    
+    if caption or label:
+        latex_table = latex_table.replace('\\begin{tabular}', 
+                                         '\\begin{table}[htbp]\n\\centering\n' + 
+                                         (f'\\caption{{{caption}}}\n' if caption else '') + 
+                                         (f'\\label{{{label}}}\n' if label else '') + 
+                                         '\\begin{tabular}')
+        latex_table = latex_table.replace('\\end{tabular}', '\\end{tabular}\n\\end{table}')
+    
+    if filename:
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(latex_table)
+    
+    return latex_table
+
+
+
+def detect_keywords(row, keyword_dict):
+    """
+    detecta keywords sobre columna "title" y "summary".
+
+    Args:
+        row: A pandas Series representing a row of the DataFrame.
+        keyword_dict: A dictionary where keys are strings to search for and
+                      values are the keywords to return if found.
+
+    Returns:
+        A comma-separated string of keywords found in the row's title or summary.
+    """
+    keywords_found = set() # Use a set to avoid duplicate keywords
+
+    title = str(row.get('title', '')).lower()
+    summary = str(row.get('summary', '')).lower()
+
+    text_to_search = title + " " + summary
+
+    for key, keyword_value in keyword_dict.items():
+        if text_to_search.find(key.lower()) != -1:
+            keywords_found.add(keyword_value)
+
+    return ', '.join(sorted(list(keywords_found)))
+
+
+
+# Define your dictionary of keywords
+my_keywords = {
+    'Retrieval-Augmented Generation': 'rag',
+    'Retrieval Augmented Generation': 'rag', # Include variations
+    'Knowledge Graph': 'KG',
+    'Knowledge-Graph': 'KG',
+    'Knowledge-Graph': 'graph',
+    'Graph Database': 'GD',
+    'neo4j': 'GD',
+    'Cancer': 'cancer',
+    'onco': 'cancer',
+    'Agentic': 'agentic',
+    'Multiagent Systems': 'MAS',
+    'Multi-agent Systems': 'MAS',
+    'Chatbot': 'chatbot',
+    'Conversational AI': 'conversational AI',
+    'qa':'qa',
+    'multimodal':'mm',
+    'multi-modal':'mm',
+    'vlms':'vlms',
+    'name entity recognition':'ner',
+    'name entity':'ner',
+    'name recognition':'ner',
+    'entity recognition':'ner',
+    'uml':'ner',
+    'ulm':'ner',
+    'speech':'speech',
+    'speech recognition':'speech',
+    'nlp':'nlp',
+    'natural language processing':'nlp',
+    'diagnosis':'diag',
+    'review':'rev',
+    'survei':'sur',
+    'survey':'sur',
+    'chatgpt':'cllm',
+    'openai':'cllm',
+    'gemini':'cllm',
+    'claude':'cllm',
+    'mistral':'cllm',
+    'llama':'osllm',
+    'deepseek':'osllm',
+    'deepseek':'osllm',
+    'finetune':'finetune',
+    'fine-tune':'finetune',
+    'rag':'rag',
+    'agents':'agents',
+    'patient care':'patient care',
+    'patient monitoring':'patient monitoring',
+    'imaging':'image',
+    'image':'image',
+    'img':'image',
+    'decision support':'decision support',
+    'decision':'decision support',
+    'evaluation':'eval',
+    'treatment':'treatment',
+    'question answering':'qa',
+    'question-answering':'qa',
+    'question and answering':'qa',
+    'hallucination':'hallucination',
+    'large language model':'llm',
+    'llm':'llm',
+    'foundation model':'llm',
+    'LLM':'llm',
+    'LLMs':'llm',
+    'LLMs':'llm',
+    'LLM':'llm',
+    'LLM':'llm',
+    'heatlthcare':'domain',
+    'medicine':'domain',
+    'medical':'domain',
+    'finance':'neg',
+    'mental':'neg',
+    'pshi':'neg',
+
+
+
+}
+
+
+
+def concurrence_matriz_keywords(df, columna_keywords='keywords'):
+    """
+    matriz de co-ocurrencia para las palabras clave que aparecen
+    en la misma fila de un DataFrame.
+
+
+    Args:
+        df (pd.DataFrame): el panmda.
+        columna_keywords (str): columna de referencia.
+
+    Returns:
+        pd.DataFrame: Una matriz de co-ocurrencia.
+.
+    """
+    if not isinstance(df, pd.DataFrame):
+        raise TypeError("El primer argumento 'df' debe ser un DataFrame de Pandas.")
+    if columna_keywords not in df.columns:
+        raise KeyError(f"La columna '{columna_keywords}' no se encuentra en el DataFrame.")
+    if df.empty:
+        return pd.DataFrame(dtype=int)
+
+    # 1. Procesar las keywords de cada fila para obtener una lista de conjuntos de keywords
+    #    Cada conjunto contiene las keywords únicas y limpias de una fila.
+    listas_keywords_unicas_por_fila = []
+    for keywords_str_fila in df[columna_keywords].fillna('').astype(str):
+        # Dividir por coma, limpiar espacios y eliminar vacíos
+        palabras_clave_limpias = {kw.strip() for kw in keywords_str_fila.split(',') if kw.strip()}
+        if palabras_clave_limpias: # Solo añadir si la fila tiene keywords válidas
+            listas_keywords_unicas_por_fila.append(list(palabras_clave_limpias))
+
+    if not listas_keywords_unicas_por_fila: # Si ninguna fila produjo keywords válidas
+        return pd.DataFrame(dtype=int)
+
+    # 2. Obtener todas las keywords únicas de todo el dataset para definir las dimensiones de la matriz
+    todas_las_keywords_flat = [kw for sublist in listas_keywords_unicas_por_fila for kw in sublist]
+    
+    if not todas_las_keywords_flat: # Doble chequeo por si algo raro pasó
+        return pd.DataFrame(dtype=int)
+        
+    keywords_unicas_global = sorted(list(set(todas_las_keywords_flat)))
+
+    # 3. Inicializar la matriz de co-ocurrencia con ceros
+    matriz_coocurrencia = pd.DataFrame(0, index=keywords_unicas_global, columns=keywords_unicas_global, dtype=int)
+
+    # 4. Poblar la matriz
+    for kws_unicas_en_fila in listas_keywords_unicas_por_fila:
+        # Incrementar la cuenta para la diagonal (ocurrencia total de cada keyword)
+        for kw in kws_unicas_en_fila:
+            matriz_coocurrencia.loc[kw, kw] += 1
+
+        # Incrementar la cuenta para pares de keywords (co-ocurrencia)
+        # combinations() asegura que cada par se considera una sola vez y que kw1 != kw2
+        for kw1, kw2 in combinations(sorted(kws_unicas_en_fila), 2): # sorted() para consistencia si fuera necesario, aunque no para contar
+            matriz_coocurrencia.loc[kw1, kw2] += 1
+            matriz_coocurrencia.loc[kw2, kw1] += 1 # La matriz es simétrica
+
+    return matriz_coocurrencia
+
+
+def detect_keywords(row, keyword_dict):
+    """
+    Detects occurrences of dictionary keys in the 'title' and 'summary' columns
+    of a DataFrame row and returns the corresponding values.
+
+    Args:
+        row: A pandas Series representing a row of the DataFrame.
+        keyword_dict: A dictionary where keys are strings to search for and
+                      values are the keywords to return if found.
+
+    Returns:
+        A comma-separated string of keywords found in the row's title or summary.
+    """
+    keywords_found = set() # Use a set to avoid duplicate keywords
+
+    title = str(row.get('title', '')).lower()
+    summary = str(row.get('summary', '')).lower()
+
+    # Combine text from title and summary for searching
+    text_to_search = title + " " + summary
+
+    for key, keyword_value in keyword_dict.items():
+        # Use find() for case-insensitive search (after converting to lower)
+        if text_to_search.find(key.lower()) != -1:
+            keywords_found.add(keyword_value)
+
+    # Return keywords as a comma-separated string, sorted for consistency
+    return ', '.join(sorted(list(keywords_found)))
+
+
+
+

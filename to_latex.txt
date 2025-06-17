@@ -1,0 +1,55 @@
+\begin{tabular}{|c|c|c|c|}{lrrr}
+\hline\hline
+\textbf{query} & \textbf{count_arxiv} & \textbf{count_pubmed} & \textbf{count} \\
+\hline\hline
+"large language model" AND "healthcare" AND "question answering" & 119 & 9 & 128 \\
+"LLM" AND "healthcare" AND "question answering" & 110 & 17 & 127 \\
+"large language model" AND "healthcare" AND "hallucination" & 84 & 5 & 89 \\
+"large language model" AND "healthcare" AND "imaging" & 84 & 43 & 127 \\
+"large language model" AND "healthcare" AND "diagnosis" & 84 & 74 & 158 \\
+"LLM" AND "healthcare" AND "hallucination" & 81 & 9 & 90 \\
+"LLM" AND "healthcare" AND "diagnosis" & 73 & 70 & 143 \\
+"large language model" AND "healthcare" AND "treatment" & 67 & 57 & 124 \\
+"LLM" AND "healthcare" AND "treatment" & 60 & 52 & 112 \\
+"LLM" AND "medicine" AND "question answering" & 56 & 33 & 89 \\
+"large language model" AND "medicine" AND "question answering" & 55 & 23 & 78 \\
+"LLM" AND "healthcare" AND "imaging" & 54 & 52 & 106 \\
+"large language model" AND "healthcare" AND "decision support" & 51 & 25 & 76 \\
+"large language model" AND "healthcare" AND "patient care" & 50 & 37 & 87 \\
+"LLM" AND "healthcare" AND "patient care" & 43 & 44 & 87 \\
+"LLM" AND "healthcare" AND "decision support" & 42 & 45 & 87 \\
+"large language model" AND "medicine" AND "hallucination" & 38 & 20 & 58 \\
+"large language model" AND "medicine" AND "diagnosis" & 37 & 225 & 262 \\
+"LLM" AND "cancer" AND "treatment" & 36 & 66 & 102 \\
+"large language model" AND "cancer" AND "treatment" & 36 & 57 & 93 \\
+"LLM" AND "medicine" AND "diagnosis" & 36 & 223 & 259 \\
+"LLM" AND "medicine" AND "hallucination" & 35 & 23 & 58 \\
+"large language model" AND "medicine" AND "treatment" & 31 & 143 & 174 \\
+"LLM" AND "medicine" AND "treatment" & 28 & 159 & 187 \\
+"large language model" AND "cancer" AND "imaging" & 25 & 46 & 71 \\
+"large language model" AND "medicine" AND "imaging" & 25 & 124 & 149 \\
+"large language model" AND "medicine" AND "decision support" & 21 & 65 & 86 \\
+"LLM" AND "medicine" AND "decision support" & 19 & 93 & 112 \\
+"large language model" AND "cancer" AND "diagnosis" & 18 & 54 & 72 \\
+"LLM" AND "medicine" AND "imaging" & 17 & 149 & 166 \\
+"LLM" AND "cancer" AND "diagnosis" & 14 & 46 & 60 \\
+"LLM" AND "cancer" AND "imaging" & 14 & 42 & 56 \\
+"large language model" AND "medicine" AND "patient care" & 10 & 53 & 63 \\
+"LLM" AND "cancer" AND "hallucination" & 10 & 8 & 18 \\
+"large language model" AND "cancer" AND "hallucination" & 10 & 6 & 16 \\
+"LLM" AND "medicine" AND "patient care" & 9 & 75 & 84 \\
+"large language model" AND "cancer" AND "patient care" & 7 & 10 & 17 \\
+"LLM" AND "cancer" AND "patient care" & 6 & 8 & 14 \\
+"large language model" AND "cancer" AND "question answering" & 4 & 7 & 11 \\
+"LLM" AND "cancer" AND "question answering" & 4 & 11 & 15 \\
+"large language model" AND "cancer" AND "decision support" & 2 & 12 & 14 \\
+"LLM" AND "cancer" AND "decision support" & 2 & 19 & 21 \\
+"LLM" AND "healthcare" AND "patient monitoring" & 1 & 0 & 1 \\
+"LLM" AND "medicine" AND "patient monitoring" & 1 & 1 & 2 \\
+"large language model" AND "medicine" AND "patient monitoring" & 1 & 1 & 2 \\
+"LLM" AND "cancer" AND "patient monitoring" & 1 & 0 & 1 \\
+"large language model" AND "cancer" AND "patient monitoring" & 1 & 0 & 1 \\
+"large language model" AND "healthcare" AND "patient monitoring" & 1 & 1 & 2 \\
+\hline
+\hline
+\end{tabular}

@@ -1,0 +1,34 @@
+\begin{tabular}{|c|c|}{lr}
+\hline\hline
+\textbf{keywords} & \textbf{count} \\
+\hline\hline
+llm & 5039 \\
+domain & 4250 \\
+cllm & 4043 \\
+rag & 3016 \\
+rev & 1679 \\
+neg & 1556 \\
+decision support & 1467 \\
+image & 1249 \\
+treatment & 1247 \\
+KG & 1169 \\
+diag & 1062 \\
+chatbot & 954 \\
+cancer & 909 \\
+sur & 587 \\
+osllm & 583 \\
+qa & 526 \\
+hallucination & 516 \\
+finetune & 448 \\
+mm & 433 \\
+patient care & 369 \\
+agents & 260 \\
+GD & 184 \\
+conversational AI & 46 \\
+vlms & 35 \\
+agentic & 35 \\
+MAS & 13 \\
+patient monitoring & 12 \\
+\hline
+\hline
+\end{tabular}

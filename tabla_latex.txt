@@ -1,0 +1,14 @@
+\begin{tabular}{| >{\centering\arraybackslash}m{12em} | >{\centering\arraybackslash}m{1.2cm} | >{\centering\arraybackslash}m{1.2cm} | >{\centering\arraybackslash}m{1.6cm} | >{\centering\arraybackslash}m{5.2cm} | }
+    \hline
+
+\textbf{Query} & \textbf{Engine} & \textbf{Articles} & \textbf{Date} & \textbf{File}\\
+\hline \hline
+
+Query 1 & PubMed & 309 & 13/06/2024 & File-1\\
+\hline
+Query 2 & ArXiv & 0 & 13/06/2024 & File-2\\
+\hline
+Query 3 & Web of Science & 355 & 13/06/2024 & File-3\\
+\hline
+
+\end{tabular}
