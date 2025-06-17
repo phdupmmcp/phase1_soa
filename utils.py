@@ -441,12 +441,11 @@ def detect_keywords(row, keyword_dict):
     detecta keywords sobre columna "title" y "summary".
 
     Args:
-        row: A pandas Series representing a row of the DataFrame.
-        keyword_dict: A dictionary where keys are strings to search for and
-                      values are the keywords to return if found.
+        row: la fila del panda que tiene las keywords separadas por comas.
+        keyword_dict: un diccionario con todas la relacion tags/keywords.
 
     Returns:
-        A comma-separated string of keywords found in the row's title or summary.
+        .
     """
     keywords_found = set() # Use a set to avoid duplicate keywords
 
@@ -463,86 +462,6 @@ def detect_keywords(row, keyword_dict):
 
 
 
-# Define your dictionary of keywords
-my_keywords = {
-    'Retrieval-Augmented Generation': 'rag',
-    'Retrieval Augmented Generation': 'rag', # Include variations
-    'Knowledge Graph': 'KG',
-    'Knowledge-Graph': 'KG',
-    'Knowledge-Graph': 'graph',
-    'Graph Database': 'GD',
-    'neo4j': 'GD',
-    'Cancer': 'cancer',
-    'onco': 'cancer',
-    'Agentic': 'agentic',
-    'Multiagent Systems': 'MAS',
-    'Multi-agent Systems': 'MAS',
-    'Chatbot': 'chatbot',
-    'Conversational AI': 'conversational AI',
-    'qa':'qa',
-    'multimodal':'mm',
-    'multi-modal':'mm',
-    'vlms':'vlms',
-    'name entity recognition':'ner',
-    'name entity':'ner',
-    'name recognition':'ner',
-    'entity recognition':'ner',
-    'uml':'ner',
-    'ulm':'ner',
-    'speech':'speech',
-    'speech recognition':'speech',
-    'nlp':'nlp',
-    'natural language processing':'nlp',
-    'diagnosis':'diag',
-    'review':'rev',
-    'survei':'sur',
-    'survey':'sur',
-    'chatgpt':'cllm',
-    'openai':'cllm',
-    'gemini':'cllm',
-    'claude':'cllm',
-    'mistral':'cllm',
-    'llama':'osllm',
-    'deepseek':'osllm',
-    'deepseek':'osllm',
-    'finetune':'finetune',
-    'fine-tune':'finetune',
-    'rag':'rag',
-    'agents':'agents',
-    'patient care':'patient care',
-    'patient monitoring':'patient monitoring',
-    'imaging':'image',
-    'image':'image',
-    'img':'image',
-    'decision support':'decision support',
-    'decision':'decision support',
-    'evaluation':'eval',
-    'treatment':'treatment',
-    'question answering':'qa',
-    'question-answering':'qa',
-    'question and answering':'qa',
-    'hallucination':'hallucination',
-    'large language model':'llm',
-    'llm':'llm',
-    'foundation model':'llm',
-    'LLM':'llm',
-    'LLMs':'llm',
-    'LLMs':'llm',
-    'LLM':'llm',
-    'LLM':'llm',
-    'heatlthcare':'domain',
-    'medicine':'domain',
-    'medical':'domain',
-    'finance':'neg',
-    'mental':'neg',
-    'pshi':'neg',
-
-
-
-}
-
-
-
 def concurrence_matriz_keywords(df, columna_keywords='keywords'):
     """
     matriz de co-ocurrencia para las palabras clave que aparecen
@@ -554,7 +473,7 @@ def concurrence_matriz_keywords(df, columna_keywords='keywords'):
         columna_keywords (str): columna de referencia.
 
     Returns:
-        pd.DataFrame: Una matriz de co-ocurrencia.
+        panda: Una matriz de co-ocurrencia.
 .
     """
     if not isinstance(df, pd.DataFrame):
@@ -564,41 +483,33 @@ def concurrence_matriz_keywords(df, columna_keywords='keywords'):
     if df.empty:
         return pd.DataFrame(dtype=int)
 
-    # 1. Procesar las keywords de cada fila para obtener una lista de conjuntos de keywords
-    #    Cada conjunto contiene las keywords únicas y limpias de una fila.
+
     listas_keywords_unicas_por_fila = []
     for keywords_str_fila in df[columna_keywords].fillna('').astype(str):
-        # Dividir por coma, limpiar espacios y eliminar vacíos
         palabras_clave_limpias = {kw.strip() for kw in keywords_str_fila.split(',') if kw.strip()}
         if palabras_clave_limpias: # Solo añadir si la fila tiene keywords válidas
             listas_keywords_unicas_por_fila.append(list(palabras_clave_limpias))
 
-    if not listas_keywords_unicas_por_fila: # Si ninguna fila produjo keywords válidas
+    if not listas_keywords_unicas_por_fila: 
         return pd.DataFrame(dtype=int)
 
-    # 2. Obtener todas las keywords únicas de todo el dataset para definir las dimensiones de la matriz
     todas_las_keywords_flat = [kw for sublist in listas_keywords_unicas_por_fila for kw in sublist]
     
-    if not todas_las_keywords_flat: # Doble chequeo por si algo raro pasó
+    if not todas_las_keywords_flat: 
         return pd.DataFrame(dtype=int)
         
     keywords_unicas_global = sorted(list(set(todas_las_keywords_flat)))
 
-    # 3. Inicializar la matriz de co-ocurrencia con ceros
     matriz_coocurrencia = pd.DataFrame(0, index=keywords_unicas_global, columns=keywords_unicas_global, dtype=int)
 
-    # 4. Poblar la matriz
     for kws_unicas_en_fila in listas_keywords_unicas_por_fila:
-        # Incrementar la cuenta para la diagonal (ocurrencia total de cada keyword)
         for kw in kws_unicas_en_fila:
             matriz_coocurrencia.loc[kw, kw] += 1
 
-        # Incrementar la cuenta para pares de keywords (co-ocurrencia)
-        # combinations() asegura que cada par se considera una sola vez y que kw1 != kw2
-        for kw1, kw2 in combinations(sorted(kws_unicas_en_fila), 2): # sorted() para consistencia si fuera necesario, aunque no para contar
+        for kw1, kw2 in combinations(sorted(kws_unicas_en_fila), 2): 
             matriz_coocurrencia.loc[kw1, kw2] += 1
-            matriz_coocurrencia.loc[kw2, kw1] += 1 # La matriz es simétrica
-
+            matriz_coocurrencia.loc[kw2, kw1] += 1 
+            
     return matriz_coocurrencia
 
 
