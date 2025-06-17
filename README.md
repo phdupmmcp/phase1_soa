@@ -1,4 +1,4 @@
-# LLM Medical Research Analysis
+# SoA Analysis on LLM within Medical Domain 
 
 ## Description
 
