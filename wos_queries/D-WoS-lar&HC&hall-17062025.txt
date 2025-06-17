@@ -1,0 +1,591 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Boulesnane, Abdennour
+   Souilah, Abdelhakim
+GP IEEE
+TI An Evolutionary Large Language Model for Hallucination Mitigation
+SO 2024 1ST INTERNATIONAL CONFERENCE ON ELECTRICAL, COMPUTER,
+   TELECOMMUNICATION AND ENERGY TECHNOLOGIES, ECTE-TECH
+DI 10.1109/ECTE-TECH62477.2024.10851107
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB The emergence of LLMs, like ChatGPT and Gemini, has marked the modern
+   era of artificial intelligence applications characterized by high-impact
+   applications generating text, images, and videos. However, these models
+   usually ensue with one critical challenge called hallucination:
+   confident presentation of inaccurate or fabricated information. This
+   problem attracts serious concern when these models are applied to
+   specialized domains, including healthcare and law, where the accuracy
+   and preciseness of information are absolute conditions. In this paper,
+   we propose EvoLLMs, an innovative framework inspired by Evolutionary
+   Computation, which automates the generation of high-quality
+   Question-answering (QA) datasets while minimizing hallucinations.
+   EvoLLMs employs genetic algorithms, mimicking evolutionary processes
+   like selection, variation, and mutation, to guide LLMs in generating
+   accurate, contextually relevant question-answer pairs. Comparative
+   analysis shows that EvoLLMs consistently outperforms human-generated
+   datasets in key metrics such as Depth, Relevance, and Coverage, while
+   nearly matching human performance in mitigating hallucinations. These
+   results highlight EvoLLMs as a robust and efficient solution for QA
+   dataset generation, significantly reducing the time and resources
+   required for manual curation.
+CT 1st International Conference on Electrical, Computer, Telecommunication
+   and Energy Technologies
+CY DEC 17-18, 2024
+CL Oum el Bouaghi, ALGERIA
+Z8 0
+ZA 0
+TC 0
+ZR 0
+ZS 0
+ZB 0
+Z9 0
+DA 2025-04-02
+UT WOS:001444006900041
+ER
+
+PT J
+AU Woo, Brigitte
+   Huynh, Tom
+   Tang, Arthur
+   Bui, Nhat
+   Nguyen, Giang
+   Tam, Wilson
+TI Transforming nursing with large language models: from concept to
+   practice
+SO EUROPEAN JOURNAL OF CARDIOVASCULAR NURSING
+VL 23
+IS 5
+BP 549
+EP 552
+DI 10.1093/eurjcn/zvad120
+EA JAN 2024
+DT Editorial Material
+PD JAN 5 2024
+PY 2024
+AB Large language models (LLMs) such as ChatGPT have emerged as potential
+   game-changers in nursing, aiding in patient education, diagnostic
+   assistance, treatment recommendations, and administrative task
+   efficiency. While these advancements signal promising strides in
+   healthcare, integrated LLMs are not without challenges, particularly
+   artificial intelligence hallucination and data privacy concerns.
+   Methodologies such as prompt engineering, temperature adjustments, model
+   fine-tuning, and local deployment are proposed to refine the accuracy of
+   LLMs and ensure data security. While LLMs offer transformative
+   potential, it is imperative to acknowledge that they cannot substitute
+   the intricate expertise of human professionals in the clinical field,
+   advocating for a synergistic approach in patient care.
+ZS 0
+ZR 0
+Z8 1
+TC 9
+ZA 0
+ZB 1
+Z9 10
+DA 2024-01-15
+UT WOS:001136706400001
+PM 38178303
+ER
+
+PT C
+AU Chang, Jocelyn J.
+   Chang, Edward Y.
+GP IEEE COMPUTER SOC
+TI SocraHealth: hnhancing Medical Diagnosis and Correcting Historical
+   Records
+SO 2023 INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE AND COMPUTATIONAL
+   INTELLIGENCE, CSCI 2023
+SE International Conference on Computational Science and Computational
+   Intelligence
+BP 1400
+EP 1405
+DI 10.1109/CSCI62032.2023.00229
+DT Proceedings Paper
+PD 2023
+PY 2023
+AB This study introduces SocraHealth, an innovative method using Large
+   Language Models (LLMs) for medical diagnostics. By engaging LLM-based
+   agents in structured debates, Socrallealth not only refines diagnoses
+   but also corrects historical record inaccuracies, utilizing patient data
+   effectively. The case study, featuring GPT-4 and Bard across two
+   experiments, showcases this approach's success in producing logical,
+   hallucination free debates. Demonstrating a significant advancement over
+   traditional diagnostic techniques, Socrallealth highlights the
+   transformative power of LLMs in healthcare, especially in enhancing
+   diagnostic accuracy and rectifying past diagnostic errors.
+CT International Conference on Computational Science and Computational
+   Intelligence (CSCI)
+CY DEC 13-15, 2023
+CL Las Vegas, NV
+SP IEEE
+ZS 0
+TC 0
+ZB 0
+ZR 0
+Z8 0
+ZA 0
+Z9 0
+DA 2024-09-07
+UT WOS:001283930300235
+ER
+
+PT J
+AU Wang, Chen
+   Liu, Yan-yi
+   Guo, Tie-zheng
+   Li, Da-peng
+   He, Tao
+   Li, Zhi
+   Yang, Qing-wen
+   Wang, Hui-han
+   Wen, Ying-you
+TI Systems engineering issues for industry applications of large language
+   model
+SO APPLIED SOFT COMPUTING
+VL 151
+AR 111165
+DI 10.1016/j.asoc.2023.111165
+EA DEC 2023
+DT Article
+PD JAN 2024
+PY 2024
+AB Large language model (LLM) is an important direction in the development
+   of AGI, but its technology is still in rapid change, and its
+   capabilities still have obvious deficiencies and imbalances, with
+   persistent problems such as hallucination, value non-alignment, weak
+   specialization, and black-box effect. In this case, how to apply LLM to
+   different professional fields and develop high-quality AIGC industry
+   applications has become a great challenge for ISVs. Building AIGC
+   industry applications based on LLM is not simply a matter of functional
+   realization. Although researchers and open-source communities have
+   proposed numerous application development frameworks or tool components,
+   there is a lack of overall architecture design for systems engineering
+   and a lack of discussion on theories and methods of LLM application
+   development in large-scale industry domains, such as healthcare,
+   government affairs, finance, and media. This paper analyzes the basic
+   ideas of LLM industry applications development, defines the functional
+   requirements and feature requirements of LLM industry applications, puts
+   forward the concept of Large Language Model Systems Engineering
+   (LLM-SE), and develops an AI assisted clinical risk prediction system
+   for amyloidosis disease based on the architecture of LLM-SE, which adopt
+   knowledge engineering, quality engineering, etc., and verifies the
+   LLM-SE development architecture and methodology.
+ZB 0
+TC 10
+ZR 0
+ZS 0
+ZA 0
+Z8 0
+Z9 10
+DA 2024-01-31
+UT WOS:001143416400001
+ER
+
+PT J
+AU Kang, Bongsu
+   LeeSangYeon
+   Chang-EopKim
+AU 배효진
+TI Current Status and Direction of Generative Large Language Model
+   Applications in Medicine - Focusing on East Asian Medicine -
+Z1 생성형 거대언어모델의 의학 적용 현황과 방향 - 동아시아 의학을 중심으로 -
+SO Journal of Physiology & Pathology in Korean Medicine
+S1 동의생리병리학회지
+VL 38
+IS 2
+BP 49
+EP 58
+DT research-article
+PD 2024
+PY 2024
+AB The rapid advancement of generative large language models has
+   revolutionized various real-life domains, emphasizing the importance of
+   exploring their applications in healthcare. This study aims to examine
+   how generative large language models are implemented in the medical
+   domain, with the specific objective of searching for the possibility and
+   potential of integration between generative large language models and
+   East Asian medicine. Through a comprehensive current state analysis, we
+   identified limitations in the deployment of generative large language
+   models within East Asian medicine and proposed directions for future
+   research. Our findings highlight the essential need for accumulating and
+   generating structured data to improve the capabilities of generative
+   large language models in East Asian medicine. Additionally, we tackle
+   the issue of hallucination and the necessity for a robust model
+   evaluation framework. Despite these challenges, the application of
+   generative large language models in East Asian medicine has demonstrated
+   promising results. Techniques such as model augmentation, multimodal
+   structures, and knowledge distillation have the potential to
+   significantly enhance accuracy, efficiency, and accessibility. In
+   conclusion, we expect generative large language models to play a pivotal
+   role in facilitating precise diagnostics, personalized treatment in
+   clinical fields, and fostering innovation in education and research
+   within East Asian medicine.
+ZR 0
+ZB 0
+Z8 0
+TC 1
+ZS 0
+ZA 0
+Z9 1
+DA 2024-05-25
+UT KJD:ART003073519
+ER
+
+PT J
+AU Chang, Yin-Hsi
+   Ong, Jasmine Chiat Ling
+   William, Wasswa
+   Butte, Atul J.
+   Shah, Nigam H.
+   Chew, Lita Sui Tjien
+   Liu, Nan
+   Doshi-Velez, Finale
+   Lu, Wei
+   Savulescu, Julian
+   Ting, Daniel
+TI Large Language Models in Medicine: Addressing Ethical Challenges
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+Z8 0
+ZS 0
+ZA 0
+ZR 0
+TC 0
+ZB 0
+Z9 0
+DA 2024-12-01
+UT WOS:001312227701059
+ER
+
+PT J
+AU Wong, Io Nam
+   Monteiro, Olivia
+   Baptista-Hon, Daniel T.
+   Wang, Kai
+   Lu, Wenyang
+   Sun, Zhuo
+   Nie, Sheng
+   Yin, Yun
+TI Leveraging foundation and large language models in medical artificial
+   intelligence
+SO CHINESE MEDICAL JOURNAL
+VL 137
+IS 21
+BP 2529
+EP 2539
+DI 10.1097/CM9.0000000000003302
+DT Review
+PD NOV 5 2024
+PY 2024
+AB Recent advancements in the field of medical artificial intelligence (AI)
+   have led to the widespread adoption of foundational and large language
+   models. This review paper explores their applications within medical AI,
+   introducing a novel classification framework that categorizes them as
+   disease-specific, general-domain, and multi-modal models. The paper also
+   addresses key challenges such as data acquisition and augmentation,
+   including issues related to data volume, annotation, multi-modal fusion,
+   and privacy concerns. Additionally, it discusses the evaluation,
+   validation, limitations, and regulation of medical AI models,
+   emphasizing their transformative potential in healthcare. The importance
+   of continuous improvement, data security, standardized evaluations, and
+   collaborative approaches is highlighted to ensure the responsible and
+   effective integration of AI into clinical applications.
+Z8 0
+ZS 0
+ZB 0
+TC 1
+ZR 0
+ZA 0
+Z9 1
+DA 2024-11-15
+UT WOS:001349449100017
+PM 39497256
+ER
+
+PT J
+AU Yigit, Gulsum
+   Bayraktar, Rabia
+TI Chatbot development strategies: a review of current studies and
+   applications
+SO KNOWLEDGE AND INFORMATION SYSTEMS
+DI 10.1007/s10115-025-02462-x
+EA MAY 2025
+DT Review; Early Access
+PY 2025
+AB Chatbots have become increasingly popular by transforming interactions
+   across numerous fields. As the technology behind chatbots has rapidly
+   developed, new methodologies have arisen, each contributing unique
+   strengths and addressing different challenges. This paper systematically
+   reviews the methods used in chatbot development from 2019 to 2024,
+   comprehensively analyzing the studies. We categorize the techniques into
+   three main groups: machine learning (ML)-based, deep learning
+   (DL)-based, and large language model (LLM)-based methods. We present a
+   broad and inclusive survey by exploring the foundational principles of
+   chatbot technologies and their applications across diverse domains such
+   as education, healthcare, and interviews. Our analysis reveals that
+   while traditional ML-based methods remain widely used, DL models are
+   gaining prominence for handling complex tasks, and LLM-based systems are
+   advancing the field by offering more coherent, contextually aware
+   responses. However, challenges remain, especially in ethical concerns
+   like hallucination and privacy-preserving technologies, particularly
+   with LLMs. The paper also identifies gaps in existing research, notably
+   the need for improved privacy-preserving mechanisms and better
+   strategies for mitigating hallucinations in chatbot responses. Future
+   research directions are suggested to address these challenges,
+   particularly in developing LLM-based chatbots, with a focus on enhancing
+   privacy, accuracy, and ethical standards.
+ZB 0
+ZA 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+DA 2025-05-21
+UT WOS:001489525600001
+ER
+
+PT J
+AU Zhang, Boya
+   Bornet, Alban
+   Yazdani, Anthony
+   Khlebnikov, Philipp
+   Milutinovic, Marija
+   Rouhizadeh, Hossein
+   Amini, Poorya
+   Teodoro, Douglas
+TI A dataset for evaluating clinical research claims in large language
+   models
+SO SCIENTIFIC DATA
+VL 12
+IS 1
+AR 86
+DI 10.1038/s41597-025-04417-x
+DT Article
+PD JAN 16 2025
+PY 2025
+AB Large language models (LLMs) have the potential to enhance the
+   verification of health claims. However, issues with hallucination and
+   comprehension of logical statements require these models to be closely
+   scrutinized in healthcare applications. We introduce CliniFact, a
+   scientific claim dataset created from hypothesis testing results in
+   clinical research, covering 992 unique interventions for 22 disease
+   categories. The dataset used study arms and interventions, primary
+   outcome measures, and results from clinical trials to derive and label
+   clinical research claims. These claims were then linked to supporting
+   information describing clinical trial results in scientific
+   publications. CliniFact contains 1,970 instances from 992 unique
+   clinical trials related to 1,540 unique publications. When evaluating
+   LLMs against CliniFact, discriminative models, such as BioBERT with an
+   accuracy of 80.2%, outperformed generative counterparts, such as
+   Llama3-70B, which reached 53.6% accuracy (p-value < 0.001). Our results
+   demonstrate the potential of CliniFact as a benchmark for evaluating LLM
+   performance in clinical research claim verification.
+ZB 0
+ZA 0
+ZR 0
+Z8 0
+ZS 0
+TC 0
+Z9 0
+DA 2025-02-15
+UT WOS:001401221000001
+PM 39820357
+ER
+
+PT J
+AU Sallam, Malik
+TI ChatGPT Utility in Healthcare Education, Research, and Practice:
+   Systematic Review on the Promising Perspectives and Valid Concerns
+SO HEALTHCARE
+VL 11
+IS 6
+AR 887
+DI 10.3390/healthcare11060887
+DT Review
+PD MAR 2023
+PY 2023
+AB ChatGPT is an artificial intelligence (AI)-based conversational large
+   language model (LLM). The potential applications of LLMs in health care
+   education, research, and practice could be promising if the associated
+   valid concerns are proactively examined and addressed. The current
+   systematic review aimed to investigate the utility of ChatGPT in health
+   care education, research, and practice and to highlight its potential
+   limitations. Using the PRIMSA guidelines, a systematic search was
+   conducted to retrieve English records in PubMed/MEDLINE and Google
+   Scholar (published research or preprints) that examined ChatGPT in the
+   context of health care education, research, or practice. A total of 60
+   records were eligible for inclusion. Benefits of ChatGPT were cited in
+   51/60 (85.0%) records and included: (1) improved scientific writing and
+   enhancing research equity and versatility; (2) utility in health care
+   research (efficient analysis of datasets, code generation, literature
+   reviews, saving time to focus on experimental design, and drug discovery
+   and development); (3) benefits in health care practice (streamlining the
+   workflow, cost saving, documentation, personalized medicine, and
+   improved health literacy); and (4) benefits in health care education
+   including improved personalized learning and the focus on critical
+   thinking and problem-based learning. Concerns regarding ChatGPT use were
+   stated in 58/60 (96.7%) records including ethical, copyright,
+   transparency, and legal issues, the risk of bias, plagiarism, lack of
+   originality, inaccurate content with risk of hallucination, limited
+   knowledge, incorrect citations, cybersecurity issues, and risk of
+   infodemics. The promising applications of ChatGPT can induce paradigm
+   shifts in health care education, research, and practice. However, the
+   embrace of this AI chatbot should be conducted with extreme caution
+   considering its potential limitations. As it currently stands, ChatGPT
+   does not qualify to be listed as an author in scientific articles unless
+   the ICMJE/COPE guidelines are revised or amended. An initiative
+   involving all stakeholders in health care education, research, and
+   practice is urgently needed. This will help to set a code of ethics to
+   guide the responsible use of ChatGPT among other LLMs in health care and
+   academia.
+ZA 0
+ZS 16
+TC 1015
+Z8 5
+ZB 97
+ZR 0
+Z9 1026
+DA 2023-04-12
+UT WOS:000956609200001
+PM 36981544
+ER
+
+PT J
+AU Wu, Xuzhou
+   Li, Guangxin
+   Wang, Xing
+   Xu, Zeyu
+   Wang, Yingni
+   Lei, Shuge
+   Xian, Jianming
+   Wang, Xueyu
+   Zhang, Yibao
+   Li, Gong
+   Yuan, Kehong
+TI Diagnosis assistant for liver cancer utilizing a large language model
+   with three types of knowledge
+SO PHYSICS IN MEDICINE AND BIOLOGY
+VL 70
+IS 9
+AR 095009
+DI 10.1088/1361-6560/adcb17
+DT Article
+PD MAY 4 2025
+PY 2025
+AB Objective. Liver cancer has a high incidence rate, but experienced
+   doctors are lacking in primary healthcare settings. The development of
+   large models offers new possibilities for diagnosis. However, in liver
+   cancer diagnosis, large models face certain limitations, such as
+   insufficient understanding of specific medical images, inadequate
+   consideration of liver vessel factors, and inaccuracies in reasoning
+   logic. Therefore, this study proposes a diagnostic assistance tool
+   specific to liver cancer to enhance the diagnostic capabilities of
+   primary care doctors. Approach. A liver cancer diagnosis framework
+   combining large and small models is proposed. A more accurate model for
+   liver tumor segmentation and a more precise model for liver vessel
+   segmentation are developed. The features extracted from the segmentation
+   results of the small models are combined with the patient's medical
+   records and then provided to the large model. The large model employs
+   chain of thought prompts to simulate expert diagnostic reasoning and
+   uses Retrieval-Augmented Generation to provide reliable answers based on
+   trusted medical knowledge and cases. Main results. In the small model
+   part, the proposed liver tumor and liver vessel segmentation methods
+   achieve improved performance. In the large model part, this approach
+   receives higher evaluation scores from doctors when analyzing patient
+   imaging and medical records. Significance. First, a diagnostic framework
+   combining small models and large models is proposed to optimize the
+   liver cancer diagnosis process. Second, two segmentation models are
+   introduced to compensate for the large model's shortcomings in
+   extracting semantic information from images. Third, by simulating
+   doctors' reasoning and integrating trusted knowledge, the framework
+   enhances the reliability and interpretability of the large model's
+   responses while reducing hallucination phenomena.
+Z8 0
+ZS 0
+ZA 0
+ZR 0
+TC 0
+ZB 0
+Z9 0
+DA 2025-05-08
+UT WOS:001480266600001
+PM 40203862
+ER
+
+PT J
+AU Sridharan, Kannan
+   Sivaramakrishnan, Gowri
+TI Unlocking the potential of advanced large language models in medication
+   review and reconciliation: A proof-of-concept investigation
+SO EXPLORATORY RESEARCH IN CLINICAL AND SOCIAL PHARMACY
+VL 15
+AR 100492
+DI 10.1016/j.rcsop.2024.100492
+EA AUG 2024
+DT Article
+PD SEP 2024
+PY 2024
+AB Background: Medication review and reconciliation is essential for
+   optimizing drug therapy and minimizing medication errors. Large language
+   models (LLMs) have been recently shown to possess a lot of potential
+   applications in healthcare field due to their abilities of deductive,
+   abductive, and logical reasoning. The present study assessed the
+   abilities of LLMs in medication review and medication reconciliation
+   processes. Methods: Four LLMs were prompted with appropriate queries
+   related to dosing regimen errors, drug-drug interactions, therapeutic
+   drug monitoring, and genomics-based decision-making process. The
+   veracity of the LLM outputs were verified from validated sources using
+   pre-validated criteria (accuracy, relevancy, risk management,
+   hallucination mitigation, and citations and guidelines). The impacts of
+   the erroneous responses on the patients' safety were categorized either
+   as major or minor. Results: In the assessment of four LLMs regarding
+   dosing regimen errors, drug-drug interactions, and suggestions for
+   dosing regimen adjustments based on therapeutic drug monitoring and
+   genomics-based individualization of drug therapy, responses were
+   generally consistent across prompts with no clear pattern in response
+   quality among the LLMs. For identification of dosage regimen errors,
+   ChatGPT performed well overall, except for the query related to
+   simvastatin. In terms of potential drug-drug interactions, all LLMs
+   recognized interactions with warfarin but missed the interaction between
+   metoprolol and verapamil. Regarding dosage modifications based on
+   therapeutic drug monitoring, Claude-Instant provided appropriate
+   suggestions for two scenarios and nearly appropriate suggestions for the
+   other two. Similarly, for genomics-based decision-making, Claude-Instant
+   offered satisfactory responses for four scenarios, followed by Gemini
+   for three. Notably, Gemini stood out by providing references to
+   guidelines or citations even without prompting, demonstrating a
+   commitment to accuracy and reliability in its responses. Minor impacts
+   were noted in identifying appropriate dosing regimens and therapeutic
+   drug monitoring, while major impacts were found in identifying drug
+   interactions and making pharmacogenomic-based therapeutic decisions.
+   Conclusion: Advanced LLMs hold significant promise in revolutionizing
+   the medication review and reconciliation process in healthcare. Diverse
+   impacts on patient safety were observed. Integrating and validating LLMs
+   within electronic health records and prescription systems is essential
+   to harness their full potential and enhance patient safety and care
+   quality.
+ZB 0
+ZA 0
+ZS 0
+TC 6
+ZR 0
+Z8 0
+Z9 6
+DA 2024-09-06
+UT WOS:001301740600001
+PM 39257533
+ER
+
+EF

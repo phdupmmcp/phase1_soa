@@ -1,60 +1,63 @@
 # LLM Medical Research Analysis
 
-## Descripción
+## Description
 
-Este repositorio contiene herramientas y análisis para investigar las tendencias y líneas de investigación sobre Modelos de Lenguaje de Gran Escala (LLMs) en el dominio médico. El proyecto se centra en la recopilación sistemática, procesamiento y análisis de literatura científica de fuentes como arXiv y PubMed para identificar patrones emergentes en la aplicación de LLMs en medicina, salud y oncología.
+This repository contains tools and analyses for investigating trends and research directions on Large Language Models (LLMs) in the medical domain. The project focuses on systematic collection, processing, and analysis of scientific literature from sources such as arXiv,PubMed and WoS to identify emerging patterns in the application of LLMs in medicine, healthcare, and oncology.
 
-## Autores
+## Authors
 
-- **Ernestina Menasalvas** - Universidad Politécnica de Madrid
-- **David Ortiz** - Universidad Politécnica de Madrid
+- **Ernestina Menasalvas** - MEDAL,Universidad Politécnica de Madrid
+- **David Ortiz** - MEDAL,Universidad Politécnica de Madrid
 - **Borja J. de Urries** - MEDAL, Universidad Politécnica de Madrid
 
-## Características principales
+## Key Features
 
-- **Recopilación automatizada de literatura**: Scripts para consultar y extraer artículos de arXiv y PubMed con criterios específicos
-- **Análisis de tendencias**: Identificación de temas emergentes y evolución temporal de la investigación
-- **Extracción de keywords**: Detección automática de términos clave y conceptos relevantes
-- **Análisis de co-ocurrencia**: Matrices de co-ocurrencia para identificar relaciones entre conceptos
-- **Visualización de datos**: Generación de gráficos y tablas para representar los hallazgos
-- **Exportación a LaTeX**: Herramientas para generar tablas en formato LaTeX para publicaciones académicas
+- **Automated literature collection**: Scripts to query and extract articles from arXiv and PubMed with specific criteria
+- **Trend analysis**: Identification of emerging topics and temporal evolution of research
+- **Keyword extraction**: Automatic detection of key terms and relevant concepts
+- **Co-occurrence analysis**: Co-occurrence matrices to identify relationships between concepts
+- **Data visualization**: Generation of graphs and tables to represent findings
+- **LaTeX export**: Tools to generate LaTeX tables for academic publications
 
-## Áreas de investigación
+## Research Areas
 
-El repositorio se enfoca en las siguientes áreas de aplicación de LLMs en medicina:
-- Sistemas de apoyo a la decisión clínica
-- Diagnóstico asistido por IA
-- Tratamiento y planificación terapéutica
-- Monitoreo de pacientes
-- Imágenes médicas
-- Respuesta a preguntas médicas
-- Mitigación de alucinaciones en contextos médicos
+The repository focuses on the following areas of LLM applications in medicine:
+- Clinical decision support systems
+- AI-assisted diagnosis
+- Treatment and therapeutic planning
+- Patient care
+- Patient monitoring
+- Medical imaging(??)
+- Ners
+- Medical question answering
+- Hallucination mitigation in medical contexts
+(.......)
 
-## Tecnologías utilizadas
+## Technologies Used
 
-- Python para análisis de datos y procesamiento
-- Pandas para manipulación de datos
-- APIs de arXiv y PubMed para recopilación de literatura
-- Técnicas de procesamiento de lenguaje natural para análisis de texto
-- LaTeX para generación de reportes académicos
+- Python for data analysis and processing
+- Pandas for data manipulation
+- arXiv and PubMed APIs for literature collection
+- Natural language processing techniques for text analysis
+- LaTeX for academic report generation
 
-## Estructura del repositorio
+## Repository Structure
 
-- `utils.py`: Funciones de utilidad para búsqueda, procesamiento y análisis
-- `bulk_analysis.ipynb`: Notebook principal para análisis masivo de literatura
-- `data/`: Directorio para almacenar datos recopilados y resultados intermedios
+- `utils.py`: Utility functions for search, processing, and analysis
+- `bulk_analysis.ipynb`: Main notebook for massive literature analysis
+- `data/`: Directory for storing collected data and intermediate results
 
-## Cómo empezar
+## Getting Started
 
-1. Clone el repositorio
-2. Instale las dependencias requeridas
-3. Ejecute los notebooks para realizar análisis específicos
-4. Explore los resultados y visualizaciones generadas
+1. Clone the repository
+2. Install the required dependencies
+3. Run the notebooks to perform specific analyses
+4. Explore the results and generated visualizations
 
-## Contribuciones
+## Contributions
 
-Las contribuciones son bienvenidas. Por favor, abra un issue para discutir cambios importantes antes de enviar un pull request.
+Contributions are welcome. Please open an issue to discuss significant changes before submitting a pull request.
 
-## Licencia
+## License
 
-Este proyecto está disponible bajo la licencia MIT.
+This project is available under the MIT license.

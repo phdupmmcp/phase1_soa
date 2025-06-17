@@ -1,0 +1,2750 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Khanmammadova, N.
+   Gevorkyan, R.
+   Epino, M.
+   Jiang, D.
+   Cumpanas, A. D.
+   Chu, T.
+   Gomez, R. K.
+   Xu, H.
+   Myoung, S.
+   Afyouni, A. S.
+   O'leary, M.
+   Nguyen, T. T.
+   Fung, C.
+   Ali, S. N.
+   Shahait, M.
+   Daneshvar, M.
+   Ahlering, T. E.
+   Lee, D.
+TI Artificial intelligence in advancing prostate cancer patient care
+SO EUROPEAN UROLOGY
+VL 85
+MA A0188
+BP S939
+EP S940
+SU 1
+DT Meeting Abstract
+PD MAR 2024
+PY 2024
+ZA 0
+Z8 0
+ZS 0
+ZB 0
+TC 0
+ZR 0
+Z9 0
+DA 2024-09-25
+UT WOS:001282821400665
+ER
+
+PT C
+AU Kim, Kyungwon
+   Lee, Yongmoon
+   Park, Doohyun
+   Eo, Taejoon
+   Youn, Daemyung
+   Lee, Hyesang
+   Hwang, Dosik
+BE Feragen, A
+   Giannarou, S
+   Glocker, B
+   Lekadir, K
+   Schnabel, JA
+   Linguraru, MG
+   Dou, Q
+TI LLM-Guided Multi-modal Multiple Instance Learning for 5-Year Overall
+   Survival Prediction of Lung Cancer
+SO MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION - MICCAI
+   2024, PT III
+SE Lecture Notes in Computer Science
+VL 15003
+BP 239
+EP 249
+DI 10.1007/978-3-031-72384-1_23
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Accurately predicting the 5-year prognosis of lung cancer patients is
+   crucial for guiding treatment planning and providing optimal patient
+   care. Traditional methods relying on CT image-based cancer stage
+   assessment and morphological analysis of cancer cells in pathology
+   images have encountered challenges in terms of reliability and accuracy
+   due to the complexity and diversity of information within these images.
+   Recent rapid advancements in deep learning have shown promising
+   performance in prognosis prediction, however utilizing CT and pathology
+   images independently is limited by their differing imaging
+   characteristics and the unique prognostic information. To effectively
+   address these challenges, this study proposes a novel framework that
+   integrates prognostic capabilities of both CT and pathology images with
+   clinical information, employing a multi-modal integration approach via
+   multiple instance learning, leveraging large language models (LLMs) to
+   analyze clinical notes and align them with image modalities. The
+   proposed approach was rigorously validated using external datasets from
+   different hospitals, demonstrating superior performance over models
+   reliant on vision or clinical data alone. This highlights the
+   adaptability and strength of LLMs in managing complex multi-modal
+   medical datasets for lung cancer prognosis, marking a significant
+   advance towards more accurate and comprehensive patient care strategies.
+   The code is publicly available on
+   https://github.com/KyleKWKim/LLM-guided-Multimodal-MIL.
+CT 27th International Conference on Medical Image Computing and Computer
+   Assisted Intervention (MICCAI)
+CY OCT 06-10, 2024
+CL Palmeraie Conf Ctr, Marrakesh, MOROCCO
+HO Palmeraie Conf Ctr
+SP GH Labs; Childrens Natl Hosp; Pierre Fabre; Comp Assisted Med Intervent
+   Labex; Multidisciplinary Inst Artificial Intelligence Grenoble Alpes;
+   Western Univ, Frugal Biomed Innovat Program; Int Soc Radiol; Medtronic;
+   Pasqual Maragall Fdn; Delft Imaging; Univ Barcelona, Artificial
+   Intelligence Med Lab; Cadi Ayyad Univ; Natl Ctr Sci & Tech Res
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+TC 1
+ZA 0
+Z9 1
+DA 2024-11-28
+UT WOS:001342227700023
+ER
+
+PT J
+AU Nakaura, Takeshi
+   Ito, Rintaro
+   Ueda, Daiju
+   Nozaki, Taiki
+   Fushimi, Yasutaka
+   Matsui, Yusuke
+   Yanagawa, Masahiro
+   Yamada, Akira
+   Tsuboyama, Takahiro
+   Fujima, Noriyuki
+   Tatsugami, Fuminari
+   Hirata, Kenji
+   Fujita, Shohei
+   Kamagata, Koji
+   Fujioka, Tomoyuki
+   Kawamura, Mariko
+   Naganawa, Shinji
+TI The impact of large language models on radiology: a guide for
+   radiologists on the latest innovations in AI
+SO JAPANESE JOURNAL OF RADIOLOGY
+VL 42
+IS 7
+BP 685
+EP 696
+DI 10.1007/s11604-024-01552-0
+EA MAR 2024
+DT Review
+PD JUL 2024
+PY 2024
+AB The advent of Deep Learning (DL) has significantly propelled the field
+   of diagnostic radiology forward by enhancing image analysis and
+   interpretation. The introduction of the Transformer architecture,
+   followed by the development of Large Language Models (LLMs), has further
+   revolutionized this domain. LLMs now possess the potential to automate
+   and refine the radiology workflow, extending from report generation to
+   assistance in diagnostics and patient care. The integration of
+   multimodal technology with LLMs could potentially leapfrog these
+   applications to unprecedented levels.However, LLMs come with unresolved
+   challenges such as information hallucinations and biases, which can
+   affect clinical reliability. Despite these issues, the legislative and
+   guideline frameworks have yet to catch up with technological
+   advancements. Radiologists must acquire a thorough understanding of
+   these technologies to leverage LLMs' potential to the fullest while
+   maintaining medical safety and ethics. This review aims to aid in that
+   endeavor.
+ZR 0
+Z8 0
+ZB 2
+ZA 0
+TC 30
+ZS 0
+Z9 30
+DA 2024-04-07
+UT WOS:001194855800001
+PM 38551772
+ER
+
+PT J
+AU Han, B.
+   Chen, Y.
+   Buyyounouski, M. K.
+   Gensheimer, M. F.
+   Xing, L.
+TI RadAlonc: Enhancing Decision-Making in Radiation Oncology with a
+   GPT-4-Based Prompt-Driven Large Language Model
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 2297
+BP E134
+EP E134
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZS 0
+ZB 0
+TC 0
+Z8 0
+ZR 0
+ZA 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892300029
+ER
+
+PT C
+AU Kim, Mirae
+   Hwang, Kyubum
+   Oh, Hayoung
+   Kim, Heejin
+   Kim, Min Ah
+GP ACM
+TI Can a Chatbot be Useful in Childhood Cancer Survivorship? Development of
+   a Chatbot for Survivors of Childhood Cancer
+SO PROCEEDINGS OF THE 32ND ACM INTERNATIONAL CONFERENCE ON INFORMATION AND
+   KNOWLEDGE MANAGEMENT, CIKM 2023
+BP 4018
+EP 4022
+DI 10.1145/3583780.3615234
+DT Proceedings Paper
+PD 2023
+PY 2023
+AB This study introduces an informational and empathetic chatbot for
+   childhood cancer survivors. As the survival rates for childhood cancer
+   around the world have increased, survivors often face various
+   psychosocial challenges during and after cancer treatment. However, they
+   rarely seek support from psychosocial professionals due to the low
+   availability of resources and stigma toward cancer survivors in
+   countries like South Korea. This study aimed to develop a chatbot tailed
+   to the unique characteristics of childhood cancer survivors in need of
+   informational and emotional support. Given the limited availability of
+   empirical data on childhood cancer survivors, quotes from survivors were
+   gathered from academic articles and social media, then large language
+   models were employed to generate appropriate responses. Furthermore, we
+   incorporated domain learning techniques to ensure a more tailored and
+   suitable model for addressing the needs of survivors.
+CT 32nd ACM International Conference on Information and Knowledge
+   Management (CIKM)
+CY OCT 21-25, 2023
+CL Birmingham, ENGLAND
+SP Assoc Comp Machinery; ACM Special Interest Grp Informat Retrieval; ACM
+   SIGWEB
+TC 1
+ZS 0
+ZA 0
+Z8 0
+ZB 0
+ZR 0
+Z9 1
+DA 2024-03-19
+UT WOS:001161549504012
+ER
+
+PT J
+AU Barat, Maxime
+   Crombe, Amandine
+   Boeken, Tom
+   Dacher, Jean-Nicolas
+   Si-Mohamed, Salim
+   Dohan, Anthony
+   Chassagnon, Guillaume
+   Lecler, Augustin
+   Greffier, Joel
+   Nougaret, Stephanie
+   Soyer, Philippe
+TI Imaging in France: 2024 Update
+SO CANADIAN ASSOCIATION OF RADIOLOGISTS JOURNAL-JOURNAL DE L ASSOCIATION
+   CANADIENNE DES RADIOLOGISTES
+VL 76
+IS 2
+BP 221
+EP 231
+DI 10.1177/08465371241288425
+DT Review
+PD MAY 2025
+PY 2025
+AB Radiology in France has made major advances in recent years through
+   innovations in research and clinical practice. French institutions have
+   developed innovative imaging techniques and artificial intelligence
+   applications in the field of diagnostic imaging and interventional
+   radiology. These include, but are not limited to, a more precise
+   diagnosis of cancer and other diseases, research in dual-energy and
+   photon-counting computed tomography, new applications of artificial
+   intelligence, and advanced treatments in the field of interventional
+   radiology. This article aims to explore the major research initiatives
+   and technological advances that are shaping the landscape of radiology
+   in France. By highlighting key contributions in diagnostic imaging,
+   artificial intelligence, and interventional radiology, we provide a
+   comprehensive overview of how these innovations are improving patient
+   outcomes, enhancing diagnostic accuracy, and expanding the possibilities
+   for minimally invasive therapies. As the field continues to evolve,
+   France's position at the forefront of radiological research ensures that
+   these innovations will play a central role in addressing current
+   healthcare challenges and improving patient care on a global scale.
+   La radiologie en France a r & eacute;alis & eacute; des progr & egrave;s
+   majeurs durant ces derni & egrave;res ann & eacute;es gr & acirc;ce &
+   agrave; des innovations dans les domaines de la recherche et de la
+   clinique. Les institutions m & eacute;dicales fran & ccedil;aises ont d
+   & eacute;velopp & eacute; des techniques innovantes et des applications
+   d'intelligence artificielle dans le domaine de l'imagerie diagnostique
+   et de la radiologie interventionnelle. Celles-ci incluent, de mani &
+   egrave;re non exhaustive, un diagnostic plus pr & eacute;cis du cancer
+   et d'autres maladies, la recherche fondamentale et clinique en
+   tomodensitom & eacute;trie & agrave; double & eacute;nergie et par
+   comptage photonique, de nouvelles applications de l'intelligence
+   artificielle et de nouveaux traitements dans le domaine de la radiologie
+   interventionnelle. Cet article vise & agrave; rapporter les grandes
+   initiatives de recherche et les avanc & eacute;es technologiques qui fa
+   & ccedil;onnent le paysage de la radiologie en France. En mettant en &
+   eacute;vidence les contributions cl & eacute;s en imagerie diagnostique,
+   en intelligence artificielle et en radiologie interventionnelle, cet
+   article donne un aper & ccedil;u complet de la mani & egrave;re dont ces
+   innovations am & eacute;liorent les r & eacute;sultats pour les
+   patients, am & eacute;liorent la pr & eacute;cision du diagnostic et &
+   eacute;largissent les possibilit & eacute;s de th & eacute;rapies
+   mini-invasives. La position de la France & agrave; l'avant-garde de la
+   recherche radiologique garantit que ces innovations joueront un r &
+   ocirc;le central pour relever les d & eacute;fis actuels en mati &
+   egrave;re de sant & eacute; et am & eacute;liorer les soins des patients
+   & agrave; l'& eacute;chelle mondiale.
+ZS 0
+TC 1
+ZR 0
+ZA 0
+ZB 0
+Z8 0
+Z9 1
+DA 2025-03-21
+UT WOS:001442832300009
+PM 39367786
+ER
+
+PT J
+AU Zhu, L.
+   Anand, A.
+   Gevorkyan, G.
+   Mcgee, L. A.
+   Rwigema, J. C.
+   Rong, Y.
+   Patel, S. H.
+TI Testing and Validation of a Custom Trained Large Language Model for HN
+   Patients with Guardrails
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 118
+IS 5
+MA 182
+BP E52
+EP E53
+DT Meeting Abstract
+PD APR 1 2024
+PY 2024
+CT Multidisciplinary Head and Neck Cancers Symposium
+CY FEB 29-MAR 02, 2024
+CL Phoenix, AZ
+TC 1
+ZS 0
+Z8 0
+ZA 0
+ZR 0
+ZB 0
+Z9 1
+DA 2024-10-18
+UT WOS:001300212900102
+ER
+
+PT J
+AU Liu, Yuxin
+   Zhang, Xiang
+   Cao, Weiwei
+   Cui, Wenju
+   Tan, Tao
+   Peng, Yuqin
+   Huang, Jiayi
+   Lei, Zhen
+   Shen, Jun
+   Zheng, Jian
+TI Bootstrapping BI-RADS classification using large language models and
+   transformers in breast magnetic resonance imaging reports
+SO VISUAL COMPUTING FOR INDUSTRY BIOMEDICINE AND ART
+VL 8
+IS 1
+AR 8
+DI 10.1186/s42492-025-00189-8
+DT Article
+PD APR 3 2025
+PY 2025
+AB Breast cancer is one of the most common malignancies among women
+   globally. Magnetic resonance imaging (MRI), as the final non-invasive
+   diagnostic tool before biopsy, provides detailed free-text reports that
+   support clinical decision-making. Therefore, the effective utilization
+   of the information in MRI reports to make reliable decisions is crucial
+   for patient care. This study proposes a novel method for BI-RADS
+   classification using breast MRI reports. Large language models are
+   employed to transform free-text reports into structured reports.
+   Specifically, missing category information (MCI) that is absent in the
+   free-text reports is supplemented by assigning default values to the
+   missing categories in the structured reports. To ensure data privacy, a
+   locally deployed Qwen-Chat model is employed. Furthermore, to enhance
+   the domain-specific adaptability, a knowledge-driven prompt is designed.
+   The Qwen-7B-Chat model is fine-tuned specifically for structuring breast
+   MRI reports. To prevent information loss and enable comprehensive
+   learning of all report details, a fusion strategy is introduced,
+   combining free-text and structured reports to train the classification
+   model. Experimental results show that the proposed BI-RADS
+   classification method outperforms existing report classification methods
+   across multiple evaluation metrics. Furthermore, an external test set
+   from a different hospital is used to validate the robustness of the
+   proposed approach. The proposed structured method surpasses GPT-4o in
+   terms of performance. Ablation experiments confirm that the
+   knowledge-driven prompt, MCI, and the fusion strategy are crucial to the
+   model's performance.
+ZR 0
+ZS 0
+TC 0
+Z8 0
+ZB 0
+ZA 0
+Z9 0
+DA 2025-04-11
+UT WOS:001458788900001
+PM 40178668
+ER
+
+PT C
+AU Shieh, Alexander
+   Paolucci, Iwan
+   Albuquerque, Jessica
+   Brock, Kristy
+   Odisio, Bruno
+BE Yoshida, H
+   Wu, S
+TI Feasibility of Extracting Critical Diagnostic Imaging Report Findings
+   Following Percutaneous Liver Ablation with a Large Language Model
+SO IMAGING INFORMATICS FOR HEALTHCARE, RESEARCH, AND APPLICATIONS, MEDICAL
+   IMAGING 2024
+SE Proceedings of SPIE
+VL 12931
+AR 1293104
+DI 10.1117/12.3008791
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Percutaneous liver ablation is a minimally invasive procedure to treat
+   liver tumors. Postablation images are highly significant as they
+   distinguish normal post-procedure changes from abnormalities, preventing
+   unnecessary retreatment and confirming procedural quality. However, the
+   cancer surveillance imaging reports after the procedure can be numerous
+   and challenging to read. Moreover, annotated data is limited in this
+   setting. In this study we used the cutting-edge large language model
+   Llama 2 to automatically extract critical findings from real-world
+   diagnostic imaging reports without the need of training a new
+   information extraction model. This could potentially automate part of
+   the outcome research and registry construction process, as well as
+   decrease the number of studies needed to review for research purposes. A
+   dataset of 87 full-text reports from 13 patients who underwent
+   percutaneous thermal ablation for pancreatic liver metastases were used
+   to benchmark the capability of Llama 2 for cancer progression finding
+   extraction and classification. We asked Llama 2 to determine whether
+   there is cancer progression within the given report and then classify
+   progression findings into local tumor progression (LTP), intrahepatic
+   progression (IHP) and extrahepatic progression (EHP). Llama 2 achieved
+   decent performance for detecting progression at study level. The
+   precision is 0.91 and recall is 0.96, with specificity 0.84. However,
+   the classification of progression into LTP, IHP and EHP still needs to
+   be improved.
+CT Conference on Medical Imaging - Imaging Informatics for Healthcare,
+   Research, and Applications
+CY FEB 19-21, 2024
+CL San Diego, CA
+SP SPIE; Amer Assoc Physicists Med; Radiol Soc N Amer; World Mol Imaging
+   Soc; Soc Imaging Informat Med; Int Fdn Comp Assisted Radiol & Surg; Med
+   Image Percept Soc
+ZR 0
+ZA 0
+ZB 0
+Z8 0
+ZS 0
+TC 0
+Z9 0
+DA 2024-05-31
+UT WOS:001219280700003
+ER
+
+PT J
+AU Liu, Jialin
+   Wang, Changyu
+   Liu, Siru
+TI Utility of ChatGPT in Clinical Practice
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+VL 25
+AR e48568
+DI 10.2196/48568
+DT Article
+PD JUN 28 2023
+PY 2023
+AB ChatGPT is receiving increasing attention and has a variety of
+   application scenarios in clinical practice. In clinical decision
+   support, ChatGPT has been used to generate accurate differential
+   diagnosis lists, support clinical decision-making, optimize clinical
+   decision support, and provide insights for cancer screening decisions.
+   In addition, ChatGPT has been used for intelligent question-answering to
+   provide reliable information about diseases and medical queries. In
+   terms of medical documentation, ChatGPT has proven effective in
+   generating patient clinical letters, radiology reports, medical notes,
+   and discharge summaries, improving efficiency and accuracy for health
+   care providers. Future research directions include real-time monitoring
+   and predictive analytics, precision medicine and personalized treatment,
+   the role of ChatGPT in telemedicine and remote health care, and
+   integration with existing health care systems. Overall, ChatGPT is a
+   valuable tool that complements the expertise of health care providers
+   and improves clinical decision-making and patient care. However, ChatGPT
+   is a double-edged sword. We need to carefully consider and study the
+   benefits and potential dangers of ChatGPT. In this viewpoint, we discuss
+   recent advances in ChatGPT research in clinical practice and suggest
+   possible risks and challenges of using ChatGPT in clinical practice. It
+   will help guide and support future artificial intelligence research
+   similar to ChatGPT in health.
+ZS 1
+ZR 0
+Z8 5
+TC 230
+ZB 25
+ZA 0
+Z9 234
+DA 2023-08-24
+UT WOS:001045687800005
+PM 37379067
+ER
+
+PT J
+AU Dos Santos, Fabiana C.
+   Johnson, Lisa G.
+   Madandola, Olatunde O.
+   Priola, Karen J. B.
+   Yao, Yingwei
+   Macieira, Tamara G. R.
+   Keenan, Gail M.
+TI An example of leveraging AI for documentation: ChatGPT-generated nursing
+   care plan for an older adult with lung cancer
+SO JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION
+VL 31
+IS 9
+BP 2089
+EP 2096
+DI 10.1093/jamia/ocae116
+EA MAY 2024
+DT Article
+PD MAY 17 2024
+PY 2024
+AB Objective Our article demonstrates the effectiveness of using a
+   validated framework to create a ChatGPT prompt that generates valid
+   nursing care plan suggestions for one hypothetical older patient with
+   lung cancer.Method This study describes the methodology for creating
+   ChatGPT prompts that generate consistent care plan suggestions and its
+   application for a lung cancer case scenario. After entering a nursing
+   assessment of the patient's condition into ChatGPT, we asked it to
+   generate care plan suggestions. Subsequently, we assessed the quality of
+   the care plans produced by ChatGPT.Results While not all the suggested
+   care plan terms (11 out of 16) utilized standardized nursing
+   terminology, the ChatGPT-generated care plan closely matched the gold
+   standard in scope and nature, correctly prioritizing oxygenation and
+   ventilation needs.Conclusion Using a validated framework prompt to
+   generate nursing care plan suggestions with ChatGPT demonstrates its
+   potential value as a decision support tool for optimizing cancer care
+   documentation.
+ZB 1
+Z8 0
+ZA 0
+ZR 0
+TC 6
+ZS 0
+Z9 6
+DA 2024-05-24
+UT WOS:001224882500001
+PM 38758655
+ER
+
+PT J
+AU Xiong, Yichun
+   Li, Jiaqi
+   Jin, Wang
+   Sheng, Xiaoran
+   Peng, Hui
+   Wang, Zhiyi
+   Jia, Caifeng
+   Zhuo, Lili
+   Zhang, Yibo
+   Huang, Jingzhe
+   Zhai, Modi
+   Lyu, Beibei
+   Sun, Jie
+   Zhou, Meng
+TI PCMR: a comprehensive precancerous molecular resource
+SO SCIENTIFIC DATA
+VL 12
+IS 1
+AR 551
+DI 10.1038/s41597-025-04899-9
+DT Article
+PD APR 1 2025
+PY 2025
+AB Early detection and intervention of precancerous lesions are crucial in
+   reducing cancer morbidity and mortality. Comprehensive analysis of
+   genomic, transcriptomic, proteomic and epigenomic alterations can
+   provide insights into the early stages of carcinogenesis. However, the
+   lacke of an integrated, well-curated data resource of molecular
+   signatures limits our understanding of precancerous processes. Here, we
+   introduce a comprehensive PreCancerous Molecular Resource (PCMR), which
+   compiles 25,828 molecular profiles of precancerous samples paired with
+   normal or malignant counterparts. These profiles cover precancerous
+   lesions of 35 cancer types across 20 organs and tissues, derived from
+   tissue samples, liquid biopsies, cell lines and organoids, with data
+   from transcriptomics, proteomics and epigenomics. PCMR includes 62,566
+   precancer-gene associations derived from differential analysis and
+   text-mining using the ChatGPT large language model. We examined PCMR
+   dataset reliability and significance by the authoritative precancerous
+   molecular signature, along with its biological and clinical relevance.
+   Overall, PCMR will serve as a valuable resource for advancing precancer
+   research and ultimately improving patient outcomes.
+ZR 0
+ZB 0
+ZS 0
+ZA 0
+Z8 0
+TC 0
+Z9 0
+DA 2025-04-11
+UT WOS:001459759400009
+PM 40169679
+ER
+
+PT C
+AU Dodhia, Parth
+   Meepagala, Shawn
+   Moallem, Golanz
+   Rubin, Daniel
+   Bean, Gregory
+   Rusu, Mirabela
+BE Yoshida, H
+   Wu, S
+TI Assessing breast cancer chemotherapy response in radiology and pathology
+   reports via a Large Language Model
+SO IMAGING INFORMATICS FOR HEALTHCARE, RESEARCH, AND APPLICATIONS, MEDICAL
+   IMAGING 2024
+SE Proceedings of SPIE
+VL 12931
+AR 1293102
+DI 10.1117/12.3006495
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB A wealth of medical knowledge is used to make clinical decisions, yet
+   treatment or disease outcomes are challenging to assess without clinical
+   trials. However, clinical trials take time, are expensive, and are
+   impossible to perform for every decision. One approach to systematically
+   assess treatment outcomes involves the retrospective analysis of
+   clinical notes, e.g., radiology and pathology reports. While such
+   studies are often performed by clinicians who manually review the notes
+   and other information, such retrospective analysis can benefit from the
+   automated parsing of radiology and pathology reports to provide
+   systematic framework to extract outcome information.
+   In this study, we used a large language model, i.e., ChatGPT (GPT-3.5),
+   to parse 267 radiology and pathology reports and extract information
+   related to response to neoadjuvant chemotherapy in patients with breast
+   cancer. Our study includes a heterogeneous group of 89 women who
+   underwent neoadjuvant therapy and underwent two MRI exams, pre- and
+   post-therapy, followed by surgery (lumpectomy or mastectomy). We
+   assessed the treatment response based on clinical reports from the
+   post-therapy surgical excision. From the reports, we extracted the
+   number of lesions, their anatomic location, and size.
+   Our study provides insight into neoadjuvant chemotherapy response,
+   indicating that even cases with complete MRI response can still have
+   residual invasive breast carcinoma (1/3 of subjects), and, on the other
+   hand, even those with reduced MRI response (<30% reduction in tumor
+   size) can have no residual tumor at surgery, indicating that when cancer
+   responds to treatment, it may not be captured by the MRI. The large
+   language model achieved sensitivities of 84-94% in extracting the
+   information from radiology reports, but had lower performance in the
+   pathology reports, 72-87%, where more information is provided in free
+   format. While this study is preliminary and performed in a small cohort,
+   it illustrates the complexity of outcome prediction using radiology
+   images.
+CT Conference on Medical Imaging - Imaging Informatics for Healthcare,
+   Research, and Applications
+CY FEB 19-21, 2024
+CL San Diego, CA
+SP SPIE; Amer Assoc Physicists Med; Radiol Soc N Amer; World Mol Imaging
+   Soc; Soc Imaging Informat Med; Int Fdn Comp Assisted Radiol & Surg; Med
+   Image Percept Soc
+ZA 0
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+DA 2024-05-31
+UT WOS:001219280700001
+ER
+
+PT J
+AU Chatziisaak, Dimitrios
+   Burri, Pascal
+   Sparn, Moritz
+   Hahnloser, Dieter
+   Steffen, Thomas
+   Bischofberger, Stephan
+TI Concordance of ChatGPT artificial intelligence decision-making in
+   colorectal cancer multidisciplinary meetings: retrospective study
+SO BJS OPEN
+VL 9
+IS 3
+AR zraf040
+DI 10.1093/bjsopen/zraf040
+DT Article
+PD JUN 2025
+PY 2025
+AB Background The objective of this study was to evaluate the concordance
+   between therapeutic recommendations proposed by a multidisciplinary team
+   meeting and those generated by a large language model (ChatGPT) for
+   colorectal cancer. Although multidisciplinary teams represent the
+   'standard' for decision-making in cancer treatment, they require
+   significant resources and may be susceptible to human bias. Artificial
+   intelligence, particularly large language models such as ChatGPT, has
+   the potential to enhance or optimize the decision-making processes. The
+   present study examines the potential for integrating artificial
+   intelligence into clinical practice by comparing multidisciplinary team
+   decisions with those generated by ChatGPT.Methods A retrospective,
+   single-centre study was conducted involving consecutive patients with
+   newly diagnosed colorectal cancer discussed at our multidisciplinary
+   team meeting. The pre- and post-therapeutic multidisciplinary team
+   meeting recommendations were assessed for concordance compared with
+   ChatGPT-4.Results One hundred consecutive patients with newly diagnosed
+   colorectal cancer of all stages were included. In the pretherapeutic
+   discussions, complete concordance was observed in 72.5%, with partial
+   concordance in 10.2% and discordance in 17.3%. For post-therapeutic
+   discussions, the concordance increased to 82.8%; 11.8% of decisions
+   displayed partial concordance and 5.4% demonstrated discordance.
+   Discordance was more frequent in patients older than 77 years and with
+   an American Society of Anesthesiologists classification >=
+   III.Conclusion There is substantial concordance between the
+   recommendations generated by ChatGPT and those provided by traditional
+   multidisciplinary team meetings, indicating the potential utility of
+   artificial intelligence in supporting clinical decision-making for
+   colorectal cancer management.
+   This study assessed the concordance between recommendations by a
+   multidisciplinary tumour board and ChatGPT-4 for colorectal cancer
+   management. A retrospective analysis of 100 cases showed substantial
+   agreement, with concordance rates of 72.5% pretherapeutically and 82.8%
+   posttherapeutically. These findings highlight the potential role of
+   artificial intelligence in supporting and complementing traditional
+   multidisciplinary team decision-making processes.
+ZB 0
+TC 0
+ZR 0
+ZS 0
+ZA 0
+Z8 0
+Z9 0
+DA 2025-05-13
+UT WOS:001484582700001
+PM 40331891
+ER
+
+PT J
+AU Kim, Jiyeong
+   Chen, Michael L.
+   Rezaei, Shawheen J.
+   Ramirez-Posada, Mariana
+   Caswell-Jin, Jennifer L.
+   Kurian, Allison W.
+   Riaz, Fauzia
+   Sarin, Kavita Y.
+   Tang, Jean Y.
+   Asch, Steven M.
+   Linos, Eleni
+TI Patient-Centered Research Through Artificial Intelligence to Identify
+   Priorities in Cancer Care
+SO JAMA ONCOLOGY
+DI 10.1001/jamaoncol.2025.0694
+EA APR 2025
+DT Article; Early Access
+PY 2025
+AB Importance Patient-centered research is essential for bridging the gap
+   between research and patient care, yet patient perspectives are often
+   inadequately represented in health research. Objective To leverage
+   artificial intelligence (AI) and natural language processing (NLP) to
+   analyze a large dataset of patient messages, defining patient concerns
+   and generating relevant research topics, and to quantify the quality of
+   these AI-generated topics. Design, Setting, and Participants This case
+   series was conducted using an automated framework involving a 2-staged
+   unsupervised NLP topic model and AI-generated research topic
+   suggestions. The study was based on deidentified patient portal message
+   data from individuals with breast or skin cancer at Stanford Health Care
+   and 22 affiliated centers over July 2013 to April 2024. Exposures A
+   widely used large language model (ChatGPT-4o [OpenAI]; April 2024) was
+   used and guided through multiple prompt-engineering strategies to
+   perform multilevel tasks, including knowledge interpretation and
+   summarization (eg, interpreting and summarizing the NLP-defined topics),
+   knowledge generation (eg, generating research ideas corresponding to
+   patients' issues), self-reflection and correction (eg, ensuring and
+   revising the research ideas after searching for scientific articles),
+   and self-reassurance (eg, confirming and finalizing the research ideas).
+   Main Outcomes and Measures Three breast oncologists (J.L.C., A.W.K.,
+   F.R) and 3 dermatologists (K.Y.S, J.Y.T., E.L.) evaluated the
+   meaningfulness and novelty of the AI-generated research topics using a
+   5-point Likert scale (1 representing exceptional to 5 representing
+   poor). Mean (SD) scores for meaningfulness and novelty were computed for
+   each topic. Results A total of 614 464 patient messages were analyzed
+   from 25 549 individuals, 10 665 with breast cancer (98.6% female) and 14
+   884 had skin cancer (49.0% female). The overall mean (SD) scores for
+   meaningfulness and novelty were 3.00 (0.50) and 3.29 (0.74),
+   respectively, for breast cancer topics and 2.67 (0.45) and 3.09 (0.68),
+   respectively, for skin cancer topics. One-third of the AI-suggested
+   research topics were highly meaningful and novel when both scores were
+   lower than the average (5 of 15 for breast cancer and 6 of 15 for skin
+   cancer). Notably, two-thirds of the AI-suggested topics were novel (10
+   of 15 for breast cancer and 11 of 15 for skin cancer). Conclusions and
+   Relevance This case series demonstrates that AI/NLP-driven analysis of
+   large volumes of patient messages can generate quality research topics
+   in cancer care that reflect patient perspectives, providing valuable
+   guidance for future patient-centered health research endeavors.
+ZB 0
+ZA 0
+TC 0
+Z8 0
+ZS 0
+ZR 0
+Z9 0
+DA 2025-05-05
+UT WOS:001475897300001
+PM 40272833
+ER
+
+PT J
+AU Liu, Xiaona
+   Wang, Qing
+   Zhou, Minghao
+   Wang, Yanfei
+   Wang, Xuefeng
+   Zhou, Xiaobo
+   Song, Qianqian
+TI DrugFormer: Graph-Enhanced Language Model to Predict Drug Sensitivity
+SO ADVANCED SCIENCE
+VL 11
+IS 40
+DI 10.1002/advs.202405861
+EA AUG 2024
+DT Article
+PD OCT 2024
+PY 2024
+AB Drug resistance poses a crucial challenge in healthcare, with response
+   rates to chemotherapy and targeted therapy remaining low. Individual
+   patient's resistance is exacerbated by the intricate heterogeneity of
+   tumor cells, presenting significant obstacles to effective treatment. To
+   address this challenge, DrugFormer, a novel graph-augmented large
+   language model designed to predict drug resistance at single-cell level
+   is proposed. DrugFormer integrates both serialized gene tokens and
+   gene-based knowledge graphs for the accurate predictions of drug
+   response. After training on comprehensive single-cell data with drug
+   response information, DrugFormer model presents outperformance, with
+   higher F1, precision, and recall in predicting drug response. Based on
+   the scRNA-seq data from refractory multiple myeloma (MM) and acute
+   myeloid leukemia (AML) patients, DrugFormer demonstrates high efficacy
+   in identifying resistant cells and uncovering underlying molecular
+   mechanisms. Through pseudotime trajectory analysisunique drug-resistant
+   cellular states associated with poor patient outcomes are revealed.
+   Furthermore, DrugFormer identifies potential therapeutic targets, such
+   as COX8A, for overcoming drug resistance across different cancer types.
+   In conclusion, DrugFormer represents a significant advancement in the
+   field of drug resistance prediction, offering a powerful tool for
+   unraveling the heterogeneity of cellular response to drugs and guiding
+   personalized treatment strategies.
+   DrugFormer, a novel graph-augmented language model, addresses the
+   critical challenge of drug resistance in cancer treatment. By
+   integrating serialized gene tokens and a gene-based knowledge graph, it
+   provides accurate drug response predictions at the single-cell level.
+   DrugFormer demonstrates superior performance and identifies resistant
+   cells with potential therapeutic targets, offering a promising solution
+   for personalized cancer therapy. image
+Z8 0
+ZA 0
+ZS 0
+ZB 1
+ZR 0
+TC 9
+Z9 9
+DA 2024-09-02
+UT WOS:001300001500001
+PM 39206872
+ER
+
+PT J
+AU Busch, Felix
+   Hoffmann, Lena
+   Rueger, Christopher
+   van Dijk, Elon H. C.
+   Kader, Rawen
+   Ortiz-Prado, Esteban
+   Makowski, Marcus R.
+   Saba, Luca
+   Hadamitzky, Martin
+   Kather, Jakob Nikolas
+   Truhn, Daniel
+   Cuocolo, Renato
+   Adams, Lisa C.
+   Bressem, Keno K.
+TI Current applications and challenges in large language models for patient
+   care: a systematic review
+SO COMMUNICATIONS MEDICINE
+VL 5
+IS 1
+AR 26
+DI 10.1038/s43856-024-00717-2
+DT Article
+PD JAN 21 2025
+PY 2025
+AB BackgroundThe introduction of large language models (LLMs) into clinical
+   practice promises to improve patient education and empowerment, thereby
+   personalizing medical care and broadening access to medical knowledge.
+   Despite the popularity of LLMs, there is a significant gap in
+   systematized information on their use in patient care. Therefore, this
+   systematic review aims to synthesize current applications and
+   limitations of LLMs in patient care.MethodsWe systematically searched 5
+   databases for qualitative, quantitative, and mixed methods articles on
+   LLMs in patient care published between 2022 and 2023. From 4349 initial
+   records, 89 studies across 29 medical specialties were included. Quality
+   assessment was performed using the Mixed Methods Appraisal Tool 2018. A
+   data-driven convergent synthesis approach was applied for thematic
+   syntheses of LLM applications and limitations using free line-by-line
+   coding in Dedoose.ResultsWe show that most studies investigate
+   Generative Pre-trained Transformers (GPT)-3.5 (53.2%, n = 66 of 124
+   different LLMs examined) and GPT-4 (26.6%, n = 33/124) in answering
+   medical questions, followed by patient information generation, including
+   medical text summarization or translation, and clinical documentation.
+   Our analysis delineates two primary domains of LLM limitations: design
+   and output. Design limitations include 6 second-order and 12 third-order
+   codes, such as lack of medical domain optimization, data transparency,
+   and accessibility issues, while output limitations include 9
+   second-order and 32 third-order codes, for example, non-reproducibility,
+   non-comprehensiveness, incorrectness, unsafety, and bias.ConclusionsThis
+   review systematically maps LLM applications and limitations in patient
+   care, providing a foundational framework and taxonomy for their
+   implementation and evaluation in healthcare settings.
+ZR 0
+ZA 0
+ZB 0
+Z8 0
+ZS 0
+TC 8
+Z9 8
+DA 2025-01-29
+UT WOS:001402540700001
+PM 39838160
+ER
+
+PT J
+AU Chen, Zikang
+   Wang, Qinchuan
+   Sun, Yaoqian
+   Cai, Hailing
+   Lu, Xudong
+TI Chat-ePRO: Development and pilot study of an electronic patient-reported
+   outcomes system based on ChatGPT
+SO JOURNAL OF BIOMEDICAL INFORMATICS
+VL 154
+AR 104651
+DI 10.1016/j.jbi.2024.104651
+EA MAY 2024
+DT Article
+PD JUN 2024
+PY 2024
+AB Objective: Chatbots have the potential to improve user compliance in
+   electronic Patient-Reported Outcome (ePRO) system. Compared to
+   rule-based chatbots, Large Language Model (LLM) offers advantages such
+   as simplifying the development process and increasing conversational
+   flexibility. However, there is currently a lack of practical
+   applications of LLMs in ePRO systems. Therefore, this study utilized
+   ChatGPT to develop the ChatePRO system and designed a pilot study to
+   explore the feasibility of building an ePRO system based on LLM.
+   Materials and Methods: This study employed prompt engineering and
+   offline knowledge distillation to design a dialogue algorithm and built
+   the Chat-ePRO system on the WeChat Mini Program platform. In order to
+   compare Chat-ePRO with the form-based ePRO and rule-based chatbot ePRO
+   used in previous studies, we conducted a pilot study applying the three
+   ePRO systems sequentially at the Sir Run Run Shaw Hospital to collect
+   patients' PRO data. Result: Chat-ePRO is capable of correctly generating
+   conversation based on PRO forms (success rate: 95.7 %) and accurately
+   extracting the PRO data instantaneously from conversation (Macro-F1:
+   0.95). The majority of subjective evaluations from doctors (>70 %)
+   suggest that Chat-ePRO is able to comprehend questions and consistently
+   generate responses. Pilot study shows that Chat-ePRO demonstrates higher
+   response rate (9/10, 90 %) and longer interaction time (10.86 s/turn)
+   compared to the other two methods. Conclusion: Our study demonstrated
+   the feasibility of utilizing algorithms such as prompt engineering to
+   drive LLM in completing ePRO data collection tasks, and validated that
+   the Chat-ePRO system can effectively enhance patient compliance.
+Z8 0
+ZA 0
+ZR 0
+ZS 0
+TC 1
+ZB 0
+Z9 1
+DA 2024-06-17
+UT WOS:001243033900001
+PM 38703936
+ER
+
+PT J
+AU Mora, J.
+   Chen, S.
+   Mak, R. H.
+   Bitterman, D. S.
+TI Cancer Treatment Information Differences by Bilingual Prompting in Large
+   Language Model Chatbots
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3415
+BP E645
+EP E646
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZS 0
+ZB 0
+TC 0
+ZA 0
+ZR 0
+Z8 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302096
+ER
+
+PT C
+AU Makram, Manal
+   Mohammed, Ammar
+BE AbdelRaouf, A
+   Shorim, N
+   Hatem, S
+   Kandil, Y
+   Bahaa-Eldin, A
+TI AI Applications in Medical Reporting and Diagnosis
+SO 2024 INTERNATIONAL MOBILE, INTELLIGENT, AND UBIQUITOUS COMPUTING
+   CONFERENCE, MIUCC 2024
+BP 185
+EP 192
+DI 10.1109/MIUCC62295.2024.10783552
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB The integration of artificial intelligence (AI) in healthcare is
+   revolutionizing diagnosis and patient care by improving clinical
+   documentation and the management of electronic health records that
+   depend on medical image interpretation, increasing accuracy, and
+   reducing time. Egypt ranks first in liver disease and second in liver
+   cancer mortality worldwide in 2020. Large language models, a subset of
+   AI techniques, can assist in disease diagnosis. LLM models with
+   multimodal capabilities can classify and describe patient scan images
+   and extract information from clinical notes. These models can extract
+   vital diagnoses with the support of prompt engineering, as one of these
+   models can answer questions, summarize information, and translate
+   complex medical terminology into plain language, enabling patients to
+   understand their medical reports and diagnoses. There are two primary
+   approaches to achieving this. First, fine-tuning can adapt the model to
+   medical data, which can be resource-intensive. The second approach,
+   pre-trained LLM models can be utilized to leverage pre-trained models to
+   perform the necessary tasks, focusing on effectively using prompts to
+   guide the model for precise and relevant outputs. This study highlights
+   the role of generative AI models by focusing on prompt engineering, and
+   how carefully crafting prompts can enhance the effectiveness of LLM
+   models in medical applications with high accuracy. It demonstrates this
+   through experiments using pre-trained models based on semantic
+   similarity with GPT-4o and BioGPT. Implementing a zero-shot model for
+   liver tumor classification is one of the prompt engineering techniques.
+   The performance metrics achieved were impressive, accuracy, precision,
+   recall, and F1-scores are 88, 81, 88, and 83 percent, respectively.
+CT 4th International Mobile, Intelligent, and Ubiquitous Computing
+   Conference
+CY NOV 13-14, 2024
+CL Cairo, EGYPT
+SP Misr International University
+ZS 0
+Z8 0
+ZB 0
+TC 0
+ZR 0
+ZA 0
+Z9 0
+DA 2025-03-07
+UT WOS:001416363600027
+ER
+
+PT J
+AU Zhang, Jingqing
+   Sun, Kai
+   Jagadeesh, Akshay
+   Falakaflaki, Parastoo
+   Kayayan, Elena
+   Tao, Guanyu
+   Ghahfarokhi, Mahta Haghighat
+   Gupta, Deepa
+   Gupta, Ashok
+   Gupta, Vibhor
+   Guo, Yike
+TI The potential and pitfalls of using a large language model such as
+   ChatGPT, GPT-4, or LLaMA as a clinical assistant
+SO JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION
+VL 31
+IS 9
+BP 1884
+EP 1891
+DI 10.1093/jamia/ocae184
+EA JUL 2024
+DT Article
+PD JUL 17 2024
+PY 2024
+AB Objectives This study aims to evaluate the utility of large language
+   models (LLMs) in healthcare, focusing on their applications in enhancing
+   patient care through improved diagnostic, decision-making processes, and
+   as ancillary tools for healthcare professionals.Materials and Methods We
+   evaluated ChatGPT, GPT-4, and LLaMA in identifying patients with
+   specific diseases using gold-labeled Electronic Health Records (EHRs)
+   from the MIMIC-III database, covering three prevalent diseases-Chronic
+   Obstructive Pulmonary Disease (COPD), Chronic Kidney Disease (CKD)-along
+   with the rare condition, Primary Biliary Cirrhosis (PBC), and the
+   hard-to-diagnose condition Cancer Cachexia.Results In patient
+   identification, GPT-4 had near similar or better performance compared to
+   the corresponding disease-specific Machine Learning models (F1-score >=
+   85%) on COPD, CKD, and PBC. GPT-4 excelled in the PBC use case,
+   achieving a 4.23% higher F1-score compared to disease-specific
+   "Traditional Machine Learning" models. ChatGPT and LLaMA3 demonstrated
+   lower performance than GPT-4 across all diseases and almost all metrics.
+   Few-shot prompts also help ChatGPT, GPT-4, and LLaMA3 achieve higher
+   precision and specificity but lower sensitivity and Negative Predictive
+   Value.Discussion The study highlights the potential and limitations of
+   LLMs in healthcare. Issues with errors, explanatory limitations and
+   ethical concerns like data privacy and model transparency suggest that
+   these models would be in clinical settings. Future studies should
+   improve training datasets and model designs for LLMs to gain better
+   utility in healthcare.Conclusion The study shows that LLMs have the
+   potential to assist clinicians for tasks such as patient identification
+   but false positives and false negatives must be mitigated before LLMs
+   are adequate for real-world clinical assistance.
+ZA 0
+ZS 0
+ZB 1
+ZR 0
+TC 15
+Z8 1
+Z9 16
+DA 2024-07-23
+UT WOS:001269939400001
+PM 39018498
+ER
+
+PT J
+AU Rosich, A.
+   Ferrer, J. C.
+   Guerreros, S. M.
+   Rivero, E.
+   Torres, M.
+   Roldan, S.
+   Giordano, Sr M.
+   Paolini, G.
+   Ochandorena, K.
+   Ricagni, L.
+   Lorenzo, F.
+TI Artificial Intelligence in Oncologic Radiotherapy: A New Tool for
+   Treatment Selection in Patients with Early-Stage Breast Cancer
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3432
+BP E654
+EP E654
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+TC 0
+ZA 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302113
+ER
+
+PT J
+AU Sharma, P.
+   Yoder, R.
+   Shen, X.
+   Einck, J. P.
+   Rhodes-Stark, K. L.
+   Gan, G. N.
+   Shiao, J. C.
+   Cunningham, D.
+   Butler-Xu, Y. S.
+   Tejwani, A.
+   Chen, R. C.
+   Stecklein, S. R.
+TI Medical Accuracy of Cancer Radiotherapy-Related ChatGPT Al Outputs in
+   English and Spanish
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3436
+BP E656
+EP E656
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZS 0
+TC 0
+ZA 0
+ZR 0
+Z8 0
+ZB 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302117
+ER
+
+PT J
+AU Haider, Syed Ali
+   Pressman, Sophia M.
+   Borna, Sahar
+   Gomez-Cabello, Cesar A.
+   Sehgal, Ajai
+   Leibovich, Bradley C.
+   Forte, Antonio Jorge
+TI Evaluating Large Language Model (LLM) Performance on Established Breast
+   Classification Systems
+SO DIAGNOSTICS
+VL 14
+IS 14
+AR 1491
+DI 10.3390/diagnostics14141491
+DT Article
+PD JUL 2024
+PY 2024
+AB Medical researchers are increasingly utilizing advanced LLMs like
+   ChatGPT-4 and Gemini to enhance diagnostic processes in the medical
+   field. This research focuses on their ability to comprehend and apply
+   complex medical classification systems for breast conditions, which can
+   significantly aid plastic surgeons in making informed decisions for
+   diagnosis and treatment, ultimately leading to improved patient
+   outcomes. Fifty clinical scenarios were created to evaluate the
+   classification accuracy of each LLM across five established
+   breast-related classification systems. Scores from 0 to 2 were assigned
+   to LLM responses to denote incorrect, partially correct, or completely
+   correct classifications. Descriptive statistics were employed to compare
+   the performances of ChatGPT-4 and Gemini. Gemini exhibited superior
+   overall performance, achieving 98% accuracy compared to ChatGPT-4's 71%.
+   While both models performed well in the Baker classification for
+   capsular contracture and UTSW classification for gynecomastia, Gemini
+   consistently outperformed ChatGPT-4 in other systems, such as the
+   Fischer Grade Classification for gender-affirming mastectomy, Kajava
+   Classification for ectopic breast tissue, and Regnault Classification
+   for breast ptosis. With further development, integrating LLMs into
+   plastic surgery practice will likely enhance diagnostic support and
+   decision making.
+ZA 0
+TC 11
+ZS 0
+Z8 0
+ZB 2
+ZR 0
+Z9 11
+DA 2024-08-02
+UT WOS:001276540600001
+PM 39061628
+ER
+
+PT J
+AU Cho, Hyeongmin
+   Yoo, Sooyoung
+   Kim, Borham
+   Jang, Sowon
+   Sunwoo, Leonard
+   Kim, Sanghwan
+   Lee, Donghyoung
+   Kim, Seok
+   Nam, Sejin
+   Chung, Jin-Haeng
+TI Extracting lung cancer staging descriptors from pathology reports: A
+   generative language model approach
+SO JOURNAL OF BIOMEDICAL INFORMATICS
+VL 157
+AR 104720
+DI 10.1016/j.jbi.2024.104720
+EA SEP 2024
+DT Article
+PD SEP 2024
+PY 2024
+AB Background: In oncology, electronic health records contain textual key
+   information for the diagnosis, staging, and treatment planning of
+   patients with cancer. However, text data processing requires a lot of
+   time and effort, which limits the utilization of these data. Recent
+   advances in natural language processing (NLP) technology, including
+   large language models, can be applied to cancer research. Particularly,
+   extracting the information required for the pathological stage from
+   surgical pathology reports can be utilized to update cancer staging
+   according to the latest cancer staging guidelines. Objectives: This
+   study has two main objectives. The first objective is to evaluate the
+   performance of extracting information from text-based surgical pathology
+   reports and determining pathological stages based on the extracted
+   information using fine-tuned generative language models (GLMs) for
+   patients with lung cancer. The second objective is to determine the
+   feasibility of utilizing relatively small GLMs for information
+   extraction in a resource-constrained computing environment. Methods:
+   Lung cancer surgical pathology reports were collected from the Common
+   Data Model database of Seoul National University Bundang Hospital
+   (SNUBH), a tertiary hospital in Korea. We selected 42 descriptors
+   necessary for tumor-node (TN) classification based on these reports and
+   created a gold standard with validation by two clinical experts. The
+   pathology reports and gold standard were used to generate
+   prompt-response pairs for training and evaluating GLMs which then were
+   used to extract information required for staging from pathology reports.
+   Results: We evaluated the information extraction performance of six
+   trained models as well as their performance in TN classification using
+   the extracted information. The Deductive Mistral-7B model, which was
+   pre-trained with the deductive dataset, showed the best performance
+   overall, with an exact match ratio of 92.24% in the information
+   extraction problem and an accuracy of 0.9876 (predicting T and N
+   classification concurrently) in classification. Conclusion: This study
+   demonstrated that training GLMs with deductive datasets can improve
+   information extraction performance, and GLMs with a relatively small
+   number of parameters at approximately seven billion can achieve high
+   performance in this problem. The proposed GLM-based information
+   extraction method is expected to be useful in clinical decision-making
+   support, lung cancer staging and research.
+ZS 0
+ZA 0
+ZR 0
+TC 4
+ZB 1
+Z8 0
+Z9 4
+DA 2024-09-21
+UT WOS:001312772300001
+PM 39233209
+ER
+
+PT J
+AU Yalamanchili, Amulya
+   Sengupta, Bishwambhar
+   Song, Joshua
+   Lim, Sara
+   Thomas, Tarita O.
+   Mittal, Bharat B.
+   Abazeed, Mohamed E.
+   Teo, P. Troy
+TI Quality of Large Language Model Responses to Radiation Oncology Patient
+   Care Questions
+SO JAMA NETWORK OPEN
+VL 7
+IS 4
+AR e244630
+DI 10.1001/jamanetworkopen.2024.4630
+DT Article
+PD APR 2 2024
+PY 2024
+AB Importance Artificial intelligence (AI) large language models (LLMs)
+   demonstrate potential in simulating human-like dialogue. Their efficacy
+   in accurate patient-clinician communication within radiation oncology
+   has yet to be explored. Objective To determine an LLM's quality of
+   responses to radiation oncology patient care questions using both
+   domain-specific expertise and domain-agnostic metrics. Design, Setting,
+   and Participants This cross-sectional study retrieved questions and
+   answers from websites (accessed February 1 to March 20, 2023) affiliated
+   with the National Cancer Institute and the Radiological Society of North
+   America. These questions were used as queries for an AI LLM, ChatGPT
+   version 3.5 (accessed February 20 to April 20, 2023), to prompt
+   LLM-generated responses. Three radiation oncologists and 3 radiation
+   physicists ranked the LLM-generated responses for relative factual
+   correctness, relative completeness, and relative conciseness compared
+   with online expert answers. Statistical analysis was performed from July
+   to October 2023. Main Outcomes and Measures The LLM's responses were
+   ranked by experts using domain-specific metrics such as relative
+   correctness, conciseness, completeness, and potential harm compared with
+   online expert answers on a 5-point Likert scale. Domain-agnostic metrics
+   encompassing cosine similarity scores, readability scores, word count,
+   lexicon, and syllable counts were computed as independent quality checks
+   for LLM-generated responses. Results Of the 115 radiation oncology
+   questions retrieved from 4 professional society websites, the LLM
+   performed the same or better in 108 responses (94%) for relative
+   correctness, 89 responses (77%) for completeness, and 105 responses
+   (91%) for conciseness compared with expert answers. Only 2 LLM responses
+   were ranked as having potential harm. The mean (SD) readability
+   consensus score for expert answers was 10.63 (3.17) vs 13.64 (2.22) for
+   LLM answers (P < .001), indicating 10th grade and college reading
+   levels, respectively. The mean (SD) number of syllables was 327.35
+   (277.15) for expert vs 376.21 (107.89) for LLM answers (P = .07), the
+   mean (SD) word count was 226.33 (191.92) for expert vs 246.26 (69.36)
+   for LLM answers (P = .27), and the mean (SD) lexicon score was 200.15
+   (171.28) for expert vs 219.10 (61.59) for LLM answers (P = .24).
+   Conclusions and Relevance In this cross-sectional study, the LLM
+   generated accurate, comprehensive, and concise responses with minimal
+   risk of harm, using language similar to human experts but at a higher
+   reading level. These findings suggest the LLM's potential, with some
+   retraining, as a valuable resource for patient queries in radiation
+   oncology and other medical fields.
+ZR 0
+Z8 2
+ZS 0
+ZB 5
+ZA 0
+TC 19
+Z9 20
+DA 2024-04-12
+UT WOS:001197566900004
+PM 38564215
+ER
+
+PT J
+AU Porebski, Benjamin T.
+   Balmforth, Matthew
+   Browne, Gareth
+   Riley, Aidan
+   Jamali, Kiarash
+   Furst, Maximillian J. L. J.
+   Velic, Mirko
+   Buchanan, Andrew
+   Minter, Ralph
+   Vaughan, Tristan
+   Holliger, Philipp
+TI Rapid discovery of high-affinity antibodies via massively parallel
+   sequencing, ribosome display and affinity screening
+SO NATURE BIOMEDICAL ENGINEERING
+VL 8
+IS 3
+DI 10.1038/s41551-023-01093-3
+EA OCT 2023
+DT Article
+PD MAR 2024
+PY 2024
+AB Developing therapeutic antibodies is laborious and costly. Here we
+   report a method for antibody discovery that leverages the Illumina HiSeq
+   platform to, within 3 days, screen in the order of 108 antibody-antigen
+   interactions. The method, which we named 'deep screening', involves the
+   clustering and sequencing of antibody libraries, the conversion of the
+   DNA clusters into complementary RNA clusters covalently linked to the
+   instrument's flow-cell surface on the same location, the in situ
+   translation of the clusters into antibodies tethered via ribosome
+   display, and their screening via fluorescently labelled antigens. By
+   using deep screening, we discovered low-nanomolar nanobodies to a model
+   antigen using 4 x 106 unique variants from yeast-display-enriched
+   libraries, and high-picomolar single-chain antibody fragment leads for
+   human interleukin-7 directly from unselected synthetic repertoires. We
+   also leveraged deep screening of a library of 2.4 x 105 sequences of the
+   third complementarity-determining region of the heavy chain of an
+   anti-human epidermal growth factor receptor 2 (HER2) antibody as input
+   for a large language model that generated new single-chain antibody
+   fragment sequences with higher affinity for HER2 than those in the
+   original library.
+   A high-throughput method leveraging the Illumina HiSeq platform to
+   screen in the order of 108 individual antibody-antigen interactions
+   within 3 days facilitates the rapid discovery of antibodies to
+   clinically relevant targets.
+ZR 0
+ZS 0
+TC 20
+ZA 0
+ZB 11
+Z8 1
+Z9 21
+DA 2023-10-18
+UT WOS:001078085500002
+PM 37814006
+ER
+
+PT J
+AU Jinia, A. J.
+   Chapman, K. L.
+   Liu, S.
+   Della Biancia, C.
+   Li, A.
+   Moran, J. M.
+TI Challenges in Developing an Al -Based Analysis System for Incident
+   Learning
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3198
+BP E542
+EP E542
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZB 0
+ZS 0
+Z8 0
+ZA 0
+ZR 0
+TC 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892301523
+ER
+
+PT J
+AU Jang, B. S.
+   Alcorn, S. R.
+   McNutt, T. R.
+   Ehsan, U.
+TI Hype or Reality: Utility of Large Language Models in Radiation Oncology
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3382
+BP E629
+EP E630
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZB 0
+Z8 0
+ZR 0
+ZA 0
+TC 0
+ZS 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302063
+ER
+
+PT C
+AU Sharma, Manish
+   Farough, Samira
+   Burkett, Andre
+   Prasanth, Jerome
+   El-Shafeey, Nabil
+   Zygadlo, Dominic
+   Dunn, Chera
+   Korn, Ron
+BE Yoshida, H
+   Wu, S
+TI Leveraging LLMs like ChatGPT for robust quality checks and medical text
+   agreement rationale enhancing adjudication quality and alignment in BICR
+   for oncology clinical trials
+SO IMAGING INFORMATICS FOR HEALTHCARE, RESEARCH, AND APPLICATIONS, MEDICAL
+   IMAGING 2024
+SE Proceedings of SPIE
+VL 12931
+AR 1293103
+DI 10.1117/12.3009153
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Purpose: Blinded independent central review (BICR) is recommended by the
+   US FDA for registration of oncology trials as image assessment bias is
+   avoided and no chance of unblinding of patient data. Double read with
+   adjudication is the method used to reduce endpoint assessment
+   variability. In cases of disagreement between the readers, a third
+   reader called an adjudicator, reviews the assessment by the two
+   radiologists and decides which assessment is most accurate. Adjudication
+   rate (AR) and adjudicator agreement rate (AAR) are the two indicators
+   used to evaluate reviewer performance and overall trial variability and
+   quality. Sentiment analysis (SA) is based on natural language processing
+   and can tag the data as 'positive', 'negative' or 'neutral' although
+   current technologies can provide a more complex analysis of emotions in
+   the written text. Medical SA can analyze patients' and doctors'
+   opinions, sentiments, attitudes, and emotions in the clinical
+   background. Python, the most frequently used programming language for
+   deep learning worldwide and ChatGPT, an AI-based chatbot can be used for
+   assessing adjudicator comment quality based on sentiment analysis. If
+   successful, this analysis can open another novel implementation for
+   Large Language Models (LLMs) or ChatGPT in clinical research and medical
+   imaging.
+   Methods: This prospective study involved the review of cases for 100
+   subjects by board-certified radiologists using the Response Evaluation
+   Criteria in Solid Tumors (RECIST) 1.1 criteria. The study employed a
+   double read with adjudication paradigm in a central imaging review
+   setup. The agreement of adjudication was assessed and compared with the
+   overall response, agreed reader, and medical text. The medical text
+   entered by the adjudicator is usually a free text field that typically
+   lacks standardization and control over its content, which may affect its
+   correlation with reviewer selection for agreement. Although uncommon,
+   errors by the adjudicator can occur due to ambiguous text, mis-clicks,
+   or application delay errors. To analyze the adjudicator's comments,
+   sentiment analysis was conducted using a Python plug-in with ChatGPT as
+   a large language model. Based on this analysis, the subjects were
+   categorized as either having "Potential Error" or "No Error".
+   Results: The algorithm supported by ChatGPT was evaluated against a Gold
+   Standard, determined by a board-certified radiologist with over 20 years
+   of experience in the BICR process. A comparison was made to assess
+   accuracy and reproducibility, revealing that only 4 out of 100 subjects
+   had different outcomes. The sensitivity was calculated as 0.857,
+   specificity as 1.0, and accuracy as 0.96.
+   Conclusions: The remarkable Natural Language Processing (NLP)
+   capabilities of ChatGPT are evident in its ability to classify the
+   sentiment as positive, negative, or neutral based on the free-text
+   adjudicator comments provided during the review process. This
+   classification enables a comparison with the actual assessment,
+   adjudicator agreement, and overall patient outcome, highlighting the
+   impressive performance of ChatGPT in this regard.
+CT Conference on Medical Imaging - Imaging Informatics for Healthcare,
+   Research, and Applications
+CY FEB 19-21, 2024
+CL San Diego, CA
+SP SPIE; Amer Assoc Physicists Med; Radiol Soc N Amer; World Mol Imaging
+   Soc; Soc Imaging Informat Med; Int Fdn Comp Assisted Radiol & Surg; Med
+   Image Percept Soc
+ZA 0
+ZS 0
+ZR 0
+TC 0
+ZB 0
+Z8 0
+Z9 0
+DA 2024-05-31
+UT WOS:001219280700002
+ER
+
+PT J
+AU Sarrias, Oskitz Ruiz
+   del Prado, Maria Purificacion Martinez
+   Gonzalez, Maria Angeles Sala
+   Sagarduy, Josune Azcuna
+   Cuesta, Pablo Casado
+   Berjano, Covadonga Figaredo
+   Galve-Calvo, Elena
+   Hernandez, Borja Lopez de San Vicente
+   Lopez-Santillan, Maria
+   Escolastico, Maitane Nuno
+   Togneri, Laura Sanchez
+   Sardina, Laura Sande
+   Hoyos, Maria Teresa Perez
+   Villar, Maria Teresa Abad
+   Zudaire, Maialen Zabalza
+   Beristain, Onintza Sayar
+TI Leveraging Large Language Models for Precision Monitoring of
+   Chemotherapy-Induced Toxicities: A Pilot Study with Expert Comparisons
+   and Future Directions
+SO CANCERS
+VL 16
+IS 16
+AR 2830
+DI 10.3390/cancers16162830
+DT Article
+PD AUG 2024
+PY 2024
+AB Simple Summary This study evaluated the ability of Large Language Models
+   (LLMs) to classify subjective toxicities from chemotherapy by comparing
+   them with expert oncologists. Using fictitious cases, it was
+   demonstrated that LLMs can achieve accuracy similar to that of
+   oncologists in general toxicity categories, although they need
+   improvement in specific categories. LLMs show great potential for
+   enhancing patient monitoring and reducing the workload of doctors.
+   Future research should focus on training LLMs specifically for medical
+   tasks and validating these findings with real patients, always ensuring
+   accuracy and ethical data management.Abstract Introduction: Large
+   Language Models (LLMs), such as the GPT model family from OpenAI, have
+   demonstrated transformative potential across various fields, especially
+   in medicine. These models can understand and generate contextual text,
+   adapting to new tasks without specific training. This versatility can
+   revolutionize clinical practices by enhancing documentation, patient
+   interaction, and decision-making processes. In oncology, LLMs offer the
+   potential to significantly improve patient care through the continuous
+   monitoring of chemotherapy-induced toxicities, which is a task that is
+   often unmanageable for human resources alone. However, existing research
+   has not sufficiently explored the accuracy of LLMs in identifying and
+   assessing subjective toxicities based on patient descriptions. This
+   study aims to fill this gap by evaluating the ability of LLMs to
+   accurately classify these toxicities, facilitating personalized and
+   continuous patient care. Methods: This comparative pilot study assessed
+   the ability of an LLM to classify subjective toxicities from
+   chemotherapy. Thirteen oncologists evaluated 30 fictitious cases created
+   using expert knowledge and OpenAI's GPT-4. These evaluations, based on
+   the CTCAE v.5 criteria, were compared to those of a contextualized LLM
+   model. Metrics such as mode and mean of responses were used to gauge
+   consensus. The accuracy of the LLM was analyzed in both general and
+   specific toxicity categories, considering types of errors and false
+   alarms. The study's results are intended to justify further research
+   involving real patients. Results: The study revealed significant
+   variability in oncologists' evaluations due to the lack of interaction
+   with fictitious patients. The LLM model achieved an accuracy of 85.7% in
+   general categories and 64.6% in specific categories using mean
+   evaluations with mild errors at 96.4% and severe errors at 3.6%. False
+   alarms occurred in 3% of cases. When comparing the LLM's performance to
+   that of expert oncologists, individual accuracy ranged from 66.7% to
+   89.2% for general categories and 57.0% to 76.0% for specific categories.
+   The 95% confidence intervals for the median accuracy of oncologists were
+   81.9% to 86.9% for general categories and 67.6% to 75.6% for specific
+   categories. These benchmarks highlight the LLM's potential to achieve
+   expert-level performance in classifying chemotherapy-induced toxicities.
+   Discussion: The findings demonstrate that LLMs can classify subjective
+   toxicities from chemotherapy with accuracy comparable to expert
+   oncologists. The LLM achieved 85.7% accuracy in general categories and
+   64.6% in specific categories. While the model's general category
+   performance falls within expert ranges, specific category accuracy
+   requires improvement. The study's limitations include the use of
+   fictitious cases, lack of patient interaction, and reliance on audio
+   transcriptions.
+   Nevertheless, LLMs show significant potential for enhancing patient
+   monitoring and reducing oncologists' workload. Future research should
+   focus on the specific training of LLMs for medical tasks, conducting
+   studies with real patients, implementing interactive evaluations,
+   expanding sample sizes, and ensuring robustness and generalization in
+   diverse clinical settings. Conclusions: This study concludes that LLMs
+   can classify subjective toxicities from chemotherapy with accuracy
+   comparable to expert oncologists. The LLM's performance in general
+   toxicity categories is within the expert range, but there is room for
+   improvement in specific categories. LLMs have the potential to enhance
+   patient monitoring, enable early interventions, and reduce severe
+   complications, improving care quality and efficiency. Future research
+   should involve specific training of LLMs, validation with real patients,
+   and the incorporation of interactive capabilities for real-time patient
+   interactions. Ethical considerations, including data accuracy,
+   transparency, and privacy, are crucial for the safe integration of LLMs
+   into clinical practice.
+ZS 0
+ZR 0
+ZB 0
+Z8 0
+TC 3
+ZA 0
+Z9 3
+DA 2024-09-09
+UT WOS:001304981100001
+PM 39199603
+ER
+
+PT J
+AU Horesh, Nir
+   Emile, Sameh
+   Gupta, Shashank
+   Garoufalia, Zoe
+   Gefen, Rachel
+   Zhou, Peige
+   da Silva, Giovanna
+   Wexner, Steven
+TI Comparing the Management Recommendations of Large Language Model and
+   Colorectal Cancer Multidisciplinary Team: A Pilot Study
+SO DISEASES OF THE COLON & RECTUM
+VL 68
+IS 1
+BP 41
+EP 47
+DI 10.1097/DCR.0000000000003504
+DT Article
+PD JAN 2025
+PY 2025
+AB BACKGROUND:Management of anorectal cancers requires a multidisciplinary
+   team approach. Recently, large language models have been suggested as
+   potential tools for various applications in health care.OBJECTIVE:Assess
+   suggested management recommendations provided by a generative artificial
+   intelligence chatbot with those of a colorectal cancer multidisciplinary
+   team to evaluate applicability in clinical settings.DESIGN:Comparative
+   pilot study where management recommendations from a generative
+   artificial intelligence chatbot for patients with anal or colorectal
+   cancers were compared against historical consensus decisions from
+   multidisciplinary team meetings.SETTING:Single referral tertiary
+   center.PATIENTS:Fifteen patients (mean age of 66.5 years; 53.5% woman)
+   were included; 80% were primarily diagnosed with rectal cancer,
+   predominantly stage II and III disease (46.6%). The mean tumor height
+   from the anal verge was 4 cm.INTERVENTIONS:From a generative artificial
+   intelligence chatbot, we generated management recommendations for each
+   patient, which were subsequently compared to historical decisions from a
+   multidisciplinary team to gauge concordance.MAIN OUTCOME
+   MEASURES:Primary outcomes included a degree of concordance between
+   generative artificial intelligence chatbot recommendations and the
+   multidisciplinary team decisions, assessed on a scale from 1 (complete
+   disagreement) to 5 (complete agreement), and justification was evaluated
+   by 3 experienced colorectal surgeons.RESULTS:A generative artificial
+   intelligence chatbot achieved a high concordance rate with
+   multidisciplinary team decisions, with an average concordance rating of
+   4.08. Multidisciplinary team treatment strategies included neoadjuvant
+   therapy for 33.3% of patients, upfront surgery for 26.6%, and further
+   diagnostic assessment for 20%. Interrater agreement on concordance was
+   found to be moderate (kappa coefficient range, 0.333-0.577), whereas
+   agreement on decision justification was slight (kappa coefficient range,
+   0.047-0.094).LIMITATIONS:Retrospective study with small sample
+   size.CONCLUSIONS:The findings indicate a high level of concordance
+   between generative artificial intelligence chatbot recommendations and
+   the decisions from a colorectal cancer multidisciplinary team,
+   suggesting the potential of large language models to support clinical
+   decision-making in the management of anal and colorectal cancers. See
+   Video Abstract.COMPARACI & Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL
+   MODELO EXTENSO DE LENGUAJE Y EL EQUIPO MULTIDISCIPLINARIO DE C &
+   Aacute;NCER COLORRECTAL: UN ESTUDIO PILOTOANTECEDENTES:El manejo de los
+   c & aacute;nceres anorrectales requiere un enfoque de equipo
+   multidisciplinario. Recientemente, se han sugerido modelos extensos de
+   lenguaje como herramientas potenciales para diversas aplicaciones en la
+   asistencia sanitaria.OBJETIVO:Evaluar las recomendaciones de gesti &
+   oacute;n sugeridos por un chatbot de inteligencia artificial generativa
+   con las de un equipo multidisciplinario de c & aacute;ncer colorrectal
+   para evaluar la aplicabilidad en entornos cl & iacute;nicos.DISE &
+   Ntilde;O:Estudio piloto comparativo entre las recomendaciones de gesti &
+   oacute;n de un chatbot de inteligencia artificial generativa con
+   pacientes de c & aacute;ncer anal o colorrectal y con las decisiones
+   consensuadas hist & oacute;ricas de reuniones de equipos
+   multidisciplinarios.LUGAR:Un & uacute;nico centro terciario de
+   referencia.
+   PACIENTES:Se incluyeron 15 pacientes (edad media de 66,5 a & ntilde;os;
+   53,5% mujeres); el 80% fueron diagnosticados principalmente de c &
+   aacute;ncer de recto, con predominio de la enfermedad en estadio II-III
+   (46,6%). La altura media del tumor desde el borde anal fue de 4
+   cm.INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la
+   concordancia.PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios
+   incluyeron el grado de concordancia entre las recomendaciones de un
+   chatbot de inteligencia artificial generativa y las decisiones del
+   equipo multidisciplinario, evaluadas en una escala de 1 (desacuerdo
+   total) a 5 (acuerdo total), y la justificaci & oacute;n evaluada por
+   tres cirujanos colorrectales experimentados.RESULTADOS:Un chatbot de
+   inteligencia artificial generativa logr & oacute; una alta tasa de
+   concordancia con las decisiones del equipo multidisciplinario, con una
+   calificaci & oacute;n media de concordancia de 4,08. Las estrategias de
+   tratamiento del equipo multidisciplinario incluyeron terapia
+   neoadyuvante para el 33,3% de los pacientes, cirug & iacute;a inicial
+   para el 26,6% y evaluaci & oacute;n diagn & oacute;stica adicional para
+   el 20%. La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un
+   alto nivel de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal, lo que sugiere el
+   potencial de los modelos extensos de lenguaje en apoyar la toma de
+   decisiones cl & iacute;nicas en el manejo del c & aacute;ncer anal y
+   colorrectal. (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI &
+   Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE
+   Y EL EQUIPO MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN
+   ESTUDIO PILOTOANTECEDENTES:El manejo de los c & aacute;nceres
+   anorrectales requiere un enfoque de equipo multidisciplinario.
+   Recientemente, se han sugerido modelos extensos de lenguaje como
+   herramientas potenciales para diversas aplicaciones en la asistencia
+   sanitaria.OBJETIVO:Evaluar las recomendaciones de gesti & oacute;n
+   sugeridos por un chatbot de inteligencia artificial generativa con las
+   de un equipo multidisciplinario de c & aacute;ncer colorrectal para
+   evaluar la aplicabilidad en entornos cl & iacute;nicos.DISE &
+   Ntilde;O:Estudio piloto comparativo entre las recomendaciones de gesti &
+   oacute;n de un chatbot de inteligencia artificial generativa con
+   pacientes de c & aacute;ncer anal o colorrectal y con las decisiones
+   consensuadas hist & oacute;ricas de reuniones de equipos
+   multidisciplinarios.LUGAR:Un & uacute;nico centro terciario de
+   referencia.PACIENTES:Se incluyeron 15 pacientes (edad media de 66,5 a &
+   ntilde;os; 53,5% mujeres); el 80% fueron diagnosticados principalmente
+   de c & aacute;ncer de recto, con predominio de la enfermedad en estadio
+   II-III (46,6%). La altura media del tumor desde el borde anal fue de 4
+   cm.
+   INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la
+   concordancia.PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios
+   incluyeron el grado de concordancia entre las recomendaciones de un
+   chatbot de inteligencia artificial generativa y las decisiones del
+   equipo multidisciplinario, evaluadas en una escala de 1 (desacuerdo
+   total) a 5 (acuerdo total), y la justificaci & oacute;n evaluada por
+   tres cirujanos colorrectales experimentados.RESULTADOS:Un chatbot de
+   inteligencia artificial generativa logr & oacute; una alta tasa de
+   concordancia con las decisiones del equipo multidisciplinario, con una
+   calificaci & oacute;n media de concordancia de 4,08. Las estrategias de
+   tratamiento del equipo multidisciplinario incluyeron terapia
+   neoadyuvante para el 33,3% de los pacientes, cirug & iacute;a inicial
+   para el 26,6% y evaluaci & oacute;n diagn & oacute;stica adicional para
+   el 20%. La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un
+   alto nivel de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal, lo que sugiere el
+   potencial de los modelos extensos de lenguaje en apoyar la toma de
+   decisiones cl & iacute;nicas en el manejo del c & aacute;ncer anal y
+   colorrectal. (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI &
+   Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE
+   Y EL EQUIPO MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN
+   ESTUDIO PILOTOANTECEDENTES:El manejo de los c & aacute;nceres
+   anorrectales requiere un enfoque de equipo multidisciplinario.
+   Recientemente, se han sugerido modelos extensos de lenguaje como
+   herramientas potenciales para diversas aplicaciones en la asistencia
+   sanitaria.OBJETIVO:Evaluar las recomendaciones de gesti & oacute;n
+   sugeridos por un chatbot de inteligencia artificial generativa con las
+   de un equipo multidisciplinario de c & aacute;ncer colorrectal para
+   evaluar la aplicabilidad en entornos cl & iacute;nicos.DISE &
+   Ntilde;O:Estudio piloto comparativo entre las recomendaciones de gesti &
+   oacute;n de un chatbot de inteligencia artificial generativa con
+   pacientes de c & aacute;ncer anal o colorrectal y con las decisiones
+   consensuadas hist & oacute;ricas de reuniones de equipos
+   multidisciplinarios.LUGAR:Un & uacute;nico centro terciario de
+   referencia.PACIENTES:Se incluyeron 15 pacientes (edad media de 66,5 a &
+   ntilde;os; 53,5% mujeres); el 80% fueron diagnosticados principalmente
+   de c & aacute;ncer de recto, con predominio de la enfermedad en estadio
+   II-III (46,6%). La altura media del tumor desde el borde anal fue de 4
+   cm.INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la concordancia.
+   PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios incluyeron el
+   grado de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones del equipo
+   multidisciplinario, evaluadas en una escala de 1 (desacuerdo total) a 5
+   (acuerdo total), y la justificaci & oacute;n evaluada por tres cirujanos
+   colorrectales experimentados.RESULTADOS:Un chatbot de inteligencia
+   artificial generativa logr & oacute; una alta tasa de concordancia con
+   las decisiones del equipo multidisciplinario, con una calificaci &
+   oacute;n media de concordancia de 4,08. Las estrategias de tratamiento
+   del equipo multidisciplinario incluyeron terapia neoadyuvante para el
+   33,3% de los pacientes, cirug & iacute;a inicial para el 26,6% y
+   evaluaci & oacute;n diagn & oacute;stica adicional para el 20%. La
+   concordancia entre los evaluadores fue moderada (rango del coeficiente
+   kappa: 0,333 a 0,577), mientras que la concordancia en la justificaci &
+   oacute;n de las decisiones fue leve (rango del coeficiente kappa: 0,047
+   a 0,094).LIMITACIONES:Estudio retrospectivo con peque & ntilde;o tama &
+   ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un alto nivel de
+   concordancia entre las recomendaciones de un chatbot de inteligencia
+   artificial generativa y las decisiones de un equipo multidisciplinario
+   de c & aacute;ncer colorrectal, lo que sugiere el potencial de los
+   modelos extensos de lenguaje en apoyar la toma de decisiones cl &
+   iacute;nicas en el manejo del c & aacute;ncer anal y colorrectal.
+   (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI & Oacute;N ENTRE
+   RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE Y EL EQUIPO
+   MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN ESTUDIO
+   PILOTOANTECEDENTES:El manejo de los c & aacute;nceres anorrectales
+   requiere un enfoque de equipo multidisciplinario. Recientemente, se han
+   sugerido modelos extensos de lenguaje como herramientas potenciales para
+   diversas aplicaciones en la asistencia sanitaria.OBJETIVO:Evaluar las
+   recomendaciones de gesti & oacute;n sugeridos por un chatbot de
+   inteligencia artificial generativa con las de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal para evaluar la
+   aplicabilidad en entornos cl & iacute;nicos.DISE & Ntilde;O:Estudio
+   piloto comparativo entre las recomendaciones de gesti & oacute;n de un
+   chatbot de inteligencia artificial generativa con pacientes de c &
+   aacute;ncer anal o colorrectal y con las decisiones consensuadas hist &
+   oacute;ricas de reuniones de equipos multidisciplinarios.LUGAR:Un &
+   uacute;nico centro terciario de referencia.PACIENTES:Se incluyeron 15
+   pacientes (edad media de 66,5 a & ntilde;os; 53,5% mujeres); el 80%
+   fueron diagnosticados principalmente de c & aacute;ncer de recto, con
+   predominio de la enfermedad en estadio II-III (46,6%). La altura media
+   del tumor desde el borde anal fue de 4 cm.INTERVENCIONESUtilizando de un
+   chatbot de inteligencia artificial generativa, producimos
+   recomendaciones de manejo para cada paciente, que posteriormente se
+   compararon con las decisiones del equipo multidisciplinario hist &
+   oacute;rico para medir la concordancia.PRINCIPALES MEDIDAS DE
+   RESULTADO:Los resultados primarios incluyeron el grado de concordancia
+   entre las recomendaciones de un chatbot de inteligencia artificial
+   generativa y las decisiones del equipo multidisciplinario, evaluadas en
+   una escala de 1 (desacuerdo total) a 5 (acuerdo total), y la justificaci
+   & oacute;n evaluada por tres cirujanos colorrectales experimentados.
+   RESULTADOS:Un chatbot de inteligencia artificial generativa logr &
+   oacute; una alta tasa de concordancia con las decisiones del equipo
+   multidisciplinario, con una calificaci & oacute;n media de concordancia
+   de 4,08. Las estrategias de tratamiento del equipo multidisciplinario
+   incluyeron terapia neoadyuvante para el 33,3% de los pacientes, cirug &
+   iacute;a inicial para el 26,6% y evaluaci & oacute;n diagn &
+   oacute;stica adicional para el 20%. La concordancia entre los
+   evaluadores fue moderada (rango del coeficiente kappa: 0,333 a 0,577),
+   mientras que la concordancia en la justificaci & oacute;n de las
+   decisiones fue leve (rango del coeficiente kappa: 0,047 a
+   0,094).LIMITACIONES:Estudio retrospectivo con peque & ntilde;o tama &
+   ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un alto nivel de
+   concordancia entre las recomendaciones de un chatbot de inteligencia
+   artificial generativa y las decisiones de un equipo multidisciplinario
+   de c & aacute;ncer colorrectal, lo que sugiere el potencial de los
+   modelos extensos de lenguaje en apoyar la toma de decisiones cl &
+   iacute;nicas en el manejo del c & aacute;ncer anal y colorrectal.
+   (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI & Oacute;N ENTRE
+   RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE Y EL EQUIPO
+   MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN ESTUDIO
+   PILOTOANTECEDENTES:El manejo de los c & aacute;nceres anorrectales
+   requiere un enfoque de equipo multidisciplinario. Recientemente, se han
+   sugerido modelos extensos de lenguaje como herramientas potenciales para
+   diversas aplicaciones en la asistencia sanitaria.OBJETIVO:Evaluar las
+   recomendaciones de gesti & oacute;n sugeridos por un chatbot de
+   inteligencia artificial generativa con las de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal para evaluar la
+   aplicabilidad en entornos cl & iacute;nicos.DISE & Ntilde;O:Estudio
+   piloto comparativo entre las recomendaciones de gesti & oacute;n de un
+   chatbot de inteligencia artificial generativa con pacientes de c &
+   aacute;ncer anal o colorrectal y con las decisiones consensuadas hist &
+   oacute;ricas de reuniones de equipos multidisciplinarios.LUGAR:Un &
+   uacute;nico centro terciario de referencia.PACIENTES:Se incluyeron 15
+   pacientes (edad media de 66,5 a & ntilde;os; 53,5% mujeres); el 80%
+   fueron diagnosticados principalmente de c & aacute;ncer de recto, con
+   predominio de la enfermedad en estadio II-III (46,6%). La altura media
+   del tumor desde el borde anal fue de 4 cm.INTERVENCIONESUtilizando de un
+   chatbot de inteligencia artificial generativa, producimos
+   recomendaciones de manejo para cada paciente, que posteriormente se
+   compararon con las decisiones del equipo multidisciplinario hist &
+   oacute;rico para medir la concordancia.PRINCIPALES MEDIDAS DE
+   RESULTADO:Los resultados primarios incluyeron el grado de concordancia
+   entre las recomendaciones de un chatbot de inteligencia artificial
+   generativa y las decisiones del equipo multidisciplinario, evaluadas en
+   una escala de 1 (desacuerdo total) a 5 (acuerdo total), y la justificaci
+   & oacute;n evaluada por tres cirujanos colorrectales
+   experimentados.RESULTADOS:Un chatbot de inteligencia artificial
+   generativa logr & oacute; una alta tasa de concordancia con las
+   decisiones del equipo multidisciplinario, con una calificaci & oacute;n
+   media de concordancia de 4,08. Las estrategias de tratamiento del equipo
+   multidisciplinario incluyeron terapia neoadyuvante para el 33,3% de los
+   pacientes, cirug & iacute;a inicial para el 26,6% y evaluaci & oacute;n
+   diagn & oacute;stica adicional para el 20%.
+   La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un
+   alto nivel de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal, lo que sugiere el
+   potencial de los modelos extensos de lenguaje en apoyar la toma de
+   decisiones cl & iacute;nicas en el manejo del c & aacute;ncer anal y
+   colorrectal. (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI &
+   Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE
+   Y EL EQUIPO MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN
+   ESTUDIO PILOTOANTECEDENTES:El manejo de los c & aacute;nceres
+   anorrectales requiere un enfoque de equipo multidisciplinario.
+   Recientemente, se han sugerido modelos extensos de lenguaje como
+   herramientas potenciales para diversas aplicaciones en la asistencia
+   sanitaria.OBJETIVO:Evaluar las recomendaciones de gesti & oacute;n
+   sugeridos por un chatbot de inteligencia artificial generativa con las
+   de un equipo multidisciplinario de c & aacute;ncer colorrectal para
+   evaluar la aplicabilidad en entornos cl & iacute;nicos.DISE &
+   Ntilde;O:Estudio piloto comparativo entre las recomendaciones de gesti &
+   oacute;n de un chatbot de inteligencia artificial generativa con
+   pacientes de c & aacute;ncer anal o colorrectal y con las decisiones
+   consensuadas hist & oacute;ricas de reuniones de equipos
+   multidisciplinarios.LUGAR:Un & uacute;nico centro terciario de
+   referencia.PACIENTES:Se incluyeron 15 pacientes (edad media de 66,5 a &
+   ntilde;os; 53,5% mujeres); el 80% fueron diagnosticados principalmente
+   de c & aacute;ncer de recto, con predominio de la enfermedad en estadio
+   II-III (46,6%). La altura media del tumor desde el borde anal fue de 4
+   cm.INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la
+   concordancia.PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios
+   incluyeron el grado de concordancia entre las recomendaciones de un
+   chatbot de inteligencia artificial generativa y las decisiones del
+   equipo multidisciplinario, evaluadas en una escala de 1 (desacuerdo
+   total) a 5 (acuerdo total), y la justificaci & oacute;n evaluada por
+   tres cirujanos colorrectales experimentados.RESULTADOS:Un chatbot de
+   inteligencia artificial generativa logr & oacute; una alta tasa de
+   concordancia con las decisiones del equipo multidisciplinario, con una
+   calificaci & oacute;n media de concordancia de 4,08. Las estrategias de
+   tratamiento del equipo multidisciplinario incluyeron terapia
+   neoadyuvante para el 33,3% de los pacientes, cirug & iacute;a inicial
+   para el 26,6% y evaluaci & oacute;n diagn & oacute;stica adicional para
+   el 20%. La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.
+   CONCLUSIONES:Los hallazgos indican un alto nivel de concordancia entre
+   las recomendaciones de un chatbot de inteligencia artificial generativa
+   y las decisiones de un equipo multidisciplinario de c & aacute;ncer
+   colorrectal, lo que sugiere el potencial de los modelos extensos de
+   lenguaje en apoyar la toma de decisiones cl & iacute;nicas en el manejo
+   del c & aacute;ncer anal y colorrectal. (Traducci & oacute;n: Dr. Fidel
+   Ruiz Healy).COMPARACI & Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL
+   MODELO EXTENSO DE LENGUAJE Y EL EQUIPO MULTIDISCIPLINARIO DE C &
+   Aacute;NCER COLORRECTAL: UN ESTUDIO PILOTOANTECEDENTES:El manejo de los
+   c & aacute;nceres anorrectales requiere un enfoque de equipo
+   multidisciplinario. Recientemente, se han sugerido modelos extensos de
+   lenguaje como herramientas potenciales para diversas aplicaciones en la
+   asistencia sanitaria.OBJETIVO:Evaluar las recomendaciones de gesti &
+   oacute;n sugeridos por un chatbot de inteligencia artificial generativa
+   con las de un equipo multidisciplinario de c & aacute;ncer colorrectal
+   para evaluar la aplicabilidad en entornos cl & iacute;nicos.DISE &
+   Ntilde;O:Estudio piloto comparativo entre las recomendaciones de gesti &
+   oacute;n de un chatbot de inteligencia artificial generativa con
+   pacientes de c & aacute;ncer anal o colorrectal y con las decisiones
+   consensuadas hist & oacute;ricas de reuniones de equipos
+   multidisciplinarios.LUGAR:Un & uacute;nico centro terciario de
+   referencia.PACIENTES:Se incluyeron 15 pacientes (edad media de 66,5 a &
+   ntilde;os; 53,5% mujeres); el 80% fueron diagnosticados principalmente
+   de c & aacute;ncer de recto, con predominio de la enfermedad en estadio
+   II-III (46,6%). La altura media del tumor desde el borde anal fue de 4
+   cm.INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la
+   concordancia.PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios
+   incluyeron el grado de concordancia entre las recomendaciones de un
+   chatbot de inteligencia artificial generativa y las decisiones del
+   equipo multidisciplinario, evaluadas en una escala de 1 (desacuerdo
+   total) a 5 (acuerdo total), y la justificaci & oacute;n evaluada por
+   tres cirujanos colorrectales experimentados.RESULTADOS:Un chatbot de
+   inteligencia artificial generativa logr & oacute; una alta tasa de
+   concordancia con las decisiones del equipo multidisciplinario, con una
+   calificaci & oacute;n media de concordancia de 4,08. Las estrategias de
+   tratamiento del equipo multidisciplinario incluyeron terapia
+   neoadyuvante para el 33,3% de los pacientes, cirug & iacute;a inicial
+   para el 26,6% y evaluaci & oacute;n diagn & oacute;stica adicional para
+   el 20%. La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un
+   alto nivel de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal, lo que sugiere el
+   potencial de los modelos extensos de lenguaje en apoyar la toma de
+   decisiones cl & iacute;nicas en el manejo del c & aacute;ncer anal y
+   colorrectal. (Traducci & oacute;n: Dr. Fidel Ruiz Healy).
+   COMPARACI & Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO
+   DE LENGUAJE Y EL EQUIPO MULTIDISCIPLINARIO DE C & Aacute;NCER
+   COLORRECTAL: UN ESTUDIO PILOTOANTECEDENTES:El manejo de los c &
+   aacute;nceres anorrectales requiere un enfoque de equipo
+   multidisciplinario. Recientemente, se han sugerido modelos extensos de
+   lenguaje como herramientas potenciales para diversas aplicaciones en la
+   asistencia sanitaria.OBJETIVO:Evaluar las recomendaciones de gesti &
+   oacute;n sugeridos por un chatbot de inteligencia artificial generativa
+   con las de un equipo multidisciplinario de c & aacute;ncer colorrectal
+   para evaluar la aplicabilidad en entornos cl & iacute;nicos.DISE &
+   Ntilde;O:Estudio piloto comparativo entre las recomendaciones de gesti &
+   oacute;n de un chatbot de inteligencia artificial generativa con
+   pacientes de c & aacute;ncer anal o colorrectal y con las decisiones
+   consensuadas hist & oacute;ricas de reuniones de equipos
+   multidisciplinarios.LUGAR:Un & uacute;nico centro terciario de
+   referencia.PACIENTES:Se incluyeron 15 pacientes (edad media de 66,5 a &
+   ntilde;os; 53,5% mujeres); el 80% fueron diagnosticados principalmente
+   de c & aacute;ncer de recto, con predominio de la enfermedad en estadio
+   II-III (46,6%). La altura media del tumor desde el borde anal fue de 4
+   cm.INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la
+   concordancia.PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios
+   incluyeron el grado de concordancia entre las recomendaciones de un
+   chatbot de inteligencia artificial generativa y las decisiones del
+   equipo multidisciplinario, evaluadas en una escala de 1 (desacuerdo
+   total) a 5 (acuerdo total), y la justificaci & oacute;n evaluada por
+   tres cirujanos colorrectales experimentados.RESULTADOS:Un chatbot de
+   inteligencia artificial generativa logr & oacute; una alta tasa de
+   concordancia con las decisiones del equipo multidisciplinario, con una
+   calificaci & oacute;n media de concordancia de 4,08. Las estrategias de
+   tratamiento del equipo multidisciplinario incluyeron terapia
+   neoadyuvante para el 33,3% de los pacientes, cirug & iacute;a inicial
+   para el 26,6% y evaluaci & oacute;n diagn & oacute;stica adicional para
+   el 20%. La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un
+   alto nivel de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal, lo que sugiere el
+   potencial de los modelos extensos de lenguaje en apoyar la toma de
+   decisiones cl & iacute;nicas en el manejo del c & aacute;ncer anal y
+   colorrectal. (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI &
+   Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE
+   Y EL EQUIPO MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN
+   ESTUDIO PILOTOANTECEDENTES:El manejo de los c & aacute;nceres
+   anorrectales requiere un enfoque de equipo multidisciplinario.
+   Recientemente, se han sugerido modelos extensos de lenguaje como
+   herramientas potenciales para diversas aplicaciones en la asistencia
+   sanitaria.
+   OBJETIVO:Evaluar las recomendaciones de gesti & oacute;n sugeridos por
+   un chatbot de inteligencia artificial generativa con las de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal para evaluar la
+   aplicabilidad en entornos cl & iacute;nicos.DISE & Ntilde;O:Estudio
+   piloto comparativo entre las recomendaciones de gesti & oacute;n de un
+   chatbot de inteligencia artificial generativa con pacientes de c &
+   aacute;ncer anal o colorrectal y con las decisiones consensuadas hist &
+   oacute;ricas de reuniones de equipos multidisciplinarios.LUGAR:Un &
+   uacute;nico centro terciario de referencia.PACIENTES:Se incluyeron 15
+   pacientes (edad media de 66,5 a & ntilde;os; 53,5% mujeres); el 80%
+   fueron diagnosticados principalmente de c & aacute;ncer de recto, con
+   predominio de la enfermedad en estadio II-III (46,6%). La altura media
+   del tumor desde el borde anal fue de 4 cm.INTERVENCIONESUtilizando de un
+   chatbot de inteligencia artificial generativa, producimos
+   recomendaciones de manejo para cada paciente, que posteriormente se
+   compararon con las decisiones del equipo multidisciplinario hist &
+   oacute;rico para medir la concordancia.PRINCIPALES MEDIDAS DE
+   RESULTADO:Los resultados primarios incluyeron el grado de concordancia
+   entre las recomendaciones de un chatbot de inteligencia artificial
+   generativa y las decisiones del equipo multidisciplinario, evaluadas en
+   una escala de 1 (desacuerdo total) a 5 (acuerdo total), y la justificaci
+   & oacute;n evaluada por tres cirujanos colorrectales
+   experimentados.RESULTADOS:Un chatbot de inteligencia artificial
+   generativa logr & oacute; una alta tasa de concordancia con las
+   decisiones del equipo multidisciplinario, con una calificaci & oacute;n
+   media de concordancia de 4,08. Las estrategias de tratamiento del equipo
+   multidisciplinario incluyeron terapia neoadyuvante para el 33,3% de los
+   pacientes, cirug & iacute;a inicial para el 26,6% y evaluaci & oacute;n
+   diagn & oacute;stica adicional para el 20%. La concordancia entre los
+   evaluadores fue moderada (rango del coeficiente kappa: 0,333 a 0,577),
+   mientras que la concordancia en la justificaci & oacute;n de las
+   decisiones fue leve (rango del coeficiente kappa: 0,047 a
+   0,094).LIMITACIONES:Estudio retrospectivo con peque & ntilde;o tama &
+   ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un alto nivel de
+   concordancia entre las recomendaciones de un chatbot de inteligencia
+   artificial generativa y las decisiones de un equipo multidisciplinario
+   de c & aacute;ncer colorrectal, lo que sugiere el potencial de los
+   modelos extensos de lenguaje en apoyar la toma de decisiones cl &
+   iacute;nicas en el manejo del c & aacute;ncer anal y colorrectal.
+   (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI & Oacute;N ENTRE
+   RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE Y EL EQUIPO
+   MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN ESTUDIO
+   PILOTOANTECEDENTES:El manejo de los c & aacute;nceres anorrectales
+   requiere un enfoque de equipo multidisciplinario. Recientemente, se han
+   sugerido modelos extensos de lenguaje como herramientas potenciales para
+   diversas aplicaciones en la asistencia sanitaria.OBJETIVO:Evaluar las
+   recomendaciones de gesti & oacute;n sugeridos por un chatbot de
+   inteligencia artificial generativa con las de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal para evaluar la
+   aplicabilidad en entornos cl & iacute;nicos.DISE & Ntilde;O:Estudio
+   piloto comparativo entre las recomendaciones de gesti & oacute;n de un
+   chatbot de inteligencia artificial generativa con pacientes de c &
+   aacute;ncer anal o colorrectal y con las decisiones
+   LUGAR:Un & uacute;nico centro terciario de referencia.PACIENTES:Se
+   incluyeron 15 pacientes (edad media de 66,5 a & ntilde;os; 53,5%
+   mujeres); el 80% fueron diagnosticados principalmente de c & aacute;ncer
+   de recto, con predominio de la enfermedad en estadio II-III (46,6%). La
+   altura media del tumor desde el borde anal fue de 4
+   cm.INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la
+   concordancia.PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios
+   incluyeron el grado de concordancia entre las recomendaciones de un
+   chatbot de inteligencia artificial generativa y las decisiones del
+   equipo multidisciplinario, evaluadas en una escala de 1 (desacuerdo
+   total) a 5 (acuerdo total), y la justificaci & oacute;n evaluada por
+   tres cirujanos colorrectales experimentados.RESULTADOS:Un chatbot de
+   inteligencia artificial generativa logr & oacute; una alta tasa de
+   concordancia con las decisiones del equipo multidisciplinario, con una
+   calificaci & oacute;n media de concordancia de 4,08. Las estrategias de
+   tratamiento del equipo multidisciplinario incluyeron terapia
+   neoadyuvante para el 33,3% de los pacientes, cirug & iacute;a inicial
+   para el 26,6% y evaluaci & oacute;n diagn & oacute;stica adicional para
+   el 20%. La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un
+   alto nivel de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal, lo que sugiere el
+   potencial de los modelos extensos de lenguaje en apoyar la toma de
+   decisiones cl & iacute;nicas en el manejo del c & aacute;ncer anal y
+   colorrectal. (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI &
+   Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE
+   Y EL EQUIPO MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN
+   ESTUDIO PILOTOANTECEDENTES:El manejo de los c & aacute;nceres
+   anorrectales requiere un enfoque de equipo multidisciplinario.
+   Recientemente, se han sugerido modelos extensos de lenguaje como
+   herramientas potenciales para diversas aplicaciones en la asistencia
+   sanitaria.OBJETIVO:Evaluar las recomendaciones de gesti & oacute;n
+   sugeridos por un chatbot de inteligencia artificial generativa con las
+   de un equipo multidisciplinario de c & aacute;ncer colorrectal para
+   evaluar la aplicabilidad en entornos cl & iacute;nicos.DISE &
+   Ntilde;O:Estudio piloto comparativo entre las recomendaciones de gesti &
+   oacute;n de un chatbot de inteligencia artificial generativa con
+   pacientes de c & aacute;ncer anal o colorrectal y con las decisiones
+   consensuadas hist & oacute;ricas de reuniones de equipos
+   multidisciplinarios.LUGAR:Un & uacute;nico centro terciario de
+   referencia.PACIENTES:Se incluyeron 15 pacientes (edad media de 66,5 a &
+   ntilde;os; 53,5% mujeres); el 80% fueron diagnosticados principalmente
+   de c & aacute;ncer de recto, con predominio de la enfermedad en estadio
+   II-III (46,6%). La altura media del tumor desde el borde anal fue de 4
+   cm.
+   INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la
+   concordancia.PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios
+   incluyeron el grado de concordancia entre las recomendaciones de un
+   chatbot de inteligencia artificial generativa y las decisiones del
+   equipo multidisciplinario, evaluadas en una escala de 1 (desacuerdo
+   total) a 5 (acuerdo total), y la justificaci & oacute;n evaluada por
+   tres cirujanos colorrectales experimentados.RESULTADOS:Un chatbot de
+   inteligencia artificial generativa logr & oacute; una alta tasa de
+   concordancia con las decisiones del equipo multidisciplinario, con una
+   calificaci & oacute;n media de concordancia de 4,08. Las estrategias de
+   tratamiento del equipo multidisciplinario incluyeron terapia
+   neoadyuvante para el 33,3% de los pacientes, cirug & iacute;a inicial
+   para el 26,6% y evaluaci & oacute;n diagn & oacute;stica adicional para
+   el 20%. La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un
+   alto nivel de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal, lo que sugiere el
+   potencial de los modelos extensos de lenguaje en apoyar la toma de
+   decisiones cl & iacute;nicas en el manejo del c & aacute;ncer anal y
+   colorrectal. (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI &
+   Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE
+   Y EL EQUIPO MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN
+   ESTUDIO PILOTOANTECEDENTES:El manejo de los c & aacute;nceres
+   anorrectales requiere un enfoque de equipo multidisciplinario.
+   Recientemente, se han sugerido modelos extensos de lenguaje como
+   herramientas potenciales para diversas aplicaciones en la asistencia
+   sanitaria.OBJETIVO:Evaluar las recomendaciones de gesti & oacute;n
+   sugeridos por un chatbot de inteligencia artificial generativa con las
+   de un equipo multidisciplinario de c & aacute;ncer colorrectal para
+   evaluar la aplicabilidad en entornos cl & iacute;nicos.DISE &
+   Ntilde;O:Estudio piloto comparativo entre las recomendaciones de gesti &
+   oacute;n de un chatbot de inteligencia artificial generativa con
+   pacientes de c & aacute;ncer anal o colorrectal y con las decisiones
+   consensuadas hist & oacute;ricas de reuniones de equipos
+   multidisciplinarios.LUGAR:Un & uacute;nico centro terciario de
+   referencia.PACIENTES:Se incluyeron 15 pacientes (edad media de 66,5 a &
+   ntilde;os; 53,5% mujeres); el 80% fueron diagnosticados principalmente
+   de c & aacute;ncer de recto, con predominio de la enfermedad en estadio
+   II-III (46,6%). La altura media del tumor desde el borde anal fue de 4
+   cm.INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la concordancia.
+   PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios incluyeron el
+   grado de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones del equipo
+   multidisciplinario, evaluadas en una escala de 1 (desacuerdo total) a 5
+   (acuerdo total), y la justificaci & oacute;n evaluada por tres cirujanos
+   colorrectales experimentados.RESULTADOS:Un chatbot de inteligencia
+   artificial generativa logr & oacute; una alta tasa de concordancia con
+   las decisiones del equipo multidisciplinario, con una calificaci &
+   oacute;n media de concordancia de 4,08. Las estrategias de tratamiento
+   del equipo multidisciplinario incluyeron terapia neoadyuvante para el
+   33,3% de los pacientes, cirug & iacute;a inicial para el 26,6% y
+   evaluaci & oacute;n diagn & oacute;stica adicional para el 20%. La
+   concordancia entre los evaluadores fue moderada (rango del coeficiente
+   kappa: 0,333 a 0,577), mientras que la concordancia en la justificaci &
+   oacute;n de las decisiones fue leve (rango del coeficiente kappa: 0,047
+   a 0,094).LIMITACIONES:Estudio retrospectivo con peque & ntilde;o tama &
+   ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un alto nivel de
+   concordancia entre las recomendaciones de un chatbot de inteligencia
+   artificial generativa y las decisiones de un equipo multidisciplinario
+   de c & aacute;ncer colorrectal, lo que sugiere el potencial de los
+   modelos extensos de lenguaje en apoyar la toma de decisiones cl &
+   iacute;nicas en el manejo del c & aacute;ncer anal y colorrectal.
+   (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI & Oacute;N ENTRE
+   RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE Y EL EQUIPO
+   MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN ESTUDIO
+   PILOTOANTECEDENTES:El manejo de los c & aacute;nceres anorrectales
+   requiere un enfoque de equipo multidisciplinario. Recientemente, se han
+   sugerido modelos extensos de lenguaje como herramientas potenciales para
+   diversas aplicaciones en la asistencia sanitaria.OBJETIVO:Evaluar las
+   recomendaciones de gesti & oacute;n sugeridos por un chatbot de
+   inteligencia artificial generativa con las de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal para evaluar la
+   aplicabilidad en entornos cl & iacute;nicos.DISE & Ntilde;O:Estudio
+   piloto comparativo entre las recomendaciones de gesti & oacute;n de un
+   chatbot de inteligencia artificial generativa con pacientes de c &
+   aacute;ncer anal o colorrectal y con las decisiones consensuadas hist &
+   oacute;ricas de reuniones de equipos multidisciplinarios.LUGAR:Un &
+   uacute;nico centro terciario de referencia.PACIENTES:Se incluyeron 15
+   pacientes (edad media de 66,5 a & ntilde;os; 53,5% mujeres); el 80%
+   fueron diagnosticados principalmente de c & aacute;ncer de recto, con
+   predominio de la enfermedad en estadio II-III (46,6%). La altura media
+   del tumor desde el borde anal fue de 4 cm.INTERVENCIONESUtilizando de un
+   chatbot de inteligencia artificial generativa, producimos
+   recomendaciones de manejo para cada paciente, que posteriormente se
+   compararon con las decisiones del equipo multidisciplinario hist &
+   oacute;rico para medir la concordancia.PRINCIPALES MEDIDAS DE
+   RESULTADO:Los resultados primarios incluyeron el grado de concordancia
+   entre las recomendaciones de un chatbot de inteligencia artificial
+   generativa y las decisiones del equipo multidisciplinario, evaluadas en
+   una escala de 1 (desacuerdo total) a 5 (acuerdo total), y la justificaci
+   & oacute;n evaluada por tres cirujanos colorrectales experimentados.
+   RESULTADOS:Un chatbot de inteligencia artificial generativa logr &
+   oacute; una alta tasa de concordancia con las decisiones del equipo
+   multidisciplinario, con una calificaci & oacute;n media de concordancia
+   de 4,08. Las estrategias de tratamiento del equipo multidisciplinario
+   incluyeron terapia neoadyuvante para el 33,3% de los pacientes, cirug &
+   iacute;a inicial para el 26,6% y evaluaci & oacute;n diagn &
+   oacute;stica adicional para el 20%. La concordancia entre los
+   evaluadores fue moderada (rango del coeficiente kappa: 0,333 a 0,577),
+   mientras que la concordancia en la justificaci & oacute;n de las
+   decisiones fue leve (rango del coeficiente kappa: 0,047 a
+   0,094).LIMITACIONES:Estudio retrospectivo con peque & ntilde;o tama &
+   ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un alto nivel de
+   concordancia entre las recomendaciones de un chatbot de inteligencia
+   artificial generativa y las decisiones de un equipo multidisciplinario
+   de c & aacute;ncer colorrectal, lo que sugiere el potencial de los
+   modelos extensos de lenguaje en apoyar la toma de decisiones cl &
+   iacute;nicas en el manejo del c & aacute;ncer anal y colorrectal.
+   (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI & Oacute;N ENTRE
+   RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE Y EL EQUIPO
+   MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN ESTUDIO
+   PILOTOANTECEDENTES:El manejo de los c & aacute;nceres anorrectales
+   requiere un enfoque de equipo multidisciplinario. Recientemente, se han
+   sugerido modelos extensos de lenguaje como herramientas potenciales para
+   diversas aplicaciones en la asistencia sanitaria.OBJETIVO:Evaluar las
+   recomendaciones de gesti & oacute;n sugeridos por un chatbot de
+   inteligencia artificial generativa con las de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal para evaluar la
+   aplicabilidad en entornos cl & iacute;nicos.DISE & Ntilde;O:Estudio
+   piloto comparativo entre las recomendaciones de gesti & oacute;n de un
+   chatbot de inteligencia artificial generativa con pacientes de c &
+   aacute;ncer anal o colorrectal y con las decisiones consensuadas hist &
+   oacute;ricas de reuniones de equipos multidisciplinarios.LUGAR:Un &
+   uacute;nico centro terciario de referencia.PACIENTES:Se incluyeron 15
+   pacientes (edad media de 66,5 a & ntilde;os; 53,5% mujeres); el 80%
+   fueron diagnosticados principalmente de c & aacute;ncer de recto, con
+   predominio de la enfermedad en estadio II-III (46,6%). La altura media
+   del tumor desde el borde anal fue de 4 cm.INTERVENCIONESUtilizando de un
+   chatbot de inteligencia artificial generativa, producimos
+   recomendaciones de manejo para cada paciente, que posteriormente se
+   compararon con las decisiones del equipo multidisciplinario hist &
+   oacute;rico para medir la concordancia.PRINCIPALES MEDIDAS DE
+   RESULTADO:Los resultados primarios incluyeron el grado de concordancia
+   entre las recomendaciones de un chatbot de inteligencia artificial
+   generativa y las decisiones del equipo multidisciplinario, evaluadas en
+   una escala de 1 (desacuerdo total) a 5 (acuerdo total), y la justificaci
+   & oacute;n evaluada por tres cirujanos colorrectales
+   experimentados.RESULTADOS:Un chatbot de inteligencia artificial
+   generativa logr & oacute; una alta tasa de concordancia con las
+   decisiones del equipo multidisciplinario, con una calificaci & oacute;n
+   media de concordancia de 4,08. Las estrategias de tratamiento del equipo
+   multidisciplinario incluyeron terapia neoadyuvante para el 33,3% de los
+   pacientes, cirug & iacute;a inicial para el 26,6% y evaluaci & oacute;n
+   diagn & oacute;stica adicional para el 20%.
+   La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un
+   alto nivel de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal, lo que sugiere el
+   potencial de los modelos extensos de lenguaje en apoyar la toma de
+   decisiones cl & iacute;nicas en el manejo del c & aacute;ncer anal y
+   colorrectal. (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI &
+   Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE
+   Y EL EQUIPO MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN
+   ESTUDIO PILOTOANTECEDENTES:El manejo de los c & aacute;nceres
+   anorrectales requiere un enfoque de equipo multidisciplinario.
+   Recientemente, se han sugerido modelos extensos de lenguaje como
+   herramientas potenciales para diversas aplicaciones en la asistencia
+   sanitaria.OBJETIVO:Evaluar las recomendaciones de gesti & oacute;n
+   sugeridos por un chatbot de inteligencia artificial generativa con las
+   de un equipo multidisciplinario de c & aacute;ncer colorrectal para
+   evaluar la aplicabilidad en entornos cl & iacute;nicos.DISE &
+   Ntilde;O:Estudio piloto comparativo entre las recomendaciones de gesti &
+   oacute;n de un chatbot de inteligencia artificial generativa con
+   pacientes de c & aacute;ncer anal o colorrectal y con las decisiones
+   consensuadas hist & oacute;ricas de reuniones de equipos
+   multidisciplinarios.LUGAR:Un & uacute;nico centro terciario de
+   referencia.PACIENTES:Se incluyeron 15 pacientes (edad media de 66,5 a &
+   ntilde;os; 53,5% mujeres); el 80% fueron diagnosticados principalmente
+   de c & aacute;ncer de recto, con predominio de la enfermedad en estadio
+   II-III (46,6%). La altura media del tumor desde el borde anal fue de 4
+   cm.INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la
+   concordancia.PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios
+   incluyeron el grado de concordancia entre las recomendaciones de un
+   chatbot de inteligencia artificial generativa y las decisiones del
+   equipo multidisciplinario, evaluadas en una escala de 1 (desacuerdo
+   total) a 5 (acuerdo total), y la justificaci & oacute;n evaluada por
+   tres cirujanos colorrectales experimentados.RESULTADOS:Un chatbot de
+   inteligencia artificial generativa logr & oacute; una alta tasa de
+   concordancia con las decisiones del equipo multidisciplinario, con una
+   calificaci & oacute;n media de concordancia de 4,08. Las estrategias de
+   tratamiento del equipo multidisciplinario incluyeron terapia
+   neoadyuvante para el 33,3% de los pacientes, cirug & iacute;a inicial
+   para el 26,6% y evaluaci & oacute;n diagn & oacute;stica adicional para
+   el 20%. La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.
+   CONCLUSIONES:Los hallazgos indican un alto nivel de concordancia entre
+   las recomendaciones de un chatbot de inteligencia artificial generativa
+   y las decisiones de un equipo multidisciplinario de c & aacute;ncer
+   colorrectal, lo que sugiere el potencial de los modelos extensos de
+   lenguaje en apoyar la toma de decisiones cl & iacute;nicas en el manejo
+   del c & aacute;ncer anal y colorrectal. (Traducci & oacute;n: Dr. Fidel
+   Ruiz Healy).COMPARACI & Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL
+   MODELO EXTENSO DE LENGUAJE Y EL EQUIPO MULTIDISCIPLINARIO DE C &
+   Aacute;NCER COLORRECTAL: UN ESTUDIO PILOTOANTECEDENTES:El manejo de los
+   c & aacute;nceres anorrectales requiere un enfoque de equipo
+   multidisciplinario. Recientemente, se han sugerido modelos extensos de
+   lenguaje como herramientas potenciales para diversas aplicaciones en la
+   asistencia sanitaria.OBJETIVO:Evaluar las recomendaciones de gesti &
+   oacute;n sugeridos por un chatbot de inteligencia artificial generativa
+   con las de un equipo multidisciplinario de c & aacute;ncer colorrectal
+   para evaluar la aplicabilidad en entornos cl & iacute;nicos.DISE &
+   Ntilde;O:Estudio piloto comparativo entre las recomendaciones de gesti &
+   oacute;n de un chatbot de inteligencia artificial generativa con
+   pacientes de c & aacute;ncer anal o colorrectal y con las decisiones
+   consensuadas hist & oacute;ricas de reuniones de equipos
+   multidisciplinarios.LUGAR:Un & uacute;nico centro terciario de
+   referencia.PACIENTES:Se incluyeron 15 pacientes (edad media de 66,5 a &
+   ntilde;os; 53,5% mujeres); el 80% fueron diagnosticados principalmente
+   de c & aacute;ncer de recto, con predominio de la enfermedad en estadio
+   II-III (46,6%). La altura media del tumor desde el borde anal fue de 4
+   cm.INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la
+   concordancia.PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios
+   incluyeron el grado de concordancia entre las recomendaciones de un
+   chatbot de inteligencia artificial generativa y las decisiones del
+   equipo multidisciplinario, evaluadas en una escala de 1 (desacuerdo
+   total) a 5 (acuerdo total), y la justificaci & oacute;n evaluada por
+   tres cirujanos colorrectales experimentados.RESULTADOS:Un chatbot de
+   inteligencia artificial generativa logr & oacute; una alta tasa de
+   concordancia con las decisiones del equipo multidisciplinario, con una
+   calificaci & oacute;n media de concordancia de 4,08. Las estrategias de
+   tratamiento del equipo multidisciplinario incluyeron terapia
+   neoadyuvante para el 33,3% de los pacientes, cirug & iacute;a inicial
+   para el 26,6% y evaluaci & oacute;n diagn & oacute;stica adicional para
+   el 20%. La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un
+   alto nivel de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal, lo que sugiere el
+   potencial de los modelos extensos de lenguaje en apoyar la toma de
+   decisiones cl & iacute;nicas en el manejo del c & aacute;ncer anal y
+   colorrectal. (Traducci & oacute;n: Dr. Fidel Ruiz Healy).
+   COMPARACI & Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO
+   DE LENGUAJE Y EL EQUIPO MULTIDISCIPLINARIO DE C & Aacute;NCER
+   COLORRECTAL: UN ESTUDIO PILOTOANTECEDENTES:El manejo de los c &
+   aacute;nceres anorrectales requiere un enfoque de equipo
+   multidisciplinario. Recientemente, se han sugerido modelos extensos de
+   lenguaje como herramientas potenciales para diversas aplicaciones en la
+   asistencia sanitaria.OBJETIVO:Evaluar las recomendaciones de gesti &
+   oacute;n sugeridos por un chatbot de inteligencia artificial generativa
+   con las de un equipo multidisciplinario de c & aacute;ncer colorrectal
+   para evaluar la aplicabilidad en entornos cl & iacute;nicos.DISE &
+   Ntilde;O:Estudio piloto comparativo entre las recomendaciones de gesti &
+   oacute;n de un chatbot de inteligencia artificial generativa con
+   pacientes de c & aacute;ncer anal o colorrectal y con las decisiones
+   consensuadas hist & oacute;ricas de reuniones de equipos
+   multidisciplinarios.LUGAR:Un & uacute;nico centro terciario de
+   referencia.PACIENTES:Se incluyeron 15 pacientes (edad media de 66,5 a &
+   ntilde;os; 53,5% mujeres); el 80% fueron diagnosticados principalmente
+   de c & aacute;ncer de recto, con predominio de la enfermedad en estadio
+   II-III (46,6%). La altura media del tumor desde el borde anal fue de 4
+   cm.INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la
+   concordancia.PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios
+   incluyeron el grado de concordancia entre las recomendaciones de un
+   chatbot de inteligencia artificial generativa y las decisiones del
+   equipo multidisciplinario, evaluadas en una escala de 1 (desacuerdo
+   total) a 5 (acuerdo total), y la justificaci & oacute;n evaluada por
+   tres cirujanos colorrectales experimentados.RESULTADOS:Un chatbot de
+   inteligencia artificial generativa logr & oacute; una alta tasa de
+   concordancia con las decisiones del equipo multidisciplinario, con una
+   calificaci & oacute;n media de concordancia de 4,08. Las estrategias de
+   tratamiento del equipo multidisciplinario incluyeron terapia
+   neoadyuvante para el 33,3% de los pacientes, cirug & iacute;a inicial
+   para el 26,6% y evaluaci & oacute;n diagn & oacute;stica adicional para
+   el 20%. La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un
+   alto nivel de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal, lo que sugiere el
+   potencial de los modelos extensos de lenguaje en apoyar la toma de
+   decisiones cl & iacute;nicas en el manejo del c & aacute;ncer anal y
+   colorrectal. (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI &
+   Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE
+   Y EL EQUIPO MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN
+   ESTUDIO PILOTOANTECEDENTES:El manejo de los c & aacute;nceres
+   anorrectales requiere un enfoque de equipo multidisciplinario.
+   Recientemente, se han sugerido modelos extensos de lenguaje como
+   herramientas potenciales para diversas aplicaciones en la asistencia
+   sanitaria.
+   OBJETIVO:Evaluar las recomendaciones de gesti & oacute;n sugeridos por
+   un chatbot de inteligencia artificial generativa con las de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal para evaluar la
+   aplicabilidad en entornos cl & iacute;nicos.DISE & Ntilde;O:Estudio
+   piloto comparativo entre las recomendaciones de gesti & oacute;n de un
+   chatbot de inteligencia artificial generativa con pacientes de c &
+   aacute;ncer anal o colorrectal y con las decisiones consensuadas hist &
+   oacute;ricas de reuniones de equipos multidisciplinarios.LUGAR:Un &
+   uacute;nico centro terciario de referencia.PACIENTES:Se incluyeron 15
+   pacientes (edad media de 66,5 a & ntilde;os; 53,5% mujeres); el 80%
+   fueron diagnosticados principalmente de c & aacute;ncer de recto, con
+   predominio de la enfermedad en estadio II-III (46,6%). La altura media
+   del tumor desde el borde anal fue de 4 cm.INTERVENCIONESUtilizando de un
+   chatbot de inteligencia artificial generativa, producimos
+   recomendaciones de manejo para cada paciente, que posteriormente se
+   compararon con las decisiones del equipo multidisciplinario hist &
+   oacute;rico para medir la concordancia.PRINCIPALES MEDIDAS DE
+   RESULTADO:Los resultados primarios incluyeron el grado de concordancia
+   entre las recomendaciones de un chatbot de inteligencia artificial
+   generativa y las decisiones del equipo multidisciplinario, evaluadas en
+   una escala de 1 (desacuerdo total) a 5 (acuerdo total), y la justificaci
+   & oacute;n evaluada por tres cirujanos colorrectales
+   experimentados.RESULTADOS:Un chatbot de inteligencia artificial
+   generativa logr & oacute; una alta tasa de concordancia con las
+   decisiones del equipo multidisciplinario, con una calificaci & oacute;n
+   media de concordancia de 4,08. Las estrategias de tratamiento del equipo
+   multidisciplinario incluyeron terapia neoadyuvante para el 33,3% de los
+   pacientes, cirug & iacute;a inicial para el 26,6% y evaluaci & oacute;n
+   diagn & oacute;stica adicional para el 20%. La concordancia entre los
+   evaluadores fue moderada (rango del coeficiente kappa: 0,333 a 0,577),
+   mientras que la concordancia en la justificaci & oacute;n de las
+   decisiones fue leve (rango del coeficiente kappa: 0,047 a
+   0,094).LIMITACIONES:Estudio retrospectivo con peque & ntilde;o tama &
+   ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un alto nivel de
+   concordancia entre las recomendaciones de un chatbot de inteligencia
+   artificial generativa y las decisiones de un equipo multidisciplinario
+   de c & aacute;ncer colorrectal, lo que sugiere el potencial de los
+   modelos extensos de lenguaje en apoyar la toma de decisiones cl &
+   iacute;nicas en el manejo del c & aacute;ncer anal y colorrectal.
+   (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI & Oacute;N ENTRE
+   RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE Y EL EQUIPO
+   MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN ESTUDIO
+   PILOTOANTECEDENTES:El manejo de los c & aacute;nceres anorrectales
+   requiere un enfoque de equipo multidisciplinario. Recientemente, se han
+   sugerido modelos extensos de lenguaje como herramientas potenciales para
+   diversas aplicaciones en la asistencia sanitaria.OBJETIVO:Evaluar las
+   recomendaciones de gesti & oacute;n sugeridos por un chatbot de
+   inteligencia artificial generativa con las de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal para evaluar la
+   aplicabilidad en entornos cl & iacute;nicos.DISE & Ntilde;O:Estudio
+   piloto comparativo entre las recomendaciones de gesti & oacute;n de un
+   chatbot de inteligencia artificial generativa con pacientes de c &
+   aacute;ncer anal o colorrectal y con las decisiones
+   LUGAR:Un & uacute;nico centro terciario de referencia.PACIENTES:Se
+   incluyeron 15 pacientes (edad media de 66,5 a & ntilde;os; 53,5%
+   mujeres); el 80% fueron diagnosticados principalmente de c & aacute;ncer
+   de recto, con predominio de la enfermedad en estadio II-III (46,6%). La
+   altura media del tumor desde el borde anal fue de 4
+   cm.INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la
+   concordancia.PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios
+   incluyeron el grado de concordancia entre las recomendaciones de un
+   chatbot de inteligencia artificial generativa y las decisiones del
+   equipo multidisciplinario, evaluadas en una escala de 1 (desacuerdo
+   total) a 5 (acuerdo total), y la justificaci & oacute;n evaluada por
+   tres cirujanos colorrectales experimentados.RESULTADOS:Un chatbot de
+   inteligencia artificial generativa logr & oacute; una alta tasa de
+   concordancia con las decisiones del equipo multidisciplinario, con una
+   calificaci & oacute;n media de concordancia de 4,08. Las estrategias de
+   tratamiento del equipo multidisciplinario incluyeron terapia
+   neoadyuvante para el 33,3% de los pacientes, cirug & iacute;a inicial
+   para el 26,6% y evaluaci & oacute;n diagn & oacute;stica adicional para
+   el 20%. La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un
+   alto nivel de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal, lo que sugiere el
+   potencial de los modelos extensos de lenguaje en apoyar la toma de
+   decisiones cl & iacute;nicas en el manejo del c & aacute;ncer anal y
+   colorrectal. (Traducci & oacute;n: Dr. Fidel Ruiz Healy).COMPARACI &
+   Oacute;N ENTRE RECOMENDACIONES DE MANEJO DEL MODELO EXTENSO DE LENGUAJE
+   Y EL EQUIPO MULTIDISCIPLINARIO DE C & Aacute;NCER COLORRECTAL: UN
+   ESTUDIO PILOTOANTECEDENTES:El manejo de los c & aacute;nceres
+   anorrectales requiere un enfoque de equipo multidisciplinario.
+   Recientemente, se han sugerido modelos extensos de lenguaje como
+   herramientas potenciales para diversas aplicaciones en la asistencia
+   sanitaria.OBJETIVO:Evaluar las recomendaciones de gesti & oacute;n
+   sugeridos por un chatbot de inteligencia artificial generativa con las
+   de un equipo multidisciplinario de c & aacute;ncer colorrectal para
+   evaluar la aplicabilidad en entornos cl & iacute;nicos.DISE &
+   Ntilde;O:Estudio piloto comparativo entre las recomendaciones de gesti &
+   oacute;n de un chatbot de inteligencia artificial generativa con
+   pacientes de c & aacute;ncer anal o colorrectal y con las decisiones
+   consensuadas hist & oacute;ricas de reuniones de equipos
+   multidisciplinarios.LUGAR:Un & uacute;nico centro terciario de
+   referencia.PACIENTES:Se incluyeron 15 pacientes (edad media de 66,5 a &
+   ntilde;os; 53,5% mujeres); el 80% fueron diagnosticados principalmente
+   de c & aacute;ncer de recto, con predominio de la enfermedad en estadio
+   II-III (46,6%). La altura media del tumor desde el borde anal fue de 4
+   cm.
+   INTERVENCIONESUtilizando de un chatbot de inteligencia artificial
+   generativa, producimos recomendaciones de manejo para cada paciente, que
+   posteriormente se compararon con las decisiones del equipo
+   multidisciplinario hist & oacute;rico para medir la
+   concordancia.PRINCIPALES MEDIDAS DE RESULTADO:Los resultados primarios
+   incluyeron el grado de concordancia entre las recomendaciones de un
+   chatbot de inteligencia artificial generativa y las decisiones del
+   equipo multidisciplinario, evaluadas en una escala de 1 (desacuerdo
+   total) a 5 (acuerdo total), y la justificaci & oacute;n evaluada por
+   tres cirujanos colorrectales experimentados.RESULTADOS:Un chatbot de
+   inteligencia artificial generativa logr & oacute; una alta tasa de
+   concordancia con las decisiones del equipo multidisciplinario, con una
+   calificaci & oacute;n media de concordancia de 4,08. Las estrategias de
+   tratamiento del equipo multidisciplinario incluyeron terapia
+   neoadyuvante para el 33,3% de los pacientes, cirug & iacute;a inicial
+   para el 26,6% y evaluaci & oacute;n diagn & oacute;stica adicional para
+   el 20%. La concordancia entre los evaluadores fue moderada (rango del
+   coeficiente kappa: 0,333 a 0,577), mientras que la concordancia en la
+   justificaci & oacute;n de las decisiones fue leve (rango del coeficiente
+   kappa: 0,047 a 0,094).LIMITACIONES:Estudio retrospectivo con peque &
+   ntilde;o tama & ntilde;o muestral.CONCLUSIONES:Los hallazgos indican un
+   alto nivel de concordancia entre las recomendaciones de un chatbot de
+   inteligencia artificial generativa y las decisiones de un equipo
+   multidisciplinario de c & aacute;ncer colorrectal, lo que sugiere el
+   potencial de los modelos extensos de lenguaje en apoyar la toma de
+   decisiones cl & iacute;nicas en el manejo del c & aacute;ncer anal y
+   colorrectal. (Traducci & oacute;n: Dr. Fidel Ruiz Healy).
+ZS 0
+ZA 0
+ZB 0
+ZR 0
+Z8 0
+TC 0
+Z9 0
+DA 2025-01-05
+UT WOS:001385242400023
+PM 39679608
+ER
+
+EF

@@ -509,7 +509,7 @@ def concurrence_matriz_keywords(df, columna_keywords='keywords'):
         for kw1, kw2 in combinations(sorted(kws_unicas_en_fila), 2): 
             matriz_coocurrencia.loc[kw1, kw2] += 1
             matriz_coocurrencia.loc[kw2, kw1] += 1 
-            
+
     return matriz_coocurrencia
 
 
@@ -544,4 +544,141 @@ def detect_keywords(row, keyword_dict):
 
 
 
+
+def parse_wos_file(filepath):
+    """
+    parseo wos
+
+    Args:
+        filepath: .txt.
+
+    Returns:
+       panda parseadp.
+    """
+
+    # mapeo de etiquetas WOS a nombres de columnas
+    wos_tag_mapping = {
+        'PT': 'Publication Type',
+        'AU': 'authors',
+        'BA': 'Book Authors',
+        'BF': 'Book First Name',
+        'CA': 'Group Authors',
+        'GP': 'Book Group Authors',
+        'AF': 'Author Full Names',
+        'SA': 'Suffixes',
+        'EM': 'E-mail Addresses',
+        'EP': 'Editors',
+        'BP': 'Book Editors',
+        'ED': 'Editors',
+        'PU': 'Publisher',
+        'PI': 'Publisher City',
+        'PA': 'Publisher Address',
+        'SC': 'Subject Category',
+        'DE': 'Author Keywords',
+        'ID': 'Keywords Plus',
+        'AB': 'summary',
+        'C1': 'Author Address',
+        'RP': 'Reprint Address',
+        'FX': 'Funding Details',
+        'CR': 'Cited References',
+        'NR': 'Cited Reference Count',
+        'TC': 'Times Cited',
+        'Z9': 'Total Times Cited', 
+        'U1': 'Usage Count (Last 5 Years)',
+        'U2': 'Usage Count (Since 2013)',
+        'SO': 'Source Title',
+        'SE': 'Series Title',
+        'BS': 'Book Series Subtitle',
+        'LA': 'Language',
+        'DT': 'Document Type',
+        'CT': 'Conference Title',
+        'CY': 'Conference Date',
+        'CL': 'Conference Location',
+        'SP': 'Conference Sponsor',
+        'J9': '29-Character Source Title',
+        'JI': 'ISO Source Title',
+        'PD': 'Publication Date',
+        'PY': 'Publication Year',
+        'VL': 'Volume',
+        'IS': 'Issue',
+        'PN': 'Part Number',
+        'SU': 'Supplement',
+        'SI': 'Special Issue',
+        'BP': 'Beginning Page',
+        'EP': 'Ending Page',
+        'AR': 'Article Number',
+        'PG': 'Page Count',
+        'GA': 'Document Delivery Number',
+        'UT': 'Unique Article Identifier', 
+        'DA': 'Date Processed',
+        'OA': 'Open Access Indicator',
+        'TI': 'title',
+        'SR': 'Source Research Area',
+        'WC': 'Web of Science Categories',
+        'UT': 'Accession Number', 
+        'ER': 'End of Record', 
+        'EF': 'End of File' 
+    }
+
+    records = []
+    current_record = {}
+    current_tag = None
+
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue # 
+                parts = line.split(' ', 1)
+                if len(parts) > 1 and parts[0] in wos_tag_mapping:
+
+                    tag = parts[0]
+                    content = parts[1].strip()
+
+                    if tag == 'PT' and current_record:
+
+                        records.append(current_record)
+                        current_record = {}
+
+                    current_tag = wos_tag_mapping[tag]
+                    current_record[current_tag] = content
+
+                elif current_tag is not None and line:
+
+                    current_record[current_tag] += ' ' + line
+
+
+                if line == 'ER':
+                    if current_record:
+                        records.append(current_record)
+                        current_record = {}
+                        current_tag = None 
+
+
+                if line == 'EF':
+                    break
+
+
+        if current_record:
+             records.append(current_record)
+
+
+
+        df = pd.DataFrame(records)
+
+ 
+        for col in df.columns:
+            if df[col].dtype == 'object':
+                df[col] = df[col].str.strip()
+
+        print(f"Successfully parsed {len(records)} records from {filepath}")
+        return df
+
+    except FileNotFoundError:
+        print(f"Error: File not found at {filepath}")
+        return pd.DataFrame()
+    except Exception as e:
+        print(f"An error occurred during parsing: {e}")
+        return pd.DataFrame()
 

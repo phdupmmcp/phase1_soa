@@ -1,0 +1,4196 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Alberts, Ian L.
+   Mercolli, Lorenzo
+   Pyka, Thomas
+   Prenosil, George
+   Shi, Kuangyu
+   Rominger, Axel
+   Afshar-Oromieh, Ali
+TI Large language models (LLM) and ChatGPT: what will the impact on nuclear
+   medicine be?
+SO EUROPEAN JOURNAL OF NUCLEAR MEDICINE AND MOLECULAR IMAGING
+VL 50
+IS 6
+BP 1549
+EP 1552
+DI 10.1007/s00259-023-06172-w
+EA MAR 2023
+DT Editorial Material
+PD MAY 2023
+PY 2023
+ZA 0
+ZR 0
+ZS 0
+Z8 4
+ZB 14
+TC 96
+Z9 103
+DA 2023-03-28
+UT WOS:000946484400002
+PM 36892666
+ER
+
+PT J
+AU Choi, Hongyoon
+   Lee, Dongjoo
+   Kang, Yeon-koo
+   Suh, Minseok
+TI Empowering PET imaging reporting with retrieval-augmented large language
+   models and reading reports database: a pilot single center study
+SO EUROPEAN JOURNAL OF NUCLEAR MEDICINE AND MOLECULAR IMAGING
+VL 52
+IS 7
+BP 2452
+EP 2462
+DI 10.1007/s00259-025-07101-9
+EA JAN 2025
+DT Article
+PD JUN 2025
+PY 2025
+AB PurposeThe potential of Large Language Models (LLMs) in enhancing a
+   variety of natural language tasks in clinical fields includes medical
+   imaging reporting. This pilot study examines the efficacy of a
+   retrieval-augmented generation (RAG) LLM system considering zero-shot
+   learning capability of LLMs, integrated with a comprehensive database of
+   PET reading reports, in improving reference to prior reports and
+   decision making.MethodsWe developed a custom LLM framework with
+   retrieval capabilities, leveraging a database of over 10 years of PET
+   imaging reports from a single center. The system uses vector space
+   embedding to facilitate similarity-based retrieval. Queries prompt the
+   system to generate context-based answers and identify similar cases or
+   differential diagnoses. From routine clinical PET readings, experienced
+   nuclear medicine physicians evaluated the performance of system in terms
+   of the relevance of queried similar cases and the appropriateness score
+   of suggested potential diagnoses.ResultsThe system efficiently organized
+   embedded vectors from PET reports, showing that imaging reports were
+   accurately clustered within the embedded vector space according to the
+   diagnosis or PET study type. Based on this system, a proof-of-concept
+   chatbot was developed and showed the framework's potential in
+   referencing reports of previous similar cases and identifying exemplary
+   cases for various purposes. From routine clinical PET readings, 84.1% of
+   the cases retrieved relevant similar cases, as agreed upon by all three
+   readers. Using the RAG system, the appropriateness score of the
+   suggested potential diagnoses was significantly better than that of the
+   LLM without RAG. Additionally, it demonstrated the capability to offer
+   differential diagnoses, leveraging the vast database to enhance the
+   completeness and precision of generated reports.ConclusionThe
+   integration of RAG LLM with a large database of PET imaging reports
+   suggests the potential to support clinical practice of nuclear medicine
+   imaging reading by various tasks of AI including finding similar cases
+   and deriving potential diagnoses from them. This study underscores the
+   potential of advanced AI tools in transforming medical imaging reporting
+   practices.
+ZR 0
+Z8 0
+TC 1
+ZS 0
+ZB 0
+ZA 0
+Z9 1
+DA 2025-01-25
+UT WOS:001401835700001
+PM 39843863
+ER
+
+PT J
+AU Bhayana, Rajesh
+   Alwahbi, Omar
+   Ladak, Aly Muhammad
+   Deng, Yangqing
+   Dias, Adriano Basso
+   Elbanna, Khaled
+   Gomez, Jorge Abreu
+   Jajodia, Ankush
+   Jhaveri, Kartik
+   Johnson, Sarah
+   Kajal, Dilkash
+   Wang, David
+   Soong, Christine
+   Kielar, Ania
+   Krishna, Satheesh
+TI Leveraging Large Language Models to Generate Clinical Histories for
+   Oncologic Imaging Requisitions
+SO RADIOLOGY
+VL 314
+IS 2
+AR e242134
+DI 10.1148/radiol.242134
+DT Article
+PD FEB 2025
+PY 2025
+AB Background: Clinical information improves imaging interpretation, but
+   physician-provided histories on requisitions for oncologic imaging often
+   lack key details. Purpose: To evaluate large language models (LLMs) for
+   automatically generating clinical histories for oncologic imaging
+   requisitions from clinical notes and compare them with original
+   requisition histories. Materials and Methods: In total, 207 patients
+   with CT performed at a cancer center from January to November 2023 and
+   with an electronic health record clinical note coinciding with ordering
+   date were randomly selected. A multidisciplinary team informed selection
+   of 10 parameters important for oncologic imaging history, including
+   primary oncologic diagnosis, treatment history, and acute symptoms.
+   Clinical notes were independently reviewed to establish the reference
+   standard regarding presence of each parameter. After prompt engineering
+   with seven patients, GPT-4 (version 0613; OpenAI) was prompted on April
+   9, 2024, to automatically generate structured clinical histories for the
+   200 remaining patients. Using the reference standard, LLM extraction
+   performance was calculated (recall, precision, F1 score). LLM-generated
+   and original requisition histories were compared for completeness
+   (proportion including each parameter), and 10 radiologists performed
+   pairwise comparison for quality, preference, and subjective likelihood
+   of harm. Results: For the 200 LLM-generated histories, GPT-4 performed
+   well, extracting oncologic parameters from clinical notes (F1 = 0.983).
+   Compared with original requisition histories, LLM-generated histories
+   more frequently included parameters critical for radiologist
+   interpretation, including primary oncologic diagnosis (99.5% vs 89% [199
+   and 178 of 200 histories, respectively]; P < .001), acute or worsening
+   symptoms (15% vs 4% [29 and seven of 200]; P < .001), and relevant
+   surgery (61% vs 12% [122 and 23 of 200]; P < .001). Radiologists
+   preferred LLM-generated histories for imaging interpretation (89% vs 5%,
+   7% equal; P < .001), indicating they would enable more complete
+   interpretation (86% vs 0%, 15% equal; P < .001) and have a lower
+   likelihood of harm (3% vs 55%, 42% neither; P < .001). Conclusion: An
+   LLM enabled accurate automated clinical histories for oncologic imaging
+   from clinical notes. Compared with original requisition histories,
+   LLM-generated histories were more complete and were preferred by
+   radiologists for imaging interpretation and perceived safety.
+ZA 0
+Z8 0
+ZR 0
+ZB 0
+ZS 0
+TC 1
+Z9 1
+DA 2025-03-08
+UT WOS:001434851700023
+PM 39903072
+ER
+
+PT J
+AU Rosskopf, Steffen
+   Meder, Benjamin
+TI Healthcare 4.0-Medizin im Wandel
+SO HERZ
+VL 49
+IS 5
+BP 350
+EP 354
+DI 10.1007/s00059-024-05267-w
+EA AUG 2024
+DT Review
+PD OCT 2024
+PY 2024
+AB Healthcare 4.0 describes the future transformation of the healthcare
+   sector driven by the combination of digital technologies, such as
+   artificial intelligence (AI), big data and the Internet of Medical
+   Things, enabling the advancement of precision medicine. This overview
+   article addresses various areas such as large language models (LLM),
+   diagnostics and robotics, shedding light on the positive aspects of
+   Healthcare 4.0 and showcasing exciting methods and application examples
+   in cardiology. It delves into the broad knowledge base and enormous
+   potential of LLMs, highlighting their immediate benefits as digital
+   assistants or for administrative tasks. In diagnostics, the increasing
+   usefulness of wearables is emphasized and an AI for predicting heart
+   filling pressures based on cardiac magnetic resonance imaging (MRI) is
+   introduced. Additionally, it discusses the revolutionary methodology of
+   a digital simulation of the physical heart (digital twin). Finally, it
+   addresses both regulatory frameworks and a brief vision of data-driven
+   healthcare delivery, explaining the need for investments in technical
+   personnel and infrastructure to achieve a more effective medicine.
+Z8 0
+ZB 0
+ZS 0
+ZA 0
+TC 0
+ZR 0
+Z9 0
+DA 2024-08-14
+UT WOS:001287384100001
+PM 39115627
+ER
+
+PT J
+AU Anokye, Reindolf
+   Dalla Via, Jack
+   Dimmock, James
+   Jackson, Ben
+   Schultz, Carl
+   Schaeffer, Mie
+   Dickson, Joanne M.
+   Blekkenhorst, Lauren C.
+   Stanley, Mandy
+   Hodgson, Jonathan M.
+   Lewis, Joshua R.
+TI Impact of Cardiovascular Imaging Results on Medication Use and
+   Adherence: A Systematic Review and Meta-Analysis
+SO AMERICAN JOURNAL OF PREVENTIVE MEDICINE
+VL 67
+IS 4
+BP 606
+EP 617
+DI 10.1016/j.amepre.2024.06.008
+EA SEP 2024
+DT Review
+PD OCT 2024
+PY 2024
+AB Introduction: Cardiovascular imaging results offer valuable
+   information that can guide health decisions, but their impact on
+   medication use and adherence is unclear. This systematic review and
+   meta-analysis aimed to determine the downstream impact of cardiovascular
+   imaging results on medication use and adherence. Methods:
+   Searches were conducted across databases, including MEDLINE,
+   PsychINFO, EMBASE, and relevant references up to 2024. Data were
+   extracted from studies comparing outcomes for individuals with diseased
+   versus normal arteries and trials comparing outcomes for individuals who
+   were provided imaging results versus those with no access to imaging
+   results and analysed in 2023 and 2024. Pooled odds ratios (ORs) for
+   outcomes were calculated. Results: The analysis included 29
+   studies with 24 contributing data points. Initiation (OR:2.77;95%
+   CI:1.82-4.20) and continuation (OR:2.06;95% CI:1.28-3.30) of
+   lipid-lowering medications (LLMs), antihypertensives (OR:2.02;95%
+   CI:1.76-2.33), and antiplatelets (OR:2.47;95% CI:1.68-3.64) were
+   significantly higher in individuals with diseased arteries. The
+   proportion of individuals on LLM increased by 2.7-fold in those with
+   diseased arteries and 1.5-fold in those with normal arteries
+   post-screening. The proportion on LLM increased by 4.2 times in the
+   imaging group and 2.2 times in the "no imaging group" post-screening.
+   There was a significant increase in LLM initiation (OR:2.37;95% CI:
+   1.17-4.79) in the imaging group, but medication continuation did not
+   significantly differ between the imaging and "no imaging group".
+   Discussion: Cardiovascular imaging results can prompt
+   initiation of medications, particularly lipid-lowering medications,
+   reflecting a proactive response to identified risk factors. However,
+   evidence regarding medication continuation is mixed, and further
+   research is required.
+ZS 0
+ZA 0
+Z8 0
+ZR 0
+ZB 1
+TC 1
+Z9 1
+DA 2024-09-29
+UT WOS:001318960800001
+PM 38876293
+ER
+
+PT J
+AU Wu, Shao-Hong
+   Tong, Wen-Juan
+   Li, Ming-De
+   Hu, Hang-Tong
+   Lu, Xiao-Zhou
+   Huang, Ze-Rong
+   Lin, Xin-Xin
+   Lu, Rui-Fang
+   Lu, Ming-De
+   Chen, Li-Da
+   Wang, Wei
+TI Collaborative Enhancement of Consistency and Accuracy in US Diagnosis of
+   Thyroid Nodules Using Large Language Models
+SO RADIOLOGY
+VL 310
+IS 3
+AR e232255
+DI 10.1148/radiol.232255
+DT Article
+PD MAR 2024
+PY 2024
+AB Background: Large language models (LLMs) hold substantial promise for
+   medical imaging interpretation. However, there is a lack of studies on
+   their feasibility in handling reasoning questions associated with
+   medical diagnosis. Purpose: To investigate the viability of leveraging
+   three publicly available LLMs to enhance consistency and diagnostic
+   accuracy in medical imaging based on standardized reporting, with
+   pathology as the reference standard. Materials and Methods: US images of
+   thyroid nodules with pathologic results were retrospectively collected
+   from a tertiary referral hospital between July 2022 and December 2022
+   and used to evaluate malignancy diagnoses generated by three
+   LLMs-OpenAI's ChatGPT 3.5, ChatGPT 4.0, and Google's Bard. Inter- and
+   intra-LLM agreement of diagnosis were evaluated. Then, diagnostic
+   performance, including accuracy, sensitivity, specificity, and area
+   under the receiver operating characteristic curve (AUC), was evaluated
+   and compared for the LLMs and three interactive approaches: human reader
+   combined with LLMs, image -to -text model combined with LLMs, and an end
+   -to -end convolutional neural network model. Results: A total of 1161 US
+   images of thyroid nodules (498 benign, 663 malignant) from 725 patients
+   (mean age, 42.2 years +/- 14.1 [SD]; 516 women) were evaluated. ChatGPT
+   4.0 and Bard displayed substantial to almost perfect intra-LLM agreement
+   (kappa range, 0.65-0.86 [95% CI: 0.64, 0.86]), while ChatGPT 3.5 showed
+   fair to substantial agreement (kappa range, 0.36-0.68 [95% CI: 0.36,
+   0.68]). ChatGPT 4.0 had an accuracy of 78%-86% (95% CI: 76%, 88%) and
+   sensitivity of 86%-95% (95% CI: 83%, 96%), compared with 74%-86% (95%
+   CI: 71%, 88%) and 74%-91% (95% CI: 71%, 93%), respectively, for Bard.
+   Moreover, with ChatGPT 4.0, the image-to-text-LLM strategy exhibited an
+   AUC (0.83 [95% CI: 0.80, 0.85]) and accuracy (84% [95% CI: 82%, 86%])
+   comparable to those of the human-LLM interaction strategy with two
+   senior readers and one junior reader and exceeding those of the
+   human-LLM interaction strategy with one junior reader. Conclusion: LLMs,
+   particularly integrated with image -to -text approaches, show potential
+   in enhancing diagnostic medical imaging. ChatGPT 4.0 was optimal for
+   consistency and diagnostic accuracy when compared with Bard and ChatGPT
+   3.5. (c) RSNA, 2024 Supplemental material is available for this article.
+Z8 3
+ZA 0
+ZR 0
+TC 23
+ZB 3
+ZS 0
+Z9 25
+DA 2024-06-21
+UT WOS:001208969200035
+PM 38470237
+ER
+
+PT J
+AU Wada, Akihiko
+   Akashi, Toshiaki
+   Shih, George
+   Hagiwara, Akifumi
+   Nishizawa, Mitsuo
+   Hayakawa, Yayoi
+   Kikuta, Junko
+   Shimoji, Keigo
+   Sano, Katsuhiro
+   Kamagata, Koji
+   Nakanishi, Atsushi
+   Aoki, Shigeki
+TI Optimizing GPT-4 Turbo Diagnostic Accuracy in Neuroradiology through
+   Prompt Engineering and Confidence Thresholds
+SO DIAGNOSTICS
+VL 14
+IS 14
+AR 1541
+DI 10.3390/diagnostics14141541
+DT Article
+PD JUL 2024
+PY 2024
+AB Background and Objectives: Integrating large language models (LLMs) such
+   as GPT-4 Turbo into diagnostic imaging faces a significant challenge,
+   with current misdiagnosis rates ranging from 30-50%. This study
+   evaluates how prompt engineering and confidence thresholds can improve
+   diagnostic accuracy in neuroradiology. Methods: We analyze 751
+   neuroradiology cases from the American Journal of Neuroradiology using
+   GPT-4 Turbo with customized prompts to improve diagnostic precision.
+   Results: Initially, GPT-4 Turbo achieved a baseline diagnostic accuracy
+   of 55.1%. By reformatting responses to list five diagnostic candidates
+   and applying a 90% confidence threshold, the highest precision of the
+   diagnosis increased to 72.9%, with the candidate list providing the
+   correct diagnosis at 85.9%, reducing the misdiagnosis rate to 14.1%.
+   However, this threshold reduced the number of cases that responded.
+   Conclusions: Strategic prompt engineering and high confidence thresholds
+   significantly reduce misdiagnoses and improve the precision of the LLM
+   diagnostic in neuroradiology. More research is needed to optimize these
+   approaches for broader clinical implementation, balancing accuracy and
+   utility.
+Z8 0
+ZS 0
+ZR 0
+ZA 0
+TC 5
+ZB 0
+Z9 5
+DA 2024-08-01
+UT WOS:001276606000001
+PM 39061677
+ER
+
+PT J
+AU MacKay, Emily J.
+   Goldfinger, Shir
+   Chan, Trevor J.
+   Grasfield, Rachel H.
+   Eswar, Vikram J.
+   Li, Kelly
+   Cao, Quy
+   Pouch, Alison M.
+TI Automated structured data extraction from intraoperative
+   echocardiography reports using large language models
+SO BRITISH JOURNAL OF ANAESTHESIA
+VL 134
+IS 5
+BP 1308
+EP 1317
+DI 10.1016/j.bja.2025.01.028
+EA APR 2025
+DT Article
+PD MAY 2025
+PY 2025
+AB Background: Consensus-based large language model (LLM) ensembles might
+   provide an automated solution for extracting structured data from
+   unstructured text in echocardiography reports. Methods: This
+   cross-sectional study utilised 600 intraoperative transoesophageal
+   reports (100 for prompt engineering; 500 for testing) randomly sampled
+   from 7106 adult patients undergoing cardiac surgery at two hospitals
+   within the University of Pennsylvania Healthcare System. Three
+   echocardiographic parameters (left ventricular ejection fraction, right
+   ventricular systolic function, and tricuspid regurgitation) were
+   extracted from both the presurgical and postsurgical sections of the
+   reports. LLM ensembles were generated using five open-source LLMs and
+   four voting strategies: (1) unanimous (five out of five in agreement);
+   (2) supermajority (four or more of five in agreement); (3) majority
+   (three or more of five in agreement); and (4) plurality (two or more of
+   five in agreement). Returned LLM ensemble responses were compared with
+   the reference standard dataset to calculate raw accuracy, consensus
+   accuracy, error rate, and yield. Results: Of the four LLM ensembles, the
+   unanimous LLM ensemble achieved the highest consensus accuracies (99.4%
+   presurgical; 97.9% postsurgical) and the lowest error rates (0.6%
+   presurgical; 2.1% postsurgical) but had the lowest data extraction
+   yields (81.7% presurgical; 80.5% postsurgical) and the lowest raw
+   accuracies (81.2% presurgical; 78.9% postsurgical). In contrast, the
+   plurality LLM ensemble achieved the highest raw accuracies (96.1%
+   presurgical; 93.7% postsurgical) and the highest data extraction yields
+   (99.4% presurgical; 98.9% postsurgical) but had the lowest consensus
+   accuracies (96.7% presurgical; 94.7% postsurgical) and highest error
+   rates (3.3% presurgical; 5.3% postsurgical). Conclusions: A
+   consensus-based LLM ensemble successfully generated structured data from
+   unstructured text contained in intraoperative transoesophageal reports.
+Z8 0
+ZB 0
+ZR 0
+ZS 0
+TC 0
+ZA 0
+Z9 0
+DA 2025-05-07
+UT WOS:001477112200001
+PM 40037947
+ER
+
+PT J
+AU Wong, Tien Y.
+   Tham, Yih Chung
+   Guan, Zhouyu
+   Li, Jiajia
+   Cheung, Carol
+   Zheng, Yingfeng
+   Keane, Pearse Andrew
+   Cheng, Ching-Yu
+   Tan, Gavin S.
+   Sheng, Bin
+   Wong, Tien Y.
+   Tham, Yih Chung
+   Guan, Zhouyu
+   Li, Jiajia
+   Cheung, Carol
+   Zheng, Yingfeng
+   Keane, Pearse Andrew
+   Cheng, Ching-Yu
+   Tan, Gavin S.
+   Sheng, Bin
+TI An Integrated Image-based Deep Learning and Language Models for Diabetic
+   Retinopathy: A Multi-Stage Development, Testing and Prospective
+   Comparative Study
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+MA 4926
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+Z8 0
+ZS 0
+ZB 0
+ZA 0
+ZR 0
+TC 0
+Z9 0
+DA 2024-11-30
+UT WOS:001313316204205
+ER
+
+PT J
+AU Arnold, Philipp
+   Henkel, Maurice
+   Bamberg, Fabian
+   Kotter, Elmar
+TI Integration of large language models into the clinic. Revolution in
+   analysing and processing patient data to increase efficiency and quality
+   in radiology
+SO RADIOLOGIE
+DI 10.1007/s00117-025-01431-3
+EA MAR 2025
+DT Review; Early Access
+PY 2025
+AB BackgroundLarge Language Models (LLMs) like ChatGPT, Llama and Claude
+   are transforming healthcare by interpreting complex text, extracting
+   information, and providing guideline-based support. Radiology, with its
+   high patient volume and digital workflows, is a ideal field for LLM
+   integration. ObjectiveAssessment of the potential of LLMs to enhance
+   efficiency, standardization, and decision support in radiology, while
+   addressing ethical and regulatory challenges. Material and methodsPilot
+   studies at Freiburg and Basel university hospitals evaluated local LLM
+   systems for tasks like prior report summarization and guideline-driven
+   reporting. Integration with Picture Archiving and Communication System
+   (PACS) and Electronic Health Record (EHR) systems was achieved via
+   Digital Imaging and Communications in Medicine (DICOM) and Fast
+   Healthcare Interoperability Resources (FHIR) standards. Metrics included
+   time savings, compliance with the European Union (EU) Artificial
+   Intelligence (AI) Act, and user acceptance. ResultsLLMs demonstrate
+   significant potential as a support tool for radiologists in clinical
+   practice by reducing reporting times, automating routine tasks, and
+   ensuring consistent, high-quality results. They also support
+   interdisciplinary workflows (e.g., tumor boards) and meet data
+   protection requirements when locally implemented. DiscussionLocal LLM
+   systems are feasible and beneficial in radiology, enhancing efficiency
+   and diagnostic quality. Future work should refine transparency, expand
+   applications, and ensure LLMs complement medical expertise while
+   adhering to ethical and legal standards.
+ZS 0
+ZA 0
+Z8 0
+ZR 0
+TC 0
+ZB 0
+Z9 0
+DA 2025-03-26
+UT WOS:001442977100001
+PM 40072530
+ER
+
+PT J
+AU Zhong, Jingyu
+   Xing, Yue
+   Hu, Yangfan
+   Lu, Junjie
+   Yang, Jiarui
+   Zhang, Guangcheng
+   Mao, Shiqi
+   Chen, Haoda
+   Yin, Qian
+   Cen, Qingqing
+   Jiang, Run
+   Chu, Jingshen
+   Song, Yang
+   Lu, Minda
+   Ding, Defang
+   Ge, Xiang
+   Zhang, Huan
+   Yao, Weiwu
+TI The policies on the use of large language models in radiological
+   journals are lacking: a meta-research study
+SO INSIGHTS INTO IMAGING
+VL 15
+IS 1
+AR 186
+DI 10.1186/s13244-024-01769-7
+DT Article
+PD AUG 1 2024
+PY 2024
+AB Objective To evaluate whether and how the radiological journals present
+   their policies on the use of large language models (LLMs), and identify
+   the journal characteristic variables that are associated with the
+   presence. Methods In this meta-research study, we screened Journals from
+   the Radiology, Nuclear Medicine and Medical Imaging Category, 2022
+   Journal Citation Reports, excluding journals in non-English languages
+   and relevant documents unavailable. We assessed their LLM use policies:
+   (1) whether the policy is present; (2) whether the policy for the
+   authors, the reviewers, and the editors is present; and (3) whether the
+   policy asks the author to report the usage of LLMs, the name of LLMs,
+   the section that used LLMs, the role of LLMs, the verification of LLMs,
+   and the potential influence of LLMs. The association between the
+   presence of policies and journal characteristic variables was evaluated.
+   Results The LLM use policies were presented in 43.9% (83/189) of
+   journals, and those for the authors, the reviewers, and the editor were
+   presented in 43.4% (82/189), 29.6% (56/189) and 25.9% (49/189) of
+   journals, respectively. Many journals mentioned the aspects of the usage
+   (43.4%, 82/189), the name (34.9%, 66/189), the verification (33.3%,
+   63/189), and the role (31.7%, 60/189) of LLMs, while the potential
+   influence of LLMs (4.2%, 8/189), and the section that used LLMs (1.6%,
+   3/189) were seldomly touched. The publisher is related to the presence
+   of LLM use policies (p < 0.001). Conclusion The presence of LLM use
+   policies is suboptimal in radiological journals. A reporting guideline
+   is encouraged to facilitate reporting quality and transparency. Critical
+   relevance statementIt may facilitate the quality and transparency of the
+   use of LLMs in scientific writing if a shared complete reporting
+   guideline is developed by stakeholders and then endorsed by journals.
+ZR 0
+Z8 0
+ZB 1
+ZA 0
+ZS 0
+TC 4
+Z9 4
+DA 2024-08-10
+UT WOS:001282913400001
+PM 39090273
+ER
+
+PT J
+AU Zhong, Jiayang
+   Sehgal, Kanika
+   Hickey, Kyle
+   Mohammad, Aziza
+   Robinson, Stephen
+   Farrell, James J.
+   Shung, Dennis
+TI A LOCAL LARGE LANGUAGE MODEL PIPELINE AUTOMATICALLY RISK STRATIFIES
+   PANCREATIC CYSTS FOR POPULATION HEALTH MANAGEMENT FROM SERIAL RADIOLOGY
+   REPORTS
+SO GASTROENTEROLOGY
+VL 166
+IS 5
+MA Su1183
+BP S687
+EP S687
+SU S
+DT Meeting Abstract
+PD MAY 2024
+PY 2024
+CT Digestive Disease Week (DDW)
+CY MAY 18-21, 2024
+CL Washington, DC
+ZA 0
+ZS 0
+Z8 0
+ZB 0
+TC 0
+ZR 0
+Z9 0
+DA 2024-10-30
+UT WOS:001282837702549
+ER
+
+PT J
+AU Bhayana, Rajesh
+   Jajodia, Ankush
+   Chawla, Tanya
+   Deng, Yangqing
+   Bouchard-Fortier, Genevieve
+   Haider, Masoom
+   Krishna, Satheesh
+TI Accuracy of Large Language Model-based Automatic Calculation of
+   Ovarian-Adnexal Reporting and Data System MRI Scores from Pelvic MRI
+   Reports
+SO RADIOLOGY
+VL 315
+IS 1
+AR e241554
+DI 10.1148/radiol.241554
+DT Article
+PD APR 2025
+PY 2025
+AB Background: Ovarian-Adnexal Reporting and Data System (O-RADS) for MRI
+   helps assign malignancy risk, but radiologist adoption is inconsistent.
+   Automatic assignment of O-RADS scores from reports could increase
+   adoption and accuracy. Purpose: To evaluate the accuracy of large
+   language models (LLMs), after strategic optimization, for automatically
+   calculating O-RADS scores from reports. Materials and Methods: This
+   retrospective single-center study from a large quaternary care cancer
+   center included consecutive gadolinium chelate-enhanced pelvic MRI
+   reports with at least one assigned O-RADS score from July 2021 to
+   October 2023. Reports from January 2018 to October 2019 (before O-RADS
+   MRI implementation) were randomly selected for additional testing.
+   Reference standard O-RADS scores were determined by radiologists
+   interpreting reports. After prompt optimization using a subset of
+   reports, two LLM-based strategies were evaluated: few-shot learning with
+   GPT-4 (version 0613; OpenAI) prompted with O-RADS rules ("LLM only") and
+   a hybrid strategy leveraging GPT-4 to classify features fed into a
+   deterministic formula ("hybrid"). Accuracy of each model and originally
+   reported scores were calculated and compared using the McNemar test.
+   Results: A total of 284 reports from 284 female patients (mean age, 53.2
+   years +/- 16.3 [SD]) with 372 adnexal lesions were included: 10 reports
+   in the training set (16 lesions), 134 reports in the internal test set 1
+   (173 lesions; 158 O-RADS assigned), and 140 reports in internal test set
+   2 (183 lesions). For assigning O-RADS MRI scores, the hybrid model
+   accuracy (97%; 168 of 173) outperformed LLM-only model (90%; 155 of 173;
+   P = .006). For lesions with an originally reported O-RADS score, hybrid
+   model accuracy exceeded that of reporting radiologists (97% [153 of 158]
+   vs 88% [139 of 158]; P = .004). Hybrid model also outperformed LLM-only
+   model for 183 lesions from before O-RADS implementation (95% [173 of
+   183] vs 87% [159 of 183], respectively; P = .01). Conclusion: A hybrid
+   LLM-based application, combining LLM feature classification with
+   deterministic elements, accurately assigned O-RADS MRI scores from
+   report descriptions, exceeding both an LLM-only strategy and the
+   original reporting radiologist. (c) RSNA, 2025
+ZR 0
+ZS 0
+TC 1
+ZA 0
+ZB 0
+Z8 0
+Z9 1
+DA 2025-04-20
+UT WOS:001464808700007
+PM 40167432
+ER
+
+PT J
+AU Truhn, Daniel
+   Weber, Christian D.
+   Braun, Benedikt J.
+   Bressem, Keno
+   Kather, Jakob N.
+   Kuhl, Christiane
+   Nebelung, Sven
+TI A pilot study on the efficacy of GPT-4 in providing orthopedic treatment
+   recommendations from MRI reports
+SO SCIENTIFIC REPORTS
+VL 13
+IS 1
+AR 20159
+DI 10.1038/s41598-023-47500-2
+DT Article
+PD NOV 17 2023
+PY 2023
+AB Large language models (LLMs) have shown potential in various
+   applications, including clinical practice. However, their accuracy and
+   utility in providing treatment recommendations for orthopedic conditions
+   remain to be investigated. Thus, this pilot study aims to evaluate the
+   validity of treatment recommendations generated by GPT-4 for common knee
+   and shoulder orthopedic conditions using anonymized clinical MRI
+   reports. A retrospective analysis was conducted using 20 anonymized
+   clinical MRI reports, with varying severity and complexity. Treatment
+   recommendations were elicited from GPT-4 and evaluated by two
+   board-certified specialty-trained senior orthopedic surgeons. Their
+   evaluation focused on semiquantitative gradings of accuracy and clinical
+   utility and potential limitations of the LLM-generated recommendations.
+   GPT-4 provided treatment recommendations for 20 patients (mean age, 50
+   years +/- 19 [standard deviation]; 12 men) with acute and chronic knee
+   and shoulder conditions. The LLM produced largely accurate and
+   clinically useful recommendations. However, limited awareness of a
+   patient's overall situation, a tendency to incorrectly appreciate
+   treatment urgency, and largely schematic and unspecific treatment
+   recommendations were observed and may reduce its clinical usefulness. In
+   conclusion, LLM-based treatment recommendations are largely adequate and
+   not prone to 'hallucinations', yet inadequate in particular situations.
+   Critical guidance by healthcare professionals is obligatory, and
+   independent use by patients is discouraged, given the dependency on
+   precise data input.
+ZB 9
+ZA 0
+ZR 0
+Z8 2
+ZS 0
+TC 33
+Z9 33
+DA 2024-04-05
+UT WOS:001125371600058
+PM 37978240
+ER
+
+PT J
+AU Rizvi, Sara
+   Ramesh, Ramya
+   Sehgal, Vibhor
+   Gurusamy, Brinda
+   Tran, Jeffrey
+   Mackensen, G. Burkhard
+   Arnaout, Rima
+TI EchoMap Automatically Maps Echocardiogram Report Text to Ontology
+SO CIRCULATION
+VL 148
+MA A19161
+DI 10.1161/circ.148.suppl_1.19161
+SU 1
+DT Meeting Abstract
+PD NOV 7 2023
+PY 2023
+CT American-Heart-Association's Epidemiology and Prevention/Lifestyle and
+   Cardiometabolic Health Scientific Sessions
+CY NOV 11-13, 2023
+CL Philadelphia, PA
+SP Amer Heart Assoc
+Z8 0
+ZB 0
+ZA 0
+TC 0
+ZR 0
+ZS 0
+Z9 0
+DA 2024-03-04
+UT WOS:001157891309291
+ER
+
+PT J
+AU Li, Kathryn W
+   Lacson, Ronilda
+   Guenette, Jeffrey P
+   DiPiro, Pamela J
+   Burk, Kristine S
+   Kapoor, Neena
+   Salah, Fatima
+   Khorasani, Ramin
+TI Use of ChatGPT Large Language Models to Extract Details of
+   Recommendations for Additional Imaging From Free-Text Impressions of
+   Radiology Reports.
+SO AJR. American journal of roentgenology
+VL 224
+IS 4
+BP e2432341
+EP e2432341
+DI 10.2214/AJR.24.32341
+DT Journal Article
+PD 2025-Apr
+PY 2025
+AB BACKGROUND. Automated extraction of actionable details of
+   recommendations for additional imaging (RAIs) from radiology reports
+   could facilitate tracking and timely completion of clinically necessary
+   RAIs and thereby potentially reduce diagnostic delays. OBJECTIVE. The
+   purpose of the study was to assess the performance of large language
+   models (LLMs) in extracting actionable details of RAIs from radiology
+   reports. METHODS. This retrospective single-center study evaluated
+   reports of diagnostic radiology examinations performed across modalities
+   and care settings within five subspecialties (abdominal imaging,
+   musculoskeletal imaging, neuroradiology, nuclear medicine, thoracic
+   imaging) in August 2023. Of reports identified by a previously validated
+   natural language processing algorithm to contain an RAI, 250 were
+   randomly selected; 231 of these reports were confirmed to contain an RAI
+   on manual review and formed the study sample. Twenty-five reports were
+   used to engineer a prompt instructing an LLM, when inputted in a report
+   impression containing an RAI, to extract details about the modality,
+   body part, time frame, and rationale of the RAI; the remaining 206
+   reports were used for testing the prompt in combination with GPT-3.5 and
+   GPT-4. A 4th-year medical student and radiologist from the relevant
+   subspecialty independently classified the LLM outputs as correct versus
+   incorrect for extracting the four actionable details of RAIs in
+   comparison with the report impressions; a third reviewer assisted in
+   resolving discrepancies. Extraction accuracy was summarized and compared
+   between LLMs using consensus assessments. RESULTS. For GPT-3.5 and
+   GPT-4, the two reviewers agreed about classification of LLM output as
+   correct versus incorrect with respect to report impressions for 95.6%
+   and 94.2% for RAI modality, 89.3% and 88.3% for RAI body part, 96.1% and
+   95.1% for RAI time frame, and 89.8% and 88.8% for RAI rationale,
+   respectively. GPT-4 was more accurate than GPT-3.5 in extracting RAI
+   modality (94.2% [194/206] vs 85.4% [176/206], p < .001), RAI body part
+   (86.9% [179/206] vs 77.2% [159/206], p = .004), and RAI time frame
+   (99.0% [204/206] vs 95.6% [197/206], p = .02). Both LLMs had accuracy of
+   91.7% (189/206) for extracting RAI rationale. CONCLUSION. LLMs were used
+   to extract actionable details of RAIs from free-text impression sections
+   of radiology reports; GPT-4 outperformed GPT-3.5. CLINICAL IMPACT. The
+   technique could represent an innovative method to facilitate timely
+   completion of clinically necessary radiologist recommendations.
+Z8 0
+ZS 0
+ZA 0
+TC 0
+ZR 0
+ZB 0
+Z9 0
+DA 2025-02-01
+UT MEDLINE:39878409
+PM 39878409
+ER
+
+PT J
+AU Tordjman, Mickael
+   Liu, Zelong
+   Yuce, Murat
+   Fauveau, Valentin
+   Mei, Yunhao
+   Hadjadj, Jerome
+   Bolger, Ian
+   Almansour, Haidara
+   Horst, Carolyn
+   Parihar, Ashwin Singh
+   Geahchan, Amine
+   Meribout, Anis
+   Yatim, Nader
+   Ng, Nicole
+   Robson, Phillip
+   Zhou, Alexander
+   Lewis, Sara
+   Huang, Mingqian
+   Deyer, Timothy
+   Taouli, Bachir
+   Lee, Hao-Chih
+   Fayad, Zahi A.
+   Mei, Xueyan
+TI Comparative benchmarking of the DeepSeek large language model on medical
+   tasks and clinical reasoning
+SO NATURE MEDICINE
+DI 10.1038/s41591-025-03726-3
+EA APR 2025
+DT Article; Early Access
+PY 2025
+AB DeepSeek is a newly introduced large language model (LLM) designed for
+   enhanced reasoning, but its medical-domain capabilities have not yet
+   been evaluated. Here we assessed the capabilities of three LLMs-
+   DeepSeek-R1, ChatGPT-o1 and Llama 3.1-405B-in performing four different
+   medical tasks: answering questions from the United States Medical
+   Licensing Examination (USMLE), interpreting and reasoning on the basis
+   of text-based diagnostic and management cases, providing tumor
+   classification according to RECIST 1.1 criteria and providing summaries
+   of diagnostic imaging reports across multiple modalities. In the USMLE
+   test, the performance of DeepSeek-R1 (accuracy 0.92) was slightly
+   inferior to that of ChatGPT-o1 (accuracy 0.95; P = 0.04) but better than
+   that of Llama 3.1-405B (accuracy 0.83; P < 10(-3)). For text-based case
+   challenges, DeepSeek-R1 performed similarly to ChatGPT-o1 (accuracy of
+   0.57 versus 0.55; P = 0.76 and 0.74 versus 0.76; P = 0.06, using New
+   England Journal of Medicine and M & eacute;dicilline databases,
+   respectively). For RECIST classifications, DeepSeek-R1 also performed
+   similarly to ChatGPT-o1 (0.74 versus 0.81; P = 0.10). Diagnostic
+   reasoning steps provided by DeepSeek were deemed more accurate than
+   those provided by ChatGPT and Llama 3.1-405B (average Likert score of
+   3.61, 3.22 and 3.13, respectively, P = 0.005 and P < 10(-3)). However,
+   summarized imaging reports provided by DeepSeek-R1 exhibited lower
+   global quality than those provided by ChatGPT-o1 (5-point Likert score:
+   4.5 versus 4.8; P < 10(-3)). This study highlights the potential of
+   DeepSeek-R1 LLM for medical applications but also underlines areas
+   needing improvements.
+ZB 0
+TC 2
+ZS 0
+ZR 0
+ZA 0
+Z8 0
+Z9 2
+DA 2025-05-15
+UT WOS:001484083100001
+PM 40267969
+ER
+
+PT J
+AU Nguyen, Daniel
+   Swanson, Daniel
+   Newbury, Alex
+   Kim, Young H.
+TI Evaluation of ChatGPT and Google Bard Using Prompt Engineering in Cancer
+   Screening Algorithms
+SO ACADEMIC RADIOLOGY
+VL 31
+IS 5
+BP 1799
+EP 1804
+DI 10.1016/j.acra.2023.11.002
+EA MAY 2024
+DT Article
+PD MAY 2024
+PY 2024
+AB Large language models (LLMs) such as ChatGPT and Bard have emerged as
+   powerful tools in medicine, showcasing strong results in tasks such as
+   radiology report translations and research paper drafting. While their
+   implementation in clinical practice holds promise, their response
+   accuracy remains variable. This study aimed to evaluate the accuracy of
+   ChatGPT and Bard in clinical decision-making based on the American
+   College of Radiology Appropriateness Criteria for various cancers. Both
+   LLMs were evaluated in terms of their responses to open-ended (OE) and
+   select-all-that-apply (SATA) prompts. Furthermore, the study
+   incorporated prompt engineering (PE) techniques to enhance the accuracy
+   of LLM outputs. The results revealed similar performances between
+   ChatGPT and Bard on OE prompts, with ChatGPT exhibiting marginally
+   higher accuracy in SATA scenarios. The introduction of PE also
+   marginally improved LLM outputs in OE prompts but did not enhance SATA
+   responses. The results highlight the potential of LLMs in aiding
+   clinical decisionmaking processes, especially when guided by optimally
+   engineered prompts. Future studies in diverse clinical situations are
+   imperative to better understand the impact of LLMs in radiology. (c)
+   2024 The Association of University Radiologists. Published by Elsevier
+   Inc. All rights reserved.
+ZB 1
+TC 13
+ZA 0
+ZR 0
+Z8 0
+ZS 0
+Z9 13
+DA 2024-06-10
+UT WOS:001239932200001
+PM 38103973
+ER
+
+PT J
+AU Nascimento, Jose Jerovane da Costa
+   Marques, Adriell Gomes
+   Souza, Lucas do Nascimento
+   Dourado, Carlos Mauricio Jaborandy de Mattos
+   Barros, Antonio Carlos da Silva
+   de Albuquerque, Victor Hugo C.
+   Sousa, Luis Fabricio de Freitas
+TI A novel generative model for brain tumor detection using magnetic
+   resonance imaging
+SO COMPUTERIZED MEDICAL IMAGING AND GRAPHICS
+VL 121
+AR 102498
+DI 10.1016/j.compmedimag.2025.102498
+EA FEB 2025
+DT Article
+PD APR 2025
+PY 2025
+AB Brain tumors area disease that kills thousands of people worldwide each
+   year. Early identification through diagnosis is essential for monitoring
+   and treating patients. The proposed study brings anew method through
+   intelligent computational cells that are capable of segmenting the tumor
+   region with high precision. The method uses deep learning to detect
+   brain tumors with the "You only look once"(Yolov8) framework, and a
+   fine-tuning process at the end of the network layer using intelligent
+   computational cells capable of traversing the detected region,
+   segmenting the edges of the brain tumor. In addition, the method uses a
+   classification pipeline that combines a set of classifiers and
+   extractors combined with grid search, to find the best combination and
+   the best parameters for the dataset. The method obtained satisfactory
+   results above 98% accuracy for region detection, and above 99% for brain
+   tumor segmentation and accuracies above 98% for binary classification of
+   brain tumor, and segmentation time obtaining less than 1 s, surpassing
+   the state of the art compared to the same database, demonstrating the
+   effectiveness of the proposed method. The new approach proposes the
+   classification of different databases through data fusion to classify
+   the presence of tumor in MRI images, as well as the patient's life span.
+   The segmentation and classification steps are validated by comparing
+   them with the literature, with comparisons between works that used the
+   same dataset. The method addresses anew generative AI for brain tumor
+   capable of generating a pre-diagnosis through input data through Large
+   Language Model (LLM), and can be used in systems to aid medical imaging
+   diagnosis. As a contribution, this study employs new detection models
+   combined with innovative methods based on digital image processing to
+   improve segmentation metrics, as well as the use of Data Fusion,
+   combining two tumor datasets to enhance classification performance. The
+   study also utilizes LLM models to refine the pre-diagnosis obtained
+   post-classification. Thus, this study proposes a Computer-Aided
+   Diagnosis (CAD) method through AI with PDI, CNN, and LLM.
+TC 0
+ZR 0
+ZA 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+DA 2025-03-03
+UT WOS:001431977700001
+PM 39985841
+ER
+
+PT J
+AU Chien, Aichi
+   Tang, Hubert
+   Jagessar, Bhavita
+   Chang, Kai-wei
+   Peng, Nanyun
+   Nael, Kambiz
+   Salamon, Noriko
+TI AI-Assisted Summarization of Radiological Reports: Evaluating
+   GPT3davinci, BARTcnn, LongT5booksum, LEDbooksum, LEDlegal, and
+   LEDclinical
+SO AMERICAN JOURNAL OF NEURORADIOLOGY
+VL 45
+IS 2
+BP 244
+EP 248
+DI 10.3174/ajnr.A8102
+EA JAN 2024
+DT Article
+PD FEB 2024
+PY 2024
+AB BACKGROUND AND PURPOSE: The review of clinical reports is an essential
+   part of monitoring disease progression. Synthesizing multiple imaging
+   reports is also important for clinical decisions. It is critical to
+   aggregate information quickly and accurately. Machine learning natural
+   language processing (NLP) models hold promise to address an unmet need
+   for report summarization.MATERIALS AND METHODS: We evaluated NLP methods
+   to summarize longitudinal aneurysm reports. A total of 137 clinical
+   reports and 100 PubMed case reports were used in this study. Models were
+   1) compared against expert-generated summary using longitudinal imaging
+   notes collected in our institute and 2) compared using publicly
+   accessible PubMed case reports. Five AI models were used to summarize
+   the clinical reports, and a sixth model, the online GPT3davinci NLP
+   large language model (LLM), was added for the summarization of PubMed
+   case reports. We assessed the summary quality through comparison with
+   expert summaries using quantitative metrics and quality reviews by
+   experts.RESULTS: In clinical summarization, BARTcnn had the best
+   performance (BERTscore = 0.8371), followed by LongT5Booksum and
+   LEDlegal. In the analysis using PubMed case reports, GPT3davinci
+   demonstrated the best performance, followed by models BARTcnn and then
+   LEDbooksum (BERTscore = 0.894, 0.872, and 0.867,
+   respectively).CONCLUSIONS: AI NLP summarization models demonstrated
+   great potential in summarizing longitudinal aneurysm reports, though
+   none yet reached the level of quality for clinical usage. We found the
+   online GPT LLM outperformed the others; however, the BARTcnn model is
+   potentially more useful because it can be implemented on-site. Future
+   work to improve summarization, address other types of neuroimaging
+   reports, and develop structured reports may allow NLP models to ease
+   clinical workflow.
+ZB 0
+TC 6
+ZA 0
+Z8 0
+ZR 0
+ZS 0
+Z9 6
+DA 2024-01-29
+UT WOS:001145523300001
+PM 38238092
+ER
+
+PT J
+AU Chappidi, Shreya
+   Lee, Hawon
+   Jagasia, Sarisha
+   Syal, Casey
+   Zaki, George
+   Junkin, Dylan
+   Golightly, Nathan
+   Chitwood, Patrick
+   Camphausen, Kevin
+   Krauze, Andra
+TI Defining and capturing progression in glioma by harnessing NLP in
+   unstructured electronic health records
+SO CANCER RESEARCH
+VL 84
+IS 6
+MA 6199
+DI 10.1158/1538-7445.AM2024-6199
+SU S
+DT Meeting Abstract
+PD MAR 15 2024
+PY 2024
+CT Annual Meeting of the American-Association-for-Cancer-Research (AACR)
+CY APR 05-10, 2024
+CL San Diego, CA
+SP Amer Assoc Cancer Res
+ZA 0
+ZR 0
+TC 2
+Z8 0
+ZB 1
+ZS 0
+Z9 2
+DA 2024-10-03
+UT WOS:001253000904152
+ER
+
+PT J
+AU Skoulakis, Charalambos E.
+   Stavroulaki, Pelagia
+   Moschotzopoulos, Panagiotis
+   Paxinos, Mihalis
+   Fericean, Angela
+   Valagiannis, Dimitris E.
+TI Laryngeal leiomyosarcoma: a case report and review of the literature
+SO EUROPEAN ARCHIVES OF OTO-RHINO-LARYNGOLOGY
+VL 263
+IS 10
+BP 929
+EP 934
+DI 10.1007/s00405-006-0092-0
+DT Article
+PD OCT 2006
+PY 2006
+AB Laryngeal leiomyosarcoma (LLM) is a rare malignancy originating from the
+   smooth muscles of blood vessels or from aberrant undifferentiated
+   mesenchymal tissue. Histological diagnosis may be particularly difficult
+   and correct diagnosis is based on immunohistochemical investigations and
+   electron microscopy. A case report of a LLM in a 74-year-old man is
+   presented. Direct laryngoscopy revealed a large glottic lesion causing
+   airway compromise and an emergency tracheotomy was performed. Subsequent
+   total laryngectomy confirmed the diagnosis of leiomyosarcoma. Lung
+   metastases developed 8 months following treatment, despite the absence
+   of local or regional recurrence, and the patient died 3 months later. A
+   review of the English and French literature revealed 30 previous cases
+   of LLM. Clinical presentation, histological diagnosis, and management of
+   this rare malignancy are analyzed aiming to improve our knowledge
+   regarding the best treatment modality.
+Z8 0
+TC 17
+ZR 0
+ZS 0
+ZB 4
+ZA 0
+Z9 17
+DA 2006-10-01
+UT WOS:000240396200009
+PM 16804717
+ER
+
+PT J
+AU Binkley, T L
+   Specker, B L
+TI Muscle-bone relationships in the lower leg of healthy pre-pubertal
+   females and males.
+SO Journal of musculoskeletal & neuronal interactions
+VL 8
+IS 3
+BP 239
+EP 43
+DT Journal Article
+PD 2008 Jul-Sep
+PY 2008
+AB Muscle-bone relationships in healthy pre-pubertal children were
+   investigated using four muscle measures as predictors of tibial
+   strength: 66% tibia cross-sectional muscle area (CSMA) by pQCT; leg lean
+   mass (LLM) by DXA; and muscle power (Power) and force (Force) measured
+   during a two-footed jump. Polar strength strain index (pSSI), a
+   calculated surrogate for bone strength at the 20% distal tibia, was
+   obtained on 105 (54 male) self-assessed pre-pubertal children. The
+   amount of muscle (CSMA, LLM) may influence bone strength more than
+   muscle strength (Power, Force) during periods of rapid growth.
+   Correlations and multiple regression partial-R values from models
+   controlling for age, sex, height and weight were obtained for each
+   muscle predictor. CSMA, LLM, Power and Force were positively correlated
+   with pSSI (R=0.84, 0.92, 0.85; 0.66, respectively, all p<0.01).
+   Partial-R values were highest for LLM (partial-R=0.21), similar for CSMA
+   and Power (0.14, 0.15, respectively) and lowest for Force (0.04) in
+   predicting pSSI. Muscle predictors were associated with total and
+   cortical area (R=0.59 to 0.90; p<0.01 for all), but not cortical vBMD at
+   the 20% distal tibia site. These data support relationships between
+   muscle predictors and bone parameters measured by pQCT in healthy
+   pre-pubertal children.
+ZB 15
+Z8 0
+ZR 0
+TC 27
+ZS 0
+ZA 0
+Z9 28
+DA 2008-07-01
+UT MEDLINE:18799856
+PM 18799856
+ER
+
+PT J
+AU Nakao, Takahiro
+   Miki, Soichiro
+   Nakamura, Yuta
+   Kikuchi, Tomohiro
+   Nomura, Yukihiro
+   Hanaoka, Shouhei
+   Yoshikawa, Takeharu
+   Abe, Osamu
+TI Capability of GPT-4V(ision) in the Japanese National Medical Licensing
+   Examination: Evaluation Study
+SO JMIR MEDICAL EDUCATION
+VL 10
+AR e54393
+DI 10.2196/54393
+DT Article
+PD 2024
+PY 2024
+AB Background: Previous research applying large language models (LLMs) to
+   medicine was focused on text -based information. Recently, multimodal
+   variants of LLMs acquired the capability of recognizing images.
+   Objective: We aim to evaluate the image recognition capability of
+   generative pretrained transformer (GPT)-4V, a recent multimodal LLM
+   developed by OpenAI, in the medical field by testing how visual
+   information affects its performance to answer questions in the 117th
+   Japanese National Medical Licensing Examination. Methods: We focused on
+   108 questions that had 1 or more images as part of a question and
+   presented GPT-4V with the same questions under two conditions: (1) with
+   both the question text and associated images and (2) with the question
+   text only. We then compared the difference in accuracy between the 2
+   conditions using the exact McNemar test. Results: Among the 108
+   questions with images, GPT-4V's accuracy was 68% (73/108) when presented
+   with images and 72% (78/108) when presented without images (P=.36). For
+   the 2 question categories, clinical and general, the accuracies with and
+   those without images were 71% (70/98) versus 78% (76/98; P=.21) and 30%
+   (3/10) versus 20% (2/10; P >=.99), respectively. Conclusions: The
+   additional information from the images did not significantly improve the
+   performance of GPT-4V in the Japanese National Medical Licensing
+   Examination.
+ZS 0
+ZR 0
+Z8 0
+TC 19
+ZB 3
+ZA 0
+Z9 19
+DA 2024-03-28
+UT WOS:001189066800001
+PM 38470459
+ER
+
+PT J
+AU Holmes, Jason
+   Zhang, Lian
+   Ding, Yuzhen
+   Feng, Hongying
+   Liu, Zhengliang
+   Liu, Tianming
+   Wong, William W.
+   Vora, Sujay A.
+   Ashman, Jonathan B.
+   Liu, Wei
+TI Benchmarking a Foundation Large Language Model on its Ability to Relabel
+   Structure Names in Accordance With the American Association of
+   Physicists in Medicine Task Group-263 Report
+SO PRACTICAL RADIATION ONCOLOGY
+VL 14
+IS 6
+BP e515
+EP e521
+DI 10.1016/j.prro.2024.04.017
+EA OCT 2024
+DT Article
+PD NOV-DEC 2024
+PY 2024
+AB Purpose: To introduce the concept of using large language models (LLMs)
+   to relabel structure names in accordance with the American Association
+   of Physicists in Medicine Task Group-263 standard and to establish a
+   benchmark for future studies to reference. Methods and Materials:
+   Generative Pretrained Transformer (GPT)-4 was implemented within a
+   Digital Imaging and Communications in Medicine server. Upon receiving a
+   structure-set Digital Imaging and Communications in Medicine fi le, the
+   server prompts GPT-4 to relabel the structure names according to the
+   American Association of Physicists in Medicine Task Group-263 report.
+   The results were evaluated for 3 disease sites: prostate, head and neck,
+   and thorax. For each disease site, 150 patients were randomly selected
+   for manually tuning the instructions prompt (in batches of 50), and 50
+   patients were randomly selected for evaluation. Structure names
+   considered were those that were most likely to be relevant for studies
+   using structure contours for many patients. Results: The per-patient
+   accuracy was 97.2%, 98.3%, and 97.1% for prostate, head and neck, and
+   thorax disease sites, respectively. On a per-structure basis, the
+   clinical target volume was relabeled correctly in 100%, 95.3%, and 92.9%
+   of cases, respectively. Conclusions: Given the accuracy of GPT-4 in
+   relabeling structure names as presented in this work, LLMs are poised to
+   become an important method for standardizing structure names in
+   radiation oncology, especially considering the rapid advancements in LLM
+   capabilities that are likely to continue. (c) 2024 American Society for
+   Radiation Oncology. Published by Elsevier Inc. All rights are reserved,
+   including those for text and data mining, AI training, and similar
+   technologies.
+ZB 0
+TC 1
+ZA 0
+Z8 0
+ZR 0
+ZS 0
+Z9 1
+DA 2024-11-14
+UT WOS:001348827900001
+PM 39243241
+ER
+
+PT J
+AU Casado-Hernandez, Israel
+   Becerro-de-Bengoa-Vallejo, Ricardo
+   Elena Losa-Iglesias, Marta
+   Lopez-Lopez, Daniel
+   Rodriguez-Sanz, David
+   Maria Martinez-Jimenez, Eva
+   Calvo-Lobo, Cesar
+TI Electromyographic Evaluation of the Impacts of Different Insoles in the
+   Activity Patterns of the Lower Limb Muscles during Sport Motorcycling: A
+   Cross-Over Trial
+SO SENSORS
+VL 19
+IS 10
+AR 2249
+DI 10.3390/s19102249
+DT Article
+PD MAY 2 2019
+PY 2019
+AB Customized foot insoles (CFI) have been recognized to reduce the
+   prevalence of foot disorders in sport. The aim of this study was to
+   evaluate the effect of four types of CFI on the activity patterns of the
+   lower limb muscles (LLM) in healthy people during sport motorcycling.
+   Methods: This was a cross-over trial (NCT03734133. Participants were
+   recruited from an outpatient foot specialist clinic. Their mean age was
+   33 +/- 5.14 years. While participants were sport motorcycling in a
+   simulator, the electromyography (EMG) function was registered for LLM
+   via surface electrodes. Participants completed separate tests while
+   wearing one of four types of CFI: (1) only polypropylene (58 degrees
+   Shore D), (2) selective aluminum (60 HB Brinell hardness) in metatarsal
+   and first hallux areas and polypropylene elsewhere (58 degrees Shore D),
+   (3) ethylene vinyl acetate (EVA) (52 degrees Shore A), and (4) standard
+   EVA (25 degrees Shore A) as the control. Results: The activity patterns
+   of the LLM while sport motorcycling showed significantly lower peak
+   amplitude for the selective aluminum CFI than the other types of CFI.
+   Conclusion: EMG amplitude peaks for several LLM were smaller for the
+   hardest CFI (selective aluminum 60 HB Brinell hardness) than the other
+   CFIs (polypropylene 58 degrees Shore D, EVA 52 degrees Shore A, and
+   standard EVA 25 degrees Shore A), except for the fibularis longus in
+   right curves that is increased when the knee touches the road increasing
+   the stability.
+Z8 0
+ZB 0
+ZS 0
+TC 2
+ZA 0
+ZR 0
+Z9 2
+DA 2019-06-28
+UT WOS:000471014500036
+PM 31096654
+ER
+
+PT J
+AU Gilbert, M.
+   Crutchfield, A.
+   Luo, B.
+   Thind, K.
+   Ghanem, A. I.
+   Siddiqui, F.
+TI Using a Large Language Model (LLM) for Automated Extraction of Discrete
+   Elements from Clinical Notes for Creation of Cancer Databases
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3371
+BP E625
+EP E625
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+Z8 0
+ZA 0
+ZS 0
+ZB 0
+ZR 0
+TC 1
+Z9 1
+DA 2024-12-16
+UT WOS:001325892302054
+ER
+
+PT J
+AU Ghorbian, Mohsen
+   Ghobaei-Arani, Mostafa
+   Ghorbian, Saied
+TI Transforming breast cancer diagnosis and treatment with large language
+   Models: A comprehensive survey
+SO METHODS
+VL 239
+BP 85
+EP 110
+DI 10.1016/j.ymeth.2025.04.001
+EA APR 2025
+DT Article
+PD JUL 2025
+PY 2025
+AB Breast cancer (BrCa), being one of the most prevalent forms of cancer in
+   women, poses many challenges in the field of treatment and diagnosis due
+   to its complex biological mechanisms. Early and accurate diagnosis plays
+   a fundamental role in improving survival rates, but the limitations of
+   existing imaging methods and clinical data interpretation often prevent
+   optimal results. Large Language Models (LLMs), which are developed based
+   on advanced architectures such as transformers, have brought about a
+   significant revolution in data processing and medical decision-making.
+   By analyzing a large volume of medical and clinical data, these models
+   enable early diagnosis by identifying patterns in images and medical
+   records and provide personalized treatment strategies by integrating
+   genetic markers and clinical guidelines. Despite the transformative
+   potential of these models, their use in BrCa management faces challenges
+   such as data sensitivity, algorithm transparency, ethical
+   considerations, and model compatibility with the details of medical
+   applications that need to be addressed to achieve reliable results. This
+   review systematically reviews the impact of LLMs on BrCa treatment and
+   diagnosis. This study's objectives include analyzing the role of LLM
+   technology in diagnosing and treating this disease. The findings
+   indicate that the application of LLMs has resulted in significant
+   improvements in various aspects of BrCa management, such as a 35%
+   increase in the Efficiency of Diagnosis and BrCa Treatment (EDBC), a 30%
+   enhancement in the System's Clinical Trust and Reliability (SCTR), and a
+   20% improvement in the quality of patient education and information
+   (IPEI). Ultimately, this study demonstrates the importance of LLMs in
+   advancing precision medicine for BrCa and paves the way for effective
+   patient-centered care solutions.
+ZS 0
+ZR 0
+TC 0
+ZB 0
+ZA 0
+Z8 0
+Z9 0
+DA 2025-04-20
+UT WOS:001466448900001
+PM 40199412
+ER
+
+PT J
+AU Clark, Kevin R.
+TI Comparative Analysis of LLMs' Performance On a Practice Radiography
+   Certification Exam
+SO RADIOLOGIC TECHNOLOGY
+VL 96
+IS 5
+BP 334
+EP 342
+DT Article
+PD MAY-JUN 2025
+PY 2025
+AB Purpose To compare the performance of multiple large language models
+   (LLMs) on a practice radiography certification exam. Method Using an
+   exploratory, nonexperimental approach, 200 multiple-choice question
+   stems and options (correct answers and distractors) from a practice
+   radiography certification exam were entered into 5 LLMs: ChatGPT
+   (OpenAI), Claude (Anthropic), Copilot (Microsoft), Gemini (Google), and
+   Perplexity (Perplexity AI). Responses were recorded as correct or
+   incorrect, and overall accuracy rates were calculated for each LLM.
+   McNemar tests determined if there were significant differences between
+   accuracy rates. Performance also was evaluated and aggregated by content
+   categories and subcategories. Results ChatGPT had the highest overall
+   accuracy of 83.5%, followed by Perplexity (78.9%), Copilot (78.0%),
+   Gemini (75.0%), and Claude (71.0%). ChatGPT had a significantly higher
+   accuracy rate than did Claude (P , .001) and Gemini (P 5 .02). Regarding
+   content categories, ChatGPT was the only LLM to correctly answer all 38
+   patient care questions. In addition, ChatGPT had the highest number of
+   correct responses in the areas of safety (38/48, 79.2%) and procedures
+   (50/59, 84.7%). Copilot had the highest number of correct responses in
+   the area of image production (43/55, 78.2%). ChatGPT also achieved
+   superior accuracy in 4 of the 8 subcategories. Discussion Findings from
+   this study provide valuable insights into the performance of multiple
+   LLMs in answering practice radiography certification exam questions.
+   Although ChatGPT emerged as the most accurate LLM for this practice
+   exam, caution should be exercised when using generative artificial
+   intelligence (AI) models. Because LLMs can generate false and incorrect
+   information, responses must be checked for accuracy, and the models
+   should be corrected when inaccurate responses are given. Conclusion
+   Among the 5 LLMs compared in this study, ChatGPT was the most accurate
+   model. As interest in generative AI continues to increase and new
+   language applications become readily available, users should understand
+   the limitations of LLMs and check responses for accuracy. Future
+   research could include additional practice exams in other primary
+   pathways, including magnetic resonance imaging, nuclear medicine
+   technology, radiation therapy, and sonography.
+TC 0
+ZB 0
+ZS 0
+ZR 0
+ZA 0
+Z8 0
+Z9 0
+DA 2025-05-23
+UT WOS:001490390600001
+ER
+
+PT J
+AU Mugu, Vamshi K.
+   Carr, Brendan M.
+   Olson, Mike C.
+   Schupbach, John C.
+   Eguia, Francisco A.
+   Schmitz, John J.
+   Khandelwal, Ashish
+TI Increasing Adherence to Societal Recommendations in Radiology Reporting:
+   A Feasibility Study Using Society of Radiologists in Ultrasound
+   Guidelines for Incidentally Detected Gallbladder Polyps
+SO ULTRASOUND QUARTERLY
+VL 41
+IS 1
+AR e00699
+DI 10.1097/RUQ.0000000000000699
+DT Article
+PD MAR 2025
+PY 2025
+AB Incidental findings in diagnostic imaging are common, but follow-up
+   recommendations often lack consistency. The Society of Radiologists in
+   Ultrasound (SRU) issued guidelines in 2021 for managing incidentally
+   detected gallbladder polyps, aiming to balance follow-up with avoiding
+   overtreatment. There is variable adherence to these guidelines in
+   radiology reports, however, which makes it difficult for the clinician
+   to pursue appropriate follow-up for the patient. The purpose of this
+   project is to test the feasibility of a Large Language Model (LLM)-based
+   tool to incorporate SRU guidelines into radiology reports. Additionally,
+   we propose a framework for closely integrating societal follow-up
+   recommendations into radiology reports, using this tool as an example.
+   Following institutional review board approval, we retrospectively
+   reviewed gallbladder ultrasound examinations performed on adult ED
+   patients in 2022. Data on patient demographics and radiology report
+   content were collected. Using the 2021 SRU guidelines, we developed an
+   interactive tool employing a retriever-augmented generator (RAG) and
+   prompt engineering. A board-certified radiologist tested the accuracy,
+   whereas a board-certified emergency medicine physician assessed the
+   clarity and consistency of the recommendations. The interactive tool,
+   GB-PRL, outperformed leading closed-source and open-source LLMs,
+   achieving 100% accuracy in risk categorization and follow-up
+   recommendations on hypothetical user queries (P < 0.001). The tool also
+   showed superior accuracy compared to radiology reports on retrospective
+   data (P = 0.04). Although GB-PRL demonstrated greater clarity and
+   consistency, the improvement from the radiology reports was not
+   statistically significant (P = 0.22). Further work is needed for
+   prospective testing of GB-PRL before integrating it into clinical
+   practice.
+ZS 0
+ZB 0
+ZA 0
+ZR 0
+TC 0
+Z8 0
+Z9 0
+DA 2024-12-24
+UT WOS:001379791700001
+PM 39690147
+ER
+
+PT J
+AU Amin, Kanhai
+   Khosla, Pavan
+   Doshi, Rushabh
+   Chheang, Sophie
+   Forman, Howard P.
+TI Artificial Intelligence to Improve Patient Understanding of Radiology
+   Reports
+SO YALE JOURNAL OF BIOLOGY AND MEDICINE
+VL 96
+IS 3
+BP 407
+EP 414
+DT Review
+PD SEP 2023
+PY 2023
+AB Diagnostic imaging reports are generally written with a target audience
+   of other providers. As a result, the reports are written with medical
+   jargon and technical detail to ensure accurate communication. With
+   implementation of the 21st Century Cures Act, patients have greater and
+   quicker access to their imaging reports, but these reports are still
+   written above the comprehension level of the average patient.
+   Consequently, many patients have requested reports to be conveyed in
+   language accessible to them. Numerous studies have shown that improving
+   patient understanding of their condition results in better outcomes, so
+   driving comprehension of imaging reports is essential. Summary
+   statements, second reports, and the inclusion of the radiologist's phone
+   number have been proposed, but these solutions have implications for
+   radiologist workflow. Artificial intelligence (AI) has the potential to
+   simplify imaging reports without significant disruptions. Many AI
+   technologies have been applied to radiology reports in the past for
+   various clinical and research purposes, but patient focused solutions
+   have largely been ignored. New natural language processing technologies
+   and large language models (LLMs) have the potential to improve patient
+   understanding of their imaging reports. However, LLMs are a nascent
+   technology and significant research is required before LLM-driven report
+   simplification is used in patient care.
+ZS 0
+ZR 0
+Z8 0
+ZB 3
+TC 22
+ZA 0
+Z9 22
+DA 2023-11-28
+UT WOS:001098576800008
+PM 37780992
+ER
+
+PT J
+AU Sun, Di
+   Hadjiiski, Lubomir
+   Gormley, John
+   Chan, Heang-Ping
+   Caoili, Elaine
+   Cohan, Richard
+   Alva, Ajjai
+   Bruno, Grace
+   Mihalcea, Rada
+   Zhou, Chuan
+   Gulani, Vikas
+TI Outcome Prediction Using Multi-Modal Information: Integrating Large
+   Language Model-Extracted Clinical Information and Image Analysis
+SO CANCERS
+VL 16
+IS 13
+AR 2402
+DI 10.3390/cancers16132402
+DT Article
+PD JUL 2024
+PY 2024
+AB Simple Summary: Predicting the survival of bladder cancer patients
+   following cystectomy can offer valuable information for treatment
+   planning, decision-making, patient counseling, and resource allocation.
+   Our aim was to develop large language model (LLM)-aided multi-modal
+   predictive models, based on clinical information and CT images. These
+   models achieved performances comparable to those of multi-modal
+   predictive models that rely on manually extracted clinical information.
+   This study demonstrates the potential of employing LLMs to process
+   medical data, and of integrating LLM-processed data into modeling for
+   prognosis.
+   Survival prediction post-cystectomy is essential for the follow-up care
+   of bladder cancer patients. This study aimed to evaluate artificial
+   intelligence (AI)-large language models (LLMs) for extracting clinical
+   information and improving image analysis, with an initial application
+   involving predicting five-year survival rates of patients after radical
+   cystectomy for bladder cancer. Data were retrospectively collected from
+   medical records and CT urograms (CTUs) of bladder cancer patients
+   between 2001 and 2020. Of 781 patients, 163 underwent chemotherapy, had
+   pre- and post-chemotherapy CTUs, underwent radical cystectomy, and had
+   an available post-surgery five-year survival follow-up. Five AI-LLMs
+   (Dolly-v2, Vicuna-13b, Llama-2.0-13b, GPT-3.5, and GPT-4.0) were used to
+   extract clinical descriptors from each patient's medical records. As a
+   reference standard, clinical descriptors were also extracted manually.
+   Radiomics and deep learning descriptors were extracted from CTU images.
+   The developed multi-modal predictive model, CRD, was based on the
+   clinical (C), radiomics (R), and deep learning (D) descriptors. The LLM
+   retrieval accuracy was assessed. The performances of the survival
+   predictive models were evaluated using AUC and Kaplan-Meier analysis.
+   For the 163 patients (mean age 64 +/- 9 years; M:F 131:32), the LLMs
+   achieved extraction accuracies of 74%similar to 87% (Dolly), 76%similar
+   to 83% (Vicuna), 82%similar to 93% (Llama), 85%similar to 91% (GPT-3.5),
+   and 94%similar to 97% (GPT-4.0). For a test dataset of 64 patients, the
+   CRD model achieved AUCs of 0.89 +/- 0.04 (manually extracted
+   information), 0.87 +/- 0.05 (Dolly), 0.83 +/- 0.06 similar to 0.84 +/-
+   0.05 (Vicuna), 0.81 +/- 0.06 similar to 0.86 +/- 0.05 (Llama), 0.85 +/-
+   0.05 similar to 0.88 +/- 0.05 (GPT-3.5), and 0.87 +/- 0.05 similar to
+   0.88 +/- 0.05 (GPT-4.0). This study demonstrates the use of LLM
+   model-extracted clinical information, in conjunction with imaging
+   analysis, to improve the prediction of clinical outcomes, with bladder
+   cancer as an initial example.
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+ZA 0
+TC 4
+Z9 4
+DA 2024-07-24
+UT WOS:001270395100001
+PM 39001463
+ER
+
+PT J
+AU Gencer, Gulcan
+   Gencer, Kerem
+TI Large Language Models in Healthcare: A Bibliometric Analysis and
+   Examination of Research Trends
+SO JOURNAL OF MULTIDISCIPLINARY HEALTHCARE
+VL 18
+BP 223
+EP 238
+DI 10.2147/JMDH.S502351
+DT Article
+PD 2025
+PY 2025
+AB Background: The integration of large language models (LLMs) in
+   healthcare has generated significant interest due to their potential to
+   improve diagnostic accuracy, personalization of treatment, and patient
+   care efficiency. Objective: This study aims to conduct a comprehensive
+   bibliometric analysis to identify current research trends, main themes
+   and future directions regarding applications in the healthcare sector.
+   Methods: A systematic scan of publications until 08.05.2024 was carried
+   out from an important database such as Web of Science.Using bibliometric
+   tools such as VOSviewer and CiteSpace, we analyzed data covering
+   publication counts, citation analysis, co-authorship, co- occurrence of
+   keywords and thematic development to map the intellectual landscape and
+   collaborative networks in this field. Results: The analysis included
+   more than 500 articles published between 2021 and 2024. The United
+   States, Germany and the United Kingdom were the top contributors to this
+   field. The study highlights that neural network applications in
+   diagnostic imaging, natural language processing for clinical
+   documentation, and patient data in the field of general internal
+   medicine, radiology, medical informatics, health care services, surgery,
+   oncology, ophthalmology, neurology, orthopedics and psychiatry have seen
+   significant growth in publications over the past two years. Keyword
+   trend analysis revealed emerging sub-themes such as clinical research,
+   artificial intelligence, ChatGPT, education, natural language
+   processing, clinical management, virtual reality, chatbot, indicating a
+   shift towards addressing the broader implications of LLM application in
+   healthcare. Conclusion: The use of LLM in healthcare is an expanding
+   field with significant academic and clinical interest. This bibliometric
+   analysis not only maps the current state of the research, but also
+   identifies important areas that require further research and
+   development. Continued advances in this field are expected to
+   significantly impact future healthcare applications, with a focus on
+   increasing the accuracy and personalization of patient care through
+   advanced data analytics.
+ZR 0
+Z8 0
+ZS 0
+ZA 0
+TC 3
+ZB 0
+Z9 3
+DA 2025-01-25
+UT WOS:001400829200001
+PM 39844924
+ER
+
+PT J
+AU Hooshangnejad, Hamed
+   Huang, Gaofeng
+   Kelly, Katelyn
+   Feng, Xue
+   Luo, Yi
+   Zhang, Rui
+   Xu, Ziyue
+   Chen, Quan
+   Ding, Kai
+TI EXACT-Net: Framework for EHR-Guided Lung Tumor Auto-Segmentation for
+   Non-Small Cell Lung Cancer Radiotherapy
+SO CANCERS
+VL 16
+IS 23
+AR 4097
+DI 10.3390/cancers16234097
+DT Article
+PD DEC 2024
+PY 2024
+AB Background/Objectives: Lung cancer is a devastating disease with the
+   highest mortality rate among cancer types. Over 60% of non-small cell
+   lung cancer (NSCLC) patients, accounting for 87% of lung cancer
+   diagnoses, require radiation therapy. Rapid treatment initiation
+   significantly increases the patient's survival rate and reduces the
+   mortality rate. Accurate tumor segmentation is a critical step in
+   diagnosing and treating NSCLC. Manual segmentation is time- and
+   labor-consuming and causes delays in treatment initiation. Although many
+   lung nodule detection methods, including deep learning-based models,
+   have been proposed. Most of these methods still have a long-standing
+   problem of high false positives (FPs). Methods: Here, we developed an
+   electronic health record (EHR)-guided lung tumor auto-segmentation
+   called EXACT-Net (EHR-enhanced eXACtitude in Tumor segmentation), where
+   the extracted information from EHRs using a pre-trained large language
+   model (LLM) was used to remove the FPs and keep the TP nodules only.
+   Results: The auto-segmentation model was trained on NSCLC patients'
+   computed tomography (CT), and the pre-trained LLM was used with the
+   zero-shot learning approach. Our approach resulted in a 250% boost in
+   successful nodule detection using the data from ten NSCLC patients
+   treated in our institution. Conclusions: We demonstrated that combining
+   vision-language information in EXACT-Net multi-modal AI framework
+   greatly enhances the performance of vision only models, paving the road
+   to multimodal AI framework for medical image processing.
+ZS 0
+ZA 0
+ZR 0
+ZB 0
+TC 0
+Z8 0
+Z9 0
+DA 2024-12-19
+UT WOS:001376131100001
+PM 39682283
+ER
+
+PT J
+AU John, Annette
+   Alhajj, Reda
+   Rokne, Jon
+TI A systematic review of AI as a digital twin for prostate cancer care
+SO COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
+VL 268
+AR 108804
+DI 10.1016/j.cmpb.2025.108804
+EA MAY 2025
+DT Review
+PD AUG 2025
+PY 2025
+AB Artificial Intelligence (AI) and Digital Twin (DT) technologies are
+   rapidly transforming healthcare, offering the potential for
+   personalized, accurate, and efficient medical care. This systematic
+   review focuses on the intersection of AI-based digital twins and their
+   applications in prostate cancer pathology. A digital twin, when applied
+   to healthcare, creates a dynamic, data-driven virtual model that
+   simulates a patient's biological systems in real-time. By incorporating
+   AI techniques such as Machine Learning (ML) and Deep Learning (DL),
+   these systems enhance predictive accuracy, enable early diagnosis, and
+   facilitate individualized treatment strategies for prostate cancer. This
+   review systematically examines recent advances (2020-2025) in AI-driven
+   digital twins for prostate cancer, highlighting key methodologies,
+   algorithms, and data integration strategies. The literature analysis
+   also reveals substantial progress in image processing, predictive
+   modeling, and clinical decision support systems, which are the basic
+   tools used when implementing digital twins for prostate cancer care. Our
+   survey also critically evaluates the strengths and limitations of
+   current approaches, identifying gaps such as the need for real-time data
+   integration, improved explainability in AI models, and more robust
+   clinical validation. It concludes with a discussion of future research
+   directions, emphasizing the importance of integrating multi-modal data
+   with Large Language Models (LLMs) and Vision-Language Models (VLMs),
+   scalability, and ethical considerations in advancing AI-driven digital
+   twins for prostate cancer diagnosis and treatment. This paper provides a
+   comprehensive resource for researchers and clinicians, offering insights
+   into how AI-based digital twins can enhance precision medicine and
+   improve patient outcomes in prostate cancer care.
+ZA 0
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+TC 0
+Z9 0
+DA 2025-05-23
+UT WOS:001490802200002
+PM 40347618
+ER
+
+PT J
+AU Wang, Ziqing
+   Khondowe, Paul
+   Brannick, Erin
+   Abasht, Behnam
+TI Spatial transcriptomics reveals alterations in perivascular macrophage
+   lipid metabolism in the onset of Wooden Breast myopathy in broiler
+   chickens
+SO SCIENTIFIC REPORTS
+VL 14
+IS 1
+AR 3450
+DI 10.1038/s41598-024-53904-5
+DT Article
+PD FEB 11 2024
+PY 2024
+AB This study aims to use spatial transcriptomics to characterize the
+   cell-type-specific expression profile associated with the microscopic
+   features observed in Wooden Breast myopathy. 1 cm3 muscle sample was
+   dissected from the cranial part of the right pectoralis major muscle
+   from three randomly sampled broiler chickens at 23 days post-hatch and
+   processed with Visium Spatial Gene Expression kits (10X Genomics),
+   followed by high-resolution imaging and sequencing on the Illumina
+   Nextseq 2000 system. WB classification was based on histopathologic
+   features identified. Sequence reads were aligned to the chicken
+   reference genome (Galgal6) and mapped to histological images.
+   Unsupervised K-means clustering and Seurat integrative analysis
+   differentiated histologic features and their specific gene expression
+   pattern, including lipid laden macrophages (LLM), unaffected myofibers,
+   myositis and vasculature. In particular, LLM exhibited reprogramming of
+   lipid metabolism with up-regulated lipid transporters and genes in
+   peroxisome proliferator-activated receptors pathway, possibly through P.
+   Moreover, overexpression of fatty acid binding protein 5 could enhance
+   fatty acid uptake in adjacent veins. In myositis regions, increased
+   expression of cathepsins may play a role in muscle homeostasis and
+   repair by mediating lysosomal activity and apoptosis. A better knowledge
+   of different cell-type interactions at early stages of WB is essential
+   in developing a comprehensive understanding.
+Z8 0
+ZA 0
+ZB 5
+TC 7
+ZS 0
+ZR 0
+Z9 7
+DA 2024-02-22
+UT WOS:001161268300001
+PM 38342952
+ER
+
+PT J
+AU Tran, Hao
+   Joseph, Viren
+   Al-Falahi, Zaidon
+   Dharmadmajan, Anoop
+   Shaw, Elizabeth
+   Xu, Aaron
+   Akrawi, Daniel
+   Juergens, Craig
+   French, Bruce
+   Wilson, Michael
+   Otton, James
+   Scalia, Greg
+   Badie, Tamer Naguib
+   Kay, Sharon
+   Guo, Yi
+   Tran, Tu Tak
+   Chang, Anthony
+   Lo, Sidney
+TI Large Language Model based multi-agent Transcatheter Aortic Valve
+   Implantation team to augment multidisciplinary meetings - proof of
+   concept.
+SO CIRCULATION
+VL 150
+MA 4138722
+DI 10.1161/circ.150.suppl_1.4138722
+SU 1
+DT Meeting Abstract
+PD NOV 12 2024
+PY 2024
+ZS 0
+Z8 0
+ZB 0
+ZR 0
+ZA 0
+TC 0
+Z9 0
+DA 2025-02-10
+UT WOS:001398742702398
+ER
+
+PT J
+AU Baxter, Sally Liu
+TI Transforming Patient Experience: Harnessing AI -Powered Virtual
+   Assistants in Ophthalmology
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+MA 6
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+ZS 0
+ZB 0
+TC 0
+ZR 0
+Z8 0
+ZA 0
+Z9 0
+DA 2024-12-01
+UT WOS:001312227700084
+ER
+
+PT J
+AU Ra, Sinyoung
+   Kim, Jonghun
+   Na, Inye
+   Ko, Eun Sook
+   Park, Hyunjin
+TI Enhancing radiomics features via a large language model for classifying
+   benign and malignant breast tumors in mammography
+SO COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
+VL 265
+AR 108765
+DI 10.1016/j.cmpb.2025.108765
+EA APR 2025
+DT Article
+PD JUN 2025
+PY 2025
+AB Background and Objectives: Radiomics is widely used to assist in
+   clinical decision-making, disease diagnosis, and treatment planning for
+   various target organs, including the breast. Recent advances in large
+   language models (LLMs) have helped enhance radiomics analysis. Materials
+   and Methods: Herein, we sought to improve radiomics analysis by
+   incorporating LLM-learned clinical knowledge, to classify benign and
+   malignant tumors in breast mammography. We extracted radiomics features
+   from the mammograms based on the region of interest and retained the
+   features related to the target task. Using prompt engineering, we
+   devised an input sequence that reflected the selected features and the
+   target task. The input sequence was fed to the chosen LLM (LLaMA
+   variant), which was fine-tuned using low-rank adaptation to enhance
+   radiomics features. This was then evaluated on two mammogram datasets
+   (VinDr-Mammo and INbreast) against conventional baselines. Results: The
+   enhanced radiomics-based method performed better than baselines using
+   conventional radiomics features tested on two mammogram datasets,
+   achieving accuracies of 0.671 for the VinDr-Mammo dataset and 0.839 for
+   the INbreast dataset. Conventional radiomics models require retraining
+   from scratch for an unseen dataset using a new set of features. In
+   contrast, the model developed in this study effectively reused the
+   common features between the training and unseen datasets by explicitly
+   linking feature names with feature values, leading to extensible
+   learning across datasets. Our method performed better than the baseline
+   method in this retraining setting using an unseen dataset. Conclusions:
+   Our method, one of the first to incorporate LLM into radiomics, has the
+   potential to improve radiomics analysis.
+ZS 0
+Z8 0
+ZR 0
+TC 0
+ZA 0
+ZB 0
+Z9 0
+DA 2025-04-21
+UT WOS:001466026900001
+PM 40203779
+ER
+
+PT J
+AU Suh, Pae Sun
+   Shim, Woo Hyun
+   Suh, Chong Hyun
+   Heo, Hwon
+   Park, Kye Jin
+   Kim, Pyeong Hwa
+   Choi, Se Jin
+   Ahn, Yura
+   Park, Sohee
+   Park, Ho Young
+   Oh, Na Eun
+   Han, Min Woo
+   Cho, Sung Tan
+   Woo, Chang-Yun
+   Park, Hyungjun
+TI Comparing Large Language Model and Human Reader Accuracy with New
+   England Journal of Medicine Image Challenge Case Image Inputs
+SO RADIOLOGY
+VL 313
+IS 3
+AR e241668
+DI 10.1148/radiol.241668
+DT Article
+PD DEC 2024
+PY 2024
+AB Background: Application of multimodal large language models (LLMs) with
+   both textual and visual capabilities has been steadily increasing, but
+   their ability to interpret radiologic images is still doubted. Purpose:
+   To evaluate the accuracy of LLMs and compare it with that of human
+   readers with varying levels of experience and to assess the factors
+   affecting LLM accuracy in answering New England Journal of Medicine
+   Image Challenge cases. Materials and Methods: Radiologic images of cases
+   from October 13, 2005, to April 18, 2024, were retrospectively reviewed.
+   Using text and image inputs, LLMs (Open AI's GPT-4 Turbo with Vision
+   [GPT-4V] and GPT-4 Omni [GPT-4o], Google's DeepMind Gemini 1.5 Pro, and
+   Anthropic's Claude 3) provided answers. Human readers (seven junior
+   faculty radiologists, two clinicians, one in-training radiologist, and
+   one medical student), blinded to the published answers, also answered.
+   LLM accuracy with and without image inputs and short (cases from 2005 to
+   2015) versus long text inputs (from 2016 to 2024) was evaluated in
+   subgroup analysis to determine the effect of these factors. Factor
+   analysis was assessed using multivariable logistic regression. Accuracy
+   was compared with generalized estimating equations, with multiple
+   comparisons adjusted by using Bonferroni correction. Results: A total of
+   272 cases were included. GPT-4o achieved the highest overall accuracy
+   among LLMs (59.6%; 162 of 272), outperforming a medical student (47.1%;
+   128 of 272; P < .001) but not junior faculty (80.9%; 220 of 272; P <
+   .001) or the in-training radiologist (70.2%; 191 of 272; P = .003).
+   GPT-4o exhibited similar accuracy regardless of image inputs (without
+   images vs with images, 54.0% [147 of 272] vs 59.6% [162 of 272],
+   respectively; P = .59). Human reader accuracy was unaffected by text
+   length, whereas LLMs demonstrated higher accuracy with long text inputs
+   (all P < .001). Text input length affected LLM accuracy (odds ratio
+   range, 3.2 [95% CI: 1.9, 5.5] to 6.6 [95% CI: 3.7, 12.0]). Conclusion:
+   LLMs demonstrated substantial accuracy with text and image inputs,
+   outperforming a medical student. However, their accuracy decreased with
+   shorter text lengths, regardless of image input.
+TC 5
+ZR 0
+ZB 1
+ZA 0
+Z8 0
+ZS 0
+Z9 5
+DA 2024-12-21
+UT WOS:001377276300006
+PM 39656125
+ER
+
+PT J
+AU Magda Maria Sales Carneiro-Sampaio
+TI Expansion of the Pediatric Clinical Research Laboratory (LIM 36) and
+   establishment of a coordinating area for the support centre for research
+   in children and adolescent health issues (NAP-CriAd-USP)
+DT Awarded Grant
+PD Apr 01 2013
+PY 2013
+AB The Department of Pediatrics of the University of São Paulo Medical
+   School (FMUSP) located the Children's Institute (ICR), has only one
+   research laboratory (LlM-36), which has been harboring a growing number
+   of research groups in the areas of Genetic Genomics, Immunology,
+   Oncology-Hematology, Rheumatology and Pulmonology. In order to increase
+   the area of the laboratory, the Council of the Department of Pediatrics
+   (MPE) and the Board of Directors of the Children's Institute decided to
+   assign a physical area of…. m2, adjoining to the office of MPE, to be
+   adapted to harbor the administrative support structure of LlM-36 (which
+   besides being in charge of price quotes, purchasing and accounting, also
+   advertises research funding opportunities to MPE and ICR researchers.
+   These Councils believe that the new area can also be used to establish
+   the coordinating team of the newly founded Center for Research Support
+   on Children and Adolescent Health (NAP CriAd) which was created with
+   support of the USP Dean of Research and will be headquartered at ICr. In
+   addition to teaching in the Department of Pediatrics and medical FMUSP
+   ICR, NAP CriAd also houses researchers from FSP, EE, IP, FD and the
+   Departments of Legal Medicine and Psychiatry of the Medical School,
+   which are involved in two major research lines: i) Interfaces between
+   Health Sciences and the Law, whose main focus is "The right to Health",
+   ii) the impact of recent changes in lifestyle of our society on children
+   and adolescent health. The following projects are already in
+   development: 1. Assessment of costs and legal feasibility of a program
+   of care to patients with rare diseases in the State of S. Paulo, 2.
+   Child Friendly Diagnosis: assessing the impact of rationalization and
+   humanization of imaging and laboratory diagnostic techniques, 3. The
+   influence of digital media and television in adolescent health, 4.
+   Conjugality and parenting in reconstituted families, 5. Interfaces of
+   breastfeeding in the prison system: law, duty, meanings and reality, 5.
+   The ''Way Back Project": application of molecular genetic techniques in
+   the identification of missing children. (AU)
+ZR 0
+ZS 0
+ZA 0
+Z8 0
+ZB 0
+TC 0
+Z9 0
+G1 12/51599-7
+DA 2023-12-08
+UT GRANTS:16419752
+ER
+
+PT J
+AU Nasir, Khurram
+   Rivera, Juan J.
+   Khosa, Faisal
+   Yoon, Yeonyee E.
+   Chang, Sung-A Sung-A
+   Chun, Eun-Ju Eun-Ju
+   Choi, Sang-il
+   Blumenthal, Roger S.
+   Chang, Hyuk-jae
+TI Risk Categorization and Lipid Lowering Eligibility according to NCEP
+   ATIP III Guidelines across Increasing Atherosclerotic plaque Burden
+   Assessed by Non Invasive Coronary CT Angiography
+SO CIRCULATION
+VL 118
+IS 18
+BP S993
+EP S993
+SU 2
+DT Meeting Abstract
+PD OCT 28 2008
+PY 2008
+CT 81st Annual Scientific Session of the American-Heart-Association
+CY NOV 08-12, 2008
+CL New Orleans, LA
+SP Amer Heart Assoc
+ZA 0
+Z8 0
+ZB 0
+ZR 0
+TC 0
+ZS 0
+Z9 0
+DA 2008-10-28
+UT WOS:000262104503689
+ER
+
+PT J
+AU Wei, Qiuhong
+   Yao, Zhengxiong
+   Cui, Ying
+   Wei, Bo
+   Jin, Zhezhen
+   Xu, Ximing
+TI Evaluation of ChatGPT-generated medical responses: A systematic review
+   and meta-analysis
+SO JOURNAL OF BIOMEDICAL INFORMATICS
+VL 151
+AR 104620
+DI 10.1016/j.jbi.2024.104620
+EA MAR 2024
+DT Article
+PD MAR 2024
+PY 2024
+AB Objective: Large language models (LLMs) such as ChatGPT are increasingly
+   explored in medical domains. However, the absence of standard guidelines
+   for performance evaluation has led to methodological inconsistencies.
+   This study aims to summarize the available evidence on evaluating
+   ChatGPT's performance in answering medical questions and provide
+   direction for future research. Methods: An extensive literature search
+   was conducted on June 15, 2023, across ten medical databases. The
+   keyword used was "ChatGPT," without restrictions on publication type,
+   language, or date. Studies evaluating ChatGPT's performance in answering
+   medical questions were included. Exclusions comprised review articles,
+   comments, patents, non-medical evaluations of ChatGPT, and preprint
+   studies. Data was extracted on general study characteristics, question
+   sources, conversation processes, assessment metrics, and performance of
+   ChatGPT. An evaluation framework for LLM in medical inquiries was
+   proposed by integrating insights from selected literature. This study is
+   registered with PROSPERO, CRD42023456327. Results: A total of 3520
+   articles were identified, of which 60 were reviewed and summarized in
+   this paper and 17 were included in the meta-analysis. ChatGPT displayed
+   an overall integrated accuracy of 56 % (95 % CI: 51 %- 60 %, I2 = 87 %)
+   in addressing medical queries. However, the studies varied in question
+   resource, questionasking process, and evaluation metrics. As per our
+   proposed evaluation framework, many studies failed to report
+   methodological details, such as the date of inquiry, version of ChatGPT,
+   and inter-rater consistency. Conclusion: This review reveals ChatGPT's
+   potential in addressing medical inquiries, but the heterogeneity of the
+   study design and insufficient reporting might affect the results'
+   reliability. Our proposed evaluation framework provides insights for the
+   future study design and transparent reporting of LLM in responding to
+   medical questions.
+Z8 0
+ZS 0
+TC 31
+ZB 4
+ZA 0
+ZR 0
+Z9 31
+DA 2024-05-17
+UT WOS:001218826900001
+PM 38462064
+ER
+
+PT J
+AU Plagwitz, Lucas
+   Neuhaus, Philipp
+   Yildirim, Kemal
+   Losch, Noah
+   Varghese, Julian
+   Buscher, Antonius
+TI Zero-Shot LLMs for Named Entity Recognition: Targeting Cardiac Function
+   Indicators in German Clinical Texts.
+SO Studies in health technology and informatics
+VL 317
+BP 228
+EP 234
+DI 10.3233/SHTI240861
+DT Journal Article
+PD 2024-Aug-30
+PY 2024
+AB INTRODUCTION: Large Language Models (LLMs) like ChatGPT have become
+   increasingly prevalent. In medicine, many potential areas arise where
+   LLMs may offer added value. Our research focuses on the use of
+   open-source LLM alternatives like Llama 3, Gemma, Mistral, and Mixtral
+   to extract medical parameters from German clinical texts. We concentrate
+   on German due to an observed gap in research for non-English tasks.
+   OBJECTIVE: To evaluate the effectiveness of open-source LLMs in
+   extracting medical parameters from German clinical texts, specially
+   focusing on cardiovascular function indicators from cardiac MRI reports.
+   METHODS: We extracted 14 cardiovascular function indicators, including
+   left and right ventricular ejection fraction (LV-EF and RV-EF), from 497
+   variously formulated cardiac magnetic resonance imaging (MRI) reports.
+   Our systematic analysis involved assessing the performance of Llama 3,
+   Gemma, Mistral, and Mixtral models in terms of right annotation and
+   named entity recognition (NER) accuracy.
+   RESULTS: The analysis confirms strong performance with up to 95.4% right
+   annotation and 99.8% NER accuracy across different architectures,
+   despite the fact that these models were not explicitly fine-tuned for
+   data extraction and the German language.
+   CONCLUSION: The results strongly recommend using open-source LLMs for
+   extracting medical parameters from clinical texts, including those in
+   German, due to their high accuracy and effectiveness even without
+   specific fine-tuning.
+ZA 0
+ZB 0
+ZS 0
+Z8 0
+TC 2
+ZR 0
+Z9 2
+DA 2024-09-06
+UT MEDLINE:39234726
+PM 39234726
+ER
+
+PT J
+AU Li, Ang
+   Wang, Yunxin
+   Chen, Hongxu
+TI AI driven cardiovascular risk prediction using NLP and Large Language
+   Models for personalized medicine in athletes
+SO SLAS TECHNOLOGY
+VL 32
+AR 100286
+DI 10.1016/j.slast.2025.100286
+EA APR 2025
+DT Article
+PD JUN 2025
+PY 2025
+AB The performance and long-term health of athletes are significantly
+   influenced by their cardiovascular resilience and associated risk
+   factors. This study explores the innovative applications of Natural
+   Language Processing (NLP) and Large Language Models (LLMs) in biomedical
+   diagnostics, particularly for AI-driven arrhythmia detection,
+   hypertrophic cardiomyopathy (HCM) in athletes, and personalized
+   medicine. The complexity of analysing diverse biomedical datasets, such
+   as electrocardiograms (ECG), clinical records, genetic screening
+   reports, and imaging results, poses challenges in obtaining precise
+   early diagnoses. To address these issues, we introduce a hybrid machine
+   learning (ML) framework that integrates the Wolf Pack Search Algorithm
+   Dynamic Random Forest (WPSA-DRF) with a RoBERTa-based LLM to enhance the
+   accuracy of cardiovascular disease predictions. Using advanced NLP
+   techniques, including biomedical text mining, entity recognition, and
+   feature extraction, the system processes structured and unstructured
+   clinical data to detect abnormalities associated with sudden cardiac
+   arrest (SCA), arrhythmias, and genetic cardiomyopathies. The proposed
+   system achieves a diagnostic accuracy of 92.5 %, precision of 92.7 %,
+   recall of 99.23 %, and F1-score of 95.6 %, outperforming traditional
+   diagnostic methodologies. Furthermore, the research underscores the role
+   of LLMs in personalized medicine, identifying patient-specific risk
+   factors and optimizing treatment pathways for cardiac patients. This
+   work highlights how NLP-driven AI solutions are transforming biomedical
+   research, accelerating early disease detection, and improving clinical
+   decision-making for both athletes and the general population.
+ZR 0
+TC 0
+ZA 0
+ZS 0
+Z8 0
+ZB 0
+Z9 0
+DA 2025-05-08
+UT WOS:001478484900001
+PM 40216258
+ER
+
+PT J
+AU Avitabile, Catherine M.
+   Goldberg, David J.
+   Leonard, Mary B.
+   Wei, Zhenglun Alan
+   Tang, Elaine
+   Paridon, Stephen M.
+   Yoganathan, Ajit P.
+   Fogel, Mark A.
+   Whitehead, Kevin K.
+TI Leg lean mass correlates with exercise systemic output in young Fontan
+   patients
+SO HEART
+VL 104
+IS 8
+BP 680
+EP 684
+DI 10.1136/heartjnl-2017-311661
+DT Article
+PD APR 2018
+PY 2018
+AB Objective We previously described lower leg lean mass Z-scores (LLMZ) in
+   Fontan patients associated with worse peak oxygen consumption on
+   metabolic exercise testing. We hypothesised that LLMZ correlates with
+   indexed systemic flow (Qsi) and cardiac index (CI) on exercise cardiac
+   magnetic resonance (eCMR).
+   Methods Thirteen patients had LLM measured by dual-energy X-ray
+   absorptiometry within mean 40 (range 0-258) days of eCMR. LLM was
+   converted to sex and race-specific Z-scores based on healthy reference
+   data. Ventricular volumes and flow measurements of the ascending and
+   descending (DAO) aorta and superior vena cava (SVC) were obtained by CMR
+   at rest and just after supine ergometer exercise to a heart rate
+   associated with anaerobic threshold on prior exercise test. Baseline and
+   peak exercise measures of Qsi (SVC+DAO/BSA) and CI, as well as change in
+   Qsi and CI with exercise, were compared with LLMZ by linear regression.
+   Results LLMZ was not correlated with resting flows, stroke volume or CI.
+   There was a strong linear correlation between LLMZ and change in both CI
+   (r=0.77, p=0.002) and Qsi (r=0.73, p=0.005) from rest to exercise. There
+   was also a significant correlation between LLMZ and Qsi at exercise
+   (r=0.70, p=0.008). The correlation between LLMZ and CI at exercise did
+   not reach significance (r=0.3, p=0.07).
+   Conclusions In our cohort, there was a strong linear correlation between
+   LLMZ and change in both CI and Qsi from rest to exercise, suggesting
+   that Fontan patients with higher LLMZ may be better able to augment
+   systemic output during exercise, improving performance.
+Z8 0
+ZR 0
+ZS 0
+ZB 10
+TC 28
+ZA 0
+Z9 28
+DA 2018-04-27
+UT WOS:000429733300012
+PM 28988207
+ER
+
+PT J
+AU Bullen, Lindsey E.
+   Evola, Maria G.
+   Griffith, Emily H.
+   Seiler, Gabriela S.
+   Saker, Korinn E.
+TI Validation of ultrasonographic muscle thickness measurements as compared
+   to the gold standard of computed tomography in dogs
+SO PEERJ
+VL 5
+DI 10.7717/peerj.2926
+DT Article
+PD JAN 25 2017
+PY 2017
+AB Objective. The objective was to quantitatively evaluate the validity of
+   utrasonographic (US) muscle measurements as compared to the gold
+   standard of computed tomography (CT) in the canine. Design. This was a
+   prospective study. Population. Twenty-five, client-owned dogs scheduled
+   for CT as part of a diagnostic work-up for the management of their
+   primary disease process were included. Materials and Methods-Specific
+   appendicular (cubital flexors and extensors, coxofemoral flexors and
+   extensors) and axial (temporalis, supraspinatus, infraspinatus, lum bar
+   epaxials) muscle groups were selected for quantitative measure based on
+   CT planning and patient position. Prior to CT scan, the skin over the
+   muscle sites was' shaved and marked with a permanent marker. Patient
+   body position was determined based on the patient's CT plan; positioning
+   was consistent between CT and US imaging. To ensure identical imaging
+   position for both CT and US measurements, radio-opaque fiducial markers
+   were placed directly over the skin marks once the dog was positioned.
+   Quantitative measurements (cm) for both lean muscle mass (LMM) and
+   subcutaneous adipose (SQA) were recorded. Statistical comparisons
+   between CT and US values were done separately for each site and type.
+   Results. Muscle groups and associated SQA measured by US and CT were not
+   statistically different based on an adjusted p-value using Bonferroni's
+   correction (p < 0.0031). In addition, all LMM and SQA sites had good
+   reliability and agreement (Cronbach's alpha= 0.8-1.0) between the two
+   metrics, excluding the coxofemoral extensor muscle group (Cronbach's
+   alpha= 0.73232). Linear regression analysis of muscle measures indicated
+   close agreement (slope range 0.93-1.09) and minimal bias of variation
+   (intercept range 0.05-0.11) between CT versus US modalities, with the
+   exception of the coxofemoral extensor muscle. Similarly, SQA CT and US
+   measures indicated close agreement with the slope range of 0.88-1.02 and
+   minimal bias of variation with an intercept range of 0.021-0.098,
+   excluding the cubital flexor and extensor groups. Additionally, the R-2
+   values for these remaining LMM and SQA sites are reported as >0.897 for
+   LLM and >.0 8289 for SQA. Conclusions. Ultrasound imaging of selected
+   appendicular and axial muscle groups in dogs can provide comparable
+   assessment of muscle thickness to the current gold
+Z8 0
+ZS 0
+ZA 0
+ZR 0
+ZB 3
+TC 7
+Z9 7
+DA 2017-03-29
+UT WOS:000394705900005
+PM 28149695
+ER
+
+PT J
+AU Schramm, Severin
+   Preis, Silas
+   Metz, Marie-Christin
+   Jung, Kirsten
+   Schmitz-Koep, Benita
+   Zimmer, Claus
+   Wiestler, Benedikt
+   Hedderich, Dennis M.
+   Kim, Su Hwan
+TI Impact of Multimodal Prompt Elements on Diagnostic Performance of GPT-4V
+   in Challenging Brain MRI Cases
+SO RADIOLOGY
+VL 314
+IS 1
+AR e240689
+DI 10.1148/radiol.240689
+DT Article
+PD JAN 2025
+PY 2025
+AB Background: Studies have explored the application of multimodal large
+   language models (LLMs) in radiologic differential diagnosis. Yet, how
+   different multimodal input combinations affect diagnostic performance is
+   not well understood. Purpose: To evaluate the impact of varying
+   multimodal input elements on the accuracy of OpenAI's GPT-4 with vision
+   (GPT-4V)-based brain MRI differential diagnosis. Materials and Methods:
+   Sixty brain MRI cases with a challenging yet verified diagnosis were
+   selected. Seven prompt groups with variations of four input elements
+   (image without modifiers [I], annotation [A], medical history [H], and
+   image description [D]) were defined. For each MRI case and prompt group,
+   three identical queries were performed using an LLM-based search engine
+   (Perplexity AI, powered by GPT-4V). The accuracy of LLM-generated
+   differential diagnoses was rated using a binary and a numeric scoring
+   system and analyzed using a chi 2 test and a Kruskal-Wallis test.
+   Results were corrected for false-discovery rate with use of the
+   Benjamini-Hochberg procedure. Regression analyses were performed to
+   determine the contribution of each input element to diagnostic
+   performance. Results: The prompt group containing I, A, H, and D as
+   input exhibited the highest diagnostic accuracy (124 of 180 responses
+   [69%]). Significant differences were observed between prompt groups that
+   contained D among their inputs and those that did not. Unannotated (I)
+   (four of 180 responses [2.2%]) or annotated radiologic images alone (I
+   and A) (two of 180 responses [1.1%]) yielded very low diagnostic
+   accuracy. Regression analyses confirmed a large positive effect of D on
+   diagnostic accuracy (odds ratio [OR], 68.03; P < .001), as well as a
+   moderate positive effect of H (OR, 4.18; P < .001). Conclusion: The
+   textual description of radiologic image findings was identified as the
+   strongest contributor to the performance of GPT-4V in brain MRI
+   differential diagnosis, followed by the medical history; unannotated or
+   annotated images alone yielded very low diagnostic performance. (c)
+   RSNA, 2025
+ZR 0
+TC 3
+ZS 0
+Z8 0
+ZA 0
+ZB 0
+Z9 3
+DA 2025-02-03
+UT WOS:001406613800012
+PM 39835982
+ER
+
+PT J
+AU Doshi, Rushabh
+   Amin, Kanhai S.
+   Khosla, Pavan
+   Bajaj, Simar S.
+   Chheang, Sophie
+   Forman, Howard P.
+TI Quantitative Evaluation of Large Language Models to Streamline Radiology
+   Report Impressions: A Multimodal Retrospective Analysis
+SO RADIOLOGY
+VL 310
+IS 3
+AR e231593
+DI 10.1148/radiol.231593
+DT Article
+PD MAR 2024
+PY 2024
+AB Background: The complex medical terminology of radiology reports may
+   cause confusion or anxiety for patients, especially given increased
+   access to electronic health records. Large language models (LLMs) can
+   potentially simplify radiology report readability. Purpose: To compare
+   the performance of four publicly available LLMs (ChatGPT-3.5 and
+   ChatGPT-4, Bard [now known as Gemini], and Bing) in producing simplified
+   radiology report impressions. Materials and Methods: In this
+   retrospective comparative analysis of the four LLMs (accessed July 23 to
+   July 26, 2023), the Medical Information Mart for Intensive Care
+   (MIMIC)-IV database was used to gather 750 anonymized radiology report
+   impressions covering a range of imaging modalities (MRI, CT, US,
+   radiography, mammography) and anatomic regions. Three distinct prompts
+   were employed to assess the LLMs' ability to simplify report
+   impressions. The first prompt (prompt 1) was "Simplify this radiology
+   report." The second prompt (prompt 2) was "I am a patient. Simplify this
+   radiology report." The last prompt (prompt 3) was "Simplify this
+   radiology report at the 7th grade level." Each prompt was followed by
+   the radiology report impression and was queried once. The primary
+   outcome was simplification as assessed by readability score. Readability
+   was assessed using the average of four established readability indexes.
+   The nonparametric Wilcoxon signed-rank test was applied to compare
+   reading grade levels across LLM output. Results: All four LLMs
+   simplified radiology report impressions across all prompts tested (P <
+   .001). Within prompts, differences were found between LLMs. Providing
+   the context of being a patient or requesting simplification at the
+   seventh-grade level reduced the reading grade level of output for all
+   models and prompts (except prompt 1 to prompt 2 for ChatGPT-4) (P <
+   .001). Conclusion: Although the success of each LLM varied depending on
+   the specific prompt wording, all four models simplified radiology report
+   impressions across all modalities and prompts tested. (c) RSNA, 2024
+ZR 0
+ZB 7
+TC 34
+ZS 0
+Z8 1
+ZA 0
+Z9 35
+DA 2024-06-21
+UT WOS:001208969200011
+PM 38530171
+ER
+
+PT J
+AU Glicksman, Michael
+   Wang, Sheri
+   Yellapragada, Samir
+   Robinson, Christopher
+   Orhurhu, Vwaire
+   Emerick, Trent
+TI Artificial intelligence and pain medicine education: Benefits and
+   pitfalls for the medical trainee
+SO PAIN PRACTICE
+VL 25
+IS 1
+DI 10.1111/papr.13428
+EA NOV 2024
+DT Article
+PD JAN 2025
+PY 2025
+AB ObjectivesArtificial intelligence (AI) represents an exciting and
+   evolving technology that is increasingly being utilized across pain
+   medicine. Large language models (LLMs) are one type of AI that has
+   become particularly popular. Currently, there is a paucity of literature
+   analyzing the impact that AI may have on trainee education. As such, we
+   sought to assess the benefits and pitfalls that AI may have on pain
+   medicine trainee education. Given the rapidly increasing popularity of
+   LLMs, we particularly assessed how these LLMs may promote and hinder
+   trainee education through a pilot quality improvement project.Materials
+   and MethodsA comprehensive search of the existing literature regarding
+   AI within medicine was performed to identify its potential benefits and
+   pitfalls within pain medicine. The pilot project was approved by UPMC
+   Quality Improvement Review Committee (#4547). Three of the most commonly
+   utilized LLMs at the initiation of this pilot study - ChatGPT Plus,
+   Google Bard, and Bing AI - were asked a series of multiple choice
+   questions to evaluate their ability to assist in learner education
+   within pain medicine.ResultsPotential benefits of AI within pain
+   medicine trainee education include ease of use, imaging interpretation,
+   procedural/surgical skills training, learner assessment, personalized
+   learning experiences, ability to summarize vast amounts of knowledge,
+   and preparation for the future of pain medicine. Potential pitfalls
+   include discrepancies between AI devices and associated
+   cost-differences, correlating radiographic findings to clinical
+   significance, interpersonal/communication skills, educational
+   disparities, bias/plagiarism/cheating concerns, lack of incorporation of
+   private domain literature, and absence of training specifically for pain
+   medicine education. Regarding the quality improvement project, ChatGPT
+   Plus answered the highest percentage of all questions correctly (16/17).
+   Lowest correctness scores by LLMs were in answering first-order
+   questions, with Google Bard and Bing AI answering 4/9 and 3/9
+   first-order questions correctly, respectively. Qualitative evaluation of
+   these LLM-provided explanations in answering second- and third-order
+   questions revealed some reasoning inconsistencies (e.g., providing
+   flawed information in selecting the correct answer).ConclusionsAI
+   represents a continually evolving and promising modality to assist
+   trainees pursuing a career in pain medicine. Still, limitations
+   currently exist that may hinder their independent use in this setting.
+   Future research exploring how AI may overcome these challenges is thus
+   required. Until then, AI should be utilized as supplementary tool within
+   pain medicine trainee education and with caution.
+ZS 0
+TC 1
+ZB 0
+Z8 0
+ZA 0
+ZR 0
+Z9 1
+DA 2024-11-30
+UT WOS:001362765100001
+PM 39588809
+ER
+
+PT J
+AU Raja, Hina
+   Huang, Xiaoqin
+   Delsoz, Mohammad
+   Madadi, Yeganeh
+   Poursoroush, Asma
+   Munawar, Asim
+   Kahook, Malik Y.
+   Yousefi, Siamak
+TI Diagnosing Glaucoma Based on the Ocular Hypertension Treatment Study
+   Dataset Using Chat Generative Pre-Trained Transformer as a Large
+   Language Model
+SO OPHTHALMOLOGY SCIENCE
+VL 5
+IS 1
+AR 100599
+DI 10.1016/j.xops.2024.100599
+EA SEP 2024
+DT Article
+PD JAN-FEB 2025
+PY 2025
+AB Purpose: To evaluate the capabilities of Chat Generative Pre-Trained
+   Transformer (ChatGPT), as a large language model (LLM), for diagnosing
+   glaucoma using the Ocular Hypertension Treatment Study (OHTS) dataset,
+   and comparing the diagnostic capability of ChatGPT 3.5 and ChatGPT 4.0.
+   Design: Prospective data collection study. Participants: A total of 3170
+   eyes of 1585 subjects from the OHTS were included in this study.
+   Methods: We selected demographic, clinical, ocular, visual field, optic
+   nerve head photo, and history of disease parameters of each participant
+   and developed case reports by converting tabular data into textual
+   format based on information from both eyes of all subjects. We then
+   developed a procedure using the application programming interface of
+   ChatGPT, a LLM-based chatbot, to automatically input prompts into a chat
+   box. This was followed by querying 2 different generations of ChatGPT
+   (versions 3.5 and 4.0) regarding the underlying diagnosis of each
+   subject. We then evaluated the output responses based on several
+   objective metrics. Main Outcome Measures: Area under the receiver
+   operating characteristic curve (AUC), accuracy, specificity,
+   sensitivity, and F1 score. Results: Chat Generative Pre-Trained
+   Transformer 3.5 achieved AUC of 0.74, accuracy of 66%, specificity of
+   64%, sensitivity of 85%, and F1 score of 0.72. Chat Generative
+   Pre-Trained Transformer 4.0 obtained AUC of 0.76, accuracy of 87%,
+   specificity of 90%, sensitivity of 61%, and F1 score of 0.92.
+   Conclusions: The accuracy of ChatGPT 4.0 in diagnosing glaucoma based on
+   input data from OHTS was promising. The overall accuracy of ChatGPT 4.0
+   was higher than ChatGPT 3.5. However, ChatGPT 3.5 was found to be more
+   sensitive than ChatGPT 4.0. In its current forms, ChatGPT may serve as a
+   useful tool in exploring disease status of ocular hypertensive eyes when
+   specific data are available for analysis. In the future, leveraging LLMs
+   with multimodal capabilities, allowing for integration of imaging and
+   diagnostic testing as part of the analyses, could further enhance
+   diagnostic capabilities and enhance diagnostic accuracy. Financial
+   Disclosures: Proprietary or commercial disclosure may be found in the
+   Footnotes and Disclosures at the end of this article. Ophthalmology
+   Science 2025;5:100599 (c) 2024 by the American Academy of Ophthalmology.
+   This is an open access article under the CC BY-NC-ND license
+   (http://creativecommons.org/licenses/by-ncnd/4.0/).
+ZR 0
+ZB 0
+ZA 0
+Z8 0
+TC 3
+ZS 0
+Z9 3
+DA 2024-10-16
+UT WOS:001330416200001
+PM 39346574
+ER
+
+PT J
+AU Nakaura, Takeshi
+   Yoshida, Naofumi
+   Kobayashi, Naoki
+   Nagayama, Yasunori
+   Uetani, Hiroyuki
+   Kidoh, Masafumi
+   Oda, Seitaro
+   Funama, Yoshinori
+   Hirai, Toshinori
+TI Performance of Multimodal Large Language Models in Japanese Diagnostic
+   Radiology Board Examinations (2021-2023)
+SO ACADEMIC RADIOLOGY
+VL 32
+IS 5
+BP 2394
+EP 2401
+DI 10.1016/j.acra.2024.10.035
+EA APR 2025
+DT Article
+PD MAY 2025
+PY 2025
+AB Rationale and Objectives: To evaluate the performance of various
+   multimodal large language models (LLMs) in the Japanese Diagnostic
+   Radiology Board Examinations (JDRBE) both with and without images.
+   Materials and Methods: Five multimodal LLMs-GPT-4o, Claude 3 Opus, GPT-4
+   Vision, Gemini Flash 1.5, and Gemini Pro 1.5-were tested using questions
+   from the JDRBE from 2021 to 2023. The models' performances were assessed
+   in two conditions: with images and without images. Accuracy rates were
+   calculated for each model, both overall and within specific
+   subspecialties, including Abdominal and Pelvic Radiology,
+   Musculoskeletal and Breast Imaging, Neuroradiology and Head and Neck
+   Imaging, Nuclear Medicine, and Thoracic and Cardiac Radiology. Results:
+   The average accuracy rates of the LLMs ranged from 30.21% to 45.00%,
+   with GPT-4o achieving the highest (45.00%). Claude 3 Opus performed best
+   without images (45.83%), while the addition of images did not
+   significantly improve accuracy for any model. Performance varied across
+   subspecialties, with GPT-4o excelling in "Other" (65.63%) and Claude 3
+   Opus in Neuroradiology and Head and Neck Imaging (55.56%). Importantly,
+   none of the models surpassed the passing threshold of 60%. Conclusion:
+   Our findings demonstrate that multimodal LLMs exhibit a range of
+   accuracy in JDRBE, with GPT-4o and Claude 3 Opus showing the highest
+   overall performance. However, the addition of images did not
+   significantly improve accuracy for any model. Summary: Multimodal LLMs
+   are a very promising tool in the field of radiology. However, our study
+   shows that while there are some promising results, their ability to
+   evaluate radiological medical images is currently limited. Further
+   development seems necessary before they can be used routinely. Key
+   Points: Multimodal LLMs show varying accuracy (30.21-45.83%) on Japanese
+   diagnostic radiology board examinations. Adding images did not
+   significantly improve multimodal LLM performance, and significantly
+   decreased accuracy for one model. Performances of multimodal LLMs varied
+   considerably across radiology subspecialties.
+Z8 0
+ZS 0
+TC 1
+ZB 1
+ZA 0
+ZR 0
+Z9 1
+DA 2025-05-07
+UT WOS:001476992800001
+PM 39521632
+ER
+
+PT J
+AU Zhu, L.
+   Anand, A.
+   Gevorkyan, G.
+   Mcgee, L. A.
+   Rwigema, J. C.
+   Rong, Y.
+   Patel, S. H.
+TI Testing and Validation of a Custom Trained Large Language Model for HN
+   Patients with Guardrails
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 118
+IS 5
+MA 182
+BP E52
+EP E53
+DT Meeting Abstract
+PD APR 1 2024
+PY 2024
+CT Multidisciplinary Head and Neck Cancers Symposium
+CY FEB 29-MAR 02, 2024
+CL Phoenix, AZ
+TC 1
+ZS 0
+Z8 0
+ZA 0
+ZR 0
+ZB 0
+Z9 1
+DA 2024-10-18
+UT WOS:001300212900102
+ER
+
+PT J
+AU Yamagishi, Yosuke
+   Nakamura, Yuta
+   Hanaoka, Shouhei
+   Abe, Osamu
+TI Large Language Model Approach for Zero-Shot Information Extraction and
+   Clustering of Japanese Radiology Reports: Algorithm Development and
+   Validation
+SO JMIR CANCER
+VL 11
+AR e57275
+DI 10.2196/57275
+DT Article
+PD 2025
+PY 2025
+AB Background: The application of natural language processing in medicine
+   has increased significantly, including tasks such as information
+   extraction and classification. Natural language processing plays a
+   crucial role in structuring free-form radiology reports, facilitating
+   the interpretation of textual content, and enhancing data utility
+   through clustering techniques. Clustering allows for the identification
+   of similar lesions and disease patterns across a broad dataset, making
+   it useful for aggregating information and discovering new insights in
+   medical imaging. However, most publicly available medical datasets are
+   in English, with limited resources in other languages. This scarcity
+   poses a challenge for development of models geared toward non-English
+   downstream tasks. Objective: This study aimed to develop and evaluate an
+   algorithm that uses large language models (LLMs) to extract information
+   from Japanese lung cancer radiology reports and perform clustering
+   analysis. The effectiveness of this approach was assessed and compared
+   with previous supervised methods. Methods: This study employed the
+   MedTxt-RR dataset, comprising 135 Japanese radiology reports from 9
+   radiologists who interpreted the computed tomography images of 15 lung
+   cancer patients obtained from Radiopaedia. Previously used in the
+   NTCIR-16 (NII Testbeds and Community for Information Access Research)
+   shared task for clustering performance competition, this dataset was
+   ideal for comparing the clustering ability of our algorithm with those
+   of previous methods. The dataset was split into 8 cases for development
+   and 7 for testing, respectively. The study's approach involved using the
+   LLM to extract information pertinent to lung cancer findings and
+   transforming it into numeric features for clustering, using the K-means
+   method. Performance was evaluated using 135 reports for information
+   extraction accuracy and 63 test reports for clustering performance. This
+   study focused on the accuracy of automated systems for extracting tumor
+   size, location, and laterality from clinical reports. The clustering
+   performance was evaluated using normalized mutual information, adjusted
+   mutual information , and the Fowlkes-Mallows index for both the
+   development and test data. Results: The tumor size was accurately
+   identified in 99 out of 135 reports (73.3%), with errors in 36 reports
+   (26.7%), primarily due to missing or incorrect size information. Tumor
+   location and laterality were identified with greater accuracy in 112 out
+   of 135 reports (83%); however, 23 reports (17%) contained errors mainly
+   due to empty values or incorrect data. Clustering performance of the
+   test data yielded an normalized mutual information of 0.6414, adjusted
+   mutual information of 0.5598, and Fowlkes-Mallows index of 0.5354. The
+   proposed method demonstrated superior performance across all evaluation
+   metrics compared to previous methods. Conclusions: The unsupervised LLM
+   approach surpassed the existing supervised methods in clustering
+   Japanese radiology reports. These findings suggest that LLMs hold
+   promise for extracting information from radiology reports and
+   integrating it into disease-specific knowledge structures.
+TC 0
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+ZB 0
+Z9 0
+DA 2025-02-20
+UT WOS:001420173900001
+PM 39864093
+ER
+
+PT J
+AU Builoff, Valerie
+   Shanbhag, Aakash
+   Miller, Robert J. H.
+   Dey, Damini
+   Liang, Joanna X.
+   Flood, Kathleen
+   Bourque, Jamieson M.
+   Chareonthaitawee, Panithaya
+   Phillips, Lawrence M.
+   Slomka, Piotr J.
+TI Evaluating AI proficiency in nuclear cardiology: Large language models
+   take on the board preparation exam
+SO JOURNAL OF NUCLEAR CARDIOLOGY
+VL 45
+AR 102089
+DI 10.1016/j.nuclcard.2024.102089
+EA MAR 2025
+DT Article
+PD MAR 2025
+PY 2025
+AB Background: Previous studies evaluated the ability of large language
+   models (LLMs) in medical disciplines; however, few have focused on image
+   analysis, and none specifically on cardiovascular imaging or nuclear
+   cardiology. This study assesses four LLMs-GPT-4, GPT-4 Turbo, GPT-4omni
+   (GPT-4o) (Open AI), and Gemini (Google Inc.)-in responding to questions
+   from the 2023 American Society of Nuclear Cardiology Board Preparation
+   Exam, reflecting the scope of the Certification Board of Nuclear
+   Cardiology (CBNC) examination. Methods: We used 168 questions: 141
+   text-only and 27 image-based, categorized into four sections mirroring
+   the CBNC exam. Each LLM was presented with the same standardized prompt
+   and applied to each section 30 times to account for stochasticity.
+   Performance over six weeks was assessed for all models except GPT-4o.
+   McNemar's test compared correct response proportions. Results: GPT-4,
+   Gemini, GPT-4 Turbo, and GPT-4o correctly answered median percentages of
+   56.8% (95% confidence interval 55.4%- 58.0%), 40.5% (39.9%- 42.9%),
+   60.7% (59.5% 61.3%), and 63.1% (62.5%e64.3%) of questions, respectively.
+   GPT-4o significantly outperformed other models (P = .007 vs GPT-4 Turbo,
+   P < .001 vs GPT-4 and Gemini). GPT-4o excelled on text-only questions
+   compared to GPT-4, Gemini, and GPT-4 Turbo (P < .001, P < .001, and P =
+   .001), while Gemini performed worse on image-based questions (P < .001
+   for all). Conclusion: GPT-4o demonstrated superior performance among the
+   four LLMs, achieving scores likely within or just outside the range
+   required to pass a test akin to the CBNC examination. Although
+   improvements in medical image interpretation are needed, GPT4o shows
+   potential to support physicians in answering text-based clinical
+   questions.
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+TC 3
+ZB 0
+Z9 3
+DA 2025-03-29
+UT WOS:001450020100001
+PM 39617127
+ER
+
+PT J
+AU Raja, Hina
+   Huang, Xiaoqin
+   Delsoz, Mohammad
+   Madadi, Yeganeh
+   Poursoroush, Asma
+   Munawar, Asim
+   Kahook, Malik
+   Yousefi, Siamak
+TI Diagnosing Glaucoma Based on a Large Language Model Chatbot
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+MA 1636
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+ZR 0
+TC 0
+ZB 0
+Z8 0
+ZA 0
+ZS 0
+Z9 0
+DA 2024-12-01
+UT WOS:001312227704264
+ER
+
+PT J
+AU Khanmohammadi, R.
+   Ghanem, A. I.
+   Verdecchia, K.
+   Hall, R.
+   Elshaikh, M. A.
+   Movsas, B.
+   Bagher-Ebadian, H.
+   Chetty, I. J.
+   Ghassemi, M. M.
+   Thind, K.
+TI A Novel Localized Student-Teacher LLM for Enhanced Toxicity Extraction
+   in Radiation Oncology
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3388
+BP E632
+EP E633
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+Z8 0
+TC 0
+ZB 0
+ZR 0
+ZA 0
+ZS 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302069
+ER
+
+PT J
+AU Dai, Jiayi
+   Kim, Mi-Young
+   Sutton, Reed T.
+   Mitchell, Joseph R.
+   Goebel, Randolph G.
+   Baumgart, Daniel C.
+TI DEVELOPMENT OF IBDBERT - NATURAL LANGUAGE PROCESSING ANALYSIS OF CROHN'S
+   DISEASE COMPUTED TOMOGRAPHY ENTEROGRAPHY (CTE) REPORTS
+SO GASTROENTEROLOGY
+VL 166
+IS 5
+MA Sa2032
+BP S612
+EP S612
+SU S
+DT Meeting Abstract
+PD MAY 2024
+PY 2024
+CT Digestive Disease Week (DDW)
+CY MAY 18-21, 2024
+CL Washington, DC
+ZS 0
+ZR 0
+TC 0
+ZA 0
+Z8 0
+ZB 0
+Z9 0
+DA 2024-10-30
+UT WOS:001282837702379
+ER
+
+PT B
+AU Ozturkler, Batu Mehmet
+Z2  
+TI Efficient and Robust Deep Learning for Medical Imaging and Natural
+   Language Processing
+DT Dissertation/Thesis
+PD Jan 01 2023
+PY 2023
+ZA 0
+ZR 0
+TC 0
+Z8 0
+ZS 0
+ZB 0
+Z9 0
+UT PQDT:89396659
+ER
+
+PT J
+AU Yang, Z.
+   Kazemimoghadam, M.
+   Wang, L.
+   Szalkowski, G. A.
+   Chuang, C. F.
+   Liu, L.
+   Soltys, S. G.
+   Pollom, E.
+   Rahimy, E.
+   Jiang, H.
+   Park, D.
+   Persad, A.
+   Hori, Y.
+   Fu, J.
+   Romero, I. O.
+   Zalavari, L.
+   Chen, M.
+   Lu, W.
+   Gu, X.
+TI A Deep Learning-Driven Framework for Large Language Model -Assisted
+   Automatic Target Volume Localization and Delineation for Enhancing
+   Spinal Metastases Stereotactic Body Radiotherapy Workflow
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 195
+BP S61
+EP S62
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+TC 0
+ZA 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302564
+ER
+
+PT J
+AU Ong, Hannah
+   Ong, Joshua
+   Cheng, Rebekah
+   Wang, Calvin
+   Lin, Murong
+   Ong, Dennis
+TI GPT Technology to Help Address Longstanding Barriers to Care in Free
+   Medical Clinics
+SO ANNALS OF BIOMEDICAL ENGINEERING
+VL 51
+IS 9
+BP 1906
+EP 1909
+DI 10.1007/s10439-023-03256-4
+EA JUN 2023
+DT Article
+PD SEP 2023
+PY 2023
+AB The implementation of technology in healthcare has revolutionized
+   patient-centered decision making by providing contextualized information
+   about a patient's healthcare journey, leading to increased efficiency
+   (Keyworth et al. in BMC Med Inform Decis Mak 18:93, 2018,
+   https://doi.org/10.1186/s12911-018-0661-3). Artificial intelligence has
+   been integrated within Electronic Health Records (EHR) to prompt
+   screenings or diagnostic tests based on a patient's holistic health
+   profile. While larger hospitals have already widely adopted these
+   technologies, free clinics hold lower utilization of these advanced
+   capability EHRs. The patient population at a free clinic faces a
+   multitude of factors that limits their access to comprehensive care,
+   thus requiring necessary efforts and measures to close the gap in
+   healthcare disparities. Emerging Artificial Intelligence (AI)
+   technology, such as OpenAI's ChatGPT, GPT-4, and other large language
+   models (LLMs) have remarkable potential to improve patient care
+   outcomes, promote health equity, and enhance comprehensive and holistic
+   care in resource-limited settings. This paper aims to identify areas in
+   which integrating these LLM AI advancements into free clinics operations
+   can optimize and streamline healthcare delivery to underserved patient
+   populations. This paper also identifies areas of improvements in GPT
+   that are necessary to deliver those services.
+ZR 0
+TC 11
+ZA 0
+ZB 4
+Z8 0
+ZS 0
+Z9 11
+DA 2023-07-14
+UT WOS:001019903200001
+PM 37355478
+ER
+
+PT B
+AU Kollapally, Navya Martin
+Z2  
+TI A Methodological Framework for Ontology Development, Enrichment, and
+   Application in Natural Language Processing Tasks
+DT Dissertation/Thesis
+PD Jan 01 2024
+PY 2024
+ZR 0
+ZS 0
+ZA 0
+Z8 0
+ZB 0
+TC 0
+Z9 0
+UT PQDT:112748987
+ER
+
+PT J
+AU Chen, Xiaolan
+   Zhang, Weiyi
+   Zhao, Ziwei
+   Xu, Pusheng
+   Zheng, Yingfeng
+   Shi, Danli
+   He, Mingguang
+TI ICGA-GPT: report generation and question answering for indocyanine green
+   angiography images
+SO BRITISH JOURNAL OF OPHTHALMOLOGY
+VL 108
+IS 10
+BP 1450
+EP 1456
+DI 10.1136/bjo-2023-324446
+EA MAR 2024
+DT Article
+PD OCT 2024
+PY 2024
+AB Background Indocyanine green angiography (ICGA) is vital for diagnosing
+   chorioretinal diseases, but its interpretation and patient communication
+   require extensive expertise and time-consuming efforts. We aim to
+   develop a bilingual ICGA report generation and question-answering (QA)
+   system.
+   Methods Our dataset comprised 213 129 ICGA images from 2919
+   participants. The system comprised two stages: image-text alignment for
+   report generation by a multimodal transformer architecture, and large
+   language model (LLM)-based QA with ICGA text reports and human-input
+   questions. Performance was assessed using both qualitative metrics
+   (including Bilingual Evaluation Understudy (BLEU), Consensus-based Image
+   Description Evaluation (CIDEr), Recall-Oriented Understudy for Gisting
+   Evaluation-Longest Common Subsequence (ROUGE-L), Semantic Propositional
+   Image Caption Evaluation (SPICE), accuracy, sensitivity, specificity,
+   precision and F1 score) and subjective evaluation by three experienced
+   ophthalmologists using 5-point scales (5 refers to high quality).
+   Results We produced 8757 ICGA reports covering 39 disease-related
+   conditions after bilingual translation (66.7% English, 33.3% Chinese).
+   The ICGA-GPT model's report generation performance was evaluated with
+   BLEU scores (1-4) of 0.48, 0.44, 0.40 and 0.37; CIDEr of 0.82; ROUGE of
+   0.41 and SPICE of 0.18. For disease-based metrics, the average
+   specificity, accuracy, precision, sensitivity and F1 score were 0.98,
+   0.94, 0.70, 0.68 and 0.64, respectively. Assessing the quality of 50
+   images (100 reports), three ophthalmologists achieved substantial
+   agreement (kappa=0.723 for completeness, kappa=0.738 for accuracy),
+   yielding scores from 3.20 to 3.55. In an interactive QA scenario
+   involving 100 generated answers, the ophthalmologists provided scores of
+   4.24, 4.22 and 4.10, displaying good consistency (kappa=0.779).
+   Conclusion This pioneering study introduces the ICGA-GPT model for
+   report generation and interactive QA for the first time, underscoring
+   the potential of LLMs in assisting with automated ICGA image
+   interpretation.
+ZS 0
+TC 10
+ZB 3
+ZR 0
+Z8 0
+ZA 0
+Z9 10
+DA 2024-03-30
+UT WOS:001189002900001
+PM 38508675
+ER
+
+PT J
+AU Zerunian, Marta
+   Nacci, Ilaria
+   Caruso, Damiano
+   Polici, Michela
+   Masci, Benedetta
+   De Santis, Domenico
+   Mercantini, Paolo
+   Arrivi, Giulia
+   Mazzuca, Federica
+   Paolantonio, Pasquale
+   Pilozzi, Emanuela
+   Vecchione, Andrea
+   Tarallo, Mariarita
+   Fiori, Enrico
+   Iannicelli, Elsa
+   Laghi, Andrea
+TI Is CT Radiomics Superior to Morphological Evaluation for pN0
+   Characterization? A Pilot Study in Colon Cancer
+SO CANCERS
+VL 16
+IS 3
+AR 660
+DI 10.3390/cancers16030660
+DT Article
+PD FEB 2024
+PY 2024
+AB Lymph node (LN) involvement is one of the most important prognostic
+   factors for patients with colon cancer (CC). CT morphological analysis
+   is not a reliable method to assess nodal status. Thus, the aim of this
+   study was to assess the potential added value of radiomic features
+   extracted from contrast-enhanced computed tomography (CECT) images
+   compared to morphological features when assessing regional LNs in
+   patients with pathologically confirmed stage I to stage IIC CC, in order
+   to obtain a non-invasive preoperative tool. The aim of this study was to
+   compare CT radiomics and morphological features when assessing benign
+   lymph nodes (LNs) in colon cancer (CC). This retrospective study
+   included 100 CC patients (test cohort) who underwent a preoperative CT
+   examination and were diagnosed as pN0 after surgery. Regional LNs were
+   scored with a morphological Likert scale (NODE-SCORE) and divided into
+   two groups: low likelihood (LLM: 0-2 points) and high likelihood (HLM:
+   3-7 points) of malignancy. The T-test and the Mann-Whitney test were
+   used to compare 107 radiomic features extracted from the two groups.
+   Radiomic features were also extracted from primary lesions (PLs), and
+   the receiver operating characteristic (ROC) was used to test a LN/PL
+   ratio when assessing the LN's status identified with radiomics and with
+   the NODE-SCORE. An amount of 337 LNs were divided into 167 with LLM and
+   170 with HLM. Radiomics showed 15/107 features, with a significant
+   difference (p < 0.02) between the two groups. The comparison of selected
+   features between 81 PLs and the corresponding LNs showed all significant
+   differences (p < 0.0001). According to the LN/PL ratio, the selected
+   features recognized a higher number of LNs than the NODE-SCORE (p <
+   0.001). On validation of the cohort of 20 patients (10 pN0, 10 pN2),
+   significant ROC curves were obtained for LN/PL busyness (AUC = 0.91;
+   0.69-0.99; 95% C.I.; and p < 0.001) and for LN/PL dependence entropy
+   (AUC = 0.76; 0.52-0.92; 95% C.I.; and p = 0.03). The radiomics ratio
+   between CC and LNs is more accurate for noninvasively discriminating
+   benign LNs compared to CT morphological features.
+ZS 0
+ZB 0
+Z8 0
+TC 0
+ZA 0
+ZR 0
+Z9 0
+DA 2024-02-21
+UT WOS:001161440700001
+PM 38339411
+ER
+
+PT J
+AU Wu, Wanying
+   Guo, Yuhu
+   Li, Qi
+   Jia, Congzhuo
+TI Exploring the potential of large language models in identifying
+   metabolic dysfunction-associated steatotic liver disease: A comparative
+   study of non-invasive tests and artificial intelligence-generated
+   responses
+SO LIVER INTERNATIONAL
+VL 45
+IS 4
+DI 10.1111/liv.16112
+EA NOV 2024
+DT Article
+PD APR 2025
+PY 2025
+AB Background and AimsThis study sought to assess the capabilities of large
+   language models (LLMs) in identifying clinically significant metabolic
+   dysfunction-associated steatotic liver disease (MASLD).MethodsWe
+   included individuals from NHANES 2017-2018. The validity and reliability
+   of MASLD diagnosis by GPT-3.5 and GPT-4 were quantitatively examined and
+   compared with those of the Fatty Liver Index (FLI) and United States FLI
+   (USFLI). A receiver operating characteristic curve was conducted to
+   assess the accuracy of MASLD diagnosis via different scoring systems.
+   Additionally, GPT-4V's potential in clinical diagnosis using ultrasound
+   images from MASLD patients was evaluated to provide assessments of LLM
+   capabilities in both textual and visual data interpretation.ResultsGPT-4
+   demonstrated comparable performance in MASLD diagnosis to FLI and USFLI
+   with the AUROC values of .831 (95% CI .796-.867), .817 (95% CI
+   .797-.837) and .827 (95% CI .807-.848), respectively. GPT-4 exhibited a
+   trend of enhanced accuracy, clinical relevance and efficiency compared
+   to GPT-3.5 based on clinician evaluation. Additionally, Pearson's r
+   values between GPT-4 and FLI, as well as USFLI, were .718 and .695,
+   respectively, indicating robust and moderate correlations. Moreover,
+   GPT-4V showed potential in understanding characteristics from hepatic
+   ultrasound imaging but exhibited limited interpretive accuracy in
+   diagnosing MASLD compared to skilled radiologists.ConclusionsGPT-4
+   achieved performance comparable to traditional risk scores in diagnosing
+   MASLD and exhibited improved convenience, versatility and the capacity
+   to offer user-friendly outputs. The integration of GPT-4V highlights the
+   capacities of LLMs in handling both textual and visual medical data,
+   reinforcing their expansive utility in healthcare practice.
+TC 0
+ZA 0
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+Z9 0
+DA 2024-11-23
+UT WOS:001354198800001
+PM 39526465
+ER
+
+PT J
+AU Chen, Kun
+   Xu, Wengui
+   Li, Xiaofeng
+TI The Potential of Gemini and GPTs for Structured Report Generation based
+   on Free-Text <SUP>18</SUP>F-FDG PET/CT Breast Cancer Reports
+SO ACADEMIC RADIOLOGY
+VL 32
+IS 2
+BP 624
+EP 633
+DI 10.1016/j.acra.2024.08.052
+EA FEB 2025
+DT Article
+PD FEB 2025
+PY 2025
+AB Rationale and objective: To compare the performance of large language
+   model (LLM) based Gemini and Generative Pre-trained Transformers (GPTs)
+   in data mining and generating structured reports based on free-text
+   PET/CT reports for breast cancer after user-defined tasks.
+   Materials and methods: Breast cancer patients (mean age, 50 years +/- 11
+   [SD]; all female) who underwent consecutive F-18-FDG PET/ CT for
+   follow-up between July 2005 and October 2023 were retrospectively
+   included in the study. A total of twenty reports from 10 patients were
+   used to train user-defined text prompts for Gemini and GPTs, by which
+   structured PET/CT reports were generated. The natural language
+   processing (NLP) generated structured reports and the structured reports
+   annotated by nuclear medicine physicians were compared in terms of data
+   extraction accuracy and capacity of progress decision-making.
+   Statistical methods, including chisquare test, McNemar test and paired
+   samples t-test, were employed in the study. Results: The
+   structured PET/CT reports for 131 patients were generated by using the
+   two NLP techniques, including Gemini and GPTs. In general, GPTs
+   exhibited superiority over Gemini in data mining in terms of primary
+   lesion size (89.6% vs. 53.8%, p < 0.001) and metastatic lesions (96.3%
+   vs 89.6%, p < 0.001). Moreover, GPTs outperformed Gemini in making
+   decision for progress (p < 0.001) and semantic similarity (F1 score
+   0.930 vs 0.907, p < 0.001) for reports. Conclusion: GPTs
+   outperformed Gemini in generating structured reports based on free-text
+   PET/CT reports, which is potentially applied in clinical practice.
+ZB 2
+TC 4
+ZS 0
+ZR 0
+Z8 1
+ZA 0
+Z9 4
+DA 2025-02-26
+UT WOS:001426380600001
+PM 39245597
+ER
+
+PT B
+AU R., Poornima
+Z2  
+TI Transcutaneous Ultrasonographic Assessment of Submucosal Fibrosis in
+   Oral Submucous Fibrosis: a Preliminary Study
+DT Dissertation/Thesis
+PD Jan 01 2009
+PY 2009
+Z8 0
+ZB 0
+ZA 0
+TC 0
+ZS 0
+ZR 0
+Z9 0
+UT PQDT:84553840
+ER
+
+PT J
+AU Gholami, Sina
+   Jannat, Fatema
+   Ong, Sally
+   Thompson, Atalie C.
+   Lim, Jennifer I.
+   Leng, Theodore
+   Tabkhivayghan, Hamed
+   Alam, Minhaj Nur
+TI FedMiM - Domain adaptive federated learning for classifying age-related
+   macular degeneration
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+MA 2769
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+ZB 0
+ZA 0
+ZS 0
+ZR 0
+TC 0
+Z8 0
+Z9 0
+DA 2024-12-01
+UT WOS:001312227708067
+ER
+
+PT J
+AU Voinea, Stefan-Vlad
+   Mamuleanu, Madalin
+   Teica, Rossy Vladut
+   Florescu, Lucian Mihai
+   Selisteanu, Dan
+   Gheonea, Ioana Andreea
+TI GPT-Driven Radiology Report Generation with Fine-Tuned Llama 3
+SO BIOENGINEERING-BASEL
+VL 11
+IS 10
+AR 1043
+DI 10.3390/bioengineering11101043
+DT Article
+PD OCT 2024
+PY 2024
+AB The integration of deep learning into radiology has the potential to
+   enhance diagnostic processes, yet its acceptance in clinical practice
+   remains limited due to various challenges. This study aimed to develop
+   and evaluate a fine-tuned large language model (LLM), based on Llama
+   3-8B, to automate the generation of accurate and concise conclusions in
+   magnetic resonance imaging (MRI) and computed tomography (CT) radiology
+   reports, thereby assisting radiologists and improving reporting
+   efficiency. A dataset comprising 15,000 radiology reports was collected
+   from the University of Medicine and Pharmacy of Craiova's Imaging
+   Center, covering a diverse range of MRI and CT examinations made by four
+   experienced radiologists. The Llama 3-8B model was fine-tuned using
+   transfer-learning techniques, incorporating parameter quantization to
+   4-bit precision and low-rank adaptation (LoRA) with a rank of 16 to
+   optimize computational efficiency on consumer-grade GPUs. The model was
+   trained over five epochs using an NVIDIA RTX 3090 GPU, with intermediary
+   checkpoints saved for monitoring. Performance was evaluated
+   quantitatively using Bidirectional Encoder Representations from
+   Transformers Score (BERTScore), Recall-Oriented Understudy for Gisting
+   Evaluation (ROUGE), Bilingual Evaluation Understudy (BLEU), and Metric
+   for Evaluation of Translation with Explicit Ordering (METEOR) metrics on
+   a held-out test set. Additionally, a qualitative assessment was
+   conducted, involving 13 independent radiologists who participated in a
+   Turing-like test and provided ratings for the AI-generated conclusions.
+   The fine-tuned model demonstrated strong quantitative performance,
+   achieving a BERTScore F1 of 0.8054, a ROUGE-1 F1 of 0.4998, a ROUGE-L F1
+   of 0.4628, and a METEOR score of 0.4282. In the human evaluation, the
+   artificial intelligence (AI)-generated conclusions were preferred over
+   human-written ones in approximately 21.8% of cases, indicating that the
+   model's outputs were competitive with those of experienced radiologists.
+   The average rating of the AI-generated conclusions was 3.65 out of 5,
+   reflecting a generally favorable assessment. Notably, the model
+   maintained its consistency across various types of reports and
+   demonstrated the ability to generalize to unseen data. The fine-tuned
+   Llama 3-8B model effectively generates accurate and coherent conclusions
+   for MRI and CT radiology reports. By automating the conclusion-writing
+   process, this approach can assist radiologists in reducing their
+   workload and enhancing report consistency, potentially addressing some
+   barriers to the adoption of deep learning in clinical practice. The
+   positive evaluations from independent radiologists underscore the
+   model's potential utility. While the model demonstrated strong
+   performance, limitations such as dataset bias, limited sample diversity,
+   a lack of clinical judgment, and the need for large computational
+   resources require further refinement and real-world validation. Future
+   work should explore the integration of such models into clinical
+   workflows, address ethical and legal considerations, and extend this
+   approach to generate complete radiology reports.
+ZS 0
+ZB 0
+Z8 1
+ZA 0
+ZR 0
+TC 1
+Z9 1
+DA 2024-11-03
+UT WOS:001342753500001
+PM 39451418
+ER
+
+PT J
+AU Kar, Sujoy
+   Jallepalli, Shivkumar
+   Potla, Bharath
+   Haranath, Sai Praveen P.
+   Reddy, Sangita
+TI Conversion of Dicom ECG Images to Tabular Format for Building Large
+   Language Model in Diagnoses and Disease Progression of Cardiovascular
+   Conditions
+SO CIRCULATION
+VL 148
+MA A17760
+DI 10.1161/circ.148.suppl_1.17760
+SU 1
+DT Meeting Abstract
+PD NOV 7 2023
+PY 2023
+CT American-Heart-Association's Epidemiology and Prevention/Lifestyle and
+   Cardiometabolic Health Scientific Sessions
+CY NOV 11-13, 2023
+CL Philadelphia, PA
+SP Amer Heart Assoc
+TC 0
+ZB 0
+ZR 0
+ZS 0
+ZA 0
+Z8 0
+Z9 0
+DA 2024-03-04
+UT WOS:001157891308043
+ER
+
+PT J
+AU Schmidl, Benedikt
+   Huetten, Tobias
+   Pigorsch, Steffi
+   Stoegbauer, Fabian
+   Hoch, Cosima C.
+   Hussain, Timon
+   Wollenberg, Barbara
+   Wirth, Markus
+TI Artificial intelligence for image recognition in diagnosing oral and
+   oropharyngeal cancer and leukoplakia
+SO SCIENTIFIC REPORTS
+VL 15
+IS 1
+AR 3625
+DI 10.1038/s41598-025-85920-4
+DT Article
+PD JAN 29 2025
+PY 2025
+AB Visual diagnosis is one of the key features of squamous cell carcinoma
+   of the oral cavity (OSCC) and oropharynx (OPSCC), both subsets of head
+   and neck squamous cell carcinoma (HNSCC) with a heterogeneous clinical
+   appearance. Advancements in artificial intelligence led to Image
+   recognition being introduced recently into large language models (LLMs)
+   such as ChatGPT 4.0. This exploratory study, for the first time,
+   evaluated the application of image recognition by ChatGPT to diagnose
+   squamous cell carcinoma and leukoplakia based on clinical images, with
+   images without any lesion as a control group. A total of 45 clinical
+   images were analyzed, comprising 15 cases each of SCC, leukoplakia, and
+   non-lesion images. ChatGPT 4.0 was tasked with providing the most likely
+   diagnosis based on these images in scenario one. In scenario two the
+   image and the clinical history were provided, whereas in scenario three
+   only the clinical history was given. The results and the accuracy of the
+   LLM were rated by two independent reviewers and the overall performance
+   was evaluated using the modified Artificial Intelligence Performance
+   Index (AIPI. In this study, ChatGPT 4.0 demonstrated the ability to
+   correctly identify leukoplakia cases using image recognition alone,
+   while the ability to diagnose SCC was insufficient, but improved by
+   including the clinical history in the prompt. Providing only the
+   clinical history resulted in a misclassification of most leukoplakia and
+   some SCC cases. Oral cavity lesions were more likely to be diagnosed
+   correctly. In this exploratory study of 45 images of oral lesions,
+   ChatGPT 4.0 demonstrated a convincing performance for detecting SCC only
+   when the clinical history was added, whereas Leukoplakia was detected
+   solely by image recognition. ChatGPT is therefore currently insufficient
+   for reliable OPSCC and OSCC diagnosis, but further technological
+   advancements may pave the way for the use in the clinical setting.
+ZR 0
+ZS 0
+Z8 0
+TC 2
+ZA 0
+ZB 0
+Z9 2
+DA 2025-02-09
+UT WOS:001410929000012
+PM 39880876
+ER
+
+PT J
+AU Han, B.
+   Chen, Y.
+   Buyyounouski, M. K.
+   Gensheimer, M. F.
+   Xing, L.
+TI RadAlonc: Enhancing Decision-Making in Radiation Oncology with a
+   GPT-4-Based Prompt-Driven Large Language Model
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 2297
+BP E134
+EP E134
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZS 0
+ZB 0
+TC 0
+Z8 0
+ZR 0
+ZA 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892300029
+ER
+
+PT J
+AU Anvari, Sama
+   Lee, Yung
+   Jin, David S.
+   Malone, Sarah
+   Collins, Matthew
+TI AI IN HEPATOLOGY: A COMPARATIVE ANALYSIS OF CHATGPT-4, BING, AND BARD AT
+   ANSWERING CLINICAL QUESTIONS
+SO GASTROENTEROLOGY
+VL 166
+IS 5
+MA Su1976
+BP S888
+EP S888
+SU S
+DT Meeting Abstract
+PD MAY 2024
+PY 2024
+CT Digestive Disease Week (DDW)
+CY MAY 18-21, 2024
+CL Washington, DC
+TC 0
+ZR 0
+ZS 0
+ZB 0
+ZA 0
+Z8 0
+Z9 0
+DA 2024-10-30
+UT WOS:001282837703477
+ER
+
+PT C
+AU Sharma, Manish
+   Farough, Samira
+   Burkett, Andre
+   Prasanth, Jerome
+   El-Shafeey, Nabil
+   Zygadlo, Dominic
+   Dunn, Chera
+   Korn, Ron
+BE Yoshida, H
+   Wu, S
+TI Enhancing interpretation assistance by real-time query resolution in
+   BICR of Oncology Clinical Trials by leveraging ChatGPT bots
+SO IMAGING INFORMATICS FOR HEALTHCARE, RESEARCH, AND APPLICATIONS, MEDICAL
+   IMAGING 2024
+SE Proceedings of SPIE
+VL 12931
+AR 1293117
+DI 10.1117/12.3011602
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Purpose: Blinded Independent Central Review (BICR) is pivotal in
+   maintaining unbiased assessment in oncology clinical trials employing
+   various assessment criteria like Response Evaluation Criteria In Solid
+   Tumors (RECIST) in clinical trials framework. This paper emphasizes the
+   potential of Large Language Models (LLMs) such as OpenAI's GPT-4 and
+   ChatGPT trained on clinical trials' documents and other reader training
+   materials, to significantly improve interpretation assistance and
+   real-time query resolution. During central review process these
+   documents are easily accessible to readers but sometimes, given that
+   most readers read on multiple ongoing clinical trials on regular basis,
+   it is a daunting task to search details like trial design, endpoints and
+   specific reader rules. Through various pre-trained frameworks using
+   ChatGPT Application Programming Interface (API), an AI-based chatbot can
+   be used for helping readers saving time by providing accurate study
+   design related questions based on uploaded training documents. If
+   successful, this analysis can open another novel implementation for LLMs
+   (or ChatGPT) in clinical research and medical imaging.
+   Methods: This prospective study involved the review of study design and
+   protocol available from clinicaltrials.gov database maintained by The
+   National Library of Medicine (NLM) at the National Institutes of Health
+   (NIH). ClinicalTrials.gov is a registry of clinical trials that contains
+   information on clinical studies funded by the NIH, other federal
+   agencies, and private industry. The database includes over 444,000
+   trials from 221 countries. The NLM works with the US Food and Drug
+   Administration (FDA) to develop and maintain the database. The ChatGPT
+   based Chatbot was trained on clinical trial design data from respective
+   studies to grasp the intricacies of assessment criteria, patient
+   population, inclusion / exclusion criteria and other assessment nuances,
+   as applicable. Fine-tuning with prompt engineering ensured Chatbot to
+   understand the language and context specific to BICR. The resulting
+   models serve as intelligent assistants to provide a user-friendly
+   interface for reviewers. Reviewers can engage with the chatbot in
+   natural language, obtaining clarifications on assessment guidelines,
+   terminology, and complex cases. To train the Chatbot, we searched for
+   Lung Cancer studies with following specifications: "Completed Studies |
+   Studies With Results | Interventional Studies | Lung Cancer | Phase 3 |
+   Study Protocols | Statistical Analysis Plans (SAPs)" from the
+   clinicaltrials.gov website. Without any bias, we selected the first 3
+   studies in search results for our prospective study and 7 questions to
+   ask, representative of commonly encountered queries for readers.
+   Results: The algorithm supported by ChatGPT was evaluated against a Gold
+   Standard medical opinion, determined by a board-certified radiologist
+   with over 20 years of experience in the BICR process. The Chatbot
+   provided immediate, contextually accurate insights for all the questions
+   across 3 studies. The trick questions which did not have the answers,
+   data or references in the provided text were rightly called out by the
+   Chatbot, suggesting the user to check with document or study team.
+   Though sometimes, in addition to referencing the study team or
+   documents, it did provide a clinical practice or general criteria
+   related feedback. Real-time query resolution reduces response time,
+   preventing delays in assessment and decision-making.
+   Conclusions: LLMs can streamline training by offering on-the-spot
+   explanations and references, enhancing reviewer proficiency and
+   efficiency. By acting as interactive chatbots, LLMs have immense
+   potential to improve quality and efficiency by offering contextual
+   guidance and expedited responses, ultimately enhancing decision-making
+   and study efficiency.
+CT Conference on Medical Imaging - Imaging Informatics for Healthcare,
+   Research, and Applications
+CY FEB 19-21, 2024
+CL San Diego, CA
+SP SPIE; Amer Assoc Physicists Med; Radiol Soc N Amer; World Mol Imaging
+   Soc; Soc Imaging Informat Med; Int Fdn Comp Assisted Radiol & Surg; Med
+   Image Percept Soc
+ZR 0
+Z8 0
+ZS 0
+TC 0
+ZB 0
+ZA 0
+Z9 0
+DA 2024-05-31
+UT WOS:001219280700038
+ER
+
+PT J
+AU Schwieger, Arne
+   Angst, Katrin
+   de Bardeci, Mateo
+   Burrer, Achim
+   Cathomas, Flurin
+   Ferrea, Stefano
+   Gratz, Franziska
+   Knorr, Marius
+   Kronenberg, Golo
+   Spiller, Tobias
+   Troi, David
+   Seifritz, Erich
+   Weber, Samantha
+   Olbrich, Sebastian
+TI Large language models can support generation of standardized discharge
+   summaries - A retrospective study utilizing ChatGPT-4 and electronic
+   health records
+SO INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS
+VL 192
+AR 105654
+DI 10.1016/j.ijmedinf.2024.105654
+EA OCT 2024
+DT Article
+PD DEC 2024
+PY 2024
+AB Objective: To evaluate whether psychiatric discharge summaries (DS)
+   generated with ChatGPT-4 from electronic health records (EHR) can match
+   the quality of DS written by psychiatric residents. Methods: At a
+   psychiatric primary care hospital, we compared 20 inpatient DS, written
+   by residents, to those written with ChatGPT-4 from pseudonymized
+   residents' notes of the patients' EHRs and a standardized prompt. 8
+   blinded psychiatry specialists rated both versions on a custom Likert
+   scale from 1 to 5 across 15 quality subcategories. The primary outcome
+   was the overall rating difference between the two groups. The secondary
+   outcomes were the rating differences at the level of individual
+   question, case, and rater. Results: Human-written DS were rated
+   significantly higher than AI (mean ratings: human 3.78, AI 3.12, p <
+   0.05). They surpassed AI significantly in 12/15 questions and 16/20
+   cases and were favored significantly by 7/8 raters. For "low expected
+   correction effort", human DS were rated as 67 % favorable, 19 % neutral,
+   and 14 % unfavorable, whereas AI-DS were rated as 22 % favorable, 33 %
+   neutral, and 45 % unfavorable. Hallucinations were present in 40 % of
+   AI-DS, with 37.5 % deemed highly clinically relevant. Minor content
+   mistakes were found in 30 % of AI and 10 % of human DS. Raters correctly
+   identified AI-DS with 81 % sensitivity and 75 % specificity. Discussion:
+   Overall, AI-DS did not match the quality of resident-written DS but
+   performed similarly in 20% of cases and were rated as favorable for "low
+   expected correction effort" in 22% of cases. AI-DS lacked most in
+   content specificity, ability to distill key case information, and
+   coherence but performed adequately in conciseness, adherence to
+   formalities, relevance of included content, and form. Conclusion:
+   LLM-written DS show potential as templates for physicians to finalize,
+   potentially saving time in the future.
+ZA 0
+ZR 0
+Z8 0
+ZS 0
+ZB 1
+TC 5
+Z9 5
+DA 2024-11-07
+UT WOS:001343302900001
+PM 39437512
+ER
+
+PT J
+AU Hirosawa, Takanobu
+   Harada, Yukinori
+   Tokumasu, Kazuki
+   Ito, Takahiro
+   Suzuki, Tomoharu
+   Shimizu, Taro
+TI Evaluating ChatGPT-4's Diagnostic Accuracy: Impact of Visual Data
+   Integration
+SO JMIR MEDICAL INFORMATICS
+VL 12
+AR e55627
+DI 10.2196/55627
+DT Article
+PD 2024
+PY 2024
+AB Background: In the evolving field of health care, multimodal generative
+   artificial intelligence (AI) systems, such as ChatGPT-4 with vision
+   (ChatGPT-4V), represent a significant advancement, as they integrate
+   visual data with text data. This integration has the potential to
+   revolutionize clinical diagnostics by offering more comprehensive
+   analysis capabilities. However, the impact on diagnostic accuracy of
+   using image data to augment ChatGPT-4 remains unclear. Objective: This
+   study aims to assess the impact of adding image data on ChatGPT-4's
+   diagnostic accuracy and provide insights into how image data integration
+   can enhance the accuracy of multimodal AI in medical diagnostics.
+   Specifically, this study endeavored to compare the diagnostic accuracy
+   between ChatGPT-4V, which processed both text and image data, and its
+   counterpart, ChatGPT-4, which only uses text data. Methods: We
+   identified a total of 557 case reports published in the American Journal
+   of Case Reports from January 2022 to March 2023. After excluding cases
+   that were nondiagnostic, pediatric, and lacking image data, we included
+   363 case descriptions with their final diagnoses and associated images.
+   We compared the diagnostic accuracy of ChatGPT-4V and ChatGPT-4 without
+   vision based on their ability to include the final diagnoses within
+   differential diagnosis lists. Two independent physicians evaluated their
+   accuracy, with a third resolving any discrepancies, ensuring a rigorous
+   and objective analysis. Results: The integration of image data into
+   ChatGPT-4V did not significantly enhance diagnostic accuracy, showing
+   that final diagnoses were included in the top 10 differential diagnosis
+   lists at a rate of 85.1% (n=309), comparable to the rate of 87.9%
+   (n=319) for the text -only version ( P =.33). Notably, ChatGPT-4V's
+   performance in correctly identifying the top diagnosis was inferior, at
+   44.4% (n=161), compared with 55.9% (n=203) for the text -only version (
+   P =.002, chi 2 test). Additionally, ChatGPT-4's self -reports showed
+   that image data accounted for 30% of the weight in developing the
+   differential diagnosis lists in more than half of cases. Conclusions:
+   Our findings reveal that currently, ChatGPT-4V predominantly relies on
+   textual data, limiting its ability to fully use the diagnostic potential
+   of visual information. This study underscores the need for further
+   development of multimodal generative AI systems to effectively integrate
+   and use clinical image data. Enhancing the diagnostic performance of
+   such AI systems through improved multimodal data integration could
+   significantly benefit patient care by providing more accurate and
+   comprehensive diagnostic insights. Future research should focus on
+   overcoming these limitations, paving the way for the practical
+   application of advanced AI in medicine.
+ZB 2
+Z8 1
+TC 11
+ZA 0
+ZR 0
+ZS 0
+Z9 11
+DA 2024-05-16
+UT WOS:001217446200001
+PM 38592758
+ER
+
+PT J
+AU Bhayana, Rajesh
+   Nanda, Bipin
+   Dehkharghanian, Taher
+   Deng, Yangqing
+   Bhambra, Nishaant
+   Elias, Gavin
+   Datta, Daksh
+   Kambadakone, Avinash
+   Shwaartz, Chaya G.
+   Moulton, Carol-Anne
+   Henault, David
+   Gallinger, Steven
+   Krishna, Satheesh
+TI Large Language Models for Automated Synoptic Reports and Resectability
+   Categorization in Pancreatic Cancer
+SO RADIOLOGY
+VL 311
+IS 3
+AR e233117
+DI 10.1148/radiol.233117
+DT Article
+PD JUN 2024
+PY 2024
+AB Background: Structured radiology reports for pancreatic ductal
+   adenocarcinoma (PDAC) improve surgical decision-making over free-text
+   reports, but radiologist adoption is variable. Resectability criteria
+   are applied inconsistently. Purpose: To evaluate the performance of
+   large language models (LLMs) in automatically creating PDAC synoptic
+   reports from original reports and to explore performance in categorizing
+   tumor resectability. Materials and Methods: In this institutional review
+   board-approved retrospective study, 180 consecutive PDAC staging CT
+   reports on patients referred to the authors' European Society for
+   Medical Oncology-designated cancer center from January to December 2018
+   were included. Reports were reviewed by two radiologists to establish
+   the reference standard for 14 key findings and National Comprehensive
+   Cancer Network (NCCN) resectability category. GPT-3.5 and GPT-4
+   (accessed September 18-29, 2023) were prompted to create synoptic
+   reports from original reports with the same 14 features, and their
+   performance was evaluated (recall, precision, F1 score). To categorize
+   resectability, three prompting strategies (default knowledge, in-context
+   knowledge, chain-of-thought) were used for both LLMs.
+   Hepatopancreaticobiliary surgeons reviewed original and artificial
+   intelligence (AI)-generated reports to determine resectability, with
+   accuracy and review time compared. The McNemar test, t test, Wilcoxon
+   signed-rank test, and mixed effects logistic regression models were used
+   where appropriate. Results: GPT-4 outperformed GPT-3.5 in the creation
+   of synoptic reports (F1 score: 0.997 vs 0.967, respectively). Compared
+   with GPT-3.5, GPT-4 achieved equal or higher F1 scores for all 14
+   extracted features. GPT-4 had higher precision than GPT-3.5 for
+   extracting superior mesenteric artery involvement (100% vs 88.8%,
+   respectively). For categorizing resectability, GPT-4 outperformed
+   GPT-3.5 for each prompting strategy. For GPT-4, chain-of-thought
+   prompting was most accurate, outperforming in-context knowledge
+   prompting (92% vs 83%, respectively; P = .002), which outperformed the
+   default knowledge strategy (83% vs 67%, P < .001). Surgeons were more
+   accurate in categorizing resectability using AI-generated reports than
+   original reports (83% vs 76%, respectively; P = .03), while spending
+   less time on each report (58%; 95% CI: 0.53, 0.62). Conclusion: GPT-4
+   created near-perfect PDAC synoptic reports from original reports. GPT-4
+   with chain-of-thought achieved high accuracy in categorizing
+   resectability. Surgeons were more accurate and efficient using
+   AI-generated reports. (c) RSNA, 2024 Supplemental material is available
+   for this article .
+ZS 0
+ZA 0
+ZR 0
+ZB 2
+Z8 2
+TC 15
+Z9 17
+DA 2024-07-28
+UT WOS:001272193800035
+PM 38888478
+ER
+
+PT J
+AU Ghalibafan, Seyyedehfatemeh
+   Gonzalez, David J. Taylor
+   Cai, Louis Z.
+   Chou, Brandon Graham
+   Panneerselvam, Sugi
+   Barrett, Spencer Conrad
+   Djulbegovic, Mak B.
+   Yannuzzi, Nicolas A.
+TI APPLICATIONS OF MULTIMODAL GENERATIVE ARTIFICIAL INTELLIGENCE IN A
+   REAL-WORLD RETINA CLINIC SETTING
+SO RETINA-THE JOURNAL OF RETINAL AND VITREOUS DISEASES
+VL 44
+IS 10
+BP 1732
+EP 1740
+DI 10.1097/IAE.0000000000004204
+DT Article
+PD OCT 2024
+PY 2024
+AB Supplemental Digital Content is Available in the Text.Generative
+   Pre-trained Transformer 4 with vision aids clinical care and medical
+   record keeping using standardized multiple-choice questions. Its
+   effectiveness in complex, open-ended medical scenarios, especially in
+   retina clinics, is limited, highlighting constraints in offering ocular
+   health advice.
+   Purpose:This study evaluates a large language model, Generative
+   Pre-trained Transformer 4 with vision, for diagnosing vitreoretinal
+   diseases in real-world ophthalmology settings.Methods:A retrospective
+   cross-sectional study at Bascom Palmer Eye Clinic, analyzing patient
+   data from January 2010 to March 2023, assesses Generative Pre-trained
+   Transformer 4 with vision's performance on retinal image analysis and
+   International Classification of Diseases 10th revision coding across 2
+   patient groups: simpler cases (Group A) and complex cases (Group B)
+   requiring more in-depth analysis. Diagnostic accuracy was assessed
+   through open-ended questions and multiple-choice questions independently
+   verified by three retina specialists.Results:In 256 eyes from 143
+   patients, Generative Pre-trained Transformer 4-V demonstrated a 13.7%
+   accuracy for open-ended questions and 31.3% for multiple-choice
+   questions, with International Classification of Diseases 10th revision
+   code accuracies at 5.5% and 31.3%, respectively. Accurately diagnosed
+   posterior vitreous detachment, nonexudative age-related macular
+   degeneration, and retinal detachment. International Classification of
+   Diseases 10th revision coding was most accurate for nonexudative
+   age-related macular degeneration, central retinal vein occlusion, and
+   macular hole in OEQs, and for posterior vitreous detachment,
+   nonexudative age-related macular degeneration, and retinal detachment in
+   multiple-choice questions. No significant difference in diagnostic or
+   coding accuracy was found in Groups A and B.Conclusion:Generative
+   Pre-trained Transformer 4 with vision has potential in clinical care and
+   record keeping, particularly with standardized questions. Its
+   effectiveness in open-ended scenarios is limited, indicating a
+   significant limitation in providing complex medical advice.
+Z8 0
+TC 3
+ZR 0
+ZA 0
+ZB 0
+ZS 0
+Z9 3
+DA 2024-10-23
+UT WOS:001334163300013
+PM 39287535
+ER
+
+PT J
+AU Alessandri-Bonetti, Mario
+   Giorgino, Riccardo
+   Naegeli, Michelle
+   Liu, Hilary Y.
+   Egro, Francesco M.
+TI Assessing the Soft Tissue Infection Expertise of ChatGPT and Bard
+   Compared to IDSA Recommendations
+SO ANNALS OF BIOMEDICAL ENGINEERING
+VL 52
+IS 6
+BP 1551
+EP 1553
+DI 10.1007/s10439-023-03372-1
+EA OCT 2023
+DT Letter
+PD JUN 2024
+PY 2024
+AB The aim of the study was to evaluate whether ChatGPT-3.5 and Bard
+   provide safe and reliable medical answers to common topics related to
+   soft tissue infections and their management according to the guidelines
+   provided by the Infectious Disease Society of America (IDSA). IDSA's
+   abridged recommendations for soft tissue infections were identified on
+   the IDSA official website. Twenty-five queries were entered into the
+   LLMs as they appear on the IDSA website. To assess the concordance and
+   precision of the LLMs' responses with the IDSA guidelines, two
+   infectious disease physicians independently compared and evaluated each
+   response. This was done using a 5-point Likert scale, with 1
+   representing poor concordance and 5 excellent concordance, as adapted
+   from the validated Global Quality Scale. The mean +/- SD score for
+   ChatGPT-generated responses was 4.34 +/- 0.74, n = 25. This indicates
+   that raters found the answers were good to excellent quality with the
+   most important topics covered. Although some topics were not covered,
+   the answers were in good concordance with the IDSA guidelines. The mean
+   +/- SD score for Bard-generate responses was 3.5 +/- 1.2, n = 25,
+   indicating moderate quality. Despite LLMs did not appear to provide
+   wrong recommendations and covered most of the topics, the responses were
+   often found to be generic, rambling, missing some details, and lacking
+   actionability. As AI continues to evolve and researchers feed it with
+   more extensive and diverse medical knowledge, it may be inching closer
+   to becoming a reliable aid for clinicians, ultimately enhancing the
+   accuracy of infectious disease diagnosis and management in the future.
+ZR 0
+ZS 0
+TC 6
+ZB 1
+ZA 0
+Z8 0
+Z9 6
+DA 2023-11-09
+UT WOS:001089653400001
+PM 37865615
+ER
+
+EF

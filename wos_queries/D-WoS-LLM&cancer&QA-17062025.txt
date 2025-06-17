@@ -1,0 +1,547 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Feng, Yichun
+   Zhou, Lu
+   Ma, Chao
+   Zheng, Yikai
+   He, Ruikun
+   Li, Yixue
+TI Knowledge graph-based thought: a knowledge graph-enhanced LLM framework
+   for pan-cancer question answering
+SO GIGASCIENCE
+VL 14
+AR giae082
+DI 10.1093/gigascience/giae082
+DT Article
+PD JAN 6 2025
+PY 2025
+AB Background In recent years, large language models (LLMs) have shown
+   promise in various domains, notably in biomedical sciences. However,
+   their real-world application is often limited by issues like erroneous
+   outputs and hallucinatory responses.Results We developed the knowledge
+   graph-based thought (KGT) framework, an innovative solution that
+   integrates LLMs with knowledge graphs (KGs) to improve their initial
+   responses by utilizing verifiable information from KGs, thus
+   significantly reducing factual errors in reasoning. The KGT framework
+   demonstrates strong adaptability and performs well across various
+   open-source LLMs. Notably, KGT can facilitate the discovery of new uses
+   for existing drugs through potential drug-cancer associations and can
+   assist in predicting resistance by analyzing relevant biomarkers and
+   genetic mechanisms. To evaluate the knowledge graph question answering
+   task within biomedicine, we utilize a pan-cancer knowledge graph to
+   develop a pan-cancer question answering benchmark, named pan-cancer
+   question answering.Conclusions The KGT framework substantially improves
+   the accuracy and utility of LLMs in the biomedical field. This study
+   serves as a proof of concept, demonstrating its exceptional performance
+   in biomedical question answering.
+ZA 0
+ZR 0
+ZB 0
+Z8 0
+ZS 0
+TC 0
+Z9 0
+DA 2025-01-11
+UT WOS:001390058400001
+PM 39775838
+ER
+
+PT J
+AU Sorin, Vera
+   Glicksberg, Benjamin S.
+   Artsi, Yaara
+   Barash, Yiftach
+   Konen, Eli
+   Nadkarni, Girish N.
+   Klang, Eyal
+TI Utilizing large language models in breast cancer management: systematic
+   review
+SO JOURNAL OF CANCER RESEARCH AND CLINICAL ONCOLOGY
+VL 150
+IS 3
+AR 140
+DI 10.1007/s00432-024-05678-6
+DT Review
+PD MAR 19 2024
+PY 2024
+AB PurposeDespite advanced technologies in breast cancer management,
+   challenges remain in efficiently interpreting vast clinical data for
+   patient-specific insights. We reviewed the literature on how large
+   language models (LLMs) such as ChatGPT might offer solutions in this
+   field.MethodsWe searched MEDLINE for relevant studies published before
+   December 22, 2023. Keywords included: "large language models", "LLM",
+   "GPT", "ChatGPT", "OpenAI", and "breast". The risk bias was evaluated
+   using the QUADAS-2 tool.ResultsSix studies evaluating either ChatGPT-3.5
+   or GPT-4, met our inclusion criteria. They explored clinical notes
+   analysis, guideline-based question-answering, and patient management
+   recommendations. Accuracy varied between studies, ranging from 50 to
+   98%. Higher accuracy was seen in structured tasks like information
+   retrieval. Half of the studies used real patient data, adding practical
+   clinical value. Challenges included inconsistent accuracy, dependency on
+   the way questions are posed (prompt-dependency), and in some cases,
+   missing critical clinical information.ConclusionLLMs hold potential in
+   breast cancer care, especially in textual information extraction and
+   guideline-driven clinical question-answering. Yet, their inconsistent
+   accuracy underscores the need for careful validation of these models,
+   and the importance of ongoing supervision.
+ZS 0
+ZB 6
+ZA 0
+Z8 0
+ZR 0
+TC 17
+Z9 17
+DA 2024-04-01
+UT WOS:001187667700004
+PM 38504034
+ER
+
+PT J
+AU McInerney, Samuel
+   Nash, Tamsin
+   Lee, Rebecca
+   Falis, Matus
+   Gruber, Franz
+   Casey, Arlene
+TI AI Chatbot for Cancer Patient Support: Development and Evaluation Using
+   Llama 3.1, Mistral 7B, and PHI 3B.
+SO Studies in health technology and informatics
+VL 327
+BP 890
+EP 891
+DI 10.3233/SHTI250494
+DT Journal Article
+PD 2025-May-15
+PY 2025
+AB This study develops and evaluates a question-answering (Q&A) system for
+   breast cancer patients using generative AI technologies. We compared the
+   performance of three language models-Llama 3.1, Mistral 7B and Phi 3.5.
+   The goal is to integrate this system into a patient-facing application,
+   providing personalised, interactive support based on reliable sources
+   such as Cancer Research UK. However, findings indicate that
+   misinformation remains a significant concern. Medical chatbots utilising
+   retrieval augmented generation (RAG) providing clinical information
+   require significant refinement before being suitable for clinical use.
+ZB 0
+TC 0
+ZR 0
+Z8 0
+ZS 0
+ZA 0
+Z9 0
+DA 2025-05-20
+UT MEDLINE:40380602
+PM 40380602
+ER
+
+PT J
+AU Delourme, Solene
+   Redjdal, Akram
+   Bouaud, Jacques
+   Seroussi, Brigitte
+TI Leveraging Guideline-Based Clinical Decision Support Systems with Large
+   Language Models: A Case Study with Breast Cancer
+SO METHODS OF INFORMATION IN MEDICINE
+VL 63
+IS 03/04
+BP 85
+EP 96
+DI 10.1055/a-2528-4299
+EA APR 2025
+DT Article
+PD SEP 2024
+PY 2024
+AB Background Multidisciplinary tumor boards (MTBs) have been established
+   in most countries to allow experts collaboratively determine the best
+   treatment decisions for cancer patients. However, MTBs often face
+   challenges such as case overload, which can compromise MTB decision
+   quality. Clinical decision support systems (CDSSs) have been introduced
+   to assist clinicians in this process. Despite their potential, CDSSs are
+   still underutilized in routine practice. The emergence of large language
+   models (LLMs), such as ChatGPT, offers new opportunities to improve the
+   efficiency and usability of traditional CDSSs. Objectives OncoDoc2 is a
+   guideline-based CDSS developed using a documentary approach and applied
+   to breast cancer management. This study aims to evaluate the potential
+   of LLMs, used as question-answering (QA) systems, to improve the
+   usability of OncoDoc2 across different prompt engineering techniques
+   (PETs). Methods Data extracted from breast cancer patient summaries
+   (BCPSs), together with questions formulated by OncoDoc2, were used to
+   create prompts for various LLMs, and several PETs were designed and
+   tested. Using a sample of 200 randomized BCPSs, LLMs and PETs were
+   initially compared with regard to their responses to OncoDoc2 questions
+   using classic metrics (accuracy, precision, recall, and F1 score). Best
+   performing LLMs and PETs were further assessed by comparing the
+   therapeutic recommendations generated by OncoDoc2, based on LLM inputs,
+   to those provided by MTB clinicians using OncoDoc2. Finally, the best
+   performing method was validated using a new sample of 30 randomized
+   BCPSs. Results The combination of Mistral and OpenChat models under the
+   enhanced Zero-Shot PET showed the best performance as a
+   question-answering system. This approach gets a precision of 60.16%, a
+   recall of 54.18%, an F1 score of 56.59%, and an accuracy of 75.57% on
+   the validation set of 30 BCPSs. However, this approach yielded poor
+   results as a CDSS, with only 16.67% of the recommendations generated by
+   OncoDoc2 based on LLM inputs matching the gold standard. Conclusion All
+   the criteria in the OncoDoc2 decision tree are crucial for capturing the
+   uniqueness of each patient. Any deviation from a criterion alters the
+   recommendations generated. Despite achieving a good accuracy rate of
+   75.57%, LLMs still face challenges in reliably understanding complex
+   medical contexts and be effective as CDSSs.
+ZS 0
+ZR 0
+ZB 0
+ZA 0
+TC 0
+Z8 0
+Z9 0
+DA 2025-04-26
+UT WOS:001468790500001
+PM 39880005
+ER
+
+PT J
+AU Lee, Denise
+   Vaid, Akhil
+   Menon, Kartikeya M
+   Freeman, Robert
+   Matteson, David S
+   Marin, Michael L
+   Nadkarni, Girish N
+TI Using Large Language Models to Automate Data Extraction From Surgical
+   Pathology Reports: Retrospective Cohort Study.
+SO JMIR formative research
+VL 9
+BP e64544
+EP e64544
+DI 10.2196/64544
+DT Journal Article
+PD 2025 Apr 07
+PY 2025
+AB Background: Popularized by ChatGPT, large language models (LLMs) are
+   poised to transform the scalability of clinical natural language
+   processing (NLP) downstream tasks such as medical question answering
+   (MQA) and automated data extraction from clinical narrative reports.
+   However, the use of LLMs in the health care setting is limited by cost,
+   computing power, and patient privacy concerns. Specifically, as interest
+   in LLM-based clinical applications grows, regulatory safeguards must be
+   established to avoid exposure of patient data through the public domain.
+   The use of open-source LLMs deployed behind institutional firewalls may
+   ensure the protection of private patient data. In this study, we
+   evaluated the extraction performance of a locally deployed LLM for
+   automated MQA from surgical pathology reports.
+   Objective: We compared the performance of human reviewers and a locally
+   deployed LLM tasked with extracting key histologic and staging
+   information from surgical pathology reports.
+   Methods: A total of 84 thyroid cancer surgical pathology reports were
+   assessed by two independent reviewers and the open-source FastChat-T5
+   3B-parameter LLM using institutional computing resources. Longer text
+   reports were split into 1200-character-long segments, followed by
+   conversion to embeddings. Three segments with the highest similarity
+   scores were integrated to create the final context for the LLM. The
+   context was then made part of the question it was directed to answer.
+   Twelve medical questions for staging and thyroid cancer recurrence risk
+   data extraction were formulated and answered for each report. The time
+   to respond and concordance of answers were evaluated. The concordance
+   rate for each pairwise comparison (human-LLM and human-human) was
+   calculated as the total number of concordant answers divided by the
+   total number of answers for each of the 12 questions. The average
+   concordance rate and associated error of all questions were tabulated
+   for each pairwise comparison and evaluated with two-sided t tests.
+   Results: Out of a total of 1008 questions answered, reviewers 1 and 2
+   had an average (SD) concordance rate of responses of 99% (1%; 999/1008
+   responses). The LLM was concordant with reviewers 1 and 2 at an overall
+   average (SD) rate of 89% (7%; 896/1008 responses) and 89% (7.2%;
+   903/1008 responses). The overall time to review and answer questions for
+   all reports was 170.7, 115, and 19.56 minutes for Reviewers 1, 2, and
+   the LLM, respectively.
+   Conclusions: The locally deployed LLM can be used for MQA with
+   considerable time-saving and acceptable accuracy in responses. Prompt
+   engineering and fine-tuning may further augment automated data
+   extraction from clinical narratives for the provision of real-time,
+   essential clinical insights.
+ZR 0
+TC 0
+ZS 0
+ZB 0
+Z8 0
+ZA 0
+Z9 0
+DA 2025-04-10
+UT MEDLINE:40194317
+PM 40194317
+ER
+
+PT J
+AU Mora, J.
+   Chen, S.
+   Mak, R. H.
+   Bitterman, D. S.
+TI Cancer Treatment Information Differences by Bilingual Prompting in Large
+   Language Model Chatbots
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3415
+BP E645
+EP E646
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZS 0
+ZB 0
+TC 0
+ZA 0
+ZR 0
+Z8 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302096
+ER
+
+PT J
+AU Benson, Ryzen
+   Elia, Marianna
+   Hyams, Benjamin
+   Chang, Ji Hyun
+   Hong, Julian C
+TI A Narrative Review on the Application of Large Language Models to
+   Support Cancer Care and Research.
+SO Yearbook of medical informatics
+VL 33
+IS 1
+BP 90
+EP 98
+DI 10.1055/s-0044-1800726
+DT Journal Article; Review
+PD 2024-Aug
+PY 2024
+AB OBJECTIVES: The emergence of large language models has resulted in a
+   significant shift in informatics research and carries promise in
+   clinical cancer care. Here we provide a narrative review of the recent
+   use of large language models (LLMs) to support cancer care, prevention,
+   and research.
+   METHODS: We performed a search of the Scopus database for studies on the
+   application of bidirectional encoder representations from transformers
+   (BERT) and generative-pretrained transformer (GPT) LLMs in cancer care
+   published between the start of 2021 and the end of 2023. We present
+   salient and impactful papers related to each of these themes.
+   RESULTS: Studies identified focused on aspects of clinical decision
+   support (CDS), cancer education, and support for research activities.
+   The use of LLMs for CDS primarily focused on aspects of treatment and
+   screening planning, treatment response, and the management of adverse
+   events. Studies using LLMs for cancer education typically focused on
+   question-answering, assessing cancer myths and misconceptions, and text
+   summarization and simplification. Finally, studies using LLMs to support
+   research activities focused on scientific writing and idea generation,
+   cohort identification and extraction, clinical data processing, and
+   NLP-centric tasks.
+   CONCLUSIONS: The application of LLMs in cancer care has shown promise
+   across a variety of diverse use cases. Future research should utilize
+   quantitative metrics, qualitative insights, and user insights in the
+   development and evaluation of LLM-based cancer care tools. The
+   development of open-source LLMs for use in cancer care research and
+   activities should also be a priority.
+ZS 0
+TC 0
+ZA 0
+ZR 0
+Z8 0
+ZB 0
+Z9 0
+DA 2025-04-11
+UT MEDLINE:40199294
+PM 40199294
+ER
+
+PT J
+AU Reicher, Lee
+   Lutsker, Guy
+   Michaan, Nadav
+   Grisaru, Dan
+   Laskov, Ido
+TI Exploring the role of artificial intelligence, large language models:
+   Comparing patient-focused information and clinical decision support
+   capabilities to the gynecologic oncology guidelines
+SO INTERNATIONAL JOURNAL OF GYNECOLOGY & OBSTETRICS
+VL 168
+IS 2
+BP 419
+EP 427
+DI 10.1002/ijgo.15869
+EA AUG 2024
+DT Review
+PD FEB 2025
+PY 2025
+AB Gynecologic cancer requires personalized care to improve outcomes. Large
+   language models (LLMs) hold the potential to provide intelligent
+   question-answering with reliable information about medical queries in
+   clear and plain English, which can be understood by both healthcare
+   providers and patients. We aimed to evaluate two freely available LLMs
+   (ChatGPT and Google's Bard) in answering questions regarding the
+   management of gynecologic cancer. The LLMs' performances were evaluated
+   by developing a set questions that addressed common gynecologic
+   oncologic findings from a patient's perspective and more complex
+   questions to elicit recommendations from a clinician's perspective. Each
+   question was presented to the LLM interface, and the responses generated
+   by the artificial intelligence (AI) model were recorded. The responses
+   were assessed based on the adherence to the National Comprehensive
+   Cancer Network and European Society of Gynecological Oncology
+   guidelines. This evaluation aimed to determine the accuracy and
+   appropriateness of the information provided by LLMs. We showed that the
+   models provided largely appropriate responses to questions regarding
+   common cervical cancer screening tests and BRCA-related questions. Less
+   useful answers were received to complex and controversial gynecologic
+   oncology cases, as assessed by reviewing the common guidelines. ChatGPT
+   and Bard lacked knowledge of regional guideline variations, However, it
+   provided practical and multifaceted advice to patients and caregivers
+   regarding the next steps of management and follow up. We conclude that
+   LLMs may have a role as an adjunct informational tool to improve
+   outcomes.
+   ChatGPT and Bard provide appropriate responses to patient's perspective
+   gynecologic oncologic questions, but is less useful for complex
+   questions compared with the National Comprehensive Cancer
+   Network/European Society of Gynecological Oncology guidelines.
+TC 5
+ZR 0
+Z8 0
+ZA 0
+ZB 0
+ZS 0
+Z9 5
+DA 2024-08-23
+UT WOS:001293448800001
+PM 39161265
+ER
+
+PT J
+AU Hou, Yu
+   Bishop, Jeffrey R.
+   Liu, Hongfang
+   Zhang, Rui
+TI Improving DietarySupplement Information Retrieval: Development of a
+   Retrieval-Augmented Generation System With Large Language Models
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+VL 27
+AR e67677
+DI 10.2196/67677
+DT Article
+PD MAR 19 2025
+PY 2025
+AB Background: Dietary supplements (DSs) are widely used to improve health
+   and nutrition, but challenges related to misinformation, safety, and
+   efficacy persist dueto less stringent regulations compared with
+   pharmaceuticals. Accurate and reliable DS information is critical for
+   both consumers and health care providers to make informed decisions.
+   Objective: This study aimed to enhance DS-related question answering by
+   integrating an advanced retrieval-augmented generation (RAG) system with
+   the integrated Dietary Supplement Knowledgebase 2.0 (iDISK2.0), a
+   dietary supplement knowledge base, to improve accuracy and reliability.
+   Methods: We developed iDISK2.0 by integrating updated data from
+   authoritative sources, including the Natural Medicines Comprehensive
+   Database, the Memorial Sloan Kettering Cancer Center database, Dietary
+   Supplement Label Database, and Licensed Natural Health Products
+   Database, and applied advanced data cleaning and standardization
+   techniques to reduce noise. The RAG system combined the retrieval power
+   of a biomedical knowledge graph with the generative capabilities of
+   large language models (LLMs) to address limitations of stand-alone LLMs,
+   such as hallucination. The system retrieves contextually relevant
+   subgraphs from iDISK2.0 based on user queries, enabling accurate and
+   evidence-based responses through a user-friendly interface. We evaluated
+   the system using true-or-false and multiple-choice questions derived
+   from the Memorial Sloan Kettering Cancer Center database and compared
+   its performance with stand-alone LLMs. Results: iDISK2.0 integrates
+   174,317 entitiesacross 7 categories, including 8091 dietary supplement
+   ingredients; 163,806 dietary supplement products; 786 diseases; and 625
+   drugs, along with 6 types of relationships. The RAG system achieved an
+   accuracy of 99% (990/1000) for true-or-false questions on DS
+   effectiveness and 95% (948/100) for multiple-choice questions on DS-drug
+   interactions, substantially outperforming stand-alone LLMs like GPT-4o
+   (OpenAI), which scored 62% (618/1000) and 52% (517/1000) on these
+   respective tasks. The user interface enabled efficient interaction,
+   supporting free-form text input and providing accurate responses.
+   Integration strategies minimized data noise, ensuring access to
+   up-to-date, DS-related information. Conclusions:By integrating a robust
+   knowledge graph with RAG and LLM technologies, iDISK2.0 addresses the
+   critical limitations of stand-alone LLMs in DS information retrieval.
+   This study highlights the importance of combining structured data with
+   advanced artificial intelligence methods to improve accuracy and reduce
+   misinformation in health care applications. Future work includes
+   extending the framework to broader biomedical domains and improving
+   evaluation with real-world, open-ended queries.
+ZR 0
+ZA 0
+Z8 0
+TC 1
+ZS 0
+ZB 0
+Z9 1
+DA 2025-04-28
+UT WOS:001471226600004
+PM 40106799
+ER
+
+PT J
+AU Olszewski, Robert
+   Watros, Klaudia
+   Manczak, Malgorzata
+   Owoc, Jakub
+   Jeziorski, Krzysztof
+   Brzezinski, Jakub
+TI Assessing the response quality and readability of chatbots in
+   cardiovascular health, oncology, and psoriasis: A comparative study
+SO INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS
+VL 190
+AR 105562
+DI 10.1016/j.ijmedinf.2024.105562
+EA JUL 2024
+DT Article
+PD OCT 2024
+PY 2024
+AB Background: Chatbots using the Large Language Model (LLM) generate human
+   responses to questions from all categories. Due to staff shortages in
+   healthcare systems, patients waiting for an appointment increasingly use
+   chatbots to get information about their condition. Given the number of
+   chatbots currently available, assessing the responses they generate is
+   essential. Methods: Five chatbots with free access were selected
+   (Gemini, Microsoft Copilot, PiAI, ChatGPT, ChatSpot) and blinded using
+   letters (A, B, C, D, E). Each chatbot was asked questions about
+   cardiology, oncology, and psoriasis. Responses were compared to
+   guidelines from the European Society of Cardiology, American Academy of
+   Dermatology and American Society of Clinical Oncology. All answers were
+   assessed using readability scales (Flesch Reading Scale, Gunning Fog
+   Scale Level, Flesch-Kincaid Grade Level and Dale-Chall Score). Using a
+   3point Likert scale, two independent medical professionals assessed the
+   compliance of the responses with the guidelines. Results: A total of 45
+   questions were asked of all chatbots. Chatbot C gave the shortest
+   answers, 7.0 (6.0 - 8.0), and Chatbot A the longest 17.5 (13.0 - 24.5).
+   The Flesch Reading Ease Scale ranged from 16.3 (12.2 - 21.9) (Chatbot D)
+   to 39.8 (29.0 - 50.4) (Chatbot A). Flesch-Kincaid Grade Level ranged
+   from 12.5 (10.6 - 14.6) (Chatbot A) to 15.9 (15.1 - 17.1) (Chatbot D).
+   Gunning Fog Scale Level ranged from 15.77 (Chatbot A) to 19.73 (Chatbot
+   D). Dale-Chall Score ranged from 10.3 (9.3 - 11.3) (Chatbot A) to 11.9
+   (11.5 - 12.4) (Chatbot D). Conclusion: This study indicates that
+   chatbots vary in length, quality, and readability. They answer each
+   question in their own way, based on the data they have pulled from the
+   web. Reliability of the responses generated by chatbots is high. This
+   suggests that people who want information from a chatbot need to be
+   careful and verify the answers they receive, particularly when they ask
+   about medical and health aspects.
+ZS 0
+ZR 0
+TC 3
+Z8 1
+ZB 0
+ZA 0
+Z9 4
+DA 2024-08-07
+UT WOS:001281403200001
+PM 39059084
+ER
+
+EF

@@ -1,0 +1,3321 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Loh, B. C. S.
+   Fong, A. Y. Y.
+   Ong, T. K.
+   Then, P. H. H.
+TI Revolutionising patient care: the role of AI-generated avatars in
+   healthcare consultations
+SO EUROPEAN HEART JOURNAL
+VL 45
+SI SI
+AR ehae6663492
+DI 10.1093/eurheartj/ehae666.3492
+SU _1
+DT Meeting Abstract
+PD OCT 28 2024
+PY 2024
+CT European-Society-of-Cardiology Congress (ESC)
+CY AUG 30-SEP 02, 2024
+CL London, ENGLAND
+SP European Soc Cardiol
+ZB 0
+TC 2
+ZA 0
+Z8 0
+ZS 0
+ZR 0
+Z9 2
+DA 2024-11-23
+UT WOS:001345376700010
+ER
+
+PT J
+AU Michalowski, Martin
+   Topaz, Maxim
+   Peltonen, Laura Maria
+TI An AI-Enabled Nursing Future With no Documentation Burden: A Vision for
+   a New Reality
+SO JOURNAL OF ADVANCED NURSING
+DI 10.1111/jan.16911
+EA MAR 2025
+DT Article; Early Access
+PY 2025
+AB Aims: To explore the potential of multimodal large language models in
+   alleviating the documentation burden on nurses while enhancing the
+   quality and efficiency of patient care. Design: This position paper is
+   informed by expert discussions and a literature review. Methods: We
+   extensively reviewed nursing documentation practices and advanced
+   technologies, such as multimodal large language models. We analysed key
+   challenges, solutions and impacts to propose a futuristic multimodal
+   large language model-driven model for nursing documentation. Results:
+   Multimodal large language models offer transformative capabilities by
+   integrating multimodal audio, video and text data during patient
+   encounters to dynamically update patient records in real time. This
+   reduces manual data entry, enabling nurses to focus more on direct
+   patient care. These systems also enhance care personalisation through
+   predictive analytics and interoperability, which support seamless
+   workflows and better patient outcomes. While predictive analytics could
+   improve patient care by identifying trends and risk factors from nursing
+   documentation, further research is required to validate its accuracy and
+   clinical utility in real-world settings. Ethical, legal and practical
+   challenges, including privacy concerns and biases in artificial
+   intelligence models, require careful consideration for successful
+   implementation. Conclusion: Transitioning to multimodal large language
+   model-driven documentation systems can significantly reduce
+   administrative burdens, improve nurse satisfaction and enhance patient
+   care. However, successful integration demands interdisciplinary
+   collaboration, robust ethical frameworks and technological advancements.
+   Implications for the Profession and Patient Care: Implementing
+   multimodal large language models could alleviate professional burnout,
+   improve nurse-patient interactions, and provide dynamic, up-to-date
+   patient records that facilitate informed decision making. These
+   advancements align with the goals of patient-centred care by enabling
+   more meaningful engagement between nurses and patients. Impact: The
+   problem being addressed is the administrative burden of nursing
+   documentation. We suggest that multimodal large language models minimise
+   manual documentation, enhance patient care quality and significantly
+   impact nurses and patients in diverse healthcare settings globally.
+ZA 0
+Z8 0
+ZR 0
+ZB 0
+TC 0
+ZS 0
+Z9 0
+DA 2025-03-30
+UT WOS:001451040700001
+PM 40129115
+ER
+
+PT J
+AU Gupta, Aditya K.
+   Talukder, Mesbah
+   Wang, Tong
+   Daneshjou, Roxana
+   Piguet, Vincent
+TI The Arrival of Artificial Intelligence Large Language Models and
+   Vision-Language Models: A Potential to Possible Change in the Paradigm
+   of Healthcare Delivery in Dermatology
+SO JOURNAL OF INVESTIGATIVE DERMATOLOGY
+VL 144
+IS 6
+BP 1186
+EP 1188
+DI 10.1016/j.jid.2023.10.046
+EA MAY 2024
+DT Editorial Material
+PD JUN 2024
+PY 2024
+ZS 0
+ZB 3
+ZA 0
+Z8 0
+ZR 0
+TC 4
+Z9 4
+DA 2024-09-04
+UT WOS:001294707100001
+PM 38300200
+ER
+
+PT J
+AU Iqbal, Usman
+   Tanweer, Afifa
+   Rahmanti, Annisa Ristya
+   Greenfield, David
+   Lee, Leon Tsung-Ju
+   Li, Yu-Chuan Jack
+TI Impact of large language model (ChatGPT) in healthcare: an umbrella
+   review and evidence synthesis
+SO JOURNAL OF BIOMEDICAL SCIENCE
+VL 32
+IS 1
+AR 45
+DI 10.1186/s12929-025-01131-z
+DT Article
+PD MAY 7 2025
+PY 2025
+AB Background The emergence of Artificial Intelligence (AI), particularly
+   Chat Generative Pre-Trained Transformer (ChatGPT), a Large Language
+   Model (LLM), in healthcare promises to reshape patient care, clinical
+   decision-making, and medical education. This review aims to synthesise
+   research findings to consolidate the implications of ChatGPT integration
+   in healthcare and identify research gaps. Main body The umbrella review
+   was conducted following Preferred Reporting Items for Systematic Reviews
+   and Meta-Analyses (PRISMA) guidelines. The Cochrane Library, PubMed,
+   Scopus, Web of Science, and Google Scholar were searched from inception
+   until February 2024. Due to the heterogeneity of the included studies,
+   no quantitative analysis was performed. Instead, information was
+   extracted, summarised, synthesised, and presented in a narrative form.
+   Two reviewers undertook title, abstract, and full text screening
+   independently. The methodological quality and overall rating of the
+   included reviews were assessed using the A Measurement Tool to Assess
+   systematic Reviews (AMSTAR-2) checklist. The review examined 17 studies,
+   comprising 15 systematic reviews and 2 meta-analyses, on ChatGPT in
+   healthcare, revealing diverse focuses. The AMSTAR-2 assessment
+   identified 5 moderate and 12 low-quality reviews, with deficiencies like
+   study design justification and funding source reporting. The most
+   reported theme that emerged was ChatGPT's use in disease diagnosis or
+   clinical decision-making. While 82.4% of studies focused on its general
+   usage, 17.6% explored unique topics like its role in medical
+   examinations and conducting systematic reviews. Among these, 52.9%
+   targeted general healthcare, with 41.2% focusing on specific domains
+   like radiology, neurosurgery, gastroenterology, public health dentistry,
+   and ophthalmology. ChatGPT's use for manuscript review or writing was
+   mentioned in 17.6% of reviews. Promising applications include enhancing
+   patient care and clinical decision-making, though ethical, legal, and
+   accuracy concerns require cautious integration. Conclusion We summarise
+   the identified areas in reviews regarding ChatGPT's transformative
+   impact in healthcare, highlighting patient care, decision-making, and
+   medical education. Emphasising the importance of ethical regulations and
+   the involvement of policymakers, we urge further investigation to ensure
+   the reliability of ChatGPT and to promote trust in healthcare and
+   research.
+ZR 0
+TC 0
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+Z9 0
+DA 2025-05-16
+UT WOS:001485796900001
+PM 40335969
+ER
+
+PT J
+AU Woo, Brigitte
+   Huynh, Tom
+   Tang, Arthur
+   Bui, Nhat
+   Nguyen, Giang
+   Tam, Wilson
+TI Transforming nursing with large language models: from concept to
+   practice
+SO EUROPEAN JOURNAL OF CARDIOVASCULAR NURSING
+VL 23
+IS 5
+BP 549
+EP 552
+DI 10.1093/eurjcn/zvad120
+EA JAN 2024
+DT Editorial Material
+PD JAN 5 2024
+PY 2024
+AB Large language models (LLMs) such as ChatGPT have emerged as potential
+   game-changers in nursing, aiding in patient education, diagnostic
+   assistance, treatment recommendations, and administrative task
+   efficiency. While these advancements signal promising strides in
+   healthcare, integrated LLMs are not without challenges, particularly
+   artificial intelligence hallucination and data privacy concerns.
+   Methodologies such as prompt engineering, temperature adjustments, model
+   fine-tuning, and local deployment are proposed to refine the accuracy of
+   LLMs and ensure data security. While LLMs offer transformative
+   potential, it is imperative to acknowledge that they cannot substitute
+   the intricate expertise of human professionals in the clinical field,
+   advocating for a synergistic approach in patient care.
+ZS 0
+ZR 0
+Z8 1
+TC 9
+ZA 0
+ZB 1
+Z9 10
+DA 2024-01-15
+UT WOS:001136706400001
+PM 38178303
+ER
+
+PT J
+AU Denecke, Kerstin
+   May, Richard
+   Rivera-Romero, Octavio
+TI Transformer Models in Healthcare: A Survey and Thematic Analysis of
+   Potentials, Shortcomings and Risks
+SO JOURNAL OF MEDICAL SYSTEMS
+VL 48
+IS 1
+AR 23
+DI 10.1007/s10916-024-02043-5
+DT Review
+PD FEB 17 2024
+PY 2024
+AB Large Language Models (LLMs) such as General Pretrained Transformer
+   (GPT) and Bidirectional Encoder Representations from Transformers
+   (BERT), which use transformer model architectures, have significantly
+   advanced artificial intelligence and natural language processing.
+   Recognized for their ability to capture associative relationships
+   between words based on shared context, these models are poised to
+   transform healthcare by improving diagnostic accuracy, tailoring
+   treatment plans, and predicting patient outcomes. However, there are
+   multiple risks and potentially unintended consequences associated with
+   their use in healthcare applications. This study, conducted with 28
+   participants using a qualitative approach, explores the benefits,
+   shortcomings, and risks of using transformer models in healthcare. It
+   analyses responses to seven open-ended questions using a simplified
+   thematic analysis. Our research reveals seven benefits, including
+   improved operational efficiency, optimized processes and refined
+   clinical documentation. Despite these benefits, there are significant
+   concerns about the introduction of bias, auditability issues and privacy
+   risks. Challenges include the need for specialized expertise, the
+   emergence of ethical dilemmas and the potential reduction in the human
+   element of patient care. For the medical profession, risks include the
+   impact on employment, changes in the patient-doctor dynamic, and the
+   need for extensive training in both system operation and data
+   interpretation.
+ZA 0
+TC 17
+ZS 0
+ZB 2
+Z8 0
+ZR 0
+Z9 17
+DA 2024-02-25
+UT WOS:001163060200001
+PM 38367119
+ER
+
+PT C
+AU Chao, Chia-Yi
+   Lin, Cheng-Wei
+BE Jonnagaddala, J
+   Dai, HJ
+   Chen, CT
+TI Advancing Sensitive Health Data Recognition and Normalization Through
+   Large Language Model Driven Data Augmentation
+SO LARGE LANGUAGE MODELS FOR AUTOMATIC DEIDENTIFICATION OF ELECTRONIC
+   HEALTH RECORD NOTES, IW-DMRN 2024
+SE Communications in Computer and Information Science
+VL 2148
+BP 48
+EP 59
+DI 10.1007/978-981-97-7966-6_4
+DT Proceedings Paper
+PD 2025
+PY 2025
+AB Electronic Medical Record (EMR) text notes are a digital version of a
+   patient's paper chart. It contains a comprehensive record of a patient's
+   medical history. EMR text notes are designed to streamline healthcare
+   processes, improve accuracy, and enhance patient care by providing easy
+   access to up-to-date patient information for healthcare providers. The
+   AI-cup 2023 competition for privacy protection and standardization of
+   electronic medical records (EMR) has released a dataset annotated with
+   sensitive health information (SHI) and temporal normalization values.
+   This dataset aims to facilitate the development and evaluation of
+   state-of-the-art natural language processing technologies for the task
+   of privacy protection and standardization of EMR text notes. However, we
+   observed that the annotation distribution for different SHI types is
+   highly unbalanced. We, therefore, proposed a large language model
+   (LLM)-powered data augmented approach to generate synthesized training
+   instances to train anLLMbased on the Pythia-410m model released by
+   EleutherAI. Combined with the pattern-based post-processing method, our
+   team, TEAM_3917, achieved macro-F-scores of 0.8155 and 0.8065 for SHI
+   recognition and temporal information normalization, respectively, which
+   were officially ranked fourth during the competition.
+CT 2024 International Workshop on Deidentification of Electronic Medical
+   Record Notes
+CY JAN 15, 2024
+CL National Kaohsiung University of Science and Technology, Kaohsiung,
+   TAIWAN
+HO National Kaohsiung University of Science and Technology
+SP University of New South Wales; Ataraxis AI Inc; Ministry of Education,
+   Taiwan
+ZA 0
+Z8 0
+TC 0
+ZB 0
+ZR 0
+ZS 0
+Z9 0
+DA 2025-04-17
+UT WOS:001450733800004
+ER
+
+PT J
+AU Kim, Kyungki
+   Windle, John
+   Christian, Melissa
+   Windle, Tom
+   Ryherd, Erica
+   Huang, Pei-Chi
+   Robinson, Anthony
+   Chapman, Reid
+TI Framework for Integrating Large Language Models with a Robotic Health
+   Attendant for Adaptive Task Execution in Patient Care
+SO APPLIED SCIENCES-BASEL
+VL 14
+IS 21
+AR 9922
+DI 10.3390/app14219922
+DT Article
+PD NOV 2024
+PY 2024
+AB The development of intelligent medical service robots for patient care
+   presents significant challenges, particularly in integrating diverse
+   knowledge sources and enabling robots to autonomously perform tasks in
+   dynamic and unpredictable healthcare environments. This study introduces
+   a novel framework that combines large language models with
+   healthcare-specific knowledge and robotic operations to enhance
+   autonomous task execution for a Robotic Health Attendant. Utilizing
+   OpenAI's ChatGPT, the system processes structured information about
+   patient care protocols and unstructured human inputs to generate
+   context-aware robot actions. A prototype system was tested in a
+   simulated patient room where the robot successfully performed both
+   simple individual actions and complex tasks involving the execution of
+   multiple actions, based on real-time dialogues with the language model
+   and predefined task specifications. The results demonstrate the
+   potential of language models to reduce the reliance on hardcoded logic
+   and provide healthcare professionals with the ability to interact with
+   robotic systems through natural language.
+ZR 0
+ZA 0
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+DA 2024-11-16
+UT WOS:001351032200001
+ER
+
+PT J
+AU Hwai, Haw
+   Ho, Yi-Ju
+   Wang, Chih-Hung
+   Huang, Chien-Hua
+TI Large language model application in emergency medicine and critical
+   care.
+SO Journal of the Formosan Medical Association = Taiwan yi zhi
+DI 10.1016/j.jfma.2024.08.032
+DT Journal Article; Review
+PD 2024-Aug-28
+PY 2024
+AB In the rapidly evolving healthcare landscape, artificial intelligence
+   (AI), particularly the large language models (LLMs), like OpenAI's Chat
+   Generative Pretrained Transformer (ChatGPT), has shown transformative
+   potential in emergency medicine and critical care. This review article
+   highlights the advancement and applications of ChatGPT, from diagnostic
+   assistance to clinical documentation and patient communication,
+   demonstrating its ability to perform comparably to human professionals
+   in medical examinations. ChatGPT could assist clinical decision-making
+   and medication selection in critical care, showcasing its potential to
+   optimize patient care management. However, integrating LLMs into
+   healthcare raises legal, ethical, and privacy concerns, including data
+   protection and the necessity for informed consent. Finally, we addressed
+   the challenges related to the accuracy of LLMs, such as the risk of
+   providing incorrect medical advice. These concerns underscore the
+   importance of ongoing research and regulation to ensure their ethical
+   and practical use in healthcare.
+ZB 0
+TC 0
+ZR 0
+ZA 0
+ZS 0
+Z8 0
+Z9 0
+DA 2024-09-01
+UT MEDLINE:39198112
+PM 39198112
+ER
+
+PT J
+AU Temsah, Reem
+   Altamimi, Ibraheem
+   Alhasan, Khalid
+   Temsah, Mohamad-Hani
+   Jamal, Amr
+TI Healthcare's New Horizon With ChatGPT's Voice and Vision Capabilities: A
+   Leap Beyond Text
+SO CUREUS JOURNAL OF MEDICAL SCIENCE
+VL 15
+IS 10
+AR e47469
+DI 10.7759/cureus.47469
+DT Editorial Material
+PD OCT 22 2023
+PY 2023
+AB The integration of artificial intelligence (AI) in healthcare is
+   responsible for a paradigm shift in medicine. OpenAI's recent
+   augmentation of their Generative Pre-trained Transformer (ChatGPT) large
+   language model (LLM) with voice and image recognition capabilities
+   (OpenAI, Delaware) presents another potential transformative tool for
+   healthcare. Envision a healthcare setting where professionals engage in
+   dynamic interactions with ChatGPT to navigate the complexities of
+   atypical medical scenarios. In this innovative landscape, practitioners
+   could solicit ChatGPT's expertise for concise summarizations and
+   insightful extrapolations from a myriad of web-based resources
+   pertaining to similar medical conditions. Furthermore, imagine patients
+   using ChatGPT to identify abnormalities in medical images or skin
+   lesions. While the prospects are diverse, challenges such as suboptimal
+   audio quality and ensuring data security necessitate cautious
+   integration in medical practice. Drawing insights from previous ChatGPT
+   iterations could provide a prudent roadmap for navigating possible
+   challenges. This editorial explores some possible horizons and potential
+   hurdles of ChatGPT's enhanced functionalities in healthcare, emphasizing
+   the importance of continued refinements and vigilance to maximize the
+   benefits while minimizing risks. Through collaborative efforts between
+   AI developers and healthcare professionals, another fusion of AI and
+   healthcare can evolve into enriched patient care and enhanced medical
+   experience.
+ZS 0
+TC 15
+Z8 1
+ZB 4
+ZA 0
+ZR 0
+Z9 16
+DA 2024-01-07
+UT WOS:001109606100017
+PM 37873042
+ER
+
+PT J
+AU Campbell IV, Warren A.
+   Chick, Jeffrey F. B.
+   Shin, David
+   Makary, Mina S.
+TI Understanding ChatGPT for evidence-based utilization in interventional
+   radiology
+SO CLINICAL IMAGING
+VL 108
+AR 110098
+DI 10.1016/j.clinimag.2024.110098
+EA FEB 2024
+DT Article
+PD APR 2024
+PY 2024
+AB Advancement in artificial intelligence (AI) has the potential to improve
+   the efficiency and accuracy of medical care. New techniques used in
+   machine learning have enhanced the functionality of software to perform
+   advanced tasks with human-like capabilities. ChatGPT is the most
+   utilized large language model and provides a diverse range of
+   communication tasks. Interventional Radiology (IR) may benefit from the
+   implementation of ChatGPT for specific tasks. This review summarizes the
+   design principles of ChatGPT relevant to healthcare and highlights
+   activities with the greatest potential for ChatGPT utilization in the
+   practice of IR. These tasks involve patientdirected and
+   physician-directed communications to convey medical information
+   efficiently and act as a medical decision support tool. ChatGPT
+   exemplifies the evolving landscape of new AI tools for advancing patient
+   care and how physicians and patients may benefit with strategic
+   execution.
+Z8 0
+ZS 0
+TC 7
+ZR 0
+ZA 0
+ZB 0
+Z9 7
+DA 2024-03-24
+UT WOS:001181835400001
+PM 38320337
+ER
+
+PT J
+AU Melnyk, Oleksiy
+   Ismail, Ahmed
+   Ghorashi, Nima S.
+   Heekin, Mary
+   Javan, Ramin
+TI Generative Artificial Intelligence Terminology: A Primer for Clinicians
+   and Medical Researchers
+SO CUREUS JOURNAL OF MEDICAL SCIENCE
+VL 15
+IS 12
+AR e49890
+DI 10.7759/cureus.49890
+DT Article
+PD DEC 4 2023
+PY 2023
+AB Generative artificial intelligence (AI) is rapidly transforming the
+   medical field, as advanced tools powered by large language models (LLMs)
+   make their way into clinical practice, research, and education.
+   Chatbots, which can generate human-like responses, have gained attention
+   for their potential applications. Therefore, familiarity with LLMs and
+   other promising generative AI tools is crucial to harness their
+   potential safely and effectively. As these AI-based technologies
+   continue to evolve, medical professionals must develop a strong
+   understanding of AI terminologies and concepts, particularly generative
+   AI, to effectively tackle real-world challenges and create solutions.
+   This knowledge will enable healthcare professionals to utilize AI-driven
+   innovations for improved patient care and increased productivity in the
+   future. In this brief technical report, we explore 20 of the most
+   relevant terminology associated with the underlying technology behind
+   LLMs and generative AI as they relate to the medical field and provide
+   some examples of how these topics relate to healthcare applications to
+   help in their understanding.
+TC 4
+ZB 0
+Z8 1
+ZR 0
+ZA 0
+ZS 0
+Z9 5
+DA 2024-01-07
+UT WOS:001122699000011
+PM 38174178
+ER
+
+PT J
+AU Solmonovich, Rachel L.
+   Kouba, Insaf
+   Lee, Ji Y.
+   Demertzis, Kristen
+   Blitz, Matthew J.
+TI Physician awareness of, interest in, and current use of artificial
+   intelligence large language model-based virtual assistants
+SO PLOS ONE
+VL 20
+IS 5
+AR e0320749
+DI 10.1371/journal.pone.0320749
+DT Article
+PD 2025
+PY 2025
+AB There is increasing medical interest and research regarding the
+   potential of large language model-based virtual assistants in
+   healthcare. It is important to understand physicians' interest in
+   implementing these tools into clinical practice, so preceding education
+   could be implemented to ensure appropriate and ethical use. We aimed to
+   assess physician 1) awareness of, 2) interest in, and 3) current use of
+   large language model-based virtual assistants for clinical practice and
+   professional development and determine the specific applications of
+   interest and use. Additionally, we wanted to determine associations with
+   age, gender, and role. We conducted a cross-sectional study between
+   11/08-12/2023 via an anonymous web-based survey that was disseminated
+   among physicians at a large NY healthcare network using snowball
+   sampling. Descriptive and basic inferential statistics were performed.
+   There were 562 respondents, largely males (55.7%), attending physicians
+   (68.5%), and from nonsurgical specialties (67.4%). Most were aware of
+   large language model chatbots (89.7%) and expressed interest (97.2%).
+   Only a minority incorporated it into their practice (21%). Highest
+   levels of interest were for journal review, patient education, and
+   documentation/dictation (88.1-89.5%). The most frequently employed uses
+   were medical information and education and study/research design.
+   Females showed higher interest than males (99.2% vs. 95.5%, p = 0.011).
+   Attendings were more aware of large language models (92.2% vs. 84.2%, p
+   = 0.004), while trainees had increased rates of use (28.8% vs. 17.4%, p
+   = 0.002). Use varied across age brackets, highest among 20-30 year olds
+   (29.1% vs. 13.5%-23.4%, p = 0.018), except for documentation/dictation,
+   where highest use was among the 41-50 year old group (10.5% vs.
+   2.6%-8.7%, p = 0.047). We concluded that physicians are interested in
+   large language model-based virtual assistants, a minority are
+   implementing it into their practice, and gender-, role-, and age-based
+   disparities exist. As physicians continue to integrate large language
+   models into their patient care and professional development, there is
+   opportunity for research, education, and guidance to ensure an
+   inclusive, responsible, and safe adoption.
+ZR 0
+TC 0
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+Z9 0
+DA 2025-06-11
+UT WOS:001498579800017
+PM 40435166
+ER
+
+PT C
+AU ALMutairi, Mariam
+   AlKulaib, Lulwah
+   Wang, Shengkun
+   Chen, Zhiqian
+   ALMutairi, Youssif
+   Alenazi, Thamer M.
+   Luther, Kurt
+   Lu, Chang-Tien
+GP ACM
+TI FHIRViz: Multi-Agent Platform for FHIR Visualization to Advance
+   Healthcare Analytics
+SO 15TH ACM CONFERENCE ON BIOINFORMATICS, COMPUTATIONAL BIOLOGY, AND HEALTH
+   INFORMATICS, ACM-BCB 2024
+DI 10.1145/3698587.3701392
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB The shift to electronic health records (EHRs) has enhanced patient care
+   and research, but data sharing and complex clinical terminology remain
+   challenges. The Fast Healthcare Interoperability Resource (FHIR)
+   addresses interoperability issues, though extracting insights from FHIR
+   data is still difficult. Traditional analytics often miss critical
+   clinical context, and managing FHIR data requires advanced skills that
+   are in short supply. This study presents FHIRViz, a novel analytics tool
+   that integrates FHIR data with a semantic layer via a knowledge graph.
+   It employs a large language model (LLM) system to extract insights and
+   visualize them effectively. A retrieval vector store improves
+   performance by saving successful generations for fine-tuning. FHIRViz
+   translates clinical queries into actionable insights with high accuracy.
+   Results show FHIRViz with GPT-4 achieving 92.62% accuracy, while Gemini
+   1.5 Pro reaches 89.34%, demonstrating the tool's potential in overcoming
+   healthcare data analytics challenges.
+CT 15th Conference on Bioinformatics Computational Biology and Health
+   Informatics
+CY NOV 22-25, 2024
+CL Shenzhen, PEOPLES R CHINA
+SP Shenzhen Institute Of Advanced Technology; The Institution of
+   Engineering and Technology
+ZA 0
+TC 1
+ZS 0
+Z8 0
+ZB 0
+ZR 0
+Z9 1
+DA 2025-03-29
+UT WOS:001430744700038
+ER
+
+PT J
+AU Shanbhag, Nandan M
+   Bin Sumaida, Abdulrahman
+   Al Shamisi, Khalifa
+   Balaraj, Khalid
+TI Apple Vision Pro: A Paradigm Shift in Medical Technology.
+SO Cureus
+VL 16
+IS 9
+BP e69608
+EP e69608
+DI 10.7759/cureus.69608
+DT Journal Article; Review
+PD 2024-Sep
+PY 2024
+AB The introduction of Apple Vision Pro (AVP) marks a significant milestone
+   in the intersection of technology and healthcare, offering unique
+   capabilities in mixed reality, which Apple terms "spatial computing."
+   This narrative review aims to explore the various applications of AVP in
+   medical technology, emphasizing its impact on patient care, clinical
+   practices, medical education, and future directions. The review
+   synthesizes findings from multiple studies and articles published
+   between January 2023 and May 2024, highlighting AVP's potential to
+   enhance visualization in diagnostic imaging and surgical planning,
+   assist visually impaired patients, and revolutionize medical education
+   through immersive learning environments. Despite its promise, challenges
+   remain in integrating AVP into existing healthcare systems and
+   understanding its long-term impact on patient outcomes. As research
+   continues, AVP is poised to play a pivotal role in the future of
+   medicine, offering a transformative tool for healthcare professionals.
+ZB 0
+ZR 0
+ZA 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+DA 2024-09-25
+UT MEDLINE:39308843
+PM 39308843
+ER
+
+PT J
+AU Goktas, Polat
+   Grzybowski, Andrzej
+TI Shaping the Future of Healthcare: Ethical Clinical Challenges and
+   Pathways to Trustworthy AI
+SO JOURNAL OF CLINICAL MEDICINE
+VL 14
+IS 5
+AR 1605
+DI 10.3390/jcm14051605
+DT Article
+PD MAR 2025
+PY 2025
+AB Background/Objectives: Artificial intelligence (AI) is transforming
+   healthcare, enabling advances in diagnostics, treatment optimization,
+   and patient care. Yet, its integration raises ethical, regulatory, and
+   societal challenges. Key concerns include data privacy risks,
+   algorithmic bias, and regulatory gaps that struggle to keep pace with AI
+   advancements. This study aims to synthesize a multidisciplinary
+   framework for trustworthy AI in healthcare, focusing on transparency,
+   accountability, fairness, sustainability, and global collaboration. It
+   moves beyond high-level ethical discussions to provide actionable
+   strategies for implementing trustworthy AI in clinical contexts.
+   Methods: A structured literature review was conducted using PubMed,
+   Scopus, and Web of Science. Studies were selected based on relevance to
+   AI ethics, governance, and policy in healthcare, prioritizing
+   peer-reviewed articles, policy analyses, case studies, and ethical
+   guidelines from authoritative sources published within the last decade.
+   The conceptual approach integrates perspectives from clinicians,
+   ethicists, policymakers, and technologists, offering a holistic
+   "ecosystem" view of AI. No clinical trials or patient-level
+   interventions were conducted. Results: The analysis identifies key gaps
+   in current AI governance and introduces the Regulatory Genome-an
+   adaptive AI oversight framework aligned with global policy trends and
+   Sustainable Development Goals. It introduces quantifiable
+   trustworthiness metrics, a comparative analysis of AI categories for
+   clinical applications, and bias mitigation strategies. Additionally, it
+   presents interdisciplinary policy recommendations for aligning AI
+   deployment with ethical, regulatory, and environmental sustainability
+   goals. This study emphasizes measurable standards, multi-stakeholder
+   engagement strategies, and global partnerships to ensure that future AI
+   innovations meet ethical and practical healthcare needs. Conclusions:
+   Trustworthy AI in healthcare requires more than technical
+   advancements-it demands robust ethical safeguards, proactive regulation,
+   and continuous collaboration. By adopting the recommended roadmap,
+   stakeholders can foster responsible innovation, improve patient
+   outcomes, and maintain public trust in AI-driven healthcare.
+Z8 0
+ZA 0
+ZR 0
+TC 7
+ZB 0
+ZS 0
+Z9 7
+DA 2025-03-21
+UT WOS:001443802700001
+PM 40095575
+ER
+
+PT C
+AU del Hoyo, Pablo
+   Schez-Sobrino, Santiago
+   Garcia, Francisco
+   Cardoso, Jorge C. S.
+   Albusac, Javier
+   Vallejo, David
+BE Bravo, J
+   Nugent, C
+   Cleland, I
+TI PrimARy: Intelligent System Based on Mixed Reality for Diagnosis and
+   Assistance in Primary Care
+SO PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON UBIQUITOUS COMPUTING AND
+   AMBIENT INTELLIGENCE, UCAMI 2024
+SE Lecture Notes in Networks and Systems
+VL 1212
+BP 45
+EP 56
+DI 10.1007/978-3-031-77571-0_5
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB This research aims to improve the diagnostic and support capabilities of
+   healthcare professionals in primary care settings. We present PrimARy, a
+   system that enables primary care workers to follow medical protocols in
+   a guided manner using Mixed Reality and Artificial Intelligence. These
+   protocols, defined using a node-based visual editor, can be
+   automatically integrated into the Mixed Reality application, extending
+   the system's capabilities to different healthcare scenarios. The
+   protocols can be enriched with documents and multimedia, and serve as
+   the basis for the virtual assistant built into PrimARy to guide users in
+   following a medical protocol. This functionality makes use of a Large
+   Language Model deployed on a dedicated server for inference processes.
+   As a practical application, the integration of a visual triage process
+   to assess overweight and obesity is proposed. The ultimate goal is to
+   scale our proposal for use in primary care centers, patients' homes, and
+   emergency situations by medical and nursing staff.
+CT 16th International Conference on Ubiquitous Computing and Ambient
+   Intelligence
+CY NOV 27-29, 2024
+CL Belfast, IRELAND
+ZA 0
+TC 0
+ZR 0
+Z8 0
+ZS 0
+ZB 0
+Z9 0
+DA 2025-04-05
+UT WOS:001443925900005
+ER
+
+PT J
+AU Han, B.
+   Chen, Y.
+   Buyyounouski, M. K.
+   Gensheimer, M. F.
+   Xing, L.
+TI RadAlonc: Enhancing Decision-Making in Radiation Oncology with a
+   GPT-4-Based Prompt-Driven Large Language Model
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 2297
+BP E134
+EP E134
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZS 0
+ZB 0
+TC 0
+Z8 0
+ZR 0
+ZA 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892300029
+ER
+
+PT J
+AU Gabriel, Rodney A.
+   Litake, Onkar
+   Simpson, Sierra
+   Burton, Brittany N.
+   Waterman, Ruth S.
+   Macias, Alvaro A.
+TI On the development and validation of large language model- based
+   classifiers for identifying social determinants of health
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 121
+IS 39
+AR e2320716121
+DI 10.1073/pnas.2320716121
+DT Article
+PD SEP 24 2024
+PY 2024
+AB The assessment of social determinants of health (SDoH) within healthcare
+   systems is crucial for comprehensive patient care and addressing health
+   disparities. Current challenges arise from the limited inclusion of
+   structured SDoH information within electronic health record (EHR)
+   systems, often due to the lack of standardized diagnosis codes. This
+   study delves into the transformative potential of large language models
+   (LLM) to overcome these challenges. LLM-based classifiers-using
+   Bidirectional Encoder Representations from Transformers (BERT) and A
+   Robustly Optimized BERT Pretraining Approach (RoBERTa)-were developed
+   for SDoH concepts, including homelessness, food insecurity, and domestic
+   violence, using synthetic training datasets generated by generative pre-
+   trained transformers combined with authentic clinical notes. Models were
+   then validated on separate datasets: Medical Information Mart for
+   Intensive Care- III and our institutional EHR data. When training the
+   model with a combination of synthetic and authentic notes, validation on
+   our institutional dataset yielded an area under the receiver operating
+   characteristics curve of 0.78 for detecting homelessness, 0.72 for
+   detecting food insecurity, and 0.83 for detecting domestic violence.
+   This study underscores the potential of LLMs in extracting SDoH
+   information from clinical text. Automated detection of SDoH may be
+   instrumental for healthcare providers in identifying at- risk patients,
+   guiding targeted interventions, and contributing to population health
+   initiatives aimed at mitigating disparities.
+TC 5
+ZA 0
+ZS 0
+ZR 0
+ZB 2
+Z8 0
+Z9 5
+DA 2024-12-11
+UT WOS:001369554000005
+PM 39284061
+ER
+
+PT J
+AU Zhang, Zhongheng
+   Ni, Hongying
+TI Critical care studies using large language models based on electronic
+   healthcare records: A technical note
+SO JOURNAL OF INTENSIVE MEDICINE
+VL 5
+IS 2
+BP 137
+EP 150
+DI 10.1016/j.jointm.2024.09.002
+EA MAR 2025
+DT Article
+PD APR 2025
+PY 2025
+AB The integration of large language models (LLMs) in clinical medicine,
+   particularly in critical care, has introduced transformative
+   capabilities for analyzing and managing complex medical information.
+   This technical note explores the application of LLMs, such as generative
+   pretrained transformer 4 (GPT-4) and Qwen-Chat, in interpreting
+   electronic healthcare records to assist with rapid patient condition
+   assessments, predict sepsis, and automate the generation of discharge
+   summaries. The note emphasizes the significance of LLMs in processing
+   unstructured data from electronic health records (EHRs), extracting
+   meaningful insights, and supporting personalized medicine through
+   nuanced understanding of patient histories. Despite the technical
+   complexity of deploying LLMs in clinical settings, this document
+   provides a comprehensive guide to facilitate the effective integration
+   of LLMs into clinical workflows, focusing on the use of DashScope's
+   application programming interface (API) services for judgment on patient
+   prognosis and organ support recommendations based on natural language in
+   EHRs. By illustrating practical steps and best practices, this work aims
+   to lower the technical barriers for clinicians and researchers, enabling
+   broader adoption of LLMs in clinical research and practice to enhance
+   patient care and outcomes.
+ZR 0
+TC 0
+Z8 0
+ZA 0
+ZB 0
+ZS 0
+Z9 0
+DA 2025-04-08
+UT WOS:001458070200001
+PM 40241837
+ER
+
+PT J
+AU Yang, Zefeng
+   Wang, Deming
+   Zhou, Fengqi
+   Song, Diping
+   Zhang, Yinhang
+   Jiang, Jiaxuan
+   Kong, Kangjie
+   Liu, Xiaoyi
+   Qiao, Yu
+   Chang, Robert T.
+   Han, Ying
+   Li, Fei
+   Tham, Clement C.
+   Zhang, Xiulan
+TI Understanding natural language: Potential application of large language
+   models to ophthalmology
+SO ASIA-PACIFIC JOURNAL OF OPHTHALMOLOGY
+VL 13
+IS 4
+AR 100085
+DI 10.1016/j.apjo.2024.100085
+DT Article
+PD JUL-AUG 2024
+PY 2024
+AB Large language models (LLMs), a natural language processing technology
+   based on deep learning, are currently in the spotlight. These models
+   closely mimic natural language comprehension and generation. Their
+   evolution has undergone several waves of innovation similar to
+   convolutional neural networks. The transformer architecture advancement
+   in generative artificial intelligence marks a monumental leap beyond
+   early-stage pattern recognition via supervised learning. With the
+   expansion of parameters and training data (terabytes), LLMs unveil
+   remarkable human interactivity, encompassing capabilities such as memory
+   retention and comprehension. These advances make LLMs particularly
+   well-suited for roles in healthcare communication between medical
+   practitioners and patients. In this comprehensive review, we discuss the
+   trajectory of LLMs and their potential implications for clinicians and
+   patients. For clinicians, LLMs can be used for automated medical
+   documentation, and given better inputs and extensive validation, LLMs
+   may be able to autonomously diagnose and treat in the future. For
+   patient care, LLMs can be used for triage suggestions, summarization of
+   medical documents, explanation of a patient's condition, and customizing
+   patient education materials tailored to their comprehension level. The
+   limitations of LLMs and possible solutions for real-world use are also
+   presented. Given the rapid advancements in this area, this review
+   attempts to briefly cover many roles that LLMs may play in the
+   ophthalmic space, with a focus on improving the quality of healthcare
+   delivery.
+ZR 0
+TC 3
+Z8 1
+ZB 0
+ZS 0
+ZA 0
+Z9 4
+DA 2024-09-21
+UT WOS:001312798700001
+PM 39059558
+ER
+
+PT J
+AU Bhattacharya, Kaushik
+   Bhattacharya, Surajit
+   Bhattacharya, Neeta
+   Bhattacharya, Neela
+TI DeepSeek Versus ChatGPT in Surgical Practice
+SO INDIAN JOURNAL OF SURGERY
+DI 10.1007/s12262-025-04368-y
+EA MAY 2025
+DT Review; Early Access
+PY 2025
+AB Artificial intelligence (AI) is revolutionizing medicine and surgery by
+   enhancing diagnostic accuracy, decision-making, and patient care. Among
+   the most promising AI-driven tools are ChatGPT and DeepSeek, each
+   playing a distinct yet complementary role in clinical practice. ChatGPT,
+   a large language model, serves as an intelligent assistant for medical
+   professionals, aiding in clinical decision support, medical education,
+   documentation, and patient communication. Its ability to process vast
+   medical literature, generate differential diagnoses, and provide
+   real-time guidance improves efficiency and accessibility in healthcare.
+   DeepSeek, an artificial intelligence technology, is being explored for
+   surgical training, patient education, and preoperative planning. By
+   generating realistic simulations and personalized surgical
+   reconstructions, DeepSeek enhances skill acquisition, facilitates
+   virtual surgical rehearsals, and improves patient understanding of
+   procedures. Together, these AI tools have the potential to transform
+   modern healthcare, reducing cognitive workload for clinicians and
+   improving patient outcomes. However, ethical concerns, data security,
+   and regulatory oversight must be addressed to ensure their safe and
+   effective integration into medical practice. As AI continues to evolve,
+   ChatGPT and DeepSeeK will likely play an increasingly vital role in
+   advancing the fields of medicine and surgery.
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+ZA 0
+TC 0
+Z9 0
+DA 2025-05-16
+UT WOS:001485543000001
+ER
+
+PT C
+AU Montagna, Sara
+   Aguzzi, Gianluca
+   Ferretti, Stefano
+   Pengo, Martino Francesco
+   Klopfenstein, Lorenz Cuno
+   Ungolo, Michelangelo
+   Magnini, Matteo
+GP ieee
+TI LLM-based Solutions for Healthcare Chatbots: a Comparative Analysis
+SO 2024 IEEE INTERNATIONAL CONFERENCE ON PERVASIVE COMPUTING AND
+   COMMUNICATIONS WORKSHOPS AND OTHER AFFILIATED EVENTS, PERCOM WORKSHOPS
+SE IEEE Annual Conference on Pervasive Computing and Communications
+   Workshops
+BP 346
+EP 351
+DI 10.1109/PerComWorkshops59983.2024.10503257
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB This paper discusses the challenges of using Large Language Models
+   (LLMs) in medical chatbots for chronic disease self-management.
+   Accordingly, we define an architecture specifically devised to deal with
+   issues related to reliability, clinical trials, and privacy. Two
+   solutions are compared to prevent data disclosure: a filtering mechanism
+   for sensitive data with an external LLM, and a locally deployed LLM
+   using open-source models. Experimental results underscore the challenges
+   in effectively instructing the local LLM so as to provide performances
+   comparable to GPT-3.5.
+CT IEEE International Conference on Pervasive Computing and Communications
+   (PerCom)
+CY MAR 11-15, 2024
+CL Biarritz, FRANCE
+SP IEEE
+ZR 0
+ZB 1
+ZA 0
+TC 2
+ZS 0
+Z8 0
+Z9 2
+DA 2024-07-20
+UT WOS:001216220000072
+ER
+
+PT J
+AU Ong, Hannah
+   Ong, Joshua
+   Cheng, Rebekah
+   Wang, Calvin
+   Lin, Murong
+   Ong, Dennis
+TI GPT Technology to Help Address Longstanding Barriers to Care in Free
+   Medical Clinics
+SO ANNALS OF BIOMEDICAL ENGINEERING
+VL 51
+IS 9
+BP 1906
+EP 1909
+DI 10.1007/s10439-023-03256-4
+EA JUN 2023
+DT Article
+PD SEP 2023
+PY 2023
+AB The implementation of technology in healthcare has revolutionized
+   patient-centered decision making by providing contextualized information
+   about a patient's healthcare journey, leading to increased efficiency
+   (Keyworth et al. in BMC Med Inform Decis Mak 18:93, 2018,
+   https://doi.org/10.1186/s12911-018-0661-3). Artificial intelligence has
+   been integrated within Electronic Health Records (EHR) to prompt
+   screenings or diagnostic tests based on a patient's holistic health
+   profile. While larger hospitals have already widely adopted these
+   technologies, free clinics hold lower utilization of these advanced
+   capability EHRs. The patient population at a free clinic faces a
+   multitude of factors that limits their access to comprehensive care,
+   thus requiring necessary efforts and measures to close the gap in
+   healthcare disparities. Emerging Artificial Intelligence (AI)
+   technology, such as OpenAI's ChatGPT, GPT-4, and other large language
+   models (LLMs) have remarkable potential to improve patient care
+   outcomes, promote health equity, and enhance comprehensive and holistic
+   care in resource-limited settings. This paper aims to identify areas in
+   which integrating these LLM AI advancements into free clinics operations
+   can optimize and streamline healthcare delivery to underserved patient
+   populations. This paper also identifies areas of improvements in GPT
+   that are necessary to deliver those services.
+ZR 0
+TC 11
+ZA 0
+ZB 4
+Z8 0
+ZS 0
+Z9 11
+DA 2023-07-14
+UT WOS:001019903200001
+PM 37355478
+ER
+
+PT J
+AU Kral, Jan
+   Hradis, Michal
+   Buzga, Marek
+   Kunovsky, Lumir
+TI Exploring the benefits and challenges of AI-driven large language models
+   in gastroenterology: Think out of the box
+SO BIOMEDICAL PAPERS-OLOMOUC
+VL 168
+IS 4
+BP 277
+EP 283
+DI 10.5507/bp.2024.027
+EA SEP 2024
+DT Review
+PD DEC 2024
+PY 2024
+AB Artificial Intelligence (AI) has evolved significantly over the past
+   decades, from its early concepts in the 1950s to the present era of deep
+   learning and natural language processing. Advanced large language models
+   (LLMs), such as Chatbot Generative Pre-Trained Transformer (ChatGPT) is
+   trained to generate human-like text responses. This technology has the
+   potential to revolutionize various aspects of gastroenterology,
+   including diagnosis, treatment, education, and The benefits of using
+   LLMs in gastroenterology could include accelerating diagnosis and
+   treatment, providing personalized care, enhancing education and
+   training, assisting in decision-making, and improving communication with
+   patients. However, drawbacks and challenges such as limited AI
+   capability, training on possibly biased data, data errors, security and
+   privacy concerns, and implementation costs must be addressed to ensure
+   the responsible and effective use of this technology. The future of LLMs
+   in gastroenterology relies on the ability to process and analyse large
+   amounts of data, identify patterns, and summarize information and thus
+   assist physicians in creating personalized treatment plans. As AI
+   advances, LLMs will become more accurate and efficient, allowing for
+   faster diagnosis and treatment of gastroenterological conditions.
+   Ensuring effective collaboration between AI developers, healthcare
+   professionals, and regulatory bodies is essential for the responsible
+   and effective use of this technology. By finding the right balance
+   between AI and human expertise and addressing the limitations and risks
+   associated with its use, LLMs can play an increasingly significant role
+   in gastroenterology, contributing to better patient care and supporting
+   doctors in their work.
+ZR 0
+ZS 0
+Z8 0
+ZA 0
+TC 2
+ZB 0
+Z9 2
+DA 2024-09-12
+UT WOS:001306654600001
+PM 39234774
+ER
+
+PT J
+AU Lee, Jung-Hyun
+   Choi, Eunhee
+   Angulo, Sergio L.
+   Mcdougal, Robert A.
+   Lytton, William W.
+TI Neurological history both twinned and queried by generative artificial
+   intelligence
+SO FRONTIERS IN MEDICINE
+VL 11
+AR 1496866
+DI 10.3389/fmed.2024.1496866
+DT Article
+PD JAN 17 2025
+PY 2025
+AB Background and objectives We propose the use of GPT-4 to facilitate
+   initial history-taking in neurology and other medical specialties. A
+   large language model (LLM) could be utilized as a digital twin which
+   could enhance queryable electronic medical record (EMR) systems and
+   provide healthcare conversational agents (HCAs) to replace waiting-room
+   questionnaires.Methods In this observational pilot study, we presented
+   verbatim history of present illness (HPI) narratives from published case
+   reports of headache, stroke, and neurodegenerative diseases. Three
+   standard GPT-4 models were designated Models P: patient digital twin; N:
+   neurologist to query Model P; and S: supervisor to synthesize the N-P
+   dialogue into a derived HPI and formulate the differential diagnosis.
+   Given the random variability of GPT-4 output, each case was presented
+   five separate times to check consistency and reliability.Results The
+   study achieved an overall HPI content retrieval accuracy of 81%, with
+   accuracies of 84% for headache, 82% for stroke, and 77% for
+   neurodegenerative diseases. Retrieval accuracies for individual HPI
+   components were as follows: 93% for chief complaints, 47% for associated
+   symptoms and review of systems, 76% for relevant symptom details, and
+   94% for histories of past medical, surgical, allergies, social, and
+   family factors. The ranking of case diagnoses in the differential
+   diagnosis list averaged in the 89th percentile.Discussion Our tripartite
+   LLM model demonstrated accuracy in extracting essential information from
+   published case reports. Further validation with EMR HPIs, and then with
+   direct patient care will be needed to move toward adaptation of enhanced
+   diagnostic digital twins that incorporate real-time data from
+   health-monitoring devices and self-monitoring assessments.
+ZS 0
+ZB 0
+ZR 0
+Z8 0
+TC 0
+ZA 0
+Z9 0
+DA 2025-02-05
+UT WOS:001409771700001
+PM 39895821
+ER
+
+PT C
+AU Kapadia, Nimit
+   Gokhale, Shreekant
+   Nepomuceno, Anthony
+   Cheng, Wanning
+   Bothwell, Samantha
+   Mathews, Maureen
+   Shallat, John S.
+   Schultz, Celeste
+   Gupta, Avinash
+BE Fragomeni, G
+   Chen, JYC
+TI Evaluation of Large Language Model Generated Dialogues for an AI Based
+   VR Nurse Training Simulator
+SO VIRTUAL, AUGMENTED AND MIXED REALITY, PT I, VAMR 2024
+SE Lecture Notes in Computer Science
+VL 14706
+BP 200
+EP 212
+DI 10.1007/978-3-031-61041-7_13
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB This paper explores the efficacy of Large Language Models (LLMs) in
+   generating dialogues for patient avatars in Virtual Reality (VR) nurse
+   training simulators. With the integration of technology in healthcare
+   education evolving rapidly, the potential of NLP to enhance nurse
+   training through realistic patient interactions presents a significant
+   opportunity. Our study introduces a novel LLM-based dialogue generation
+   system, leveraging models such as ChatGPT, GoogleBard, and ClaudeAI. We
+   detail the development of our script generation system, which was a
+   collaborative endeavor involving nurses, technical artists, and
+   developers. The system, tested on the Meta Quest 2 VR headset,
+   integrates complex dialogues created through a synthesis of clinical
+   expertise and advanced NLP, aimed at simulating real-world nursing
+   scenarios. Through a comprehensive evaluation involving lexical and
+   semantic similarity tests compared to clinical expert-generated scripts,
+   we assess the potential of LLMs as suitable alternatives for script
+   generation. The findings aim to contribute to the development of a more
+   interactive and effective VR nurse training simulator, enhancing
+   communication skills among nursing students for improved patient care
+   outcomes. This research underscores the importance of advanced NLP
+   applications in healthcare education, offering insights into the
+   practicality and limitations of employing LLMs in clinical training
+   environments.
+CT 16th International Conference on Virtual, Augmented and Mixed Reality
+   (VAMR)
+CY JUN 29-JUL 04, 2024
+CL Washington, DC
+TC 0
+ZA 0
+ZB 0
+ZR 0
+Z8 1
+ZS 0
+Z9 1
+DA 2024-09-04
+UT WOS:001280582500013
+ER
+
+PT J
+AU Beheshti, Mohammad
+   Toubal, Imad Eddine
+   Alaboud, Khuder
+   Almalaysha, Mohammed
+   Ogundele, Olabode B.
+   Turabieh, Hamza
+   Abdalnabi, Nader
+   Boren, Suzanne A.
+   Scott, Grant J.
+   Dahu, Butros M.
+TI Evaluating the Reliability of ChatGPT for Health-Related Questions: A
+   Systematic Review
+SO INFORMATICS-BASEL
+VL 12
+IS 1
+AR 9
+DI 10.3390/informatics12010009
+DT Review
+PD JAN 17 2025
+PY 2025
+AB The rapid advancement of large language models like ChatGPT has
+   significantly impacted natural language processing, expanding its
+   applications across various fields, including healthcare. However, there
+   remains a significant gap in understanding the consistency and
+   reliability of ChatGPT's performance across different medical domains.
+   We conducted this systematic review according to an LLM-assisted PRISMA
+   setup. The high-recall search term "ChatGPT" yielded 1101 articles from
+   2023 onwards. Through a dual-phase screening process, initially
+   automated via ChatGPT and subsequently manually by human reviewers, 128
+   studies were included. The studies covered a range of medical
+   specialties, focusing on diagnosis, disease management, and patient
+   education. The assessment metrics varied, but most studies compared
+   ChatGPT's accuracy against evaluations by clinicians or reliable
+   references. In several areas, ChatGPT demonstrated high accuracy,
+   underscoring its effectiveness. However, performance varied, and some
+   contexts revealed lower accuracy. The mixed outcomes across different
+   medical domains emphasize the challenges and opportunities of
+   integrating AI like ChatGPT into healthcare. The high accuracy in
+   certain areas suggests that ChatGPT has substantial utility, yet the
+   inconsistent performance across all applications indicates a need for
+   ongoing evaluation and refinement. This review highlights ChatGPT's
+   potential to improve healthcare delivery alongside the necessity for
+   continued research to ensure its reliability.
+Z8 0
+ZA 0
+ZR 0
+ZB 0
+ZS 0
+TC 0
+Z9 0
+DA 2025-03-31
+UT WOS:001452439400001
+ER
+
+PT J
+AU Girton, Mark R.
+   Greene, Dina N.
+   Messerlian, Geralyn
+   Keren, David F.
+   Yu, Min
+TI ChatGPT vs Medical Professional: Analyzing Responses to Laboratory
+   Medicine Questions on Social Media
+SO CLINICAL CHEMISTRY
+VL 70
+IS 9
+BP 1122
+EP 1139
+DI 10.1093/clinchem/hvae093
+EA JUL 2024
+DT Article
+PD JUL 16 2024
+PY 2024
+AB Background The integration of ChatGPT, a large language model (LLM)
+   developed by OpenAI, into healthcare has sparked significant interest
+   due to its potential to enhance patient care and medical education. With
+   the increasing trend of patients accessing laboratory results online,
+   there is a pressing need to evaluate the effectiveness of ChatGPT in
+   providing accurate laboratory medicine information. Our study evaluates
+   ChatGPT's effectiveness in addressing patient questions in this area,
+   comparing its performance with that of medical professionals on social
+   media.Methods This study sourced patient questions and medical
+   professional responses from Reddit and Quora, comparing them with
+   responses generated by ChatGPT versions 3.5 and 4.0. Experienced
+   laboratory medicine professionals evaluated the responses for quality
+   and preference. Evaluation results were further analyzed using R
+   software.Results The study analyzed 49 questions, with evaluators
+   reviewing responses from both medical professionals and ChatGPT.
+   ChatGPT's responses were preferred by 75.9% of evaluators and generally
+   received higher ratings for quality. They were noted for their
+   comprehensive and accurate information, whereas responses from medical
+   professionals were valued for their conciseness. The interrater
+   agreement was fair, indicating some subjectivity but a consistent
+   preference for ChatGPT's detailed responses.Conclusions ChatGPT
+   demonstrates potential as an effective tool for addressing queries in
+   laboratory medicine, often surpassing medical professionals in response
+   quality. These results support the need for further research to confirm
+   ChatGPT's utility and explore its integration into healthcare settings.
+ZR 0
+ZB 0
+ZA 0
+ZS 0
+TC 5
+Z8 0
+Z9 5
+DA 2024-07-24
+UT WOS:001270925200001
+PM 39013110
+ER
+
+PT C
+AU Alshehri, Basma Mohammed J.
+   Kraiem, Naoufel
+   Sakly, Houneida
+   Alasbali, Nada
+GP IEEE
+TI Enhancing Medication Safety with Large Language Models: Advanced
+   Detection and Prediction of Drug-Drug Interactions
+SO 2024 IEEE 7TH INTERNATIONAL CONFERENCE ON ADVANCED TECHNOLOGIES, SIGNAL
+   AND IMAGE PROCESSING, ATSIP 2024
+SE International Conference on Advanced Technologies for Signal and Image
+   Processing ATSIP
+BP 547
+EP 552
+DI 10.1109/ATSIP62566.2024.10638993
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Poly-pharmacy means the use of multiple medications for multiple
+   Diseases, with impact to the increases of the risk of drug-drug
+   interactions (DDIs), and it may cause a threat to patient safety.
+   Traditional DDI detection methods are often manual and leads to errors.
+   This study investigates the potential of large language models (LLMs) to
+   improve the efficiency of personalized DDI prediction and to use the AI
+   advancements. By using LLMs' natural language processing capabilities,
+   we will develop a system that analyzes comprehensive patient data,
+   including medical history, and individual characteristics. The system
+   aims to enabling healthcare providers to make informed decisions and
+   improve the treatment plans. Initial results, while promising, highlight
+   the need for further refinement and larger datasets to improve
+   prediction accuracy. However, this research demonstrates the significant
+   potential of LLM-based systems in transforming medication safety,
+   optimizing treatment regimens, and ultimately enhancing patient care and
+   treatment process.
+CT IEEE 7th International Conference on Advanced Technologies, Signal and
+   Image Processing (ATSIP)
+CY JUL 11-13, 2024
+CL Sousse, TUNISIA
+SP IEEE; IEEE Tunisia Sect; IEEE Signal Proc Soc; IEEE Control Syst Soc;
+   Adv Technologies Med & Signals; ATSI; Telecom Paris; Telecom SudParis;
+   Telecom ParisTech; SUPCOM; ANST; ENST; SYS; Technopole SFAX; CRNS; ENET
+   COM; ATISP; ENIG; MACS; ENIS
+ZS 0
+TC 1
+Z8 0
+ZR 0
+ZA 0
+ZB 0
+Z9 1
+DA 2024-12-13
+UT WOS:001315771700097
+ER
+
+PT J
+AU Liu, Yang
+   Ding, Xingchen
+   Peng, Shun
+   Zhang, Chengzhi
+TI Leveraging ChatGPT to optimize depression intervention through
+   explainable deep learning
+SO FRONTIERS IN PSYCHIATRY
+VL 15
+AR 1383648
+DI 10.3389/fpsyt.2024.1383648
+DT Article
+PD JUN 6 2024
+PY 2024
+AB Introduction Mental health issues bring a heavy burden to individuals
+   and societies around the world. Recently, the large language model
+   ChatGPT has demonstrated potential in depression intervention. The
+   primary objective of this study was to ascertain the viability of
+   ChatGPT as a tool for aiding counselors in their interactions with
+   patients while concurrently evaluating its comparability to
+   human-generated content (HGC).Methods We propose a novel framework that
+   integrates state-of-the-art AI technologies, including ChatGPT, BERT,
+   and SHAP, to enhance the accuracy and effectiveness of mental health
+   interventions. ChatGPT generates responses to user inquiries, which are
+   then classified using BERT to ensure the reliability of the content.
+   SHAP is subsequently employed to provide insights into the underlying
+   semantic constructs of the AI-generated recommendations, enhancing the
+   interpretability of the intervention.Results Remarkably, our proposed
+   methodology consistently achieved an impressive accuracy rate of 93.76%.
+   We discerned that ChatGPT always employs a polite and considerate tone
+   in its responses. It refrains from using intricate or unconventional
+   vocabulary and maintains an impersonal demeanor. These findings
+   underscore the potential significance of AIGC as an invaluable
+   complementary component in enhancing conventional intervention
+   strategies.Discussion This study illuminates the considerable promise
+   offered by the utilization of large language models in the realm of
+   healthcare. It represents a pivotal step toward advancing the
+   development of sophisticated healthcare systems capable of augmenting
+   patient care and counseling practices.
+ZR 0
+ZA 0
+ZB 0
+TC 6
+Z8 0
+ZS 0
+Z9 6
+DA 2024-06-29
+UT WOS:001250642900001
+PM 38903640
+ER
+
+PT C
+AU Oduro-Afriyie, Joel
+   Jamil, Hasan M.
+GP ACM
+TI Enabling the Informed Patient Paradigm with Secure and Personalized
+   Medical Question Answering
+SO 14TH ACM CONFERENCE ON BIOINFORMATICS, COMPUTATIONAL BIOLOGY, AND HEALTH
+   INFORMATICS, BCB 2023
+DI 10.1145/3584371.3613016
+DT Proceedings Paper
+PD 2023
+PY 2023
+AB Quality patient care is a complex and multifaceted problem requiring the
+   integration of data from multiple sources. We propose Medicient, a
+   knowledge-graph-based question answering system that processes
+   heterogeneous data sources, including patient health records, drug
+   databases, and medical literature, into a unified knowledge graph with
+   zero training. The knowledge graph is then utilized to provide
+   personalized recommendations for treatment or medication. The system
+   leverages the power of large language models for question understanding
+   and natural language response generation, while hiding sensitive patient
+   information. We compare our system to a large language model (ChatGPT),
+   which does not have access to patient health records, and show that our
+   system provides better recommendations. This study contributes to a
+   growing body of research on knowledge graphs and their applications in
+   healthcare.
+CT 14th ACM Conference on Bioinformatics, Computational Biology, and Health
+   Informatics (ACM-BCB)
+CY SEP 03-06, 2023
+CL Houston, TX
+SP Assoc Comp Machinery; ACM Special Interest Grp Bioinformat, Computat
+   Biol, & Biomed Informat
+ZR 0
+ZA 0
+Z8 0
+TC 2
+ZB 0
+ZS 0
+Z9 3
+DA 2024-03-19
+UT WOS:001143941200033
+ER
+
+PT J
+AU Liu, Zhe
+   Bao, Yihang
+   Zeng, Shuai
+   Qian, Ruiyi
+   Deng, Miaohan
+   Gu, An
+   Li, Jianye
+   Wang, Weidi
+   Cai, Wenxiang
+   Li, Wenhao
+   Wang, Han
+   Xu, Dong
+   Lin, Guan Ning
+TI Large Language Models in Psychiatry: Current Applications, Limitations,
+   and Future Scope
+SO BIG DATA MINING AND ANALYTICS
+VL 7
+IS 4
+BP 1148
+EP 1168
+DI 10.26599/BDMA.2024.9020046
+DT Article
+PD DEC 2024
+PY 2024
+AB With the advancements in Artificial Intelligence (AI) technology, Large
+   Language Models (LLMs) provide outstanding capabilities for natural
+   language understanding and generation, enhancing various domains. In
+   psychiatry, LLMs can empower healthcare by analyzing vast amounts of
+   medical data to improve diagnostic accuracy, enhance therapeutic
+   communication, and personalize patient care with their strength in
+   understanding and generating human-like text. In clinical AI, developing
+   and utilizing robust and interpretable models has been a longstanding
+   challenge. This survey investigates the current psychiatric practice of
+   LLMs, along with a series of corpus resources that could be used for
+   training psychiatric LLMs. We discuss the limitations concerning LLM
+   reproducibility, capabilities, usability, interpretability in clinical
+   settings, and ethical considerations. Additionally, we propose potential
+   future directions for research, clinical application, and education in
+   psychiatric LLMs. Finally, we discuss the challenge of integrating LLMs
+   into the evolving landscape of healthcare in real-world scenarios.
+ZB 0
+ZR 0
+TC 4
+Z8 0
+ZS 0
+ZA 0
+Z9 4
+DA 2025-01-05
+UT WOS:001381381200027
+ER
+
+PT J
+AU Marshan, Alaa
+   Almutairi, Anwar Nais
+   Ioannou, Athina
+   Bell, David
+   Monaghan, Asmat
+   Arzoky, Mahir
+TI MedT5SQL: a transformers-based large language model for text-to-SQL
+   conversion in the healthcare domain
+SO FRONTIERS IN BIG DATA
+VL 7
+AR 1371680
+DI 10.3389/fdata.2024.1371680
+DT Article
+PD JUN 26 2024
+PY 2024
+AB Introduction In response to the increasing prevalence of electronic
+   medical records (EMRs) stored in databases, healthcare staff are
+   encountering difficulties retrieving these records due to their limited
+   technical expertise in database operations. As these records are crucial
+   for delivering appropriate medical care, there is a need for an
+   accessible method for healthcare staff to access EMRs.Methods To address
+   this, natural language processing (NLP) for Text-to-SQL has emerged as a
+   solution, enabling non-technical users to generate SQL queries using
+   natural language text. This research assesses existing work on
+   Text-to-SQL conversion and proposes the MedT5SQL model specifically
+   designed for EMR retrieval. The proposed model utilizes the Text-to-Text
+   Transfer Transformer (T5) model, a Large Language Model (LLM) commonly
+   used in various text-based NLP tasks. The model is fine-tuned on the
+   MIMICSQL dataset, the first Text-to-SQL dataset for the healthcare
+   domain. Performance evaluation involves benchmarking the MedT5SQL model
+   on two optimizers, varying numbers of training epochs, and using two
+   datasets, MIMICSQL and WikiSQL.Results For MIMICSQL dataset, the model
+   demonstrates considerable effectiveness in generating question-SQL pairs
+   achieving accuracy of 80.63%, 98.937%, and 90% for exact match accuracy
+   matrix, approximate string-matching, and manual evaluation,
+   respectively. When testing the performance of the model on WikiSQL
+   dataset, the model demonstrates efficiency in generating SQL queries,
+   with an accuracy of 44.2% on WikiSQL and 94.26% for approximate
+   string-matching.Discussion Results indicate improved performance with
+   increased training epochs. This work highlights the potential of
+   fine-tuned T5 model to convert medical-related questions written in
+   natural language to Structured Query Language (SQL) in healthcare
+   domain, providing a foundation for future research in this area.
+ZB 0
+ZS 0
+Z8 0
+ZA 0
+ZR 0
+TC 3
+Z9 3
+DA 2024-07-20
+UT WOS:001268430900001
+PM 38988646
+ER
+
+PT J
+AU Chuang, Yu-Neng
+   Tang, Ruixiang
+   Jiang, Xiaoqian
+   Hu, Xia
+TI SPeC: A Soft Prompt-Based Calibration on Performance Variability of
+   Large Language Model in Clinical Notes Summarization
+SO JOURNAL OF BIOMEDICAL INFORMATICS
+VL 151
+AR 104606
+DI 10.1016/j.jbi.2024.104606
+EA FEB 2024
+DT Article
+PD MAR 2024
+PY 2024
+AB Electronic health records (EHRs) store an extensive array of patient
+   information, encompassing medical histories, diagnoses, treatments, and
+   test outcomes. These records are crucial for enabling healthcare
+   providers to make well-informed decisions regarding patient care.
+   Summarizing clinical notes further assists healthcare professionals in
+   pinpointing potential health risks and making better -informed
+   decisions. This process contributes to reducing errors and enhancing
+   patient outcomes by ensuring providers have access to the most pertinent
+   and current patient data. Recent research has shown that incorporating
+   instruction prompts with large language models (LLMs) substantially
+   boosts the efficacy of summarization tasks. However, we show that this
+   approach also leads to increased performance variance, resulting in
+   significantly distinct summaries even when instruction prompts share
+   similar meanings. To tackle this challenge, we introduce a model
+   -agnostic Soft Prompt-BasedCalibration (SPeC) pipeline that employs soft
+   prompts to lower variance while preserving the advantages of prompt
+   -based summarization. Experimental findings on multiple clinical note
+   tasks and LLMs indicate that our method not only bolsters performance
+   but also effectively regulates variance across different LLMs, providing
+   a more consistent and reliable approach to summarizing critical medical
+   information.
+TC 9
+ZB 2
+ZS 0
+Z8 1
+ZA 0
+ZR 0
+Z9 9
+DA 2024-04-01
+UT WOS:001187921900001
+PM 38325698
+ER
+
+PT J
+AU Sabanayagam, Charumathi
+   Banu, Riswana
+   Lim, Cynthia
+   Tham, Yih Chung
+   Cheng, Ching-Yu
+   Tan, Gavin
+   Ekinci, Elif
+   Sheng, Bin
+   Mckay, Gareth
+   Shaw, Jonathan E.
+   Matsushita, Kunihiro
+   Tangri, Navdeep
+   Choo, Jason
+   Wong, Tien Y.
+TI Artificial intelligence in chronic kidney disease management: a scoping
+   review
+SO THERANOSTICS
+VL 15
+IS 10
+BP 4566
+EP 4578
+DI 10.7150/thno.108552
+DT Review
+PD 2025
+PY 2025
+AB Rationale: Chronic kidney disease (CKD) is a major public health problem
+   worldwide associated with cardiovascular disease, renal failure, and
+   mortality. To effectively address this growing burden, innovative
+   solutions to management are urgently required. We conducted a scoping
+   review to identify key use cases in which artificial intelligence (AI)
+   could be leveraged for improving management of CKD. Additionally, we
+   examined the challenges faced by AI in CKD management, proposed
+   potential solutions to overcome these barriers. Methods: We reviewed 41
+   articles published between 2014-2024 which examined various AI
+   techniques including machine learning (ML) and deep learning (DL),
+   unsupervised clustering, digital twin, natural language processing (NLP)
+   and large language models (LLMs) in CKD management. We focused on four
+   areas: early detection, risk stratification and prediction, treatment
+   recommendations and patient care and communication. Results: We
+   identified 41 articles published between 2014-2024 that assessed
+   image-based DL models for early detection (n = 6), ML models for risk
+   stratification and prediction (n = 14) and treatment recommendations (n
+   = 4), and NLP and LLMs for patient care and communication (n = 17). Key
+   challenges in integrating AI models into healthcare include technical
+   issues such as data quality and access, model accuracy, and
+   interpretability, alongside adoption barriers like workflow integration,
+   user training, and regulatory approval. Conclusions: There is tremendous
+   potential of integrating AI into clinical care of CKD patients to enable
+   early detection, prediction, and improved patient outcomes.
+   Collaboration among healthcare providers, researchers, regulators, and
+   industries is crucial to developing robust protocols that ensure
+   compliance with legal standards, while minimizing risks and maintaining
+   patient
+Z8 0
+ZA 0
+ZB 0
+TC 0
+ZR 0
+ZS 0
+Z9 0
+DA 2025-05-02
+UT WOS:001473295700018
+PM 40225559
+ER
+
+PT J
+AU Zhou, Yushy
+   Moon, Charles
+   Szatkowski, Jan
+   Moore, Derek
+   Stevens, Jarrad
+TI Evaluating ChatGPT responses in the context of a 53-year-old male with a
+   femoral neck fracture: a qualitative analysis
+SO EUROPEAN JOURNAL OF ORTHOPAEDIC SURGERY AND TRAUMATOLOGY
+VL 34
+IS 2
+BP 927
+EP 955
+DI 10.1007/s00590-023-03742-4
+EA SEP 2023
+DT Article
+PD FEB 2024
+PY 2024
+AB PurposeThe integration of artificial intelligence (AI) tools, such as
+   ChatGPT, in clinical medicine and medical education has gained
+   significant attention due to their potential to support decision-making
+   and improve patient care. However, there is a need to evaluate the
+   benefits and limitations of these tools in specific clinical
+   scenarios.MethodsThis study used a case study approach within the field
+   of orthopaedic surgery. A clinical case report featuring a 53-year-old
+   male with a femoral neck fracture was used as the basis for evaluation.
+   ChatGPT, a large language model, was asked to respond to clinical
+   questions related to the case. The responses generated by ChatGPT were
+   evaluated qualitatively, considering their relevance, justification, and
+   alignment with the responses of real clinicians. Alternative dialogue
+   protocols were also employed to assess the impact of additional prompts
+   and contextual information on ChatGPT responses.ResultsChatGPT generally
+   provided clinically appropriate responses to the questions posed in the
+   clinical case report. However, the level of justification and
+   explanation varied across the generated responses. Occasionally,
+   clinically inappropriate responses and inconsistencies were observed in
+   the generated responses across different dialogue protocols and on
+   separate days.ConclusionsThe findings of this study highlight both the
+   potential and limitations of using ChatGPT in clinical practice. While
+   ChatGPT demonstrated the ability to provide relevant clinical
+   information, the lack of consistent justification and occasional
+   clinically inappropriate responses raise concerns about its reliability.
+   These results underscore the importance of careful consideration and
+   validation when using AI tools in healthcare. Further research and
+   clinician training are necessary to effectively integrate AI tools like
+   ChatGPT, ensuring their safe and reliable use in clinical
+   decision-making.
+TC 10
+ZR 0
+Z8 0
+ZA 0
+ZB 0
+ZS 0
+Z9 10
+DA 2023-10-14
+UT WOS:001075512800001
+PM 37776392
+ER
+
+PT J
+AU Dalakoti, Mayank
+   Wong, Scott
+   Lee, Wayne
+   Lee, James
+   Yang, Hayang
+   Loong, Shaun
+   Loh, Poay Huan
+   Tyebally, Sara
+   Djohan, Andie
+   Ong, Jeanne
+   Yip, James
+   Ngiam, Kee Yuan
+   Foo, Roger
+TI Incorporating AI into cardiovascular diseases prevention - insights from
+   Singapore
+SO LANCET REGIONAL HEALTH-WESTERN PACIFIC
+VL 48
+AR 101102
+DI 10.1016/j.lanwpc.2024.101102
+DT Article
+PD JUL 2024
+PY 2024
+AB Improved upstream primary prevention of cardiovascular disease (CVD)
+   would enable more individuals to lead lives free of CVD. However, there
+   remain limitations in the current provision of CVD primary prevention,
+   where arti fi cial intelligence (AI) may help to fi ll the gaps. Using
+   the data informatics capabilities at the National University Health
+   System (NUHS), Singapore, empowered by the Endeavour AI system, and
+   combined large language model (LLM) tools, our team has created a
+   real-time dashboard able to capture and showcase information on
+   cardiovascular risk factors at both individual and geographical level-
+   CardioSight. Further insights such as medication records and data on
+   area -level socioeconomic determinants allow a whole -of -systems
+   approach to promote healthcare delivery, while also allowing for
+   outcomes to be tracked effectively. These are paired with interventions,
+   such as the CHronic diseAse Management Program (CHAMP), to coordinate
+   preventive cardiology care at a pilot stage within our university health
+   system. AI tools in synergy allow the identi fi cation of at -risk
+   patients and actionable steps to mitigate their health risks, thereby
+   closing the gap between risk identi fi cation and effective patient care
+   management in a novel CVD prevention work fl ow. Copyright (c) 2024 The
+   Authors. Published by Elsevier Ltd. This is an open access article under
+   the CC BY -NC -ND license
+   (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+ZB 2
+TC 11
+Z8 0
+ZA 0
+ZR 0
+ZS 0
+Z9 11
+DA 2024-06-21
+UT WOS:001247054700001
+PM 38855631
+ER
+
+PT J
+AU Cheungpasitporn, Wisit
+   Thongprayoon, Charat
+   Ronco, Claudio
+   Kashani, Kianoush B.
+TI Generative AI in Critical Care Nephrology: Applications and Future
+   Prospects
+SO BLOOD PURIFICATION
+VL 53
+IS 11-12
+BP 871
+EP 883
+DI 10.1159/000541168
+EA AUG 2024
+DT Review
+PD DEC 2024
+PY 2024
+AB Background: Generative artificial intelligence (AI) is rapidly
+   transforming various aspects of healthcare, including critical care
+   nephrology. Large language models (LLMs), a key technology in generative
+   AI, show promise in enhancing patient care, streamlining workflows, and
+   advancing research in this field. Summary: This review analyzes the
+   current applications and future prospects of generative AI in critical
+   care nephrology. Recent studies demonstrate the capabilities of LLMs in
+   diagnostic accuracy, clinical reasoning, and continuous renal
+   replacement therapy (CRRT) alarm troubleshooting. As we enter an era of
+   multiagent models and automation, the integration of generative AI into
+   critical care nephrology holds promise for improving patient care,
+   optimizing clinical processes, and accelerating research. However,
+   careful consideration of ethical implications and continued refinement
+   of these technologies are essential for their responsible implementation
+   in clinical practice. This review explores the current and potential
+   applications of generative AI in nephrology, focusing on clinical
+   decision support, patient education, research, and medical education.
+   Additionally, we examine the challenges and limitations of AI
+   implementation, such as privacy concerns, potential bias, and the
+   necessity for human oversight. Key Messages: (i) LLMs have shown
+   potential in enhancing diagnostic accuracy, clinical reasoning, and CRRT
+   alarm troubleshooting in critical care nephrology. (ii) Generative AI
+   offers promising applications in patient education, literature review,
+   and academic writing within the field of nephrology. (iii) The
+   integration of AI into electronic health records and clinical workflows
+   presents both opportunities and challenges for improving patient care
+   and research. (iv) Addressing ethical concerns, ensuring data privacy,
+   and maintaining human oversight are crucial for the responsible
+   implementation of AI in critical care nephrology.
+ZA 0
+ZS 0
+ZR 0
+TC 2
+ZB 1
+Z8 0
+Z9 2
+DA 2024-09-30
+UT WOS:001319695700001
+PM 39217985
+ER
+
+PT C
+AU Crabb, Erin Smith
+   Jones, Matthew T.
+GP IEEE
+TI Accelerating Model-Based Systems Engineering by Harnessing Generative AI
+SO 2024 19TH ANNUAL SYSTEM OF SYSTEMS ENGINEERING CONFERENCE, SOSE 2024
+SE IEEE International Conference on System of Systems Engineering
+BP 110
+EP 115
+DI 10.1109/SOSE62659.2024.10620975
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB With the rise of artificial intelligence (AI) tools to support the work
+   of numerous disciplines, we describe a preliminary investigation into
+   the benefits and drawbacks of large language model (LLM) use as part of
+   a traditional systems engineering and design workflow. To explore this,
+   we tasked a group of systems engineers to each create a list of
+   requirements and use case diagram to satisfy a systems of systems user
+   scenario presented in a proposal document. Participants created models
+   of a healthcare setting in which clinicians resolved discrepancies with
+   patient care by consulting additional sources of record, demonstrating
+   the importance of integrating new systems within the larger healthcare
+   system of systems. The first group were provided open access to an LLM,
+   the second group were provided draft materials generated by an LLM, and
+   the third followed their normal workflow. A subject matter expert (SME)
+   evaluator then scored each model according to its completeness,
+   consistency, correctness, simplicity, and traceability. Through this, we
+   show that although LLMs are not a replacement for a trained systems
+   engineer, they can contribute in two primary ways to the modeling
+   process: first, they can generate a significant portion of the
+   information necessary to create a minimum viable product (MVP) model
+   within a fraction of the time, offering a promising way to accelerate
+   the overall model development process. Second, they can answer detailed,
+   domain-specific questions and reduce the time spent on external
+   research.
+CT 19th Annual International IEEE Conference on System of Systems
+   Engineering (SoSE)
+CY JUN 23-26, 2024
+CL Tacoma, WA
+SP IEEE; Rochester Inst Technol; MABL Lab; UTSA; Int Council Syst Engn;
+   IEEE Syst, Man, & Cybernet Soc; IEEE Telepresence
+ZR 0
+TC 0
+ZB 0
+Z8 0
+ZA 0
+ZS 0
+Z9 0
+DA 2024-10-10
+UT WOS:001294376500017
+ER
+
+PT J
+AU Zhang, Jingqing
+   Sun, Kai
+   Jagadeesh, Akshay
+   Falakaflaki, Parastoo
+   Kayayan, Elena
+   Tao, Guanyu
+   Ghahfarokhi, Mahta Haghighat
+   Gupta, Deepa
+   Gupta, Ashok
+   Gupta, Vibhor
+   Guo, Yike
+TI The potential and pitfalls of using a large language model such as
+   ChatGPT, GPT-4, or LLaMA as a clinical assistant
+SO JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION
+VL 31
+IS 9
+BP 1884
+EP 1891
+DI 10.1093/jamia/ocae184
+EA JUL 2024
+DT Article
+PD JUL 17 2024
+PY 2024
+AB Objectives This study aims to evaluate the utility of large language
+   models (LLMs) in healthcare, focusing on their applications in enhancing
+   patient care through improved diagnostic, decision-making processes, and
+   as ancillary tools for healthcare professionals.Materials and Methods We
+   evaluated ChatGPT, GPT-4, and LLaMA in identifying patients with
+   specific diseases using gold-labeled Electronic Health Records (EHRs)
+   from the MIMIC-III database, covering three prevalent diseases-Chronic
+   Obstructive Pulmonary Disease (COPD), Chronic Kidney Disease (CKD)-along
+   with the rare condition, Primary Biliary Cirrhosis (PBC), and the
+   hard-to-diagnose condition Cancer Cachexia.Results In patient
+   identification, GPT-4 had near similar or better performance compared to
+   the corresponding disease-specific Machine Learning models (F1-score >=
+   85%) on COPD, CKD, and PBC. GPT-4 excelled in the PBC use case,
+   achieving a 4.23% higher F1-score compared to disease-specific
+   "Traditional Machine Learning" models. ChatGPT and LLaMA3 demonstrated
+   lower performance than GPT-4 across all diseases and almost all metrics.
+   Few-shot prompts also help ChatGPT, GPT-4, and LLaMA3 achieve higher
+   precision and specificity but lower sensitivity and Negative Predictive
+   Value.Discussion The study highlights the potential and limitations of
+   LLMs in healthcare. Issues with errors, explanatory limitations and
+   ethical concerns like data privacy and model transparency suggest that
+   these models would be in clinical settings. Future studies should
+   improve training datasets and model designs for LLMs to gain better
+   utility in healthcare.Conclusion The study shows that LLMs have the
+   potential to assist clinicians for tasks such as patient identification
+   but false positives and false negatives must be mitigated before LLMs
+   are adequate for real-world clinical assistance.
+ZA 0
+ZS 0
+ZB 1
+ZR 0
+TC 15
+Z8 1
+Z9 16
+DA 2024-07-23
+UT WOS:001269939400001
+PM 39018498
+ER
+
+PT J
+AU Izhar, Amaan
+   Idris, Norisma
+   Japar, Nurul
+TI Engaging Preference Optimization Alignment in Large Language Model for
+   Continual Radiology Report Generation: A Hybrid Approach
+SO COGNITIVE COMPUTATION
+VL 17
+IS 1
+AR 53
+DI 10.1007/s12559-025-10404-6
+DT Letter
+PD FEB 2025
+PY 2025
+AB Large language models (LLMs) remain relatively underutilized in medical
+   imaging, particularly in radiology, which is essential for disease
+   diagnosis and management. Nonetheless, radiology report generation (RRG)
+   is a time-consuming task that can result in delays and inconsistencies.
+   To address these challenges, we present a novel hybrid approach that
+   integrates multi-modal radiology information and preference optimization
+   alignment in LLM for continual RRG. Our method integrates a pre-trained
+   small multi-modal model to analyze radiology images and generate an
+   initial report, which is subsequently refined and aligned by an LLM
+   using odds ratio preference optimization (ORPO) and with historical
+   patient data and assessments to mimic radiologist-like responses,
+   bypassing reinforcement learning from human feedback-based (RLHF)
+   alignment. This two-stage fusion-supervised fine-tuning followed by
+   preference optimization-ensures high accuracy while minimizing
+   hallucinations and errors. We also propose a data field curation
+   strategy extendable to various other RRG modality datasets, focusing on
+   selecting relevant responses for preference alignment. We evaluate our
+   approach on two public datasets, achieving state-of-the-art performance
+   with average Bleu scores of 0.375 and 0.647, Meteor scores of 0.495 and
+   0.714, Rouge-L scores of 0.483 and 0.732, and average F1-RadGraph scores
+   of 0.488 and 0.487, for chest X-rays and lung CT scan datasets,
+   respectively. We further provide in-depth qualitative analyses and
+   ablation studies to explain the workings of our model and grasp the
+   clinical relevance for RRG. This work presents the first application of
+   preference optimization in continual RRG, representing a significant
+   advancement in automating clinically reliable report generation. By
+   reducing cognitive burdens on radiologists through AI-powered reasoning
+   and alignment in LLMs, the proposed model improves decision-making,
+   perception, and diagnostic precision, streamlining workflows and
+   enhancing patient care. Our code is available at
+   https://github.com/AI-14/r2gpoallm.
+Z8 0
+ZB 0
+TC 1
+ZS 0
+ZR 0
+ZA 0
+Z9 1
+DA 2025-02-01
+UT WOS:001407936900001
+ER
+
+PT J
+AU Barat, Maxime
+   Crombe, Amandine
+   Boeken, Tom
+   Dacher, Jean-Nicolas
+   Si-Mohamed, Salim
+   Dohan, Anthony
+   Chassagnon, Guillaume
+   Lecler, Augustin
+   Greffier, Joel
+   Nougaret, Stephanie
+   Soyer, Philippe
+TI Imaging in France: 2024 Update
+SO CANADIAN ASSOCIATION OF RADIOLOGISTS JOURNAL-JOURNAL DE L ASSOCIATION
+   CANADIENNE DES RADIOLOGISTES
+VL 76
+IS 2
+BP 221
+EP 231
+DI 10.1177/08465371241288425
+DT Review
+PD MAY 2025
+PY 2025
+AB Radiology in France has made major advances in recent years through
+   innovations in research and clinical practice. French institutions have
+   developed innovative imaging techniques and artificial intelligence
+   applications in the field of diagnostic imaging and interventional
+   radiology. These include, but are not limited to, a more precise
+   diagnosis of cancer and other diseases, research in dual-energy and
+   photon-counting computed tomography, new applications of artificial
+   intelligence, and advanced treatments in the field of interventional
+   radiology. This article aims to explore the major research initiatives
+   and technological advances that are shaping the landscape of radiology
+   in France. By highlighting key contributions in diagnostic imaging,
+   artificial intelligence, and interventional radiology, we provide a
+   comprehensive overview of how these innovations are improving patient
+   outcomes, enhancing diagnostic accuracy, and expanding the possibilities
+   for minimally invasive therapies. As the field continues to evolve,
+   France's position at the forefront of radiological research ensures that
+   these innovations will play a central role in addressing current
+   healthcare challenges and improving patient care on a global scale.
+   La radiologie en France a r & eacute;alis & eacute; des progr & egrave;s
+   majeurs durant ces derni & egrave;res ann & eacute;es gr & acirc;ce &
+   agrave; des innovations dans les domaines de la recherche et de la
+   clinique. Les institutions m & eacute;dicales fran & ccedil;aises ont d
+   & eacute;velopp & eacute; des techniques innovantes et des applications
+   d'intelligence artificielle dans le domaine de l'imagerie diagnostique
+   et de la radiologie interventionnelle. Celles-ci incluent, de mani &
+   egrave;re non exhaustive, un diagnostic plus pr & eacute;cis du cancer
+   et d'autres maladies, la recherche fondamentale et clinique en
+   tomodensitom & eacute;trie & agrave; double & eacute;nergie et par
+   comptage photonique, de nouvelles applications de l'intelligence
+   artificielle et de nouveaux traitements dans le domaine de la radiologie
+   interventionnelle. Cet article vise & agrave; rapporter les grandes
+   initiatives de recherche et les avanc & eacute;es technologiques qui fa
+   & ccedil;onnent le paysage de la radiologie en France. En mettant en &
+   eacute;vidence les contributions cl & eacute;s en imagerie diagnostique,
+   en intelligence artificielle et en radiologie interventionnelle, cet
+   article donne un aper & ccedil;u complet de la mani & egrave;re dont ces
+   innovations am & eacute;liorent les r & eacute;sultats pour les
+   patients, am & eacute;liorent la pr & eacute;cision du diagnostic et &
+   eacute;largissent les possibilit & eacute;s de th & eacute;rapies
+   mini-invasives. La position de la France & agrave; l'avant-garde de la
+   recherche radiologique garantit que ces innovations joueront un r &
+   ocirc;le central pour relever les d & eacute;fis actuels en mati &
+   egrave;re de sant & eacute; et am & eacute;liorer les soins des patients
+   & agrave; l'& eacute;chelle mondiale.
+ZS 0
+TC 1
+ZR 0
+ZA 0
+ZB 0
+Z8 0
+Z9 1
+DA 2025-03-21
+UT WOS:001442832300009
+PM 39367786
+ER
+
+PT J
+AU Kasapovic, Adnan
+   Ali, Thaer
+   Babasiz, Mari
+   Bojko, Jessica
+   Gathen, Martin
+   Kaczmarczyk, Robert
+   Roos, Jonas
+TI Does the Information Quality of ChatGPT Meet the Requirements of
+   Orthopedics and Trauma Surgery?
+SO CUREUS JOURNAL OF MEDICAL SCIENCE
+VL 16
+IS 5
+AR e60318
+DI 10.7759/cureus.60318
+DT Article
+PD MAY 15 2024
+PY 2024
+AB Background: The integration of artificial intelligence (AI) in medicine,
+   particularly through AI -based language models like ChatGPT, offers a
+   promising avenue for enhancing patient education and healthcare
+   delivery. This study aims to evaluate the quality of medical information
+   provided by Chat Generative Pretrained Transformer (ChatGPT) regarding
+   common orthopedic and trauma surgical procedures, assess its
+   limitations, and explore its potential as a supplementary source for
+   patient education. Methods: Using the GPT-3.5-Turbo version of ChatGPT,
+   simulated patient information was generated for 20 orthopedic and trauma
+   surgical procedures. The study utilized standardized information forms
+   as a reference for evaluating ChatGPT's responses. The accuracy and
+   quality of the provided information were assessed using a modified
+   DISCERN instrument, and a global medical assessment was conducted to
+   categorize the information's usefulness and reliability. Results:
+   ChatGPT mentioned an average of 47% of relevant keywords across
+   procedures, with a variance in the mention rate between 30.5% and 68.6%.
+   The average modified DISCERN (mDISCERN) score was 2.4 out of 5,
+   indicating a moderate to low quality of information. None of the
+   ChatGPT-generated fact sheets were rated as "very useful," with 45%
+   deemed "somewhat useful," 35% "not useful," and 20% classified as
+   "dangerous." A positive correlation was found between higher mDISCERN
+   scores and better physician ratings, suggesting that information quality
+   directly impacts perceived utility. Conclusion: While AI -based language
+   models like ChatGPT hold significant promise for medical education and
+   patient care, the current quality of information provided in the field
+   of orthopedics and trauma surgery is suboptimal. Further development and
+   refinement of AI sources and algorithms are necessary to improve the
+   accuracy and reliability of medical information. This study underscores
+   the need for ongoing research and development in AI applications in
+   healthcare, emphasizing the critical role of accurate, high -quality
+   information in patient education and informed consent processes.
+TC 6
+ZA 0
+Z8 0
+ZB 1
+ZR 0
+ZS 0
+Z9 6
+DA 2024-06-22
+UT WOS:001235764300017
+PM 38882956
+ER
+
+PT J
+AU Ah-Yan, Christophe
+   Boissonnault, Eve
+   Boudier-Reveret, Mathieu
+   Mares, Christopher
+TI Impact of artificial intelligence in managing musculoskeletal
+   pathologies in physiatry: a qualitative observational study evaluating
+   the potential use of ChatGPT versus Copilot for patient information and
+   clinical advice on low back pain
+SO JOURNAL OF YEUNGNAM MEDICAL SCIENCE
+VL 42
+AR 11
+DI 10.12701/jyms.2024.01151
+DT Article
+PD 2025
+PY 2025
+AB Background: The self-management of low back pain (LBP) through patient
+   information interventions offers significant benefits in terms of cost,
+   reduced work absenteeism, and overall healthcare utilization. Using a
+   large language model (LLM), such as ChatGPT (OpenAI) or Copilot
+   (Microsoft), could potentially enhance these outcomes further. Thus, it
+   is important to evaluate the LLMs ChatGPT and Copilot in providing
+   medical advice for LBP and assessing the impact of clinical context on
+   the quality of responses. Methods: This was a qualitative comparative
+   observational study. It was conducted within the Department of Physical
+   Medicine and Rehabilitation, University of Montreal in Montreal, QC,
+   Canada. ChatGPT and Copilot were used to answer 27 common questions
+   related to LBP, with and without a specific clinical context. The
+   responses were evaluated by physiatrists for validity, safety, and
+   usefulness using a 4-point Likert scale (4, most favorable). Results:
+   Both ChatGPT and Copilot demonstrated good performance across all
+   measures. Validity scores were 3.33 for ChatGPT and 3.18 for Copilot,
+   safety scores were 3.19 for ChatGPT and 3.13 for Copilot, and usefulness
+   scores were 3.60 for ChatGPT and 3.57 for Copilot. The inclusion of
+   clinical context did not significantly change the results. Conclusion:
+   LLMs, such as ChatGPT and Copilot, can provide reliable medical advice
+   on LBP, irrespective of the detailed clinical context, supporting their
+   potential to aid in patient self-management.
+ZR 0
+ZB 0
+ZS 0
+ZA 0
+Z8 0
+TC 0
+Z9 0
+DA 2025-03-30
+UT WOS:001451440600013
+PM 39610054
+ER
+
+PT C
+AU Ji, Yuelyu
+   Yu, Zeshui
+   Wang, Yanshan
+GP IEEE COMPUTER SOC
+TI Assertion Detection in Clinical Natural Language Processing using Large
+   Language Models
+SO 2024 IEEE 12TH INTERNATIONAL CONFERENCE ON HEALTHCARE INFORMATICS, ICHI
+   2024
+SE IEEE International Conference on Healthcare Informatics
+BP 242
+EP 247
+DI 10.1109/ICHI61247.2024.00039
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB In this study, we aim to address the task of assertion detection when
+   extracting medical concepts from clinical notes, a key process in
+   clinical natural language processing (NLP). Assertion detection in
+   clinical NLP usually involves identifying assertion types for medical
+   concepts in the clinical text, namely certainty (whether the medical
+   concept is positive, negated, possible, or hypothetical), temporality
+   (whether the medical concept is for present or the past history), and
+   experiencer (whether the medical concept is described for the patient or
+   a family member). These assertion types are essential for healthcare
+   professionals to quickly and clearly understand the context of medical
+   conditions from unstructured clinical texts, directly influencing the
+   quality and outcomes of patient care. Although widely used, traditional
+   methods, particularly rule-based NLP systems and machine learning or
+   deep learning models, demand intensive manual efforts to create patterns
+   and tend to overlook less common assertion types, leading to an
+   incomplete understanding of the context. To address this challenge, our
+   research introduces a novel methodology that utilizes Large Language
+   Models (LLMs) pre-trained on a vast array of medical data for assertion
+   detection. We enhanced the current method with advanced reasoning
+   techniques, including Tree of Thought (ToT), Chain of Thought (CoT), and
+   Self-Consistency (SC), and refine it further with Low-Rank Adaptation
+   (LoRA) fine-tuning. We first evaluated the model on the i2b2 2010
+   assertion dataset. Our method achieved a micro-averaged F-1 of 0.89,
+   with 0.11 improvements over the previous works. To further assess the
+   generalizability of our approach, we extended our evaluation to a local
+   dataset that focused on sleep concept extraction. Our approach achieved
+   an F-1 of 0.74, which is 0.31 higher than the previous method. The
+   results show that using LLMs is a viable option for assertion detection
+   in clinical NLP and can potentially integrate with other LLM-based
+   concept extraction models for clinical NLP tasks.
+CT 12th IEEE International Conference on Healthcare Informatics (IEEE-ICHI)
+CY JUN 03-06, 2024
+CL Orlando, FL
+SP IEEE; IEEE Comp Soc Tech Community Intelligent Informat; Univ Minnesota,
+   Div Computat Hlth Sci; Weill Cornell Med Inst Artificial Intelligence &
+   Digital Hlth; Univ Florida Hlth; Yale Univ, Sch Med; Springer; Florida
+   State Univ, Coll Commun & Informat
+ZB 0
+ZR 0
+Z8 0
+TC 0
+ZA 0
+ZS 0
+Z9 0
+DA 2024-11-02
+UT WOS:001304501700031
+PM 40092287
+ER
+
+PT J
+AU Busch, Felix
+   Hoffmann, Lena
+   Rueger, Christopher
+   van Dijk, Elon H. C.
+   Kader, Rawen
+   Ortiz-Prado, Esteban
+   Makowski, Marcus R.
+   Saba, Luca
+   Hadamitzky, Martin
+   Kather, Jakob Nikolas
+   Truhn, Daniel
+   Cuocolo, Renato
+   Adams, Lisa C.
+   Bressem, Keno K.
+TI Current applications and challenges in large language models for patient
+   care: a systematic review
+SO COMMUNICATIONS MEDICINE
+VL 5
+IS 1
+AR 26
+DI 10.1038/s43856-024-00717-2
+DT Article
+PD JAN 21 2025
+PY 2025
+AB BackgroundThe introduction of large language models (LLMs) into clinical
+   practice promises to improve patient education and empowerment, thereby
+   personalizing medical care and broadening access to medical knowledge.
+   Despite the popularity of LLMs, there is a significant gap in
+   systematized information on their use in patient care. Therefore, this
+   systematic review aims to synthesize current applications and
+   limitations of LLMs in patient care.MethodsWe systematically searched 5
+   databases for qualitative, quantitative, and mixed methods articles on
+   LLMs in patient care published between 2022 and 2023. From 4349 initial
+   records, 89 studies across 29 medical specialties were included. Quality
+   assessment was performed using the Mixed Methods Appraisal Tool 2018. A
+   data-driven convergent synthesis approach was applied for thematic
+   syntheses of LLM applications and limitations using free line-by-line
+   coding in Dedoose.ResultsWe show that most studies investigate
+   Generative Pre-trained Transformers (GPT)-3.5 (53.2%, n = 66 of 124
+   different LLMs examined) and GPT-4 (26.6%, n = 33/124) in answering
+   medical questions, followed by patient information generation, including
+   medical text summarization or translation, and clinical documentation.
+   Our analysis delineates two primary domains of LLM limitations: design
+   and output. Design limitations include 6 second-order and 12 third-order
+   codes, such as lack of medical domain optimization, data transparency,
+   and accessibility issues, while output limitations include 9
+   second-order and 32 third-order codes, for example, non-reproducibility,
+   non-comprehensiveness, incorrectness, unsafety, and bias.ConclusionsThis
+   review systematically maps LLM applications and limitations in patient
+   care, providing a foundational framework and taxonomy for their
+   implementation and evaluation in healthcare settings.
+ZR 0
+ZA 0
+ZB 0
+Z8 0
+ZS 0
+TC 8
+Z9 8
+DA 2025-01-29
+UT WOS:001402540700001
+PM 39838160
+ER
+
+PT J
+AU Sorin, Vera
+   Kapelushnik, Noa
+   Hecht, Idan
+   Zloto, Ofira
+   Glicksberg, Benjamin S.
+   Bufman, Hila
+   Livne, Adva
+   Barash, Yiftach
+   Nadkarni, Girish N.
+   Klang, Eyal
+TI Integrated visual and text-based analysis of ophthalmology clinical
+   cases using a large language model
+SO SCIENTIFIC REPORTS
+VL 15
+IS 1
+AR 4999
+DI 10.1038/s41598-025-88948-8
+DT Article
+PD FEB 10 2025
+PY 2025
+AB Recent advancements in generative artificial intelligence have enabled
+   analysis of text with visual data, which could have important
+   implications in healthcare. Diagnosis in ophthalmology is often based on
+   a combination of ocular examination, and clinical context. The aim of
+   this study was to evaluate the performance of multimodal GPT-4 (GPT-4 V)
+   in an integrated analysis of ocular images and clinical text. This
+   retrospective study included 40 patients seen in our institution with
+   images of their ocular examinations. Cases were selected by a
+   board-certified ophthalmologist, to represent various pathologies. We
+   provided the model with each patient image, without and then with the
+   clinical context. We also asked two non-ophthalmology physicians to
+   write diagnoses for each image, without and then with the clinical
+   context. Answers for both GPT-4 V and the non-ophthalmologists were
+   evaluated by two board-certified ophthalmologists. Performance
+   accuracies were calculated and compared. GPT-4 V provided the correct
+   diagnosis in 19/40 (47.5%) cases based on images without clinical
+   context, and in 27/40 (67.5%) cases when clinical context was provided.
+   Non-ophthalmologist physicians provided the correct diagnoses in 24/40
+   (60.0%), and 23/40 (57.5%) of cases without clinical context, and in
+   29/40 (72.5%) and 27/40 (67.5%) with clinical context. For all study
+   participants adding context improved accuracy (p = 0.033). GPT-4 V is
+   currently able to simultaneously analyze and integrate visual and
+   textual data, and arrive at accurate clinical diagnoses in the majority
+   of cases. Multimodal large language models like GPT-4 V have significant
+   potential to advance both patient care and research in ophthalmology.
+TC 2
+ZA 0
+ZR 0
+Z8 0
+ZS 0
+ZB 0
+Z9 2
+DA 2025-02-17
+UT WOS:001418722300017
+PM 39930078
+ER
+
+PT J
+AU Maroncelli, Roberto
+   Rizzo, Veronica
+   Pasculli, Marcella
+   Cicciarelli, Federica
+   Macera, Massimo
+   Galati, Francesca
+   Catalano, Carlo
+   Pediconi, Federica
+TI Probing clarity: AI-generated simplified breast imaging reports for
+   enhanced patient comprehension powered by ChatGPT-4o
+SO EUROPEAN RADIOLOGY EXPERIMENTAL
+VL 8
+IS 1
+AR 124
+DI 10.1186/s41747-024-00526-1
+DT Article
+PD OCT 30 2024
+PY 2024
+AB Background To assess the reliability and comprehensibility of breast
+   radiology reports simplified by artificial intelligence using the large
+   language model (LLM) ChatGPT-4o. Methods A radiologist with 20 years'
+   experience selected 21 anonymized breast radiology reports, 7
+   mammography, 7 breast ultrasound, and 7 breast magnetic resonance
+   imaging (MRI), categorized according to breast imaging reporting and
+   data system (BI-RADS). These reports underwent simplification by
+   prompting ChatGPT-4o with "Explain this medical report to a patient
+   using simple language". Five breast radiologists assessed the quality of
+   these simplified reports for factual accuracy, completeness, and
+   potential harm with a 5-point Likert scale from 1 (strongly agree) to 5
+   (strongly disagree). Another breast radiologist evaluated the text
+   comprehension of five non-healthcare personnel readers using a 5-point
+   Likert scale from 1 (excellent) to 5 (poor). Descriptive statistics,
+   Cronbach's alpha, and the Kruskal-Wallis test were used. Results
+   Mammography, ultrasound, and MRI showed high factual accuracy (median 2)
+   and completeness (median 2) across radiologists, with low potential harm
+   scores (median 5); no significant group differences (p >= 0.780), and
+   high internal consistency (alpha > 0.80) were observed. Non-healthcare
+   readers showed high comprehension (median 2 for mammography and MRI and
+   1 for ultrasound); no significant group differences across modalities (p
+   = 0.368), and high internal consistency (alpha > 0.85) were observed.
+   BI-RADS 0, 1, and 2 reports were accurately explained, while BI-RADS 3-6
+   reports were challenging. Conclusion The model demonstrated reliability
+   and clarity, offering promise for patients with diverse backgrounds.
+   LLMs like ChatGPT-4o could simplify breast radiology reports, aid in
+   communication, and enhance patient care. Relevance statement Simplified
+   breast radiology reports generated by ChatGPT-4o show potential in
+   enhancing communication with patients, improving comprehension across
+   varying educational backgrounds, and contributing to patient-centered
+   care in radiology practice. Key Points AI simplifies complex breast
+   imaging reports, enhancing patient understanding. Simplified reports
+   from AI maintain accuracy, improving patient comprehension
+   significantly. Implementing AI reports enhances patient engagement and
+   communication in breast imaging.
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+TC 3
+ZA 0
+Z9 3
+DA 2024-11-07
+UT WOS:001346069300001
+PM 39477904
+ER
+
+PT J
+AU Yang, Yifan
+   Liu, Xiaoyu
+   Jin, Qiao
+   Huang, Furong
+   Lu, Zhiyong
+TI Unmasking and quantifying racial bias of large language models in
+   medical report generation
+SO COMMUNICATIONS MEDICINE
+VL 4
+IS 1
+AR 176
+DI 10.1038/s43856-024-00601-z
+DT Article
+PD SEP 10 2024
+PY 2024
+AB BackgroundLarge language models like GPT-3.5-turbo and GPT-4 hold
+   promise for healthcare professionals, but they may inadvertently inherit
+   biases during their training, potentially affecting their utility in
+   medical applications. Despite few attempts in the past, the precise
+   impact and extent of these biases remain uncertain.MethodsWe use LLMs to
+   generate responses that predict hospitalization, cost and mortality
+   based on real patient cases. We manually examine the generated responses
+   to identify biases.ResultsWe find that these models tend to project
+   higher costs and longer hospitalizations for white populations and
+   exhibit optimistic views in challenging medical scenarios with much
+   higher survival rates. These biases, which mirror real-world healthcare
+   disparities, are evident in the generation of patient backgrounds, the
+   association of specific diseases with certain racial and ethnic groups,
+   and disparities in treatment recommendations, etc.ConclusionsOur
+   findings underscore the critical need for future research to address and
+   mitigate biases in language models, especially in critical healthcare
+   applications, to ensure fair and accurate outcomes for all patients.
+   Large language models (LLMs) such as GPT-3.5-turbo and GPT-4 are
+   advanced computer programs that can understand and generate text. They
+   have the potential to help doctors and other healthcare professionals to
+   improve patient care. We looked at how well these models predicted the
+   cost of healthcare for patients, and the chances of them being
+   hospitalized or dying. We found that these models often projected higher
+   costs and longer hospital stays for white people than people from other
+   racial or ethnicity groups. These biases mirror the disparities in
+   real-world healthcare. Our findings show the need for more research to
+   ensure that inappropriate biases are removed from LLMs to ensure fair
+   and accurate healthcare predictions of possible outcomes for all
+   patients. This will help ensure that these tools can be used effectively
+   to improve healthcare for everyone.
+   Yang et al. investigate racial biases in GPT-3.5-turbo and GPT-4
+   generated predictions for hospitalization, cost, and mortality obtained
+   from real patient cases. They find tendencies to project differing costs
+   and hospitalizations depending on race, highlighting the need for
+   further research to mitigate racial biases and enable fair and accurate
+   healthcare outcomes.
+TC 9
+Z8 0
+ZS 0
+ZR 0
+ZA 0
+ZB 0
+Z9 9
+DA 2024-09-17
+UT WOS:001309361700001
+PM 39256622
+ER
+
+PT C
+AU Makram, Manal
+   Mohammed, Ammar
+BE AbdelRaouf, A
+   Shorim, N
+   Hatem, S
+   Kandil, Y
+   Bahaa-Eldin, A
+TI AI Applications in Medical Reporting and Diagnosis
+SO 2024 INTERNATIONAL MOBILE, INTELLIGENT, AND UBIQUITOUS COMPUTING
+   CONFERENCE, MIUCC 2024
+BP 185
+EP 192
+DI 10.1109/MIUCC62295.2024.10783552
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB The integration of artificial intelligence (AI) in healthcare is
+   revolutionizing diagnosis and patient care by improving clinical
+   documentation and the management of electronic health records that
+   depend on medical image interpretation, increasing accuracy, and
+   reducing time. Egypt ranks first in liver disease and second in liver
+   cancer mortality worldwide in 2020. Large language models, a subset of
+   AI techniques, can assist in disease diagnosis. LLM models with
+   multimodal capabilities can classify and describe patient scan images
+   and extract information from clinical notes. These models can extract
+   vital diagnoses with the support of prompt engineering, as one of these
+   models can answer questions, summarize information, and translate
+   complex medical terminology into plain language, enabling patients to
+   understand their medical reports and diagnoses. There are two primary
+   approaches to achieving this. First, fine-tuning can adapt the model to
+   medical data, which can be resource-intensive. The second approach,
+   pre-trained LLM models can be utilized to leverage pre-trained models to
+   perform the necessary tasks, focusing on effectively using prompts to
+   guide the model for precise and relevant outputs. This study highlights
+   the role of generative AI models by focusing on prompt engineering, and
+   how carefully crafting prompts can enhance the effectiveness of LLM
+   models in medical applications with high accuracy. It demonstrates this
+   through experiments using pre-trained models based on semantic
+   similarity with GPT-4o and BioGPT. Implementing a zero-shot model for
+   liver tumor classification is one of the prompt engineering techniques.
+   The performance metrics achieved were impressive, accuracy, precision,
+   recall, and F1-scores are 88, 81, 88, and 83 percent, respectively.
+CT 4th International Mobile, Intelligent, and Ubiquitous Computing
+   Conference
+CY NOV 13-14, 2024
+CL Cairo, EGYPT
+SP Misr International University
+ZS 0
+Z8 0
+ZB 0
+TC 0
+ZR 0
+ZA 0
+Z9 0
+DA 2025-03-07
+UT WOS:001416363600027
+ER
+
+PT J
+AU Edwards, Christopher J
+   Erstad, Brian L
+   Ng, Vivienne
+TI The role of artificial intelligence in emergency medicine pharmacy
+   practice.
+SO American journal of health-system pharmacy : AJHP : official journal of
+   the American Society of Health-System Pharmacists
+DI 10.1093/ajhp/zxaf038
+DT Journal Article
+PD 2025-Feb-28
+PY 2025
+AB DISCLAIMER: In an effort to expedite the publication of articles, AJHP
+   is posting manuscripts online as soon as possible after acceptance.
+   Accepted manuscripts have been peer-reviewed and copyedited, but are
+   posted online before technical formatting and author proofing. These
+   manuscripts are not the final version of record and will be replaced
+   with the final article (formatted per AJHP style and proofed by the
+   authors) at a later time.
+   PURPOSE: This primer aims to serve as a foundational resource on
+   artificial intelligence (AI) for pharmacists practicing in the emergency
+   department (ED).
+   SUMMARY: Artificial intelligence (AI) is increasingly recognized for its
+   potential to transform healthcare, including emergency medicine (EM) and
+   pharmacy practice. AI applications in EM include diagnostic evaluation,
+   risk stratification, resource optimization, and therapeutic
+   decision-making. AI's role in improving triage, diagnostics, and
+   resource utilization in the emergency setting is discussed along with
+   its application in the medication-use process, from prescribing to
+   monitoring. Despite the promise of AI, significant barriers such as
+   factual inaccuracies, ethical concerns, and data transparency prevent
+   the widespread clinical adoption of AI tools. Challenges such as racial
+   bias, data privacy, model transparency, and the phenomenon of
+   hallucinations in large language model outputs are highlighted as
+   critical considerations. AI's future success in EM will depend on
+   responsible integration, guided by clinicians including pharmacists, and
+   a careful consideration of ethical issues and patient-specific values.
+   CONCLUSION: Pharmacists practicing in the ED should be familiar with AI
+   tools and should understand the importance of their role in the
+   development, implementation, and oversight of these tools to ensure
+   safe, effective, and equitable patient care.
+ZB 0
+ZA 0
+ZS 0
+Z8 0
+ZR 0
+TC 1
+Z9 1
+DA 2025-03-07
+UT MEDLINE:40036668
+PM 40036668
+ER
+
+PT J
+AU Liu, Xiaona
+   Wang, Qing
+   Zhou, Minghao
+   Wang, Yanfei
+   Wang, Xuefeng
+   Zhou, Xiaobo
+   Song, Qianqian
+TI DrugFormer: Graph-Enhanced Language Model to Predict Drug Sensitivity
+SO ADVANCED SCIENCE
+VL 11
+IS 40
+DI 10.1002/advs.202405861
+EA AUG 2024
+DT Article
+PD OCT 2024
+PY 2024
+AB Drug resistance poses a crucial challenge in healthcare, with response
+   rates to chemotherapy and targeted therapy remaining low. Individual
+   patient's resistance is exacerbated by the intricate heterogeneity of
+   tumor cells, presenting significant obstacles to effective treatment. To
+   address this challenge, DrugFormer, a novel graph-augmented large
+   language model designed to predict drug resistance at single-cell level
+   is proposed. DrugFormer integrates both serialized gene tokens and
+   gene-based knowledge graphs for the accurate predictions of drug
+   response. After training on comprehensive single-cell data with drug
+   response information, DrugFormer model presents outperformance, with
+   higher F1, precision, and recall in predicting drug response. Based on
+   the scRNA-seq data from refractory multiple myeloma (MM) and acute
+   myeloid leukemia (AML) patients, DrugFormer demonstrates high efficacy
+   in identifying resistant cells and uncovering underlying molecular
+   mechanisms. Through pseudotime trajectory analysisunique drug-resistant
+   cellular states associated with poor patient outcomes are revealed.
+   Furthermore, DrugFormer identifies potential therapeutic targets, such
+   as COX8A, for overcoming drug resistance across different cancer types.
+   In conclusion, DrugFormer represents a significant advancement in the
+   field of drug resistance prediction, offering a powerful tool for
+   unraveling the heterogeneity of cellular response to drugs and guiding
+   personalized treatment strategies.
+   DrugFormer, a novel graph-augmented language model, addresses the
+   critical challenge of drug resistance in cancer treatment. By
+   integrating serialized gene tokens and a gene-based knowledge graph, it
+   provides accurate drug response predictions at the single-cell level.
+   DrugFormer demonstrates superior performance and identifies resistant
+   cells with potential therapeutic targets, offering a promising solution
+   for personalized cancer therapy. image
+Z8 0
+ZA 0
+ZS 0
+ZB 1
+ZR 0
+TC 9
+Z9 9
+DA 2024-09-02
+UT WOS:001300001500001
+PM 39206872
+ER
+
+PT J
+AU Ford, Douglas William
+   Tisoskey, Scott Patrick
+   Locantore-Ford, Patricia A.
+TI Building Trust: Developing an Ethical Communication Framework for
+   Navigating Artificial Intelligence Discussions and Addressing Potential
+   Patient Concerns
+SO BLOOD
+VL 142
+DI 10.1182/blood-2023-190943
+EA NOV 2023
+SU 1
+DT Meeting Abstract
+PD NOV 2 2023
+PY 2023
+CT 65th Annual Meeting of the American-Society-of-Hematology (ASH)
+CY DEC 09-12, 2023
+CL San Diego, CA
+SP Amer Soc Hematol
+TC 0
+Z8 0
+ZR 0
+ZS 0
+ZA 0
+ZB 0
+Z9 0
+DA 2024-03-04
+UT WOS:001159900807302
+ER
+
+PT J
+AU Kim, Sujin
+   Han, Dong Y.
+   Bae, Jihye
+TI Transforming Alzheimer's Digital Caregiving through Large Language
+   Models
+SO CURRENT ALZHEIMER RESEARCH
+VL 21
+IS 7
+BP 503
+EP 516
+DI 10.2174/0115672050301740241118044604
+DT Article
+PD 2024
+PY 2024
+AB Introduction/objective: Alzheimer's Disease and Related Dementias
+   (AD/ADRD) present significant caregiving challenges, with increasing
+   burdens on informal caregivers. This study examines the potential of
+   AI-driven Large Language Models (LLMs) in developing digital caregiving
+   strategies for AD/ADRD. The objectives include analyzing existing
+   caregiving education materials (CEMs) and mobile application
+   descriptions (MADs) and aligning key caregiving tasks with digital
+   functions across different stages of disease progression. Methods: We
+   analyzed 38 CEMs from the National Library of Medicine's MedlinePlus,
+   along with associated hyperlinked web resources, and 57 MADs focused on
+   AD digital caregiving. Using ChatGPT 3.5, essential caregiving tasks
+   were extracted and matched with digital functionalities suitable for
+   each stage of AD progression, while also highlighting digital literacy
+   requirements for caregivers. Results: The analysis categorizes AD
+   caregiving into 4 stages-Pre-Clinical, Mild, Moderate, and
+   Severe-identifying key tasks, such as behavior monitoring, daily
+   assistance, direct supervision, and ensuring a safe environment. These
+   tasks were supported by digital aids, including memory- enhancing apps,
+   Global Positioning System (GPS) tracking, voice-controlled devices, and
+   advanced GPS tracking for comprehensive care. Additionally, 6 essential
+   digital literacy skills for AD/ADRD caregiving were identified: basic
+   digital skills, communication, information management, safety and
+   privacy, healthcare knowledge, and caregiver coordination, highlighting
+   the need for tailored training. Conclusion: The findings advocate for an
+   LLM-driven strategy in designing digital caregiving interventions,
+   particularly emphasizing a novel paradigm in AD/ADRD support, offering
+   adaptive assistance that evolves with caregivers' needs, thereby
+   enhancing their shared decision-making and patient care capabilities.
+TC 1
+Z8 0
+ZA 0
+ZB 0
+ZR 0
+ZS 0
+Z9 1
+DA 2025-01-23
+UT WOS:001398367400005
+PM 39592896
+ER
+
+PT J
+AU Carl, Nicolas
+   Haggenmueller, Sarah
+   Wies, Christoph
+   Nguyen, Lisa
+   Winterstein, Jana Theres
+   Hetz, Martin Joachim
+   Mangold, Maurin Helen
+   Hartung, Friedrich Otto
+   Gruene, Britta
+   Holland-Letz, Tim
+   Michel, Maurice Stephan
+   Brinker, Titus Josef
+   Wessels, Frederik
+TI Evaluating interactions of patients with large language models for
+   medical information
+SO BJU INTERNATIONAL
+VL 135
+IS 6
+BP 1010
+EP 1017
+DI 10.1111/bju.16676
+EA FEB 2025
+DT Article
+PD JUN 2025
+PY 2025
+AB ObjectivesTo explore the interaction of real-world patients with a
+   chatbot in a clinical setting, investigating key aspects of medical
+   information provided by large language models (LLMs).Patients and
+   methodsThe study enrolled 300 patients seeking urological counselling
+   between February and July 2024. First, participants voluntarily
+   conversed with a Generative Pre-trained Transformer 4 (GPT-4) powered
+   chatbot to ask questions related to their medical situation. In the
+   following survey, patients rated the perceived utility, completeness,
+   and understandability of the information provided during the simulated
+   conversation as well as user-friendliness. Finally, patients were asked
+   which, in their experience, best answered their questions: LLMs,
+   urologists, or search engines.ResultsA total of 292 patients completed
+   the study. The majority of patients perceived the chatbot as providing
+   useful, complete, and understandable information, as well as being
+   user-friendly. However, the ability of human urologists to answer
+   medical questions in an understandable way was rated higher than of
+   LLMs. Interestingly, 53% of participants rated the question-answering
+   ability of LLMs higher than search engines. Age was not associated with
+   preferences. Limitations include social desirability and sampling
+   biases.DiscussionThis study highlights the potential of LLMs to enhance
+   patient education and communication in clinical settings, with patients
+   valuing their user-friendliness and comprehensiveness for medical
+   information. By addressing preliminary questions, LLMs could potentially
+   relieve time constraints on healthcare providers, enabling medical
+   personnel to focus on complex inquiries and patient care.
+Z8 0
+ZR 0
+TC 0
+ZB 0
+ZS 0
+ZA 0
+Z9 0
+DA 2025-02-23
+UT WOS:001424498800001
+PM 39967059
+ER
+
+PT J
+AU Swisher, Christopher B.
+   Rabinowitz, Loren
+   Feuerstein, Joseph D.
+TI EVALUATING THE UTILITY OF CHATGPT OVER TRADITIONAL SEARCH ENGINE QUERY
+   FOR SAFETY OF INFLAMMATORY BOWEL DISEASE THERAPEUTICS IN PREGNANCY AND
+   BREASTFEEDING
+SO GASTROENTEROLOGY
+VL 166
+IS 5
+MA Su1990
+BP S893
+EP S894
+SU S
+DT Meeting Abstract
+PD MAY 2024
+PY 2024
+CT Digestive Disease Week (DDW)
+CY MAY 18-21, 2024
+CL Washington, DC
+ZS 0
+TC 0
+Z8 0
+ZR 0
+ZB 0
+ZA 0
+Z9 0
+DA 2024-10-30
+UT WOS:001282837703491
+ER
+
+PT J
+AU Baughman, Derek J.
+   Qassem, Layth
+   Sulieman, Lina
+   Matheny, Michael E.
+   Fabbri, Daniel
+   Tindle, Hilary A.
+   Goodman, Aubrey Cole
+   Nelson, Scott D.
+   Wright, Adam
+TI Real-time automated billing for tobacco treatment: developing and
+   validating a scalable machine learning approach
+SO JAMIA OPEN
+VL 8
+IS 3
+AR ooaf039
+DI 10.1093/jamiaopen/ooaf039
+DT Article
+PD JUN 2025
+PY 2025
+AB Objectives To develop CigStopper, a real-time, automated medical billing
+   prototype designed to identify eligible tobacco cessation care codes,
+   thereby reducing administrative workload while improving billing
+   accuracy.Materials and Methods ChatGPT prompt engineering generated a
+   synthetic corpus of physician-style clinical notes categorized for CPT
+   codes 99406/99407. Practicing clinicians annotated the dataset to train
+   multiple machine learning (ML) models focused on accurately predicting
+   billing code eligibility.Results Decision tree and random forest models
+   performed best. Mean performance across all models: PRC AUC = 0.857, F1
+   score = 0.835. Generalizability testing on deidentified notes confirmed
+   that tree-based models performed best.Discussion CigStopper shows
+   promise for streamlining manual billing inefficiencies that hinder
+   tobacco cessation care. ML methods lay the groundwork for clinical
+   implementation based on good performance using synthetic data.
+   Automating high-volume, low-value tasks simplify complexities in a
+   multi-payer system and promote financial sustainability for healthcare
+   practices.Conclusion CigStopper validates foundational methods for
+   automating the discernment of appropriate billing codes for eligible
+   smoking cessation counseling care.
+   CigStopper is an AI-powered tool created to simplify medical billing for
+   clinical care that helps people quit smoking. Using synthetic clinical
+   notes developed with a large language model, CigStopper reviews doctors'
+   notes and automatically identifies and applies the correct billing codes
+   for tobacco cessation care. This is crucial because accurate billing
+   ensures healthcare providers are recognized and paid for offering these
+   services. Automating this process can minimize the time doctors and
+   staff spend on paperwork, and ensure proper reimbursment for clinical
+   efforts. A proof-of-concept test was conducted by analyzing synthetic
+   medical notes with CigStopper. The objective was to differentiate
+   between notes eligible for billing and those that were not. To achieve
+   this, artificial intelligence (AI) models were used to validate
+   industry-standard performance measures on machine learning, which
+   revealed good performance. The success of the CigStopper project
+   demonstrates the potential of AI to reduce the administrative burden on
+   healthcare providers, allowing them to focus more on patient care rather
+   than billing logistics. It also highlights the tool's ability to
+   navigate the complexities of the US healthcare payment system, making it
+   easier for practices to sustain their services financially. Thus,
+   CigStopper is a modern solution for an old problem, making smoking
+   cessation care more efficient and less burdensome for clinicians, while
+   also recovering revenue for practices to sustain valuable preventative
+   care for patients.
+TC 0
+Z8 0
+ZS 0
+ZA 0
+ZB 0
+ZR 0
+Z9 0
+DA 2025-06-15
+UT WOS:001506633200001
+PM 40510807
+ER
+
+PT J
+AU Kakwan, Haania
+   Rousseau, Justin F.
+   Moura, Lidia M.
+   Sheikh, Irfan S.
+TI Ambient technology in epilepsy clinical practice
+SO EPILEPSIA OPEN
+DI 10.1002/epi4.70066
+EA MAY 2025
+DT Article; Early Access
+PY 2025
+AB The utilization of large language model-based artificial intelligence
+   (AI) in the field of neurology has gained attention as a viable tool to
+   enhance and assist providers with processes ranging from scheduling
+   patients to providing preliminary interpretations of testing results,
+   pending orders, and documenting encounters. Epileptologists could
+   benefit from these technologies by utilizing ambient AI models, recent
+   applications of which offer promising solutions for automating clinical
+   documentation. While the potential benefits of using these tools are
+   significant and include reduced physician burnout and improved patient
+   experience, the deployment of these technologies also raises critical
+   concerns, such as potential biases in model training and the risk of
+   errors being inserted into the electronic health record (EHR), among
+   other yet to be realized unintended consequences. The accuracy of
+   clinical documentation is essential in epilepsy care, where detailed
+   seizure histories and accurate medication records are critical to
+   patient safety. Another concern may be paradoxically increased physician
+   burnout as increased expectations of providers are created. This article
+   examines the challenges, risks, and practical considerations in applying
+   documentation tools that utilize ambient intelligence (AmI) for
+   outpatient epilepsy clinic encounters, highlighting key examples from
+   clinical practice and underscoring the importance of human oversight.
+   Although AmI models may enhance clinical documentation efficiency as
+   measured by time to close a note and reduced rates of burnout in
+   providers, their role in clinical environments must be carefully
+   regulated, with further studies needed to validate this claim, provide
+   ongoing monitoring of performance, and establish safeguards for patient
+   safety. Collaborative efforts among clinicians, clinical informatics
+   professionals, AI developers, and regulatory bodies are pressingly
+   needed to ensure the safe deployment of AmI into clinical care
+   settings.Plain Language SummaryAmbient artificial intelligence
+   technology takes advantage of sensors embedded in the environment to
+   automate tasks without the need for human input. It has the potential to
+   streamline numerous tasks within outpatient epilepsy clinics and reduce
+   the workload of providers as well as improve patient care. This
+   technology has already been brought to the market as a tool for clinical
+   documentation. The current challenges and limitations associated with
+   its implementation require careful human oversight, which we show with
+   examples. Further research, regulations, and ongoing monitoring are
+   necessary to ensure ambient artificial intelligence benefits both
+   patients and healthcare providers while minimizing risks.
+ZB 0
+Z8 0
+ZS 0
+TC 0
+ZR 0
+ZA 0
+Z9 0
+DA 2025-05-25
+UT WOS:001492540400001
+PM 40402540
+ER
+
+PT J
+AU Fonseca, Angelo
+   Ferreira, Axel
+   Ribeiro, Luis
+   Moreira, Sandra
+   Duque, Cristina
+TI Embracing the future-is artificial intelligence already better? A
+   comparative study of artificial intelligence performance in diagnostic
+   accuracy and decision-making
+SO EUROPEAN JOURNAL OF NEUROLOGY
+VL 31
+IS 4
+DI 10.1111/ene.16195
+EA JAN 2024
+DT Article
+PD APR 2024
+PY 2024
+AB Background and purposeThe integration of artificial intelligence (AI) in
+   healthcare has the potential to revolutionize patient care and clinical
+   decision-making. This study aimed to explore the reliability of large
+   language models in neurology by comparing the performance of an AI
+   chatbot with neurologists in diagnostic accuracy and
+   decision-making.MethodsA cross-sectional observational study was
+   conducted. A pool of clinical cases from the American Academy of
+   Neurology's Question of the Day application was used as the basis for
+   the study. The AI chatbot used was ChatGPT, based on GPT-3.5. The
+   results were then compared to neurology peers who also answered the
+   questions-a mean of 1500 neurologists/neurology residents.ResultsThe
+   study included 188 questions across 22 different categories. The AI
+   chatbot demonstrated a mean success rate of 71.3% in providing correct
+   answers, with varying levels of proficiency across different neurology
+   categories. Compared to neurology peers, the AI chatbot performed at a
+   similar level, with a mean success rate of 69.2% amongst peers.
+   Additionally, the AI chatbot achieved a correct diagnosis in 85.0% of
+   cases and it provided an adequate justification for its correct
+   responses in 96.1%.ConclusionsThe study highlights the potential of AI,
+   particularly large language models, in assisting with clinical reasoning
+   and decision-making in neurology and emphasizes the importance of AI as
+   a complementary tool to human expertise. Future advancements and
+   refinements are needed to enhance the AI chatbot's performance and
+   broaden its application across various medical specialties.
+ZA 0
+ZS 0
+Z8 0
+ZB 0
+ZR 0
+TC 7
+Z9 7
+DA 2024-01-24
+UT WOS:001144093900001
+PM 38235841
+ER
+
+PT J
+AU Giuffre, Mauro
+   Kresevic, Simone
+   Pugliese, Nicola
+   You, Kisung
+   Shung, Dennis L.
+TI Optimizing large language models in digestive disease: strategies and
+   challenges to improve clinical outcomes
+SO LIVER INTERNATIONAL
+VL 44
+IS 9
+BP 2114
+EP 2124
+DI 10.1111/liv.15974
+EA MAY 2024
+DT Review
+PD SEP 2024
+PY 2024
+AB Large Language Models (LLMs) are transformer-based neural networks with
+   billions of parameters trained on very large text corpora from diverse
+   sources. LLMs have the potential to improve healthcare due to their
+   capability to parse complex concepts and generate context-based
+   responses. The interest in LLMs has not spared digestive disease
+   academics, who have mainly investigated foundational LLM accuracy, which
+   ranges from 25% to 90% and is influenced by the lack of standardized
+   rules to report methodologies and results for LLM-oriented research. In
+   addition, a critical issue is the absence of a universally accepted
+   definition of accuracy, varying from binary to scalar interpretations,
+   often tied to grader expertise without reference to clinical guidelines.
+   We address strategies and challenges to increase accuracy. In
+   particular, LLMs can be infused with domain knowledge using Retrieval
+   Augmented Generation (RAG) or Supervised Fine-Tuning (SFT) with
+   reinforcement learning from human feedback (RLHF). RAG faces challenges
+   with in-context window limits and accurate information retrieval from
+   the provided context. SFT, a deeper adaptation method, is
+   computationally demanding and requires specialized knowledge. LLMs may
+   increase patient quality of care across the field of digestive diseases,
+   where physicians are often engaged in screening, treatment and
+   surveillance for a broad range of pathologies for which in-context
+   learning or SFT with RLHF could improve clinical decision-making and
+   patient outcomes. However, despite their potential, the safe deployment
+   of LLMs in healthcare still needs to overcome hurdles in accuracy,
+   suggesting a need for strategies that integrate human feedback with
+   advanced model training.
+ZR 0
+TC 16
+ZA 0
+Z8 2
+ZS 0
+ZB 3
+Z9 16
+DA 2024-06-06
+UT WOS:001235783300001
+PM 38819632
+ER
+
+PT J
+AU Horvathne, Konya Erzsebet
+   Virag, Andrea
+   Lajko, Patricia
+   Szucs, adam Attila
+   Markovics, Dorina
+   Gado, Klara
+   Balogh, Zoltan
+TI Artificial intelligence in health education: blessing or curse?
+SO ORVOSI HETILAP
+VL 165
+IS 52
+BP 2061
+EP 2064
+DI 10.1556/650.2024.33190
+DT Article
+PD DEC 29 2024
+PY 2024
+AB Introduction: ChatGPT is a large language model developed by OpenAI that
+   has brought significant advances in natural language processing. With
+   GPT-4.0, the model is capable of human-level conversations, which is
+   particularly useful in education and research. In healthcare education,
+   students can practice patient admission in virtual situations, receiving
+   real-time feedback. It also allows the personalisation of educational
+   materials, tailored to the individual needs of students.
+   Objective: The aim of this study is to demonstrate the potentials of
+   ChatGPT, i.e., the application of artificial intelligence in health
+   education. ChatGPT allows the creation of virtual patients and
+   simulations, through which students can practice patient admission and
+   communication with patients of different languages in a realistic
+   environment. Method: ChatGPT was used to create various
+   simulations in health education. During the simulations, students
+   received feedback in real time, and we were able to adapt the learning
+   materials to the individual needs of the students. With ChatGPT,
+   students practiced in situations where they faced different language
+   challenges. During the simulations, we fine-tuned the artificial
+   intelligence's responses to make them more realistic and integrated
+   empathy into the system. Results: Throughout the research,
+   educational simulations were created using ChatGPT that improved
+   students' skills and increased their confidence. Students were able to
+   complete nursing documentation independently without interacting with
+   real patients. Discussion: The use of ChatGPT in education offers
+   significant benefits, particularly in bedside teaching. Virtual
+   simulations allow students to practice their skills in a safe and
+   controlled environment, which increases their confidence and reduces
+   anxiety. The use of information and communication technology tools
+   captures students' attention and interest. Conclusion: The
+   introduction of ChatGPT into health education allows the preparation and
+   presentation of varied practical situations, improving the quality of
+   patient care. Further research is currently underway, including the
+   possibility of using ChatGPT in speech therapy and patient education. It
+   is extremely important that the senior instructors and teachers
+   participating in the training are able to relate to the younger
+   generation already living in the digital world.
+TC 0
+ZR 0
+ZB 0
+ZA 0
+Z8 0
+ZS 0
+Z9 0
+DA 2025-03-01
+UT WOS:001428871300001
+PM 39733385
+ER
+
+EF

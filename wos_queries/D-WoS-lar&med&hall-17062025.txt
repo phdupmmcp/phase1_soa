@@ -1,0 +1,1058 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Rabbani, Naveed
+   Brown, Conner
+   Bedgood, Michael
+   Goldstein, Rachel L.
+   Carlson, Jennifer L.
+   Pageler, Natalie M.
+   Morse, Keith E.
+TI Evaluation of a Large Language Model to Identify Confidential Content in
+   Adolescent Encounter Notes
+SO JAMA PEDIATRICS
+VL 178
+IS 3
+BP 308
+EP 310
+DI 10.1001/jamapediatrics.2023.6032
+EA MAR 2024
+DT Letter
+PD MAR 2024
+PY 2024
+RI Rabbani, Naveed/JTS-4602-2023; Brown, Conner/; Morse, Keith/
+OI Brown, Conner/0009-0000-1353-1132; Morse, Keith/0000-0002-8307-1642
+ZB 0
+ZS 0
+TC 1
+ZR 0
+Z8 0
+ZA 0
+Z9 1
+SN 2168-6203
+EI 2168-6211
+DA 2024-02-06
+UT WOS:001151727100002
+PM 38252434
+ER
+
+PT J
+AU Kim, Dong Wook
+   Park, Cheol-Young
+   Shin, Jeong-Hun
+   Lee, Hyunjoo Jenny
+TI The Role of Artificial Intelligence in Obesity Medicine
+SO ENDOCRINOLOGY AND METABOLISM CLINICS OF NORTH AMERICA
+VL 54
+IS 1
+BP 207
+EP 215
+DI 10.1016/j.ecl.2024.10.008
+EA FEB 2025
+DT Article
+PD MAR 2025
+PY 2025
+RI Kim, Dong Wook/JGM-1340-2023; Shin, Jeong/O-1273-2019
+ZR 0
+ZA 0
+Z8 0
+TC 2
+ZB 1
+ZS 0
+Z9 2
+SN 0889-8529
+EI 1558-4410
+DA 2025-02-23
+UT WOS:001424049000001
+PM 39919876
+ER
+
+PT J
+AU Kang, Bongsu
+   LeeSangYeon
+   Chang-EopKim
+AU 배효진
+TI Current Status and Direction of Generative Large Language Model
+   Applications in Medicine - Focusing on East Asian Medicine -
+Z1 생성형 거대언어모델의 의학 적용 현황과 방향 - 동아시아 의학을 중심으로 -
+SO Journal of Physiology & Pathology in Korean Medicine
+S1 동의생리병리학회지
+VL 38
+IS 2
+BP 49
+EP 58
+DT research-article
+PD 2024
+PY 2024
+ZR 0
+ZB 0
+Z8 0
+TC 1
+ZS 0
+ZA 0
+Z9 1
+SN 1738-7698
+DA 2024-05-25
+UT KJD:ART003073519
+ER
+
+PT J
+AU Chu, Candice P.
+TI ChatGPT in veterinary medicine: a practical guidance of generative
+   artificial intelligence in clinics, education, and research
+SO FRONTIERS IN VETERINARY SCIENCE
+VL 11
+AR 1395934
+DI 10.3389/fvets.2024.1395934
+DT Review
+PD JUN 7 2024
+PY 2024
+RI Chu, Candice/AFU-3347-2022
+TC 5
+ZA 0
+ZS 0
+ZR 0
+ZB 0
+Z8 0
+Z9 5
+EI 2297-1769
+DA 2024-06-30
+UT WOS:001251331900001
+PM 38911678
+ER
+
+PT J
+AU Zhuang, Yi
+   Yu, Lingkai
+   Jiang, Nan
+   Ge, Yujia
+TI TCM-KLLaMA: Intelligent generation model for Traditional Chinese
+   Medicine Prescriptions based on knowledge graph and large language
+   model.
+SO Computers in biology and medicine
+VL 189
+BP 109887
+EP 109887
+DI 10.1016/j.compbiomed.2025.109887
+DT Journal Article
+PD 2025-May
+PY 2025
+ZR 0
+Z8 0
+ZB 0
+TC 0
+ZS 0
+ZA 0
+Z9 0
+EI 1879-0534
+DA 2025-03-11
+UT MEDLINE:40056842
+PM 40056842
+ER
+
+PT J
+AU Cheng, Jerome
+TI Applications of Large Language Models in Pathology
+SO BIOENGINEERING-BASEL
+VL 11
+IS 4
+AR 342
+DI 10.3390/bioengineering11040342
+DT Review
+PD APR 2024
+PY 2024
+OI Cheng, Jerome/0000-0001-8949-7006
+TC 9
+ZB 4
+ZR 0
+ZA 0
+ZS 0
+Z8 0
+Z9 9
+EI 2306-5354
+DA 2024-05-10
+UT WOS:001210721200001
+PM 38671764
+ER
+
+PT J
+AU Tran, Hao
+   Joseph, Viren
+   Al-Falahi, Zaidon
+   Dharmadmajan, Anoop
+   Shaw, Elizabeth
+   Xu, Aaron
+   Akrawi, Daniel
+   Juergens, Craig
+   French, Bruce
+   Wilson, Michael
+   Otton, James
+   Scalia, Greg
+   Badie, Tamer Naguib
+   Kay, Sharon
+   Guo, Yi
+   Tran, Tu Tak
+   Chang, Anthony
+   Lo, Sidney
+TI Large Language Model based multi-agent Transcatheter Aortic Valve
+   Implantation team to augment multidisciplinary meetings - proof of
+   concept.
+SO CIRCULATION
+VL 150
+MA 4138722
+DI 10.1161/circ.150.suppl_1.4138722
+SU 1
+DT Meeting Abstract
+PD NOV 12 2024
+PY 2024
+RI Juergens, Craig/R-2919-2019; Wilson, Michael/D-2085-2009; Otton, James/ABH-1606-2022; Juergens, Craig/
+OI Juergens, Craig/0000-0002-5935-8619
+ZS 0
+Z8 0
+ZB 0
+ZR 0
+ZA 0
+TC 0
+Z9 0
+SN 0009-7322
+EI 1524-4539
+DA 2025-02-10
+UT WOS:001398742702398
+ER
+
+PT J
+AU Chang, Yin-Hsi
+   Ong, Jasmine Chiat Ling
+   William, Wasswa
+   Butte, Atul J.
+   Shah, Nigam H.
+   Chew, Lita Sui Tjien
+   Liu, Nan
+   Doshi-Velez, Finale
+   Lu, Wei
+   Savulescu, Julian
+   Ting, Daniel
+TI Large Language Models in Medicine: Addressing Ethical Challenges
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+RI Liu, Nan/HCS-2632-2022; Butte, Atul/ACV-6666-2022
+Z8 0
+ZS 0
+ZA 0
+ZR 0
+TC 0
+ZB 0
+Z9 0
+SN 0146-0404
+EI 1552-5783
+DA 2024-12-01
+UT WOS:001312227701059
+ER
+
+PT J
+AU Volkmer, Sebastian
+   Meyer-Lindenberg, Andreas
+   Schwarz, Emanuel
+TI Large language models in psychiatry: Opportunities and challenges
+SO PSYCHIATRY RESEARCH
+VL 339
+AR 116026
+DI 10.1016/j.psychres.2024.116026
+EA JUN 2024
+DT Article
+PD SEP 2024
+PY 2024
+RI Meyer-Lindenberg, Andreas/H-1076-2011
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+TC 14
+ZR 0
+Z9 14
+SN 0165-1781
+EI 1872-7123
+DA 2024-07-12
+UT WOS:001259580300001
+PM 38909412
+ER
+
+PT J
+AU Patil, Advait
+   Serrato, Paul
+   Chisvo, Nathan
+   Arnaout, Omar
+   See, Pokmeng Alfred
+   Huang, Kevin T.
+TI Large language models in neurosurgery: a systematic review and
+   meta-analysis
+SO ACTA NEUROCHIRURGICA
+VL 166
+IS 1
+AR 475
+DI 10.1007/s00701-024-06372-9
+DT Review
+PD NOV 23 2024
+PY 2024
+OI , Advait Patil/0009-0003-8481-1432
+Z8 0
+ZS 0
+ZB 1
+TC 4
+ZR 0
+ZA 0
+Z9 4
+SN 0001-6268
+EI 0942-0940
+DA 2024-11-30
+UT WOS:001361519900001
+PM 39579215
+ER
+
+PT J
+AU Aly, Doaa
+   Aquino, Liliam
+   Haligheri, Geetha
+   Elmeleegy, Khaled
+TI Development and Validation of a Pediatric Cardiology-Specific Large
+   Language Model Chat Interface using Retrieval Augmented Generation
+SO CIRCULATION
+VL 150
+MA 4145650
+DI 10.1161/circ.150.suppl_1.4145650
+SU 1
+DT Meeting Abstract
+PD NOV 12 2024
+PY 2024
+CT American-Heart-Association Resuscitation Science Symposium
+CY NOV 16-18, 2024
+CL Chicago, IL
+SP Amer Heart Assoc
+RI aly, doaa/HIR-3653-2022
+ZS 0
+ZR 0
+Z8 0
+ZB 0
+ZA 0
+TC 0
+Z9 0
+SN 0009-7322
+EI 1524-4539
+DA 2025-02-13
+UT WOS:001400066402334
+ER
+
+PT J
+AU Bommakanti, Nikhil
+   Rizvi, Fatima
+   Rizvi, Anza
+   Mansour, Hana A.
+   Momenaei, Bita
+   Safran, Jordan
+   Yu, Michael
+   Obeid, Anthony
+   Yonekawa, Yoshihiro
+TI Accuracy and readability of after visit summaries for retinal conditions
+   generated by a large language model
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+MA 822
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+RI Momenaei, Bita/AEP-4682-2022
+Z8 0
+ZR 0
+ZS 0
+TC 0
+ZA 0
+ZB 0
+Z9 0
+SN 0146-0404
+EI 1552-5783
+DA 2024-12-01
+UT WOS:001312227702165
+ER
+
+PT J
+AU Hong, Soonwook
+   Zheng, Henry W.
+   Greb, Alexandra C.
+   Sharma, Vikram
+   Limketkai, Berkeley
+TI CATEGORIZING FINDINGS FROM COLONOSCOPY REPORTS OF PATIENTS WITH
+   INFLAMMATORY BOWEL DISEASE USING A GENERATIVE LARGE LANGUAGE MODEL
+SO GASTROENTEROLOGY
+VL 166
+IS 5
+MA Tu2023
+BP S1496
+EP S1497
+SU S
+DT Meeting Abstract
+PD MAY 2024
+PY 2024
+CT Digestive Disease Week (DDW)
+CY MAY 18-21, 2024
+CL Washington, DC
+Z8 0
+TC 0
+ZA 0
+ZB 0
+ZS 0
+ZR 0
+Z9 0
+SN 0016-5085
+EI 1528-0012
+DA 2024-10-30
+UT WOS:001282837706121
+ER
+
+PT J
+AU Wong, Io Nam
+   Monteiro, Olivia
+   Baptista-Hon, Daniel T.
+   Wang, Kai
+   Lu, Wenyang
+   Sun, Zhuo
+   Nie, Sheng
+   Yin, Yun
+TI Leveraging foundation and large language models in medical artificial
+   intelligence
+SO CHINESE MEDICAL JOURNAL
+VL 137
+IS 21
+BP 2529
+EP 2539
+DI 10.1097/CM9.0000000000003302
+DT Review
+PD NOV 5 2024
+PY 2024
+RI Monteiro, Olivia/HPG-8530-2023; WONG, IO NAM/AAZ-9464-2021; WONG, IO NAM/
+OI WONG, IO NAM/0000-0002-4500-1758
+Z8 0
+ZS 0
+ZB 0
+TC 1
+ZR 0
+ZA 0
+Z9 1
+SN 0366-6999
+EI 2542-5641
+DA 2024-11-15
+UT WOS:001349449100017
+PM 39497256
+ER
+
+PT J
+AU Anonymous
+TI Meeting of the Anaesthetic-Research-Society, London, UK, May 16 -17,
+   2024 
+SO British Journal of Anaesthesia
+VL 133
+IS 2
+BP 458
+EP 472
+DT Meeting
+PD AUG 2024
+PY 2024
+CT Meeting of the Anaesthetic-Research-Society
+CY May 16 -17, 2024
+CL London, UK
+HO London, UK
+SP Anaesthet Res Soc
+Z8 0
+TC 0
+ZA 0
+ZB 0
+ZR 0
+ZS 0
+Z9 0
+SN 0007-0912
+EI 1471-6771
+DA 2024-08-30
+UT BCI:BCI202400741698
+ER
+
+PT J
+AU Sallam, Malik
+TI ChatGPT Utility in Healthcare Education, Research, and Practice:
+   Systematic Review on the Promising Perspectives and Valid Concerns
+SO HEALTHCARE
+VL 11
+IS 6
+AR 887
+DI 10.3390/healthcare11060887
+DT Review
+PD MAR 2023
+PY 2023
+RI Sallam, Malik/O-5021-2014
+OI Sallam, Malik/0000-0002-0165-9670
+ZA 0
+ZS 16
+TC 1015
+Z8 5
+ZB 97
+ZR 0
+Z9 1026
+EI 2227-9032
+DA 2023-04-12
+UT WOS:000956609200001
+PM 36981544
+ER
+
+PT J
+AU Essis, Maritza Diane
+   Hartman, Hayden
+   Tung, Wei Shao
+   Oh, Irvin
+   Peden, Sean
+   Gianakos, Arianna L
+TI Comparison of ChatGPT's Diagnostic and Management Accuracy of Foot and
+   Ankle Bone-Related Pathologies to Orthopaedic Surgeons.
+SO The Journal of the American Academy of Orthopaedic Surgeons
+DI 10.5435/JAAOS-D-24-01049
+DT Journal Article
+PD 2025-Apr-10
+PY 2025
+ZB 0
+TC 0
+Z8 0
+ZA 0
+ZS 0
+ZR 0
+Z9 0
+EI 1940-5480
+DA 2025-04-18
+UT MEDLINE:40233367
+PM 40233367
+ER
+
+PT C
+AU Guo, Yuhang
+   Wan, Zhiyu
+GP IEEE COMPUTER SOC
+TI Performance Evaluation of Multimodal Large Language Models (LLaVA and
+   GPT-4-based ChatGPT) in Medical Image Classification Tasks
+SO 2024 IEEE 12TH INTERNATIONAL CONFERENCE ON HEALTHCARE INFORMATICS, ICHI
+   2024
+SE IEEE International Conference on Healthcare Informatics
+BP 541
+EP 543
+DI 10.1109/ICHI61247.2024.00080
+DT Proceedings Paper
+PD 2024
+PY 2024
+CT 12th IEEE International Conference on Healthcare Informatics (IEEE-ICHI)
+CY JUN 03-06, 2024
+CL Orlando, FL
+SP IEEE; IEEE Comp Soc Tech Community Intelligent Informat; Univ Minnesota,
+   Div Computat Hlth Sci; Weill Cornell Med Inst Artificial Intelligence &
+   Digital Hlth; Univ Florida Hlth; Yale Univ, Sch Med; Springer; Florida
+   State Univ, Coll Commun & Informat
+RI Wan, Zhiyu/ACA-8019-2022
+ZR 0
+Z8 0
+TC 2
+ZB 0
+ZA 0
+ZS 0
+Z9 2
+SN 2575-2634
+EI 2575-2626
+BN 979-8-3503-8374-4; 979-8-3503-8373-7
+DA 2024-11-02
+UT WOS:001304501700073
+ER
+
+PT J
+AU Lai, Jason K.
+   Delporte, Nicolas
+   Tung, Brian
+   Zhang, Youshi
+   Madu, Chisom
+   Douletbekov, Daniyar
+   Ruiz, Carlos Quezada
+   Dai, Jian
+TI Standardize clinical trials monitoring with Large Language Model
+   (LLM)-enhanced FAQ management
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+ZB 0
+ZS 0
+ZA 0
+Z8 0
+TC 0
+ZR 0
+Z9 0
+SN 0146-0404
+EI 1552-5783
+DA 2024-12-01
+UT WOS:001312227701058
+ER
+
+PT J
+AU Farquhar, Sebastian
+   Kossen, Jannik
+   Kuhn, Lorenz
+   Gal, Yarin
+TI Detecting hallucinations in large language models using semantic entropy
+SO NATURE
+VL 630
+IS 8017
+DI 10.1038/s41586-024-07421-0
+DT Article
+PD JUN 20 2024
+PY 2024
+ZR 0
+ZB 9
+ZA 0
+TC 85
+ZS 0
+Z8 2
+Z9 88
+SN 0028-0836
+EI 1476-4687
+DA 2025-03-12
+UT WOS:001262429400005
+PM 38898292
+ER
+
+PT J
+AU Zarfati, Mor
+   Soffer, Shelly
+   Nadkarni, Girish N.
+   Klang, Eyal
+TI Retrieval-Augmented Generation: Advancing personalized care and research
+   in oncology
+SO EUROPEAN JOURNAL OF CANCER
+VL 220
+AR 115341
+DI 10.1016/j.ejca.2025.115341
+EA MAR 2025
+DT Article
+PD MAY 2 2025
+PY 2025
+RI mirzaei, hamed/X-2374-2018
+ZS 0
+ZB 0
+Z8 0
+TC 0
+ZR 0
+ZA 0
+Z9 0
+SN 0959-8049
+EI 1879-0852
+DA 2025-03-21
+UT WOS:001444559600001
+PM 40068371
+ER
+
+PT J
+AU Lim, Daniel Y.
+   Bin Tan, Yu
+   Koh, Jonathan
+   Sng, Gerald
+   Tung, Joshua
+   Le, Quan
+   Tan, Jen Hong
+   Tan, Damien Meng Yew
+   Ting, Daniel
+   Tan, Chee-Kiat
+TI A SYSTEMATIC REVIEW OF LARGE LEARNING MODELS IN GASTROENTEROLOGY AND
+   HEPATOLOGY - APPLICATIONS AND TECHNIQUES TO MITIGATE MISINFORMATION
+SO GASTROENTEROLOGY
+VL 166
+IS 5
+MA Tu2005
+BP S1488
+EP S1489
+SU S
+DT Meeting Abstract
+PD MAY 2024
+PY 2024
+CT Digestive Disease Week (DDW)
+CY MAY 18-21, 2024
+CL Washington, DC
+RI Lim, Daniel/AGY-3425-2022; Tung, Joshua Yi Min/IUM-5812-2023; Tan, Yu Bin/IAR-9743-2023; Tan, Jen Hong/AAD-3664-2020
+Z8 0
+ZB 0
+TC 0
+ZA 0
+ZS 0
+ZR 0
+Z9 0
+SN 0016-5085
+EI 1528-0012
+DA 2024-10-30
+UT WOS:001282837706103
+ER
+
+PT J
+AU Wu, Xuzhou
+   Li, Guangxin
+   Wang, Xing
+   Xu, Zeyu
+   Wang, Yingni
+   Lei, Shuge
+   Xian, Jianming
+   Wang, Xueyu
+   Zhang, Yibao
+   Li, Gong
+   Yuan, Kehong
+TI Diagnosis assistant for liver cancer utilizing a large language model
+   with three types of knowledge
+SO PHYSICS IN MEDICINE AND BIOLOGY
+VL 70
+IS 9
+AR 095009
+DI 10.1088/1361-6560/adcb17
+DT Article
+PD MAY 4 2025
+PY 2025
+OI Zhang, Yibao/0000-0003-3658-0687
+Z8 0
+ZS 0
+ZA 0
+ZR 0
+TC 0
+ZB 0
+Z9 0
+SN 0031-9155
+EI 1361-6560
+DA 2025-05-08
+UT WOS:001480266600001
+PM 40203862
+ER
+
+PT J
+AU Yi, Yongjin
+   Kim, Kyong-Jee
+TI The feasibility of using generative artificial intelligence for history
+   taking in virtual patients
+SO BMC RESEARCH NOTES
+VL 18
+IS 1
+AR 80
+DI 10.1186/s13104-025-07157-8
+DT Article
+PD FEB 24 2025
+PY 2025
+RI Kim, Kyong-Jee/K-1278-2012
+ZS 0
+ZR 0
+ZB 0
+ZA 0
+TC 0
+Z8 0
+Z9 0
+EI 1756-0500
+DA 2025-03-01
+UT WOS:001429199300001
+PM 39994780
+ER
+
+PT J
+AU Gwon, Yong Nam
+   Kim, Jae Heon
+   Chung, Hyun Soo
+   Jung, Eun Jee
+   Chun, Joey
+   Lee, Serin
+   Shim, Sung Ryul
+TI The Use of Generative AI for Scientific Literature Searches for
+   Systematic Reviews: ChatGPT and Microsoft Bing AI Performance Evaluation
+SO JMIR MEDICAL INFORMATICS
+VL 12
+AR e51187
+DI 10.2196/51187
+DT Article
+PD 2024
+PY 2024
+RI Gwon, Yong Nam/; Kim, Jae Heon/; Lee, Serin/; shim, sungryul/D-3792-2016; Chung, Hyunsoo/
+OI Gwon, Yong Nam/0000-0002-8732-327X; Kim, Jae Heon/0000-0002-4490-3610;
+   Lee, Serin/0009-0007-4839-8512; shim, sungryul/0000-0003-4143-7383;
+   Chung, Hyunsoo/0000-0002-1038-2343
+Z8 0
+ZS 0
+TC 12
+ZA 0
+ZR 0
+ZB 2
+Z9 12
+EI 2291-9694
+DA 2024-06-07
+UT WOS:001233902800001
+PM 38771247
+ER
+
+PT J
+AU Cai, Louis Z.
+   Shaheen, Abdulla
+   Jin, Andrew
+   Fukui, Riya
+   Yi, Jonathan S.
+   Yannuzzi, Nicolas
+   Alabiad, Chrisfouad
+TI Performance of Generative Large Language Models on Ophthalmology
+   Board-Style Questions
+SO AMERICAN JOURNAL OF OPHTHALMOLOGY
+VL 254
+BP 141
+EP 149
+DI 10.1016/j.ajo.2023.05.024
+EA JUL 2023
+DT Article
+PD OCT 2023
+PY 2023
+RI Shaheen, Abdulla/KCL-1879-2024; Shaheen, Abdulla/; Cai, Louis/
+OI Shaheen, Abdulla/0000-0003-4448-2104; Cai, Louis/0000-0003-2212-4787
+ZB 19
+ZA 0
+TC 74
+Z8 0
+ZR 0
+ZS 0
+Z9 74
+SN 0002-9394
+EI 1879-1891
+DA 2023-08-21
+UT WOS:001044630000001
+PM 37339728
+ER
+
+PT J
+AU Gwon, Yong Nam
+   Kim, Jae Heon
+   Chung, Hyun Soo
+   Jung, Eun Jee
+   Chun, Joey
+   Lee, Serin
+   Shim, Sung Ryul
+TI The Use of Generative AI for Scientific Literature Searches for
+   Systematic Reviews: ChatGPT and Microsoft Bing AI Performance Evaluation
+SO JMIR MEDICAL INFORMATICS
+VL 12
+AR e51187
+DI 10.2024/1/e51187
+DT Article
+PD 2024
+PY 2024
+ZR 0
+TC 0
+ZA 0
+ZB 0
+ZS 0
+Z8 0
+Z9 0
+EI 2291-9694
+DA 2024-06-07
+UT WOS:001226395600002
+ER
+
+PT J
+AU Yang, Xintian
+   Li, Tongxin
+   Su, Qin
+   Liu, Yaling
+   Kang, Chenxi
+   Lyu, Yong
+   Zhao, Lina
+   Nie, Yongzhan
+   Pan, Yanglin
+TI Application of large language models in disease diagnosis and treatment
+SO CHINESE MEDICAL JOURNAL
+VL 138
+IS 2
+BP 130
+EP 142
+DI 10.1097/CM9.0000000000003456
+DT Review
+PD JAN 20 2025
+PY 2025
+RI liu, yaling/Q-9868-2017; Li, Tongxin/AAE-5390-2020
+TC 2
+ZB 0
+Z8 0
+ZA 0
+ZS 0
+ZR 0
+Z9 2
+SN 0366-6999
+EI 2542-5641
+DA 2025-01-25
+UT WOS:001400214400011
+PM 39722188
+ER
+
+PT J
+AU Sridharan, Kannan
+   Sivaramakrishnan, Gowri
+TI Unlocking the potential of advanced large language models in medication
+   review and reconciliation: A proof-of-concept investigation
+SO EXPLORATORY RESEARCH IN CLINICAL AND SOCIAL PHARMACY
+VL 15
+AR 100492
+DI 10.1016/j.rcsop.2024.100492
+EA AUG 2024
+DT Article
+PD SEP 2024
+PY 2024
+RI Sivaramakrishnan, Gowri/LHA-4016-2024; Sridharan, Kannan/S-9300-2019; Sivaramakrishnan, Gowri/AAA-1867-2020
+OI Sivaramakrishnan, Gowri/0000-0002-5877-205X
+ZB 0
+ZA 0
+ZS 0
+TC 6
+ZR 0
+Z8 0
+Z9 6
+EI 2667-2766
+DA 2024-09-06
+UT WOS:001301740600001
+PM 39257533
+ER
+
+PT J
+AU Jang, B. S.
+   Alcorn, S. R.
+   McNutt, T. R.
+   Ehsan, U.
+TI Hype or Reality: Utility of Large Language Models in Radiation Oncology
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3382
+BP E629
+EP E630
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZB 0
+Z8 0
+ZR 0
+ZA 0
+TC 0
+ZS 0
+Z9 0
+SN 0360-3016
+EI 1879-355X
+DA 2024-12-16
+UT WOS:001325892302063
+ER
+
+PT J
+AU Fernandez, Cristina
+   Gajic, Zoran
+   Esen, Eren
+   Remzi, Feza
+   Hudesman, David
+   Adhikari, Samrachana
+   McAdams-DeMarco, Mara
+   Segev, Dorry L.
+   Chodosh, Joshua
+   Dodson, John
+   Shaukat, Aasma
+   Faye, Adam S.
+TI Preoperative Risk Factors for Adverse Events in Adults Undergoing Bowel
+   Resection for Inflammatory Bowel Disease: 15-Year Assessment of the
+   American College of Surgeons National Surgical Quality Improvement
+   Program
+SO AMERICAN JOURNAL OF GASTROENTEROLOGY
+VL 118
+IS 12
+BP 2230
+EP 2241
+DI 10.14309/ajg.0000000000002395
+DT Article
+PD DEC 2023
+PY 2023
+RI Segev, Dorry/JOZ-4365-2023; Esen, Eren/AAF-3624-2021; Gajic, Zoran/; Segev, Dorry/
+OI Gajic, Zoran/0000-0002-8672-3757; Segev, Dorry/0000-0002-1924-4801
+Z8 0
+ZR 0
+ZB 1
+TC 8
+ZA 0
+ZS 0
+Z9 8
+SN 0002-9270
+EI 1572-0241
+DA 2024-03-22
+UT WOS:001124162000023
+PM 37410929
+ER
+
+PT J
+AU Schwieger, Arne
+   Angst, Katrin
+   de Bardeci, Mateo
+   Burrer, Achim
+   Cathomas, Flurin
+   Ferrea, Stefano
+   Gratz, Franziska
+   Knorr, Marius
+   Kronenberg, Golo
+   Spiller, Tobias
+   Troi, David
+   Seifritz, Erich
+   Weber, Samantha
+   Olbrich, Sebastian
+TI Large language models can support generation of standardized discharge
+   summaries - A retrospective study utilizing ChatGPT-4 and electronic
+   health records
+SO INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS
+VL 192
+AR 105654
+DI 10.1016/j.ijmedinf.2024.105654
+EA OCT 2024
+DT Article
+PD DEC 2024
+PY 2024
+RI Spiller, Tobias/GRE-8642-2022; Schwieger, Arne/LXB-5452-2024; Weber, Samantha/; Schwieger, Arne/
+OI Weber, Samantha/0000-0002-2689-2938; Schwieger, Arne/0009-0002-2398-8456
+ZA 0
+ZR 0
+Z8 0
+ZS 0
+ZB 1
+TC 5
+Z9 5
+SN 1386-5056
+EI 1872-8243
+DA 2024-11-07
+UT WOS:001343302900001
+PM 39437512
+ER
+
+EF

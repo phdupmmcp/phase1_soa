@@ -1,0 +1,1241 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Belisle-Pipon, Jean-Christophe
+TI Why we need to be careful with LLMs in medicine
+SO FRONTIERS IN MEDICINE
+VL 11
+AR 1495582
+DI 10.3389/fmed.2024.1495582
+DT Bibliography
+PD DEC 4 2024
+PY 2024
+TC 9
+Z8 0
+ZS 0
+ZA 0
+ZR 0
+ZB 0
+Z9 9
+DA 2024-12-24
+UT WOS:001379802000001
+PM 39697212
+ER
+
+PT J
+AU Scheinkman, Ryan
+   Tordjman, Lea
+   Sharifi, Sheila
+   Nouri, Keyvan
+TI The ethical considerations of artificial intelligence hallucination and
+   misinformation in dermatological and medical laser documentation
+SO LASERS IN MEDICAL SCIENCE
+VL 40
+IS 1
+AR 110
+DI 10.1007/s10103-025-04364-4
+DT Editorial Material
+PD FEB 21 2025
+PY 2025
+ZS 0
+ZA 0
+TC 0
+Z8 0
+ZR 0
+ZB 0
+Z9 0
+DA 2025-03-01
+UT WOS:001428270400003
+PM 39982535
+ER
+
+PT J
+AU Agaronnik, Nicole D.
+   Davis, Joshua
+   Manz, Christopher R.
+   Tulsky, James A.
+   Lindvall, Charlotta
+TI Large Language Models to Identify Advance Care Planning in Patients With
+   Advanced Cancer
+SO JOURNAL OF PAIN AND SYMPTOM MANAGEMENT
+VL 69
+IS 3
+DI 10.1016/j.jpainsymman.2024.11.016
+EA FEB 2025
+DT Article
+PD MAR 2025
+PY 2025
+AB Context. Efficiently tracking Advance Care Planning (ACP) documentation
+   in electronic heath records (EHRs) is essential for quality improvement
+   and research efforts. The use of large language models (LLMs) offers a
+   novel approach to this task. Objectives. To evaluate the ability of LLMs
+   to identify ACP in EHRs for patients with advanced cancer and compare
+   performance to gold-standard manual chart review and natural language
+   processing (NLP). Methods. EHRs from patients with advanced cancer
+   followed at seven Dana Farber Cancer Center (DFCI) clinics in June 2024.
+   We utilized GPT-4o-2024-05-13 within DFCI's HIPAA-secure digital
+   infrastructure. We designed LLM prompts to identify ACP domains: goals
+   of care, limitation of life-sustaining treatment, hospice, and
+   palliative care. We developed a novel hallucination index to measure
+   production of factually-incorrect evidence by the LLM. Performance was
+   compared to gold-standard manual chart review and NLP. Results. 60
+   unique patients associated with 528 notes were used to construct the
+   gold-standard data set. LLM prompts had sensitivity ranging from 0.85 to
+   1.0, specificity ranging from 0.80 to 0.91, and accuracy ranging from
+   0.81 to 0.91 across domains. The LLM had better sensitivity than NLP for
+   identifying complex topics such as goals of care. Average hallucination
+   index for notes identified by LLM was less than 0.5, indicating a low
+   probability of hallucination. Despite lower precision compared to NLP,
+   false positive documentation identified by LLMs was clinically-relevant
+   and useful for guiding management. Conclusion. LLMs can capture ACP
+   domains from EHRs, with sensitivity exceeding NLP methods for complex
+   domains such as goals of care. Future studies should explore approaches
+   for scaling this methodology. J Pain Symptom Manage 2025;69:243-250. (c)
+   2024 American Academy of Hospice and Palliative Medicine. Published by
+   Elsevier Inc. All rights are reserved, including those for text and data
+   mining, AI training, and similar technologies.
+Z8 0
+ZR 0
+ZB 0
+ZA 0
+TC 2
+ZS 0
+Z9 2
+DA 2025-02-23
+UT WOS:001422708600001
+PM 39586429
+ER
+
+PT J
+AU Yang, Yi
+   Ma, Yitong
+   Feng, Hao
+   Cheng, Yiming
+   Han, Zhu
+TI Minimizing Hallucinations and Communication Costs: Adversarial Debate
+   and Voting Mechanisms in LLM-Based Multi-Agents
+SO APPLIED SCIENCES-BASEL
+VL 15
+IS 7
+AR 3676
+DI 10.3390/app15073676
+DT Article
+PD MAR 27 2025
+PY 2025
+AB The emergence of large language models (LLMs), such as GPT and Claude,
+   has revolutionized AI by enabling general and domain-specific natural
+   language tasks. However, hallucinations, characterized by false or
+   inaccurate responses, pose serious limitations, particularly in critical
+   fields like medicine and law, where any compromise in reliability can
+   lead to severe consequences. This paper addresses the hallucination
+   issue by proposing a multi-agent LLM framework, incorporating
+   adversarial and voting mechanisms. Specifically, the framework employs
+   repetitive inquiries and error logs to mitigate hallucinations within
+   single LLMs, while adversarial debates and voting mechanisms enable
+   cross-verification among multiple agents, thereby determining when
+   external knowledge retrieval is necessary. Additionally, an entropy
+   compression technique is introduced to enhance communication efficiency
+   by reducing token usage and task completion time. Experimental results
+   demonstrate that the framework significantly improves accuracy, showing
+   a steady increase in composite accuracy across 20 evaluation batches
+   while reducing hallucinations and optimizing task completion time.
+   Notably, the dynamic weighting mechanism effectively prioritized
+   high-performing models, leading to a reduction in error rates and
+   improved consistency in the final responses.
+ZB 0
+ZA 0
+TC 0
+ZS 0
+ZR 0
+Z8 0
+Z9 0
+DA 2025-04-18
+UT WOS:001463674800001
+ER
+
+PT J
+AU Gilbert, Stephen
+   Kather, Jakob Nikolas
+   Hogan, Aidan
+TI Augmented non-hallucinating large language models as medical information
+   curators
+SO NPJ DIGITAL MEDICINE
+VL 7
+IS 1
+AR 100
+DI 10.1038/s41746-024-01081-0
+DT Article
+PD APR 23 2024
+PY 2024
+AB Reliably processing and interlinking medical information has been
+   recognized as a critical foundation to the digital transformation of
+   medical workflows, and despite the development of medical ontologies,
+   the optimization of these has been a major bottleneck to digital
+   medicine. The advent of large language models has brought great
+   excitement, and maybe a solution to the medicines' 'communication
+   problem' is in sight, but how can the known weaknesses of these models,
+   such as hallucination and non-determinism, be tempered? Retrieval
+   Augmented Generation, particularly through knowledge graphs, is an
+   automated approach that can deliver structured reasoning and a model of
+   truth alongside LLMs, relevant to information structuring and therefore
+   also to decision support.
+ZA 0
+Z8 0
+TC 3
+ZB 0
+ZR 0
+ZS 0
+Z9 3
+DA 2024-04-30
+UT WOS:001207216300001
+ER
+
+PT J
+AU Patil, Advait
+   Serrato, Paul
+   Chisvo, Nathan
+   Arnaout, Omar
+   See, Pokmeng Alfred
+   Huang, Kevin T.
+TI Large language models in neurosurgery: a systematic review and
+   meta-analysis
+SO ACTA NEUROCHIRURGICA
+VL 166
+IS 1
+AR 475
+DI 10.1007/s00701-024-06372-9
+DT Review
+PD NOV 23 2024
+PY 2024
+AB BackgroundLarge Language Models (LLMs) have garnered increasing
+   attention in neurosurgery and possess significant potential to improve
+   the field. However, the breadth and performance of LLMs across diverse
+   neurosurgical tasks have not been systematically examined, and LLMs come
+   with their own challenges and unique terminology. We seek to identify
+   key models, establish reporting guidelines for replicability, and
+   highlight progress in key application areas of LLM use in the
+   neurosurgical literature.MethodsWe searched PubMed and Google Scholar
+   using terms related to LLMs and neurosurgery ("large language model" OR
+   "LLM" OR "ChatGPT" OR "GPT-3" OR "GPT3" OR "GPT-3.5" OR "GPT3.5" OR
+   "GPT-4" OR "GPT4" OR "LLAMA" OR "MISTRAL" OR "BARD") AND "neurosurgery".
+   The final set of articles was reviewed for publication year, application
+   area, specific LLM(s) used, control/comparison groups used to evaluate
+   LLM performance, whether the article reported specific LLM prompts,
+   prompting strategy types used, whether the LLM query could be reproduced
+   in its entirety (including both the prompt used and any adjoining data),
+   measures of hallucination, and reported performance
+   measures.ResultsFifty-one articles met inclusion criteria, and were
+   categorized into six application areas, with the most common being
+   Generation of Text for Direct Clinical Use (n = 14, 27.5%), Answering
+   Standardized Exam Questions (n = 12, 23.5%), and Clinical Judgement and
+   Decision-Making Support (n = 11, 21.6%). The most frequently used LLMs
+   were GPT-3.5 (n = 30, 58.8%), GPT-4 (n = 20, 39.2%), Bard (n = 9,
+   17.6%), and Bing (n = 6, 11.8%). Most studies (n = 43, 84.3%) used LLMs
+   directly out-of-the-box, while 8 studies (15.7%) conducted advanced
+   pre-training or fine-tuning.ConclusionsLarge language models show
+   advanced capabilities in complex tasks and hold potential to transform
+   neurosurgery. However, research typically addresses basic applications
+   and overlooks enhancing LLM performance, facing reproducibility issues.
+   Standardizing detailed reporting, considering LLM stochasticity, and
+   using advanced methods beyond basic validation are essential for
+   progress.
+Z8 0
+ZS 0
+ZB 1
+TC 4
+ZR 0
+ZA 0
+Z9 4
+DA 2024-11-30
+UT WOS:001361519900001
+PM 39579215
+ER
+
+PT J
+AU Chang, Yin-Hsi
+   Ong, Jasmine Chiat Ling
+   William, Wasswa
+   Butte, Atul J.
+   Shah, Nigam H.
+   Chew, Lita Sui Tjien
+   Liu, Nan
+   Doshi-Velez, Finale
+   Lu, Wei
+   Savulescu, Julian
+   Ting, Daniel
+TI Large Language Models in Medicine: Addressing Ethical Challenges
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+Z8 0
+ZS 0
+ZA 0
+ZR 0
+TC 0
+ZB 0
+Z9 0
+DA 2024-12-01
+UT WOS:001312227701059
+ER
+
+PT J
+AU Hamamoto, Ryuji
+   Komatsu, Masaaki
+   Yamada, Masayoshi
+   Kobayashi, Kazuma
+   Takahashi, Masamichi
+   Miyake, Mototaka
+   Jinnai, Shunichi
+   Koyama, Takafumi
+   Kouno, Nobuji
+   Machino, Hidenori
+   Takahashi, Satoshi
+   Asada, Ken
+   Ueda, Naonori
+   Kaneko, Syuzo
+TI Current status and future direction of cancer research using artificial
+   intelligence for clinical application
+SO CANCER SCIENCE
+VL 116
+IS 2
+BP 297
+EP 307
+DI 10.1111/cas.16395
+EA NOV 2024
+DT Review
+PD FEB 2025
+PY 2025
+AB The expectations for artificial intelligence (AI) technology have
+   increased considerably in recent years, mainly due to the emergence of
+   deep learning. At present, AI technology is being used for various
+   purposes and has brought about change in society. In particular, the
+   rapid development of generative AI technology, exemplified by ChatGPT,
+   has amplified the societal impact of AI. The medical field is no
+   exception, with a wide range of AI technologies being introduced for
+   basic and applied research. Further, AI-equipped software as a medical
+   device (AI-SaMD) is also being approved by regulatory bodies. Combined
+   with the advent of big data, data-driven research utilizing AI is
+   actively pursued. Nevertheless, while AI technology has great potential,
+   it also presents many challenges that require careful consideration. In
+   this review, we introduce the current status of AI-based cancer
+   research, especially from the perspective of clinical application, and
+   discuss the associated challenges and future directions, with the aim of
+   helping to promote cancer research that utilizes effective AI
+   technology.
+ZR 0
+ZS 0
+TC 1
+Z8 0
+ZB 0
+ZA 0
+Z9 1
+DA 2024-11-25
+UT WOS:001357844100001
+PM 39557634
+ER
+
+PT J
+AU Qiu, Yepeng
+TI The Impact of LLM Hallucinations on Motor Skill Learning: A Case Study
+   in Badminton
+SO IEEE ACCESS
+VL 12
+BP 139669
+EP 139682
+DI 10.1109/ACCESS.2024.3444783
+DT Article
+PD 2024
+PY 2024
+AB The rise of Generative Artificial Intelligence, including Large Language
+   Models (LLMs), has enabled users to engage in self-guided learning of
+   sports skills through conversation-based interactions. However, studies
+   have identified a phenomenon known as "hallucination" in which LLMs
+   generate feedback that is inaccurate or non-existent. While this
+   phenomenon has been observed in various domains, including medicine,
+   academia, and news, its existence and implications in the context of
+   physical exercises, particularly motor skill learning, remain
+   unexplored. This study investigates the presence of LLM hallucinations
+   in badminton skill learning and examines their potential impact on
+   learning outcomes. This study aims to investigate whether LLMs
+   hallucinations exist in the motor skill learning of physical exercises
+   and what impact they may have. Eighty university freshmen with no prior
+   badminton experience participated in a 16-week experiment, with 40
+   students assigned to the Experimental Group (EG) utilizing LLM-based
+   applications (ChatGPT or New Bing) for self-guided learning, and 40
+   students in the Control Group (CG) learning under the supervision of 12
+   university sports teachers and 8 experts that specialized in badminton.
+   Evaluation criteria for badminton skills were established, and
+   assessments were conducted at baseline and 16 weeks using independent
+   sample t-tests and paired-sample t-tests. One-way analysis of variance
+   (One-Way ANCOVA) was employed to compare learning outcomes between the
+   two groups. Interviews were conducted to gain insights into the causes
+   of any observed differences in learning efficiency. Both CG and EG
+   groups demonstrated motor skill improvement (clear: p <0.001; smash: p
+   <0.001; footwork: p <0.001). CG exhibited significantly higher scores in
+   long-distance shots and smashes in the post-test. No significant
+   difference was observed in footwork scores between the two groups. High
+   accordance in specific skill points among students in both groups
+   indicated the common usage of prompts. Interviews with EG students
+   revealed hallucinations in the text generated by LLMs, particularly in
+   the context of "forearm internal rotation swing." LLMs exhibit
+   hallucinations in the context of intricate motor skill learning, such as
+   badminton, where limited corpus data is available. These hallucinations
+   can mislead users and impact learning outcomes. Future research should
+   explore strategies to mitigate LLM hallucinations in physical exercise
+   learning applications.
+ZB 0
+ZS 0
+ZA 0
+Z8 0
+TC 1
+ZR 0
+Z9 1
+DA 2024-10-11
+UT WOS:001327251500001
+ER
+
+PT J
+AU Zhuang, Yi
+   Yu, Lingkai
+   Jiang, Nan
+   Ge, Yujia
+TI TCM-KLLaMA: Intelligent generation model for Traditional Chinese
+   Medicine Prescriptions based on knowledge graph and large language
+   model.
+SO Computers in biology and medicine
+VL 189
+BP 109887
+EP 109887
+DI 10.1016/j.compbiomed.2025.109887
+DT Journal Article
+PD 2025-May
+PY 2025
+AB Traditional Chinese medicine (TCM) prescriptions are a basic component
+   of TCM treatment, developed by assessing patient symptoms and
+   prescribing a mix of herbs. Accurate prescription generation is critical
+   for enhancing treatment outcomes and maintaining patient safety.
+   However, conventional methods based on Large Language Models (LLMs)
+   focus mainly on symptom information, neglecting other TCM diagnostic
+   expertise, such as tongue and pulse diagnosis, and are prone to
+   hallucination, which is unacceptable in medical applications. To address
+   these challenges, the paper proposes an effective prescription
+   generation model enriched by a TCM knowledge graph (KG) called the
+   TCM-KLLaMA model. In this model, the Chinese-LLaMA2-7B model is provided
+   with a new output layer and loss function to suppress hallucinations and
+   increase recommendation accuracy. A TCM KG including symptoms, tongue
+   diagnosis, and pulse diagnosis was developed, and the model was
+   fine-tuned utilizing the suggested synonym and matching knowledge
+   injection (SMKI) mechanism. Extensive experiments demonstrate that the
+   TCM- KLLaMA outperforms baseline models in both Precision and F1 Score,
+   proving its superior performance in prescription generation tasks.
+ZR 0
+Z8 0
+ZB 0
+TC 0
+ZS 0
+ZA 0
+Z9 0
+DA 2025-03-11
+UT MEDLINE:40056842
+PM 40056842
+ER
+
+PT J
+AU Volkmer, Sebastian
+   Meyer-Lindenberg, Andreas
+   Schwarz, Emanuel
+TI Large language models in psychiatry: Opportunities and challenges
+SO PSYCHIATRY RESEARCH
+VL 339
+AR 116026
+DI 10.1016/j.psychres.2024.116026
+EA JUN 2024
+DT Article
+PD SEP 2024
+PY 2024
+AB The ability of Large Language Models (LLMs) to analyze and respond to
+   freely written text is causing increasing excitement in the field of
+   psychiatry; the application of such models presents unique opportunities
+   and challenges for psychiatric applications. This review article seeks
+   to offer a comprehensive overview of LLMs in psychiatry, their model
+   architecture, potential use cases, and clinical considerations. LLM
+   frameworks such as ChatGPT/ GPT-4 are trained on huge amounts of text
+   data that are sometimes fine-tuned for specific tasks. This opens up a
+   wide range of possible psychiatric applications, such as accurately
+   predicting individual patient risk factors for specific disorders,
+   engaging in therapeutic intervention, and analyzing therapeutic
+   material, to name a few. However, adoption in the psychiatric setting
+   presents many challenges, including inherent limitations and biases in
+   LLMs, concerns about explainability and privacy, and the potential
+   damage resulting from produced misinformation. This review covers
+   potential opportunities and limitations and highlights potential
+   considerations when these models are applied in a real-world psychiatric
+   context.
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+TC 14
+ZR 0
+Z9 14
+DA 2024-07-12
+UT WOS:001259580300001
+PM 38909412
+ER
+
+PT J
+AU Hong, Soonwook
+   Zheng, Henry W.
+   Greb, Alexandra C.
+   Sharma, Vikram
+   Limketkai, Berkeley
+TI CATEGORIZING FINDINGS FROM COLONOSCOPY REPORTS OF PATIENTS WITH
+   INFLAMMATORY BOWEL DISEASE USING A GENERATIVE LARGE LANGUAGE MODEL
+SO GASTROENTEROLOGY
+VL 166
+IS 5
+MA Tu2023
+BP S1496
+EP S1497
+SU S
+DT Meeting Abstract
+PD MAY 2024
+PY 2024
+CT Digestive Disease Week (DDW)
+CY MAY 18-21, 2024
+CL Washington, DC
+Z8 0
+TC 0
+ZA 0
+ZB 0
+ZS 0
+ZR 0
+Z9 0
+DA 2024-10-30
+UT WOS:001282837706121
+ER
+
+PT J
+AU Lim, Daniel Y.
+   Bin Tan, Yu
+   Koh, Jonathan
+   Sng, Gerald
+   Tung, Joshua
+   Le, Quan
+   Tan, Jen Hong
+   Tan, Damien Meng Yew
+   Ting, Daniel
+   Tan, Chee-Kiat
+TI A SYSTEMATIC REVIEW OF LARGE LEARNING MODELS IN GASTROENTEROLOGY AND
+   HEPATOLOGY - APPLICATIONS AND TECHNIQUES TO MITIGATE MISINFORMATION
+SO GASTROENTEROLOGY
+VL 166
+IS 5
+MA Tu2005
+BP S1488
+EP S1489
+SU S
+DT Meeting Abstract
+PD MAY 2024
+PY 2024
+CT Digestive Disease Week (DDW)
+CY MAY 18-21, 2024
+CL Washington, DC
+Z8 0
+ZB 0
+TC 0
+ZA 0
+ZS 0
+ZR 0
+Z9 0
+DA 2024-10-30
+UT WOS:001282837706103
+ER
+
+PT J
+AU Wong, Matthew
+   Lim, Zhi Wei
+   Pushpanathan, Krithi
+   Cheung, Carol Y.
+   Wang, Ya Xing
+   Chen, David
+   Tham, Yih Chung
+TI Review of emerging trends and projection of future developments in large
+   language models research in ophthalmology
+SO BRITISH JOURNAL OF OPHTHALMOLOGY
+VL 108
+IS 10
+BP 1362
+EP 1370
+DI 10.1136/bjo-2023-324734
+EA DEC 2023
+DT Review
+PD OCT 2024
+PY 2024
+AB Background Large language models (LLMs) are fast emerging as potent
+   tools in healthcare, including ophthalmology. This systematic review
+   offers a twofold contribution: it summarises current trends in
+   ophthalmology-related LLM research and projects future directions for
+   this burgeoning field.
+   Methods We systematically searched across various databases (PubMed,
+   Europe PMC, Scopus and Web of Science) for articles related to LLM use
+   in ophthalmology, published between 1 January 2022 and 31 July 2023.
+   Selected articles were summarised, and categorised by type (editorial,
+   commentary, original research, etc) and their research focus (eg,
+   evaluating ChatGPT's performance in ophthalmology examinations or
+   clinical tasks).
+   Findings We identified 32 articles meeting our criteria, published
+   between January and July 2023, with a peak in June (n=12). Most were
+   original research evaluating LLMs' proficiency in clinically related
+   tasks (n=9). Studies demonstrated that ChatGPT-4.0 outperformed its
+   predecessor, ChatGPT-3.5, in ophthalmology exams. Furthermore, ChatGPT
+   excelled in constructing discharge notes (n=2), evaluating diagnoses
+   (n=2) and answering general medical queries (n=6). However, it struggled
+   with generating scientific articles or abstracts (n=3) and answering
+   specific subdomain questions, especially those regarding specific
+   treatment options (n=2). ChatGPT's performance relative to other LLMs
+   (Google's Bard, Microsoft's Bing) varied by study design. Ethical
+   concerns such as data hallucination (n=27), authorship (n=5) and data
+   privacy (n=2) were frequently cited.
+   Interpretation While LLMs hold transformative potential for healthcare
+   and ophthalmology, concerns over accountability, accuracy and data
+   security remain. Future research should focus on application programming
+   interface integration, comparative assessments of popular LLMs, their
+   ability to interpret image-based data and the establishment of
+   standardised evaluation frameworks.
+ZB 2
+ZA 0
+ZS 0
+TC 14
+Z8 0
+ZR 0
+Z9 14
+DA 2024-01-06
+UT WOS:001129050700001
+PM 38164563
+ER
+
+PT J
+AU Tran, Hao
+   Joseph, Viren
+   Al-Falahi, Zaidon
+   Dharmadmajan, Anoop
+   Shaw, Elizabeth
+   Xu, Aaron
+   Akrawi, Daniel
+   Juergens, Craig
+   French, Bruce
+   Wilson, Michael
+   Otton, James
+   Scalia, Greg
+   Badie, Tamer Naguib
+   Kay, Sharon
+   Guo, Yi
+   Tran, Tu Tak
+   Chang, Anthony
+   Lo, Sidney
+TI Large Language Model based multi-agent Transcatheter Aortic Valve
+   Implantation team to augment multidisciplinary meetings - proof of
+   concept.
+SO CIRCULATION
+VL 150
+MA 4138722
+DI 10.1161/circ.150.suppl_1.4138722
+SU 1
+DT Meeting Abstract
+PD NOV 12 2024
+PY 2024
+ZS 0
+Z8 0
+ZB 0
+ZR 0
+ZA 0
+TC 0
+Z9 0
+DA 2025-02-10
+UT WOS:001398742702398
+ER
+
+PT J
+AU Lai, Jason K.
+   Delporte, Nicolas
+   Tung, Brian
+   Zhang, Youshi
+   Madu, Chisom
+   Douletbekov, Daniyar
+   Ruiz, Carlos Quezada
+   Dai, Jian
+TI Standardize clinical trials monitoring with Large Language Model
+   (LLM)-enhanced FAQ management
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+ZB 0
+ZS 0
+ZA 0
+Z8 0
+TC 0
+ZR 0
+Z9 0
+DA 2024-12-01
+UT WOS:001312227701058
+ER
+
+PT J
+AU Vrdoljak, Josip
+   Boban, Zvonimir
+   Vilovic, Marino
+   Kumric, Marko
+   Bozic, Josko
+TI A Review of Large Language Models in Medical Education, Clinical
+   Decision Support, and Healthcare Administration
+SO HEALTHCARE
+VL 13
+IS 6
+AR 603
+DI 10.3390/healthcare13060603
+DT Review
+PD MAR 10 2025
+PY 2025
+AB Background/Objectives: Large language models (LLMs) have shown
+   significant potential to transform various aspects of healthcare. This
+   review aims to explore the current applications, challenges, and future
+   prospects of LLMs in medical education, clinical decision support, and
+   healthcare administration. Methods: A comprehensive literature review
+   was conducted, examining the applications of LLMs across the three key
+   domains. The analysis included their performance, challenges, and
+   advancements, with a focus on techniques like retrieval-augmented
+   generation (RAG). Results: In medical education, LLMs show promise as
+   virtual patients, personalized tutors, and tools for generating study
+   materials. Some models have outperformed junior trainees in specific
+   medical knowledge assessments. Concerning clinical decision support,
+   LLMs exhibit potential in diagnostic assistance, treatment
+   recommendations, and medical knowledge retrieval, though performance
+   varies across specialties and tasks. In healthcare administration, LLMs
+   effectively automate tasks like clinical note summarization, data
+   extraction, and report generation, potentially reducing administrative
+   burdens on healthcare professionals. Despite their promise, challenges
+   persist, including hallucination mitigation, addressing biases, and
+   ensuring patient privacy and data security. Conclusions: LLMs have
+   transformative potential in medicine but require careful integration
+   into healthcare settings. Ethical considerations, regulatory challenges,
+   and interdisciplinary collaboration between AI developers and healthcare
+   professionals are essential. Future advancements in LLM performance and
+   reliability through techniques such as RAG, fine-tuning, and
+   reinforcement learning will be critical to ensuring patient safety and
+   improving healthcare delivery.
+TC 1
+ZA 0
+ZS 0
+ZR 0
+ZB 0
+Z8 0
+Z9 1
+DA 2025-03-31
+UT WOS:001452063500001
+PM 40150453
+ER
+
+PT J
+AU Williams, Christopher Y K
+   Bains, Jaskaran
+   Tang, Tianyu
+   Patel, Kishan
+   Lucas, Alexa N
+   Chen, Fiona
+   Miao, Brenda Y
+   Butte, Atul J
+   Kornblith, Aaron E
+TI Evaluating Large Language Models for Drafting Emergency Department
+   Discharge Summaries.
+SO medRxiv : the preprint server for health sciences
+DI 10.1101/2024.04.03.24305088
+DT Preprint
+PD 2024 Apr 04
+PY 2024
+AB Importance: Large language models (LLMs) possess a range of capabilities
+   which may be applied to the clinical domain, including text
+   summarization. As ambient artificial intelligence scribes and other
+   LLM-based tools begin to be deployed within healthcare settings,
+   rigorous evaluations of the accuracy of these technologies are urgently
+   needed.
+   Objective: To investigate the performance of GPT-4 and GPT-3.5-turbo in
+   generating Emergency Department (ED) discharge summaries and evaluate
+   the prevalence and type of errors across each section of the discharge
+   summary.
+   Design: Cross-sectional study.
+   Setting: University of California, San Francisco ED.
+   Participants: We identified all adult ED visits from 2012 to 2023 with
+   an ED clinician note. We randomly selected a sample of 100 ED visits for
+   GPT-summarization.
+   Exposure: We investigate the potential of two state-of-the-art LLMs,
+   GPT-4 and GPT-3.5-turbo, to summarize the full ED clinician note into a
+   discharge summary.
+   Main Outcomes and Measures: GPT-3.5-turbo and GPT-4-generated discharge
+   summaries were evaluated by two independent Emergency Medicine physician
+   reviewers across three evaluation criteria: 1) Inaccuracy of
+   GPT-summarized information; 2) Hallucination of information; 3) Omission
+   of relevant clinical information. On identifying each error, reviewers
+   were additionally asked to provide a brief explanation for their
+   reasoning, which was manually classified into subgroups of errors.
+   Results: From 202,059 eligible ED visits, we randomly sampled 100 for
+   GPT-generated summarization and then expert-driven evaluation. In total,
+   33% of summaries generated by GPT-4 and 10% of those generated by
+   GPT-3.5-turbo were entirely error-free across all evaluated domains.
+   Summaries generated by GPT-4 were mostly accurate, with inaccuracies
+   found in only 10% of cases, however, 42% of the summaries exhibited
+   hallucinations and 47% omitted clinically relevant information.
+   Inaccuracies and hallucinations were most commonly found in the Plan
+   sections of GPT-generated summaries, while clinical omissions were
+   concentrated in text describing patients' Physical Examination findings
+   or History of Presenting Complaint.
+   Conclusions and Relevance: In this cross-sectional study of 100 ED
+   encounters, we found that LLMs could generate accurate discharge
+   summaries, but were liable to hallucination and omission of clinically
+   relevant information. A comprehensive understanding of the location and
+   type of errors found in GPT-generated clinical text is important to
+   facilitate clinician review of such content and prevent patient harm.
+ZS 0
+TC 1
+Z8 0
+ZR 0
+ZB 0
+ZA 0
+Z9 1
+DA 2024-04-19
+UT MEDLINE:38633805
+PM 38633805
+ER
+
+PT J
+AU Sallam, Malik
+TI ChatGPT Utility in Healthcare Education, Research, and Practice:
+   Systematic Review on the Promising Perspectives and Valid Concerns
+SO HEALTHCARE
+VL 11
+IS 6
+AR 887
+DI 10.3390/healthcare11060887
+DT Review
+PD MAR 2023
+PY 2023
+AB ChatGPT is an artificial intelligence (AI)-based conversational large
+   language model (LLM). The potential applications of LLMs in health care
+   education, research, and practice could be promising if the associated
+   valid concerns are proactively examined and addressed. The current
+   systematic review aimed to investigate the utility of ChatGPT in health
+   care education, research, and practice and to highlight its potential
+   limitations. Using the PRIMSA guidelines, a systematic search was
+   conducted to retrieve English records in PubMed/MEDLINE and Google
+   Scholar (published research or preprints) that examined ChatGPT in the
+   context of health care education, research, or practice. A total of 60
+   records were eligible for inclusion. Benefits of ChatGPT were cited in
+   51/60 (85.0%) records and included: (1) improved scientific writing and
+   enhancing research equity and versatility; (2) utility in health care
+   research (efficient analysis of datasets, code generation, literature
+   reviews, saving time to focus on experimental design, and drug discovery
+   and development); (3) benefits in health care practice (streamlining the
+   workflow, cost saving, documentation, personalized medicine, and
+   improved health literacy); and (4) benefits in health care education
+   including improved personalized learning and the focus on critical
+   thinking and problem-based learning. Concerns regarding ChatGPT use were
+   stated in 58/60 (96.7%) records including ethical, copyright,
+   transparency, and legal issues, the risk of bias, plagiarism, lack of
+   originality, inaccurate content with risk of hallucination, limited
+   knowledge, incorrect citations, cybersecurity issues, and risk of
+   infodemics. The promising applications of ChatGPT can induce paradigm
+   shifts in health care education, research, and practice. However, the
+   embrace of this AI chatbot should be conducted with extreme caution
+   considering its potential limitations. As it currently stands, ChatGPT
+   does not qualify to be listed as an author in scientific articles unless
+   the ICMJE/COPE guidelines are revised or amended. An initiative
+   involving all stakeholders in health care education, research, and
+   practice is urgently needed. This will help to set a code of ethics to
+   guide the responsible use of ChatGPT among other LLMs in health care and
+   academia.
+ZA 0
+ZS 16
+TC 1015
+Z8 5
+ZB 97
+ZR 0
+Z9 1026
+DA 2023-04-12
+UT WOS:000956609200001
+PM 36981544
+ER
+
+PT J
+AU Li, Xue
+   Yuan, Ye
+   Yang, Yang
+   Guan, Yi
+   Wang, Haotian
+   Jiang, Jingchi
+   Shi, Huaizhang
+   Liu, Xiguang
+TI Quality-Controllable automatic construction method of Chinese knowledge
+   graph for medical decision-making applications
+SO INFORMATION PROCESSING & MANAGEMENT
+VL 62
+IS 4
+AR 104148
+DI 10.1016/j.ipm.2025.104148
+EA MAR 2025
+DT Article
+PD JUL 2025
+PY 2025
+AB Medical Knowledge Graphs (KGs) store complex medical knowledge in a
+   structured manner, increasingly becoming the foundation of medical
+   artificial intelligence. They provide interpretable evidence for disease
+   diagnosis and treatment, and enhance the accuracy and interpretability
+   of medical information in large language models (LLMs), thus mitigating
+   the hallucination issues. However, existing medical KGs lack diverse
+   knowledge types, sufficient coverage, fine granularity, and high
+   quality, resulting in low utilization rates. To address these issues,
+   this paper, under the guidance of medical professionals, proposes
+   guidelines and automated methods for constructing a Chinese medical KG,
+   drawing from existing experience in building KGs and the requirements of
+   medical decision systems. The construction principles include (1)
+   universality and personalization, (2) comprehensiveness and granularity,
+   (3) knowledge quality control. Furthermore, the automated construction
+   method integrates a chain of thought-based knowledge mining approach and
+   an axiom logic-based quality control module, which improves the
+   scalability of mining and the quality of the knowledge. Based on these,
+   a Chinese medical KG named WiMedKG has been developed. It meets the
+   established construction guidelines by: (1) including both commonsense
+   and experiential medical knowledge, (2) comprehensively covering 111
+   departments with content ranging from clinical practice to preventive
+   medicine and rehabilitation treatments. The granularity of the knowledge
+   is detailed, featuring 29 entity types, 128 refined relationship types,
+   and 40 attribute types, comprising a total of 367,108 entities,
+   3,176,389 relational triples, and 1,021,966 attribute triples. (3) The
+   knowledge has been validated and completed, receiving an evaluation
+   score of 90.66% from medical professionals, which demonstrates the
+   reliability of the quality-controlled automatic KG construction method.
+   Finally, we constructed medical LLM WiMedLLM enhanced by WiMedKG.
+   Experimental results on the medical test dataset show an average
+   performance improvement of 1.51% after KG enhancement, demonstrating the
+   necessity of KG construction and the effectiveness of the automatic
+   construction method. The data and system resources can be found on our
+   page: https://github.com/lx-hit/WiMedKG.
+Z8 0
+TC 0
+ZB 0
+ZS 0
+ZA 0
+ZR 0
+Z9 0
+DA 2025-04-06
+UT WOS:001455489300001
+ER
+
+PT C
+AU Wang, Zijie J.
+   Chau, Duen Horng
+GP ASSOC COMPUTING MACHINERY
+TI MeMemo: On-device Retrieval Augmentation for Private and Personalized
+   Text Generation
+SO PROCEEDINGS OF THE 47TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH
+   AND DEVELOPMENT IN INFORMATION RETRIEVAL, SIGIR 2024
+BP 2765
+EP 2770
+DI 10.1145/3626772.3657662
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Retrieval-augmented text generation (RAG) addresses the common
+   limitations of large language models (LLMs), such as hallucination, by
+   retrieving information from an updatable external knowledge base.
+   However, existing approaches often require dedicated backend servers for
+   data storage and retrieval, thereby limiting their applicability in use
+   cases that require strict data privacy, such as personal finance,
+   education, and medicine. To address the pressing need for client-side
+   dense retrieval, we introduce MeMemo, the first open-source JavaScript
+   toolkit that adapts the state-of-the-art approximate nearest neighbor
+   search technique HNSW to browser environments. Developed with modern and
+   native Web technologies, such as IndexedDB and Web Workers, our toolkit
+   leverages client-side hardware capabilities to enable researchers and
+   developers to efficiently search through millions of high-dimensional
+   vectors in the browser. MeMemo enables exciting new design and research
+   opportunities, such as private and personalized content creation and
+   interactive prototyping, as demonstrated in our example application RAG
+   Playground. Reflecting on our work, we discuss the opportunities and
+   challenges for on-device dense retrieval. MeMemo is available at
+   https://github.com/poloclub/mememo.
+CT 47th Annual International ACM SIGIR Conference on Research and
+   Development in Information Retrieval (SIGIR)
+CY JUL 14-18, 2024
+CL Washington, DC
+SP Assoc Comp Machinery; ACM Special Interest Grp Informat Retrieval
+ZA 0
+Z8 0
+ZR 0
+TC 0
+ZS 0
+ZB 0
+Z9 0
+DA 2024-10-05
+UT WOS:001273410002131
+ER
+
+PT J
+AU Aly, Doaa
+   Aquino, Liliam
+   Haligheri, Geetha
+   Elmeleegy, Khaled
+TI Development and Validation of a Pediatric Cardiology-Specific Large
+   Language Model Chat Interface using Retrieval Augmented Generation
+SO CIRCULATION
+VL 150
+MA 4145650
+DI 10.1161/circ.150.suppl_1.4145650
+SU 1
+DT Meeting Abstract
+PD NOV 12 2024
+PY 2024
+CT American-Heart-Association Resuscitation Science Symposium
+CY NOV 16-18, 2024
+CL Chicago, IL
+SP Amer Heart Assoc
+ZS 0
+ZR 0
+Z8 0
+ZB 0
+ZA 0
+TC 0
+Z9 0
+DA 2025-02-13
+UT WOS:001400066402334
+ER
+
+PT J
+AU Sridharan, Kannan
+   Sivaramakrishnan, Gowri
+TI Unlocking the potential of advanced large language models in medication
+   review and reconciliation: A proof-of-concept investigation
+SO EXPLORATORY RESEARCH IN CLINICAL AND SOCIAL PHARMACY
+VL 15
+AR 100492
+DI 10.1016/j.rcsop.2024.100492
+EA AUG 2024
+DT Article
+PD SEP 2024
+PY 2024
+AB Background: Medication review and reconciliation is essential for
+   optimizing drug therapy and minimizing medication errors. Large language
+   models (LLMs) have been recently shown to possess a lot of potential
+   applications in healthcare field due to their abilities of deductive,
+   abductive, and logical reasoning. The present study assessed the
+   abilities of LLMs in medication review and medication reconciliation
+   processes. Methods: Four LLMs were prompted with appropriate queries
+   related to dosing regimen errors, drug-drug interactions, therapeutic
+   drug monitoring, and genomics-based decision-making process. The
+   veracity of the LLM outputs were verified from validated sources using
+   pre-validated criteria (accuracy, relevancy, risk management,
+   hallucination mitigation, and citations and guidelines). The impacts of
+   the erroneous responses on the patients' safety were categorized either
+   as major or minor. Results: In the assessment of four LLMs regarding
+   dosing regimen errors, drug-drug interactions, and suggestions for
+   dosing regimen adjustments based on therapeutic drug monitoring and
+   genomics-based individualization of drug therapy, responses were
+   generally consistent across prompts with no clear pattern in response
+   quality among the LLMs. For identification of dosage regimen errors,
+   ChatGPT performed well overall, except for the query related to
+   simvastatin. In terms of potential drug-drug interactions, all LLMs
+   recognized interactions with warfarin but missed the interaction between
+   metoprolol and verapamil. Regarding dosage modifications based on
+   therapeutic drug monitoring, Claude-Instant provided appropriate
+   suggestions for two scenarios and nearly appropriate suggestions for the
+   other two. Similarly, for genomics-based decision-making, Claude-Instant
+   offered satisfactory responses for four scenarios, followed by Gemini
+   for three. Notably, Gemini stood out by providing references to
+   guidelines or citations even without prompting, demonstrating a
+   commitment to accuracy and reliability in its responses. Minor impacts
+   were noted in identifying appropriate dosing regimens and therapeutic
+   drug monitoring, while major impacts were found in identifying drug
+   interactions and making pharmacogenomic-based therapeutic decisions.
+   Conclusion: Advanced LLMs hold significant promise in revolutionizing
+   the medication review and reconciliation process in healthcare. Diverse
+   impacts on patient safety were observed. Integrating and validating LLMs
+   within electronic health records and prescription systems is essential
+   to harness their full potential and enhance patient safety and care
+   quality.
+ZB 0
+ZA 0
+ZS 0
+TC 6
+ZR 0
+Z8 0
+Z9 6
+DA 2024-09-06
+UT WOS:001301740600001
+PM 39257533
+ER
+
+PT J
+AU Farquhar, Sebastian
+   Kossen, Jannik
+   Kuhn, Lorenz
+   Gal, Yarin
+TI Detecting hallucinations in large language models using semantic entropy
+SO NATURE
+VL 630
+IS 8017
+DI 10.1038/s41586-024-07421-0
+DT Article
+PD JUN 20 2024
+PY 2024
+AB Large language model (LLM) systems, such as ChatGPT 1 or Gemini 2 , can
+   show impressive reasoning and question-answering capabilities but often
+   'hallucinate' false outputs and unsubstantiated answers 3,4 . Answering
+   unreliably or without the necessary information prevents adoption in
+   diverse fields, with problems including fabrication of legal precedents
+   5 or untrue facts in news articles 6 and even posing a risk to human
+   life in medical domains such as radiology 7 . Encouraging truthfulness
+   through supervision or reinforcement has been only partially successful
+   8 . Researchers need a general method for detecting hallucinations in
+   LLMs that works even with new and unseen questions to which humans might
+   not know the answer. Here we develop new methods grounded in statistics,
+   proposing entropy-based uncertainty estimators for LLMs to detect a
+   subset of hallucinations-confabulations-which are arbitrary and
+   incorrect generations. Our method addresses the fact that one idea can
+   be expressed in many ways by computing uncertainty at the level of
+   meaning rather than specific sequences of words. Our method works across
+   datasets and tasks without a priori knowledge of the task, requires no
+   task-specific data and robustly generalizes to new tasks not seen
+   before. By detecting when a prompt is likely to produce a confabulation,
+   our method helps users understand when they must take extra care with
+   LLMs and opens up new possibilities for using LLMs that are otherwise
+   prevented by their unreliability.
+   Hallucinations (confabulations) in large language model systems can be
+   tackled by measuring uncertainty about the meanings of generated
+   responses rather than the text itself to improve question-answering
+   accuracy.
+ZR 0
+ZB 9
+ZA 0
+TC 85
+ZS 0
+Z8 2
+Z9 88
+DA 2025-03-12
+UT WOS:001262429400005
+PM 38898292
+ER
+
+PT J
+AU Jang, B. S.
+   Alcorn, S. R.
+   McNutt, T. R.
+   Ehsan, U.
+TI Hype or Reality: Utility of Large Language Models in Radiation Oncology
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3382
+BP E629
+EP E630
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZB 0
+Z8 0
+ZR 0
+ZA 0
+TC 0
+ZS 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302063
+ER
+
+PT J
+AU Schwieger, Arne
+   Angst, Katrin
+   de Bardeci, Mateo
+   Burrer, Achim
+   Cathomas, Flurin
+   Ferrea, Stefano
+   Gratz, Franziska
+   Knorr, Marius
+   Kronenberg, Golo
+   Spiller, Tobias
+   Troi, David
+   Seifritz, Erich
+   Weber, Samantha
+   Olbrich, Sebastian
+TI Large language models can support generation of standardized discharge
+   summaries - A retrospective study utilizing ChatGPT-4 and electronic
+   health records
+SO INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS
+VL 192
+AR 105654
+DI 10.1016/j.ijmedinf.2024.105654
+EA OCT 2024
+DT Article
+PD DEC 2024
+PY 2024
+AB Objective: To evaluate whether psychiatric discharge summaries (DS)
+   generated with ChatGPT-4 from electronic health records (EHR) can match
+   the quality of DS written by psychiatric residents. Methods: At a
+   psychiatric primary care hospital, we compared 20 inpatient DS, written
+   by residents, to those written with ChatGPT-4 from pseudonymized
+   residents' notes of the patients' EHRs and a standardized prompt. 8
+   blinded psychiatry specialists rated both versions on a custom Likert
+   scale from 1 to 5 across 15 quality subcategories. The primary outcome
+   was the overall rating difference between the two groups. The secondary
+   outcomes were the rating differences at the level of individual
+   question, case, and rater. Results: Human-written DS were rated
+   significantly higher than AI (mean ratings: human 3.78, AI 3.12, p <
+   0.05). They surpassed AI significantly in 12/15 questions and 16/20
+   cases and were favored significantly by 7/8 raters. For "low expected
+   correction effort", human DS were rated as 67 % favorable, 19 % neutral,
+   and 14 % unfavorable, whereas AI-DS were rated as 22 % favorable, 33 %
+   neutral, and 45 % unfavorable. Hallucinations were present in 40 % of
+   AI-DS, with 37.5 % deemed highly clinically relevant. Minor content
+   mistakes were found in 30 % of AI and 10 % of human DS. Raters correctly
+   identified AI-DS with 81 % sensitivity and 75 % specificity. Discussion:
+   Overall, AI-DS did not match the quality of resident-written DS but
+   performed similarly in 20% of cases and were rated as favorable for "low
+   expected correction effort" in 22% of cases. AI-DS lacked most in
+   content specificity, ability to distill key case information, and
+   coherence but performed adequately in conciseness, adherence to
+   formalities, relevance of included content, and form. Conclusion:
+   LLM-written DS show potential as templates for physicians to finalize,
+   potentially saving time in the future.
+ZA 0
+ZR 0
+Z8 0
+ZS 0
+ZB 1
+TC 5
+Z9 5
+DA 2024-11-07
+UT WOS:001343302900001
+PM 39437512
+ER
+
+EF

@@ -1,0 +1,2459 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Geevarghese, Ruben
+   Solomon, Stephen B.
+   Alexander, Erica S.
+   Marinelli, Brett
+   Chatterjee, Subrata
+   Jain, Pulkit
+   Cadley, John
+   Hollingsworth, Alex
+   Chatterjee, Avijit
+   Ziv, Etay
+TI Utility of a Large Language Model for Extraction of Clinical Findings
+   from Healthcare Data following Lung Ablation: A Feasibility Study
+SO JOURNAL OF VASCULAR AND INTERVENTIONAL RADIOLOGY
+VL 36
+IS 4
+DI 10.1016/j.jvir.2024.11.029
+EA MAR 2025
+DT Article
+PD APR 2025
+PY 2025
+AB To assess the feasibility of utilizing a large language model (LLM) in
+   extracting clinically relevant information from healthcare data in
+   patients who have undergone microwave ablation for lung tumors. In this
+   single-center retrospective study, radiology reports and clinic notes of
+   20 patients were extracted, up to 12 months after treatment. Utilizing
+   an LLM (generative pretrained transformer 3.5 Turbo 16k), a zero-shot
+   prompt strategy was employed to identify 4 key outcomes from relevant
+   healthcare data: (a) recurrence at ablation site, (b) pneumothorax, (c)
+   hemoptysis, and (d) hemothorax following ablation. This was validated
+   with ground-truth labels obtained through manual chart review. Analysis
+   of 104 radiology reports and 37 clinic notes was undertaken. The LLM
+   output demonstrated high accuracy (85%-100%) across the 4 outcomes. An
+   LLM approach appears to have utility in extraction of clinically
+   relevant information from healthcare data. This method may be beneficial
+   in facilitating data analysis for future interventional radiology
+   studies.
+Z8 0
+ZB 0
+ZA 0
+ZR 0
+TC 0
+ZS 0
+Z9 0
+DA 2025-04-04
+UT WOS:001453244100001
+PM 39662619
+ER
+
+PT J
+AU Syed, Sibtain
+   Ahmed, Rehan
+   Iqbal, Arshad
+   Ahmad, Naveed
+   Alshara, Mohammed Ali
+TI MediScan: A Framework of U-Health and Prognostic AI Assessment on
+   Medical Imaging
+SO JOURNAL OF IMAGING
+VL 10
+IS 12
+AR 322
+DI 10.3390/jimaging10120322
+DT Article
+PD DEC 2024
+PY 2024
+AB With technological advancements, remarkable progress has been made with
+   the convergence of health sciences and Artificial Intelligence (AI).
+   Modern health systems are proposed to ease patient diagnostics. However,
+   the challenge is to provide AI-based precautions to patients and doctors
+   for more accurate risk assessment. The proposed healthcare system aims
+   to integrate patients, doctors, laboratories, pharmacies, and
+   administrative personnel use cases and their primary functions onto a
+   single platform. The proposed framework can also process microscopic
+   images, CT scans, X-rays, and MRI to classify malignancy and give
+   doctors a set of AI precautions for patient risk assessment. The
+   proposed framework incorporates various DCNN models for identifying
+   different forms of tumors and fractures in the human body i.e., brain,
+   bones, lungs, kidneys, and skin, and generating precautions with the
+   help of the Fined-Tuned Large Language Model (LLM) i.e., Generative
+   Pretrained Transformer 4 (GPT-4). With enough training data, DCNN can
+   learn highly representative, data-driven, hierarchical image features.
+   The GPT-4 model is selected for generating precautions due to its
+   explanation, reasoning, memory, and accuracy on prior medical
+   assessments and research studies. Classification models are evaluated by
+   classification report (i.e., Recall, Precision, F1 Score, Support,
+   Accuracy, and Macro and Weighted Average) and confusion matrix and have
+   shown robust performance compared to the conventional schemes.
+ZA 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+ZB 0
+Z9 0
+DA 2025-01-05
+UT WOS:001386020400001
+PM 39728219
+ER
+
+PT J
+AU Saddik, Abdulmotaleb El
+   Ghaboura, Sara
+TI The Integration of ChatGPT With the Metaverse for Medical Consultations
+SO IEEE CONSUMER ELECTRONICS MAGAZINE
+VL 13
+IS 3
+BP 6
+EP 15
+DI 10.1109/MCE.2023.3324978
+DT Article
+PD MAY 2024
+PY 2024
+AB Recent years witnessed a promising synergy between healthcare and the
+   Metaverse leading to the development of virtual healthcare environments.
+   This convergence offers accessible and immersive healthcare experiences
+   and holds the potential for transforming the delivery of medical
+   services and enhancing patient outcomes. However, the reliance on
+   specialist presence in the metaverse for medical support remains a
+   challenge. On the other hand, the newly launched large language model
+   chatbot, the ChatGPT of OpenAI, has emerged as a game-changer, providing
+   human-like responses and facilitating interactive conversations. By
+   integrating this cutting-edge language model with the Metaverse for
+   medical purposes, we can potentially revolutionize healthcare delivery,
+   enhance access to care, and increase patient engagement. This study
+   proposes a new medical Metaverse model utilizing GPT-4 as a content
+   creator, highlighting its potential, addressing challenges and
+   limitations, and exploring various application fields. We conclude by
+   outlining our ongoing efforts to transform this concept into a practical
+   reality.
+Z8 0
+ZA 0
+ZS 0
+ZB 0
+ZR 0
+TC 6
+Z9 6
+DA 2024-04-10
+UT WOS:001184800600009
+ER
+
+PT J
+AU Kalaw, Fritz Gerald P.
+   Baxter, Sally L.
+TI Ethical considerations for large language models in ophthalmology
+SO CURRENT OPINION IN OPHTHALMOLOGY
+VL 35
+IS 6
+BP 438
+EP 446
+DI 10.1097/ICU.0000000000001083
+DT Article
+PD NOV 2024
+PY 2024
+AB Purpose of reviewThis review aims to summarize and discuss the ethical
+   considerations regarding large language model (LLM) use in the field of
+   ophthalmology.Recent findingsThis review of 47 articles on LLM
+   applications in ophthalmology highlights their diverse potential uses,
+   including education, research, clinical decision support, and surgical
+   assistance (as an aid in operative notes). We also review ethical
+   considerations such as the inability of LLMs to interpret data
+   accurately, the risk of promoting controversial or harmful
+   recommendations, and breaches of data privacy. These concerns imply the
+   need for cautious integration of artificial intelligence in healthcare,
+   emphasizing human oversight, transparency, and accountability to
+   mitigate risks and uphold ethical standards.SummaryThe integration of
+   LLMs in ophthalmology offers potential advantages such as aiding in
+   clinical decision support and facilitating medical education through
+   their ability to process queries and analyze ophthalmic imaging and
+   clinical cases. However, their utilization also raises ethical concerns
+   regarding data privacy, potential misinformation, and biases inherent in
+   the datasets used. Awareness of these concerns should be addressed in
+   order to optimize its utility in the healthcare setting. More
+   importantly, promoting responsible and careful use by consumers should
+   be practiced.
+ZR 0
+ZA 0
+ZB 0
+ZS 0
+Z8 0
+TC 2
+Z9 2
+DA 2024-10-05
+UT WOS:001322587400009
+PM 39259616
+ER
+
+PT J
+AU Poole, Shane
+   Sisodia, Nikki
+   Koshal, Kanishka
+   Henderson, Kyra
+   Wijangco, Jaeleene
+   Paredes, Danelvis
+   Chen, Chelsea
+   Rowles, William
+   Akula, Amit
+   Wuerfel, Jens
+   Sharma, Vishakha
+   Rauschecker, Andreas M.
+   Henry, Roland G.
+   Bove, Riley
+TI Detecting New Lesions Using a Large Language Model: Applications in
+   Real-World Multiple Sclerosis Datasets
+SO ANNALS OF NEUROLOGY
+DI 10.1002/ana.27251
+EA APR 2025
+DT Article; Early Access
+PY 2025
+AB Objective: Neuroimaging is routinely utilized to identify new
+   inflammatory activity in multiple sclerosis (MS). A large language model
+   to classify narrative magnetic resonance imaging reports in the
+   electronic health record (EHR) as discrete data could provide
+   significant benefits for MS research. The objectives of the current
+   study were to develop such a prompt and to illustrate its research
+   applications through a common clinical scenario: monitoring response to
+   B-cell depleting therapy (BCDT). Methods: An institutional ecosystem
+   that securely connects healthcare data with ChatGPT4 was applied to
+   clinical MS magnetic resonance imaging reports in a single institutional
+   EHR (2000-2022). A prompt (msLesionprompt) was developed and iteratively
+   refined to classify the presence or absence of new T2-weighted lesions
+   (newT2w) and contrast-enhancing lesions (CEL). The multistep validation
+   included evaluating efficiency (time and cost), comparison with manually
+   annotated reports using standard confusion matrix, and application to
+   identifying predictors of newT2w/CEL after BCDT start. Results: Accuracy
+   of msLesionprompt was high for detection of newT2w (97%) and CEL
+   (96.8%). All 14,888 available reports were categorized in 4.13 hours
+   ($28); 79% showed no newT2w or CEL. Data extracted showed expected
+   suppression of new activity by BCDT (>97% monitoring magnetic resonance
+   images after an initial "rebaseline" scan). Neighborhood poverty (Area
+   Deprivation Index) was identified as a predictor of inflammatory
+   activity (newT2w: OR 1.69, 95% CI 1.10-2.59, p = 0.017; CEL: OR 1.54,
+   95% CI 1.01-2.34, p = 0.046). Interpretation: Extracting discrete
+   information from narrative imaging reports using an large language model
+   is feasible and efficient. This approach could augment many real-world
+   analyses of MS disease evolution and treatment response. ANN NEUROL
+   2025.
+ZB 0
+TC 0
+ZS 0
+ZA 0
+ZR 0
+Z8 0
+Z9 0
+DA 2025-05-05
+UT WOS:001476383200001
+PM 40277428
+ER
+
+PT J
+AU Lyu, Qing
+   Tan, Josh
+   Zapadka, Michael E.
+   Ponnatapura, Janardhana
+   Niu, Chuang
+   Myers, Kyle J.
+   Wang, Ge
+   Whitlow, Christopher T.
+TI Translating radiology reports into plain language using ChatGPT and
+   GPT-4 with prompt learning: results, limitations, and potential
+SO VISUAL COMPUTING FOR INDUSTRY BIOMEDICINE AND ART
+VL 6
+IS 1
+AR 9
+DI 10.1186/s42492-023-00136-5
+DT Article
+PD MAY 18 2023
+PY 2023
+AB The large language model called ChatGPT has drawn extensively attention
+   because of its human-like expression and reasoning abilities. In this
+   study, we investigate the feasibility of using ChatGPT in experiments on
+   translating radiology reports into plain language for patients and
+   healthcare providers so that they are educated for improved healthcare.
+   Radiology reports from 62 low-dose chest computed tomography lung cancer
+   screening scans and 76 brain magnetic resonance imaging metastases
+   screening scans were collected in the first half of February for this
+   study. According to the evaluation by radiologists, ChatGPT can
+   successfully translate radiology reports into plain language with an
+   average score of 4.27 in the five-point system with 0.08 places of
+   information missing and 0.07 places of misinformation. In terms of the
+   suggestions provided by ChatGPT, they are generally relevant such as
+   keeping following-up with doctors and closely monitoring any symptoms,
+   and for about 37% of 138 cases in total ChatGPT offers specific
+   suggestions based on findings in the report. ChatGPT also presents some
+   randomness in its responses with occasionally over-simplified or
+   neglected information, which can be mitigated using a more detailed
+   prompt. Furthermore, ChatGPT results are compared with a newly released
+   large model GPT-4, showing that GPT-4 can significantly improve the
+   quality of translated reports. Our results show that it is feasible to
+   utilize large language models in clinical education, and further efforts
+   are needed to address limitations and maximize their potential.
+ZA 0
+Z8 3
+ZB 18
+ZR 0
+ZS 0
+TC 145
+Z9 147
+DA 2023-05-26
+UT WOS:000989177600001
+PM 37198498
+ER
+
+PT J
+AU Shanbhag, Nandan M
+   Bin Sumaida, Abdulrahman
+   Al Shamisi, Khalifa
+   Balaraj, Khalid
+TI Apple Vision Pro: A Paradigm Shift in Medical Technology.
+SO Cureus
+VL 16
+IS 9
+BP e69608
+EP e69608
+DI 10.7759/cureus.69608
+DT Journal Article; Review
+PD 2024-Sep
+PY 2024
+AB The introduction of Apple Vision Pro (AVP) marks a significant milestone
+   in the intersection of technology and healthcare, offering unique
+   capabilities in mixed reality, which Apple terms "spatial computing."
+   This narrative review aims to explore the various applications of AVP in
+   medical technology, emphasizing its impact on patient care, clinical
+   practices, medical education, and future directions. The review
+   synthesizes findings from multiple studies and articles published
+   between January 2023 and May 2024, highlighting AVP's potential to
+   enhance visualization in diagnostic imaging and surgical planning,
+   assist visually impaired patients, and revolutionize medical education
+   through immersive learning environments. Despite its promise, challenges
+   remain in integrating AVP into existing healthcare systems and
+   understanding its long-term impact on patient outcomes. As research
+   continues, AVP is poised to play a pivotal role in the future of
+   medicine, offering a transformative tool for healthcare professionals.
+ZB 0
+ZR 0
+ZA 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+DA 2024-09-25
+UT MEDLINE:39308843
+PM 39308843
+ER
+
+PT J
+AU Li, Xiang
+   Zhao, Lin
+   Zhang, Lu
+   Wu, Zihao
+   Liu, Zhengliang
+   Jiang, Hanqi
+   Cao, Chao
+   Xu, Shaochen
+   Li, Yiwei
+   Dai, Haixing
+   Yuan, Yixuan
+   Liu, Jun
+   Li, Gang
+   Zhu, Dajiang
+   Yan, Pingkun
+   Li, Quanzheng
+   Liu, Wei
+   Liu, Tianming
+   Shen, Dinggang
+TI Artificial General Intelligence for Medical Imaging Analysis
+SO IEEE REVIEWS IN BIOMEDICAL ENGINEERING
+VL 18
+BP 113
+EP 129
+DI 10.1109/RBME.2024.3493775
+DT Article
+PD 2025
+PY 2025
+AB Large-scale Artificial General Intelligence (AGI) models, including
+   Large Language Models (LLMs) such as ChatGPT/GPT-4, have achieved
+   unprecedented success in a variety of general domain tasks. Yet, when
+   applied directly to specialized domains like medical imaging, which
+   require in-depth expertise, these models face notable challenges arising
+   from the medical field's inherent complexities and unique
+   characteristics. In this review, we delve into the potential
+   applications of AGI models in medical imaging and healthcare, with a
+   primary focus on LLMs, Large Vision Models, and Large Multimodal Models.
+   We provide a thorough overview of the key features and enabling
+   techniques of LLMs and AGI, and further examine the roadmaps guiding the
+   evolution and implementation of AGI models in the medical sector,
+   summarizing their present applications, potentialities, and associated
+   challenges. In addition, we highlight potential future research
+   directions, offering a holistic view on upcoming ventures. This
+   comprehensive review aims to offer insights into the future implications
+   of AGI in medical imaging, healthcare, and beyond.
+TC 5
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+ZR 0
+Z9 5
+DA 2025-02-09
+UT WOS:001410877900014
+PM 39509310
+ER
+
+PT J
+AU Hirata, Kenji
+   Matsui, Yusuke
+   Yamada, Akira
+   Fujioka, Tomoyuki
+   Yanagawa, Masahiro
+   Nakaura, Takeshi
+   Ito, Rintaro
+   Ueda, Daiju
+   Fujita, Shohei
+   Tatsugami, Fuminari
+   Fushimi, Yasutaka
+   Tsuboyama, Takahiro
+   Kamagata, Koji
+   Nozaki, Taiki
+   Fujima, Noriyuki
+   Kawamura, Mariko
+   Naganawa, Shinji
+TI Generative AI and large language models in nuclear medicine: current
+   status and future prospects
+SO ANNALS OF NUCLEAR MEDICINE
+VL 38
+IS 11
+BP 853
+EP 864
+DI 10.1007/s12149-024-01981-x
+EA SEP 2024
+DT Review
+PD NOV 2024
+PY 2024
+AB This review explores the potential applications of Large Language Models
+   (LLMs) in nuclear medicine, especially nuclear medicine examinations
+   such as PET and SPECT, reviewing recent advancements in both fields.
+   Despite the rapid adoption of LLMs in various medical specialties, their
+   integration into nuclear medicine has not yet been sufficiently
+   explored. We first discuss the latest developments in nuclear medicine,
+   including new radiopharmaceuticals, imaging techniques, and clinical
+   applications. We then analyze how LLMs are being utilized in radiology,
+   particularly in report generation, image interpretation, and medical
+   education. We highlight the potential of LLMs to enhance nuclear
+   medicine practices, such as improving report structuring, assisting in
+   diagnosis, and facilitating research. However, challenges remain,
+   including the need for improved reliability, explainability, and bias
+   reduction in LLMs. The review also addresses the ethical considerations
+   and potential limitations of AI in healthcare. In conclusion, LLMs have
+   significant potential to transform existing frameworks in nuclear
+   medicine, making it a critical area for future research and development.
+ZR 0
+ZA 0
+TC 4
+ZB 1
+ZS 0
+Z8 0
+Z9 4
+DA 2024-09-30
+UT WOS:001319554200001
+PM 39320419
+ER
+
+PT J
+AU Lu, Zhiyong
+TI Multimodal Large Language Models in Vision and Ophthalmology
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+MA 3876
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+ZA 0
+Z8 0
+TC 1
+ZB 0
+ZS 0
+ZR 0
+Z9 1
+DA 2024-11-30
+UT WOS:001313316201235
+ER
+
+PT C
+AU Tung, Chuenyuet
+   Lin, Yi
+   Yin, Jianing
+   Ye, Qiaoyuchen
+   Chen, Hao
+BE Chen, H
+   Zhou, Y
+   Xu, D
+   Vardhanabhuti, VV
+TI Exploring Vision Language Pretraining with Knowledge Enhancement via
+   Large Language Model
+SO TRUSTWORTHY ARTIFICIAL INTELLIGENCE FOR HEALTHCARE, TAI4H 2024
+SE Lecture Notes in Computer Science
+VL 14812
+BP 81
+EP 91
+DI 10.1007/978-3-031-67751-9_7
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB The integration of Vision-Language Pretraining (VLP) models in the
+   medical field represents a significant advancement in the development of
+   AI-driven diagnostic tools. These models, which learn to understand and
+   generate descriptions of visual content, have shown great promise in
+   enhancing the interpretability and accuracy of medical image analysis.
+   However, the application of VLP models in healthcare poses unique
+   challenges, including the scarcity of labeled data and fine-grained
+   nature of medical imaging. Our contributions include the development of
+   a Medical Visual Language Pre-training (MVLP) model that leverages
+   domain-specific knowledge to improve the alignment between medical
+   images and radiology reports. By utilizing a triplet extraction method
+   and encoding the medical entities with detailed descriptions by Med-PALM
+   2, we simplify language complexity and exploit the rich domain knowledge
+   learned in Large Language Model, and implicitly build relationships
+   between medical entities in the language embedding space. Our model
+   demonstrates significant improvements in disease classification tasks,
+   achieving competitive Area Under the Curve scores on benchmark datasets
+   such as RSNA Pneumonia and ChestX-ray14.
+CT 2nd International Workshop on Trustworthy Artificial Intelligence for
+   Healthcare (TAI4H)
+CY AUG 04, 2024
+CL Jeju, SOUTH KOREA
+TC 0
+ZB 0
+ZS 0
+ZA 0
+Z8 0
+ZR 0
+Z9 0
+DA 2024-10-16
+UT WOS:001313540900007
+ER
+
+PT J
+AU Encalada, Sebastian
+   Gupta, Sahil
+   Hunt, Christine
+   Eldrige, Jason
+   Evans, John 2nd
+   Mosquera-Moscoso, Johanna
+   Pessoa de Mendonca, Laura Furtado
+   Kanahan-Osman, Sharima
+   Bade, Sohail
+   Bade, Sahil
+   Ivicic, Lisbet
+   Foskey, Stephanie
+   Lyles, Jason
+   Suarez, Juan
+   Fisher, Aaron
+   Khan, Hamaad
+   Stone, Jeffrey A
+   Hurdle, Mark
+TI Optimizing patient understanding of spine MRI reports using AI: A
+   prospective single center study.
+SO Interventional pain medicine
+VL 4
+IS 1
+BP 100550
+EP 100550
+DI 10.1016/j.inpm.2025.100550
+DT Journal Article
+PD 2025-Mar
+PY 2025
+AB Background: Patient comprehension of spine MRI reports remains a
+   significant challenge, potentially affecting healthcare engagement and
+   outcomes. Artificial Intelligence (AI) may offer a solution for
+   interpreting complex medical terminology into layman's terms language.
+   Objective: To evaluate the effectiveness of AI-based interpretation of
+   spine MRI reports in improving patient comprehension and satisfaction.
+   Methods: A prospective, single-center survey study was conducted at a
+   single institution's multidisciplinary pain and spine clinics from May
+   2024 to November 2024, enrolling 102 adult patients scheduled for spine
+   MRI. Imaging reports were interpreted using a single AI-based Large
+   Language Model (LLM) that is securely operated within the hospital's
+   network, with interpretations independently reviewed by healthcare
+   providers and research coordinators. A board-certified neuroradiologist
+   evaluated the accuracy of AI interpretations using a standardized
+   5-point scale. We analyzed survey responses from participants who
+   received both their original MRI reports and AI-interpreted versions,
+   comparing comprehension, clarity, engagement, and satisfaction.
+   Results: Participants reported higher comprehension with AI-interpreted
+   MRI reports versus original radiology reports (8.50±1.91 vs 6.56±2.42;
+   P<.001). AI interpretations received superior scores for clarity
+   (8.57±1.79 vs 6.96±2.12; P<.001), understanding of medical conditions
+   (7.75±2.18 vs 6.27±2.28; P<.001), and healthcare engagement (8.35±2.00
+   vs 6.78±2.48; P<.001). Accuracy assessment showed that 82.4% of AI
+   interpretations achieved high-quality ratings (≥4) [95% CI:
+   69.7%-90.4%], while 92.2% were rated acceptable (≥3). Most participants
+   (54.0%) assigned the highest possible recommendation scores to AI
+   interpretation. No significant differences were found between age groups
+   and gender.
+   Conclusions: AI-based interpretation of spine MRI reports significantly
+   improved patient comprehension and satisfaction. Despite the promise of
+   rapidly evolving AI-based technologies, a considerable percentage of AI
+   interpretations were deemed to be inaccurate, warranting the need for
+   further research.
+ZA 0
+ZB 0
+TC 0
+ZS 0
+ZR 0
+Z8 0
+Z9 0
+DA 2025-03-09
+UT MEDLINE:40051774
+PM 40051774
+ER
+
+PT J
+AU Wang, Jinyuan
+   Wang, Ya Xing
+   Zeng, Dian
+   Zhu, Zhuoting
+   Li, Dawei
+   Liu, Yuchen
+   Sheng, Bin
+   Grzybowski, Andrzej
+   Wong, Tien Yin
+TI Artificial intelligence-enhanced retinal imaging as a
+SO THERANOSTICS
+VL 15
+IS 8
+BP 3223
+EP 3233
+DI 10.7150/thno.100786
+DT Review
+PD 2025
+PY 2025
+AB Retinal images provide a non-invasive and accessible means to directly
+   visualize human blood vessels and nerve fibers. Growing studies have
+   investigated the intricate microvascular and neural circuitry within the
+   retina, its interactions with other systemic vascular and nervous
+   systems, and the link between retinal biomarkers and various systemic
+   diseases. Using the eye to study systemic health, based on these
+   connections, has been given a term as oculomics. Advancements in
+   artificial intelligence (AI) technologies, particularly deep learning,
+   have further increased the potential impact of this study. Leveraging
+   these technologies, retinal analysis has demonstrated potentials in
+   detecting numerous diseases, including cardiovascular diseases, central
+   nervous system diseases, chronic kidney diseases, metabolic diseases,
+   endocrine disorders, and hepatobiliary diseases. AI-based retinal
+   imaging, which incorporates established modalities such as digital color
+   fundus photographs, optical coherence tomography (OCT) and OCT
+   angiography, as well as emerging technologies like ultra-wide field
+   imaging, shows great promises in predicting systemic diseases. This
+   provides a valuable opportunity for systemic diseases screening, early
+   detection, prediction, risk stratification, and personalized
+   prognostication. As the AI and big data research field grows, with the
+   mission of transforming healthcare, they also face numerous challenges
+   and limitations both in data and technology. The application of natural
+   language processing framework, large language model, and other
+   generative AI techniques presents both opportunities and concerns that
+   require careful consideration. In this review, we not only summarize key
+   studies on AI-enhanced retinal imaging for predicting systemic diseases
+   but also underscore the significance of these advancements in
+   transforming healthcare. By highlighting the remarkable progress made
+   thus far, we provide a comprehensive overview of state-of-the-art
+   techniques and explore the opportunities and challenges in this rapidly
+   evolving field. This review aims to serve as a valuable resource for
+   researchers and clinicians, guiding future studies and fostering the
+   integration of AI in clinical practice.
+TC 1
+Z8 0
+ZB 0
+ZR 0
+ZA 0
+ZS 0
+Z9 1
+DA 2025-03-29
+UT WOS:001450577100001
+PM 40093903
+ER
+
+PT J
+AU Gupta, Ayushi
+   Al-Kazwini, Hussein
+TI Evaluating ChatGPT's Diagnostic Accuracy in Detecting Fundus Images.
+SO Cureus
+VL 16
+IS 11
+BP e73660
+EP e73660
+DI 10.7759/cureus.73660
+DT Journal Article
+PD 2024-Nov
+PY 2024
+AB Introduction Artificial intelligence is rapidly advancing in healthcare.
+   Ophthalmology, with its reliance on imaging for diagnosis and
+   management, has the potential to benefit from this technology. Deep
+   learning models are currently used in image analysis in ophthalmology.
+   ChatGPT (OpenAI, San Francisco, CA), a large language model, has
+   recently expanded to include image analysis, creating new opportunities
+   for diagnostic applications. While prior research shows potential in
+   text-based diagnostics for ophthalmology, there is limited literature on
+   AI's diagnostic accuracy in interpreting retinal images. Methods We
+   selected 12 fundus images from key diseases identified by the Royal
+   College of Ophthalmology curricula for medical students, foundation
+   doctors, and trainees. Each image was presented to ChatGPT 4.0 using a
+   standardised prompt to identify the most likely diagnosis. Responses
+   were recorded, and the model's accuracy was assessed by comparing its
+   diagnoses to the confirmed conditions. Results ChatGPT accurately
+   diagnosed four out of 12 diseases (papilloedema, dry age-related macular
+   degeneration (ARMD), glaucoma and vitreous haemorrhage) and provided one
+   partially correct diagnosis (diabetic retinopathy). However, the model
+   struggled with seven cases, including central retinal artery occlusion,
+   central retinal vein occlusion, dry ARMD, rhegmatogenous retinal
+   detachment, tractional retinal detachment, epiretinal membrane and
+   macular hole. Conclusion ChatGPT demonstrates the potential for
+   diagnosis of retinal conditions from fundus photography. However, it
+   currently lacks the accuracy required for clinical application; the
+   model often hallucinates when unsure, which has diagnostic implications.
+   Further work is required to refine these models and expand their
+   diagnostic potential.
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+TC 0
+ZA 0
+Z9 0
+DA 2024-12-18
+UT MEDLINE:39677217
+PM 39677217
+ER
+
+PT J
+AU Kumar, Rahul
+   Waisberg, Ethan
+   Ong, Joshua
+   Paladugu, Phani
+   Sporn, Kyle
+   Chima, Karsten
+   Amiri, Dylan
+   Zaman, Nasif
+   Tavakkoli, Alireza
+TI Precision health monitoring in spaceflight with integration of lower
+   body negative pressure and advanced large language model artificial
+   intelligence
+SO LIFE SCIENCES IN SPACE RESEARCH
+VL 47
+BP 57
+EP 60
+DI 10.1016/j.lssr.2025.05.010
+DT Article
+PD NOV 2025
+PY 2025
+AB Long-term exposure to microgravity influences musculoskeletal health and
+   enhances the likelihood of sustaining orthopedic injuries while on a
+   microgravity mission and upon return to Earth. Although countermeasures
+   are being investigated to alleviate some risks of injury, such as
+   resistive (or weight) exercise and Lower Body Negative Pressure (LBNP),
+   evidence is accumulating that current paradigms do not ensure the safety
+   or health of astronauts because of a lack of in-flight diagnostic
+   methods, in which load/diagnostic metrics can be assessed over time.
+   Here, we suggest the integration of a new vision-language large language
+   model (DeepSeek-VL) as a potential autonomous diagnostic agent for
+   monitoring musculoskeletal health in a microgravity environment.
+   DeepSeek-VL will autonomously analyze radiographic data and
+   biomechanical data streamed from a LBNP device. Determinations will be
+   made based on lost or compromised density in bone, lost joint-centered
+   stability, or ineffective loading patterns - providing personalized and
+   specific feedback regarding musculoskeletal health with the astronaut as
+   the primary user. Unlike conventional reporting approaches that rely on
+   cross-institutional analysis by household experts, DeepSeek-VL allows
+   for real-time, and autonomous interpretation of musculoskeletal imaging
+   metrics (and physiological metrics) for on-time personalized
+   countermeasure development. Here, we review architectural adaptations
+   including microgravity specific samplings of data, training protocols
+   and implications of deployment in the ISS. We anticipate DeepSeek's
+   timely development of flight-ready diagnostic reporting will facilitate
+   in-flight/systematic monitoring of musculoskeletal health and safety,
+   especially for astronauts undergoing load management training (e.g.,
+   LBNP) and ensure effectiveness of countermeasures, their outputs. We
+   will address methods to circumvent limitations and barriers to risk, and
+   establish the importance of a federated, adaptive, and resilient
+   AI-based platform to mitigate risk for astronaut musculoskeletal health
+   during extended missions. Finally, we address some considerations for
+   terrestrial model and a healthcare authority within a current context of
+   growing importance for effective orthopedic healthcare.
+ZR 0
+Z8 0
+ZA 0
+ZB 0
+TC 0
+ZS 0
+Z9 0
+DA 2025-06-11
+UT WOS:001503625900001
+ER
+
+PT J
+AU Maroncelli, Roberto
+   Rizzo, Veronica
+   Pasculli, Marcella
+   Cicciarelli, Federica
+   Macera, Massimo
+   Galati, Francesca
+   Catalano, Carlo
+   Pediconi, Federica
+TI Probing clarity: AI-generated simplified breast imaging reports for
+   enhanced patient comprehension powered by ChatGPT-4o
+SO EUROPEAN RADIOLOGY EXPERIMENTAL
+VL 8
+IS 1
+AR 124
+DI 10.1186/s41747-024-00526-1
+DT Article
+PD OCT 30 2024
+PY 2024
+AB Background To assess the reliability and comprehensibility of breast
+   radiology reports simplified by artificial intelligence using the large
+   language model (LLM) ChatGPT-4o. Methods A radiologist with 20 years'
+   experience selected 21 anonymized breast radiology reports, 7
+   mammography, 7 breast ultrasound, and 7 breast magnetic resonance
+   imaging (MRI), categorized according to breast imaging reporting and
+   data system (BI-RADS). These reports underwent simplification by
+   prompting ChatGPT-4o with "Explain this medical report to a patient
+   using simple language". Five breast radiologists assessed the quality of
+   these simplified reports for factual accuracy, completeness, and
+   potential harm with a 5-point Likert scale from 1 (strongly agree) to 5
+   (strongly disagree). Another breast radiologist evaluated the text
+   comprehension of five non-healthcare personnel readers using a 5-point
+   Likert scale from 1 (excellent) to 5 (poor). Descriptive statistics,
+   Cronbach's alpha, and the Kruskal-Wallis test were used. Results
+   Mammography, ultrasound, and MRI showed high factual accuracy (median 2)
+   and completeness (median 2) across radiologists, with low potential harm
+   scores (median 5); no significant group differences (p >= 0.780), and
+   high internal consistency (alpha > 0.80) were observed. Non-healthcare
+   readers showed high comprehension (median 2 for mammography and MRI and
+   1 for ultrasound); no significant group differences across modalities (p
+   = 0.368), and high internal consistency (alpha > 0.85) were observed.
+   BI-RADS 0, 1, and 2 reports were accurately explained, while BI-RADS 3-6
+   reports were challenging. Conclusion The model demonstrated reliability
+   and clarity, offering promise for patients with diverse backgrounds.
+   LLMs like ChatGPT-4o could simplify breast radiology reports, aid in
+   communication, and enhance patient care. Relevance statement Simplified
+   breast radiology reports generated by ChatGPT-4o show potential in
+   enhancing communication with patients, improving comprehension across
+   varying educational backgrounds, and contributing to patient-centered
+   care in radiology practice. Key Points AI simplifies complex breast
+   imaging reports, enhancing patient understanding. Simplified reports
+   from AI maintain accuracy, improving patient comprehension
+   significantly. Implementing AI reports enhances patient engagement and
+   communication in breast imaging.
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+TC 3
+ZA 0
+Z9 3
+DA 2024-11-07
+UT WOS:001346069300001
+PM 39477904
+ER
+
+PT J
+AU Rosskopf, Steffen
+   Meder, Benjamin
+TI Healthcare 4.0-Medizin im Wandel
+SO HERZ
+VL 49
+IS 5
+BP 350
+EP 354
+DI 10.1007/s00059-024-05267-w
+EA AUG 2024
+DT Review
+PD OCT 2024
+PY 2024
+AB Healthcare 4.0 describes the future transformation of the healthcare
+   sector driven by the combination of digital technologies, such as
+   artificial intelligence (AI), big data and the Internet of Medical
+   Things, enabling the advancement of precision medicine. This overview
+   article addresses various areas such as large language models (LLM),
+   diagnostics and robotics, shedding light on the positive aspects of
+   Healthcare 4.0 and showcasing exciting methods and application examples
+   in cardiology. It delves into the broad knowledge base and enormous
+   potential of LLMs, highlighting their immediate benefits as digital
+   assistants or for administrative tasks. In diagnostics, the increasing
+   usefulness of wearables is emphasized and an AI for predicting heart
+   filling pressures based on cardiac magnetic resonance imaging (MRI) is
+   introduced. Additionally, it discusses the revolutionary methodology of
+   a digital simulation of the physical heart (digital twin). Finally, it
+   addresses both regulatory frameworks and a brief vision of data-driven
+   healthcare delivery, explaining the need for investments in technical
+   personnel and infrastructure to achieve a more effective medicine.
+Z8 0
+ZB 0
+ZS 0
+ZA 0
+TC 0
+ZR 0
+Z9 0
+DA 2024-08-14
+UT WOS:001287384100001
+PM 39115627
+ER
+
+PT J
+AU Voinea, Stefan-Vlad
+   Mamuleanu, Madalin
+   Teica, Rossy Vladut
+   Florescu, Lucian Mihai
+   Selisteanu, Dan
+   Gheonea, Ioana Andreea
+TI GPT-Driven Radiology Report Generation with Fine-Tuned Llama 3
+SO BIOENGINEERING-BASEL
+VL 11
+IS 10
+AR 1043
+DI 10.3390/bioengineering11101043
+DT Article
+PD OCT 2024
+PY 2024
+AB The integration of deep learning into radiology has the potential to
+   enhance diagnostic processes, yet its acceptance in clinical practice
+   remains limited due to various challenges. This study aimed to develop
+   and evaluate a fine-tuned large language model (LLM), based on Llama
+   3-8B, to automate the generation of accurate and concise conclusions in
+   magnetic resonance imaging (MRI) and computed tomography (CT) radiology
+   reports, thereby assisting radiologists and improving reporting
+   efficiency. A dataset comprising 15,000 radiology reports was collected
+   from the University of Medicine and Pharmacy of Craiova's Imaging
+   Center, covering a diverse range of MRI and CT examinations made by four
+   experienced radiologists. The Llama 3-8B model was fine-tuned using
+   transfer-learning techniques, incorporating parameter quantization to
+   4-bit precision and low-rank adaptation (LoRA) with a rank of 16 to
+   optimize computational efficiency on consumer-grade GPUs. The model was
+   trained over five epochs using an NVIDIA RTX 3090 GPU, with intermediary
+   checkpoints saved for monitoring. Performance was evaluated
+   quantitatively using Bidirectional Encoder Representations from
+   Transformers Score (BERTScore), Recall-Oriented Understudy for Gisting
+   Evaluation (ROUGE), Bilingual Evaluation Understudy (BLEU), and Metric
+   for Evaluation of Translation with Explicit Ordering (METEOR) metrics on
+   a held-out test set. Additionally, a qualitative assessment was
+   conducted, involving 13 independent radiologists who participated in a
+   Turing-like test and provided ratings for the AI-generated conclusions.
+   The fine-tuned model demonstrated strong quantitative performance,
+   achieving a BERTScore F1 of 0.8054, a ROUGE-1 F1 of 0.4998, a ROUGE-L F1
+   of 0.4628, and a METEOR score of 0.4282. In the human evaluation, the
+   artificial intelligence (AI)-generated conclusions were preferred over
+   human-written ones in approximately 21.8% of cases, indicating that the
+   model's outputs were competitive with those of experienced radiologists.
+   The average rating of the AI-generated conclusions was 3.65 out of 5,
+   reflecting a generally favorable assessment. Notably, the model
+   maintained its consistency across various types of reports and
+   demonstrated the ability to generalize to unseen data. The fine-tuned
+   Llama 3-8B model effectively generates accurate and coherent conclusions
+   for MRI and CT radiology reports. By automating the conclusion-writing
+   process, this approach can assist radiologists in reducing their
+   workload and enhancing report consistency, potentially addressing some
+   barriers to the adoption of deep learning in clinical practice. The
+   positive evaluations from independent radiologists underscore the
+   model's potential utility. While the model demonstrated strong
+   performance, limitations such as dataset bias, limited sample diversity,
+   a lack of clinical judgment, and the need for large computational
+   resources require further refinement and real-world validation. Future
+   work should explore the integration of such models into clinical
+   workflows, address ethical and legal considerations, and extend this
+   approach to generate complete radiology reports.
+ZS 0
+ZB 0
+Z8 1
+ZA 0
+ZR 0
+TC 1
+Z9 1
+DA 2024-11-03
+UT WOS:001342753500001
+PM 39451418
+ER
+
+PT J
+AU Wang, Yue
+   Yang, Shuo
+   Zeng, Chengcheng
+   Xie, Yingwei
+   Shen, Ya
+   Li, Jian
+   Huang, Xiao
+   Wei, Ruili
+   Chen, Yuqing
+TI Evaluating the performance of ChatGPT in patient consultation and
+   image-based preliminary diagnosis in thyroid eye disease
+SO FRONTIERS IN MEDICINE
+VL 12
+AR 1546706
+DI 10.3389/fmed.2025.1546706
+DT Article
+PD FEB 18 2025
+PY 2025
+AB Background The emergence of Large Language Model (LLM) chatbots, such as
+   ChatGPT, has great promise for enhancing healthcare practice. Online
+   consultation, accurate pre-diagnosis, and clinical efforts are of
+   fundamental importance for the patient-oriented management
+   system.Objective This cross-sectional study aims to evaluate the
+   performance of ChatGPT in inquiries across ophthalmic domains and to
+   focus on Thyroid Eye Disease (TED) consultation and image-based
+   preliminary diagnosis in a non-English language.Methods We obtained
+   frequently consulted clinical inquiries from a published reference based
+   on patient consultation data, titled A Comprehensive Collection of
+   Thyroid Eye Disease Knowledge. Additionally, we collected facial and
+   Computed Tomography (CT) images from 16 patients with a definitive
+   diagnosis of TED. From 18 to 30 May 2024, inquiries about the TED
+   consultation and preliminary diagnosis were posed to ChatGPT using a new
+   chat for each question. Responses to questions from ChatGPT-4, 4o, and
+   an experienced ocular professor were compiled into three questionnaires,
+   which were evaluated by patients and ophthalmologists on four
+   dimensions: accuracy, comprehensiveness, conciseness, and satisfaction.
+   The preliminary diagnosis of TED was deemed accurate, and the
+   differences in the accuracy rates were further calculated.Results For
+   common TED consultation questions, ChatGPT-4o delivered more accurate
+   information with logical consistency, adhering to a structured format of
+   disease definition, detailed sections, and summarized conclusions.
+   Notably, the answers generated by ChatGPT-4o were rated higher than
+   those of ChatGPT-4 and the professor, with accuracy (4.33 [0.69]),
+   comprehensiveness (4.17 [0.75]), conciseness (4.12 [0.77]), and
+   satisfaction (4.28 [0.70]). The characteristics of the evaluators, the
+   response variables, and other quality scores were all correlated with
+   overall satisfaction levels. Based on several facial images, ChatGPT-4
+   twice failed to make diagnoses because of lacking characteristic
+   symptoms or a complete medical history, whereas ChatGPT-4o accurately
+   identified the pathologic conditions in 31.25% of cases (95% confidence
+   interval, CI: 11.02-58.66%). Furthermore, in combination with CT images,
+   ChatGPT-4o performed comparably to the professor in terms of diagnosis
+   accuracy (87.5, 95% CI 61.65-98.45%).Conclusion ChatGPT-4o excelled in
+   comprehensive and satisfactory patient consultation and imaging
+   interpretation, indicating the potential to improve clinical practice
+   efficiency. However, limitations in disinformation management and legal
+   permissions remain major concerns, which require further investigation
+   in clinical practice.
+TC 1
+ZB 0
+ZS 0
+ZA 0
+Z8 0
+ZR 0
+Z9 1
+DA 2025-03-08
+UT WOS:001435934700001
+PM 40041459
+ER
+
+PT J
+AU Pelekis, Sotiris
+   Koutroubas, Thanos
+   Blika, Afroditi
+   Berdelis, Anastasis
+   Karakolis, Evangelos
+   Ntanos, Christos
+   Spiliotis, Evangelos
+   Askounis, Dimitris
+TI Adversarial machine learning: a review of methods, tools, and critical
+   industry sectors
+SO ARTIFICIAL INTELLIGENCE REVIEW
+VL 58
+IS 8
+AR 226
+DI 10.1007/s10462-025-11147-4
+DT Article
+PD MAY 3 2025
+PY 2025
+AB The rapid advancement of Artificial Intelligence (AI), particularly
+   Machine Learning (ML) and Deep Learning (DL), has produced
+   high-performance models widely used in various applications, ranging
+   from image recognition and chatbots to autonomous driving and smart grid
+   systems. However, security threats arise from the vulnerabilities of ML
+   models to adversarial attacks and data poisoning, posing risks such as
+   system malfunctions and decision errors. Meanwhile, data privacy
+   concerns arise, especially with personal data being used in model
+   training, which can lead to data breaches. This paper surveys the
+   Adversarial Machine Learning (AML) landscape in modern AI systems, while
+   focusing on the dual aspects of robustness and privacy. Initially, we
+   explore adversarial attacks and defenses using comprehensive taxonomies.
+   Subsequently, we investigate robustness benchmarks alongside open-source
+   AML technologies and software tools that ML system stakeholders can use
+   to develop robust AI systems. Lastly, we delve into the landscape of AML
+   in four industry fields -automotive, digital healthcare, electrical
+   power and energy systems (EPES), and Large Language Model (LLM)-based
+   Natural Language Processing (NLP) systems- analyzing attacks, defenses,
+   and evaluation concepts, thereby offering a holistic view of the modern
+   AI-reliant industry and promoting enhanced ML robustness and privacy
+   preservation in the future.
+ZB 0
+ZA 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+DA 2025-05-07
+UT WOS:001480703000010
+ER
+
+PT J
+AU Barat, Maxime
+   Crombe, Amandine
+   Boeken, Tom
+   Dacher, Jean-Nicolas
+   Si-Mohamed, Salim
+   Dohan, Anthony
+   Chassagnon, Guillaume
+   Lecler, Augustin
+   Greffier, Joel
+   Nougaret, Stephanie
+   Soyer, Philippe
+TI Imaging in France: 2024 Update
+SO CANADIAN ASSOCIATION OF RADIOLOGISTS JOURNAL-JOURNAL DE L ASSOCIATION
+   CANADIENNE DES RADIOLOGISTES
+VL 76
+IS 2
+BP 221
+EP 231
+DI 10.1177/08465371241288425
+DT Review
+PD MAY 2025
+PY 2025
+AB Radiology in France has made major advances in recent years through
+   innovations in research and clinical practice. French institutions have
+   developed innovative imaging techniques and artificial intelligence
+   applications in the field of diagnostic imaging and interventional
+   radiology. These include, but are not limited to, a more precise
+   diagnosis of cancer and other diseases, research in dual-energy and
+   photon-counting computed tomography, new applications of artificial
+   intelligence, and advanced treatments in the field of interventional
+   radiology. This article aims to explore the major research initiatives
+   and technological advances that are shaping the landscape of radiology
+   in France. By highlighting key contributions in diagnostic imaging,
+   artificial intelligence, and interventional radiology, we provide a
+   comprehensive overview of how these innovations are improving patient
+   outcomes, enhancing diagnostic accuracy, and expanding the possibilities
+   for minimally invasive therapies. As the field continues to evolve,
+   France's position at the forefront of radiological research ensures that
+   these innovations will play a central role in addressing current
+   healthcare challenges and improving patient care on a global scale.
+   La radiologie en France a r & eacute;alis & eacute; des progr & egrave;s
+   majeurs durant ces derni & egrave;res ann & eacute;es gr & acirc;ce &
+   agrave; des innovations dans les domaines de la recherche et de la
+   clinique. Les institutions m & eacute;dicales fran & ccedil;aises ont d
+   & eacute;velopp & eacute; des techniques innovantes et des applications
+   d'intelligence artificielle dans le domaine de l'imagerie diagnostique
+   et de la radiologie interventionnelle. Celles-ci incluent, de mani &
+   egrave;re non exhaustive, un diagnostic plus pr & eacute;cis du cancer
+   et d'autres maladies, la recherche fondamentale et clinique en
+   tomodensitom & eacute;trie & agrave; double & eacute;nergie et par
+   comptage photonique, de nouvelles applications de l'intelligence
+   artificielle et de nouveaux traitements dans le domaine de la radiologie
+   interventionnelle. Cet article vise & agrave; rapporter les grandes
+   initiatives de recherche et les avanc & eacute;es technologiques qui fa
+   & ccedil;onnent le paysage de la radiologie en France. En mettant en &
+   eacute;vidence les contributions cl & eacute;s en imagerie diagnostique,
+   en intelligence artificielle et en radiologie interventionnelle, cet
+   article donne un aper & ccedil;u complet de la mani & egrave;re dont ces
+   innovations am & eacute;liorent les r & eacute;sultats pour les
+   patients, am & eacute;liorent la pr & eacute;cision du diagnostic et &
+   eacute;largissent les possibilit & eacute;s de th & eacute;rapies
+   mini-invasives. La position de la France & agrave; l'avant-garde de la
+   recherche radiologique garantit que ces innovations joueront un r &
+   ocirc;le central pour relever les d & eacute;fis actuels en mati &
+   egrave;re de sant & eacute; et am & eacute;liorer les soins des patients
+   & agrave; l'& eacute;chelle mondiale.
+ZS 0
+TC 1
+ZR 0
+ZA 0
+ZB 0
+Z8 0
+Z9 1
+DA 2025-03-21
+UT WOS:001442832300009
+PM 39367786
+ER
+
+PT J
+AU Izhar, Amaan
+   Idris, Norisma
+   Japar, Nurul
+TI Engaging Preference Optimization Alignment in Large Language Model for
+   Continual Radiology Report Generation: A Hybrid Approach
+SO COGNITIVE COMPUTATION
+VL 17
+IS 1
+AR 53
+DI 10.1007/s12559-025-10404-6
+DT Letter
+PD FEB 2025
+PY 2025
+AB Large language models (LLMs) remain relatively underutilized in medical
+   imaging, particularly in radiology, which is essential for disease
+   diagnosis and management. Nonetheless, radiology report generation (RRG)
+   is a time-consuming task that can result in delays and inconsistencies.
+   To address these challenges, we present a novel hybrid approach that
+   integrates multi-modal radiology information and preference optimization
+   alignment in LLM for continual RRG. Our method integrates a pre-trained
+   small multi-modal model to analyze radiology images and generate an
+   initial report, which is subsequently refined and aligned by an LLM
+   using odds ratio preference optimization (ORPO) and with historical
+   patient data and assessments to mimic radiologist-like responses,
+   bypassing reinforcement learning from human feedback-based (RLHF)
+   alignment. This two-stage fusion-supervised fine-tuning followed by
+   preference optimization-ensures high accuracy while minimizing
+   hallucinations and errors. We also propose a data field curation
+   strategy extendable to various other RRG modality datasets, focusing on
+   selecting relevant responses for preference alignment. We evaluate our
+   approach on two public datasets, achieving state-of-the-art performance
+   with average Bleu scores of 0.375 and 0.647, Meteor scores of 0.495 and
+   0.714, Rouge-L scores of 0.483 and 0.732, and average F1-RadGraph scores
+   of 0.488 and 0.487, for chest X-rays and lung CT scan datasets,
+   respectively. We further provide in-depth qualitative analyses and
+   ablation studies to explain the workings of our model and grasp the
+   clinical relevance for RRG. This work presents the first application of
+   preference optimization in continual RRG, representing a significant
+   advancement in automating clinically reliable report generation. By
+   reducing cognitive burdens on radiologists through AI-powered reasoning
+   and alignment in LLMs, the proposed model improves decision-making,
+   perception, and diagnostic precision, streamlining workflows and
+   enhancing patient care. Our code is available at
+   https://github.com/AI-14/r2gpoallm.
+Z8 0
+ZB 0
+TC 1
+ZS 0
+ZR 0
+ZA 0
+Z9 1
+DA 2025-02-01
+UT WOS:001407936900001
+ER
+
+PT J
+AU Han, B.
+   Chen, Y.
+   Buyyounouski, M. K.
+   Gensheimer, M. F.
+   Xing, L.
+TI RadAlonc: Enhancing Decision-Making in Radiation Oncology with a
+   GPT-4-Based Prompt-Driven Large Language Model
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 2297
+BP E134
+EP E134
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZS 0
+ZB 0
+TC 0
+Z8 0
+ZR 0
+ZA 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892300029
+ER
+
+PT J
+AU Baxter, Sally Liu
+TI Transforming Patient Experience: Harnessing AI -Powered Virtual
+   Assistants in Ophthalmology
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+MA 6
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+ZS 0
+ZB 0
+TC 0
+ZR 0
+Z8 0
+ZA 0
+Z9 0
+DA 2024-12-01
+UT WOS:001312227700084
+ER
+
+PT C
+AU Nisar, Hareem
+   Anwar, Syed Muhammad
+   Jiang, Zhifan
+   Parida, Abhijeet
+   Sanchez-Jacob, Ramon
+   Nath, Vishwesh
+   Roth, Holger R.
+   Linguraru, Marius George
+BE Deng, Z
+   Shen, Y
+   Kim, HJ
+   Jeong, WK
+   Aviles-Rivero, AI
+   He, J
+   Zhang, S
+TI D-Rax: Domain-Specific Radiologic Assistant Leveraging Multi-modal Data
+   and eXpert Model Predictions
+SO FOUNDATION MODELS FOR GENERAL MEDICAL AI, MEDAGI 2024
+SE Lecture Notes in Computer Science
+VL 15184
+BP 91
+EP 102
+DI 10.1007/978-3-031-73471-7_10
+DT Proceedings Paper
+PD 2025
+PY 2025
+AB Large vision language models (VLMs) have progressed incredibly from
+   research to applicability for general-purpose use cases. LLaVA-Med, a
+   pioneering large language and vision assistant for biomedicine, can
+   perform multi-modal biomedical image and data analysis to provide a
+   natural language interface for radiologists. While it is highly
+   generalizable and works with multi-modal data, it is currently limited
+   by well-known challenges in the large language model space.
+   Hallucinations and imprecision in responses can lead to misdiagnosis,
+   which currently hinders VLMs' clinical adaptability. To create precise,
+   user-friendly models in healthcare, we propose D-Rax- a domain-specific,
+   conversational, radiologic assistance tool that can be used to gain
+   insights about a particular radiologic image. In this study, we enhance
+   the conversational analysis of chest X-ray (CXR) images to support
+   radiological reporting, offering comprehensive insights from medical
+   imaging and aiding in the formulation of accurate diagnosis. D-Rax is
+   achieved by fine-tuning the LLaVA-Med architecture on our curated
+   enhanced instruction-following data, comprising of images, instructions,
+   as well as disease diagnosis and demographic predictions derived from
+   MIMIC-CXR imaging data, CXR-related visual question answer (VQA) pairs,
+   and predictive outcomes from multiple expert AI models. We observe
+   statistically significant improvement in responses when evaluated for
+   both open and close-ended conversations. Leveraging the power of
+   state-of-the-art diagnostic models combined with VLMs, D-Rax empowers
+   clinicians to interact with medical images using natural language, which
+   could potentially streamline their decision-making process, enhance
+   diagnostic accuracy, and conserve their time.
+CT 2nd International Workshop on Foundation Models for General Medical AI
+CY OCT 06, 2024
+CL Marrakesh, MOROCCO
+ZA 0
+ZR 0
+ZB 0
+Z8 0
+TC 0
+ZS 0
+Z9 0
+DA 2025-03-21
+UT WOS:001426955400010
+ER
+
+PT J
+AU Su, Ziqing
+   Tang, Guozhang
+   Huang, Rui
+   Qiao, Yang
+   Zhang, Zheng
+   Dai, Xingliang
+TI Based on Medicine, The Now and Future of Large Language Models
+SO CELLULAR AND MOLECULAR BIOENGINEERING
+VL 17
+IS 4
+BP 263
+EP 277
+DI 10.1007/s12195-024-00820-3
+EA SEP 2024
+DT Review
+PD AUG 2024
+PY 2024
+AB ObjectivesThis review explores the potential applications of large
+   language models (LLMs) such as ChatGPT, GPT-3.5, and GPT-4 in the
+   medical field, aiming to encourage their prudent use, provide
+   professional support, and develop accessible medical AI tools that
+   adhere to healthcare standards.MethodsThis paper examines the impact of
+   technologies such as OpenAI's Generative Pre-trained Transformers (GPT)
+   series, including GPT-3.5 and GPT-4, and other large language models
+   (LLMs) in medical education, scientific research, clinical practice, and
+   nursing. Specifically, it includes supporting curriculum design, acting
+   as personalized learning assistants, creating standardized simulated
+   patient scenarios in education; assisting with writing papers, data
+   analysis, and optimizing experimental designs in scientific research;
+   aiding in medical imaging analysis, decision-making, patient education,
+   and communication in clinical practice; and reducing repetitive tasks,
+   promoting personalized care and self-care, providing psychological
+   support, and enhancing management efficiency in nursing.ResultsLLMs,
+   including ChatGPT, have demonstrated significant potential and
+   effectiveness in the aforementioned areas, yet their deployment in
+   healthcare settings is fraught with ethical complexities, potential lack
+   of empathy, and risks of biased responses.ConclusionDespite these
+   challenges, significant medical advancements can be expected through the
+   proper use of LLMs and appropriate policy guidance. Future research
+   should focus on overcoming these barriers to ensure the effective and
+   ethical application of LLMs in the medical field.
+Z8 0
+ZB 0
+ZR 0
+ZA 0
+ZS 0
+TC 2
+Z9 2
+DA 2024-09-25
+UT WOS:001313521600001
+PM 39372551
+ER
+
+PT J
+AU Polis, Bartosz
+   Zawadzka-Fabijan, Agnieszka
+   Fabijan, Robert
+   Kosinska, Roza
+   Nowoslawska, Emilia
+   Fabijan, Artur
+TI Comparative Evaluation of Large Language and Multimodal Models in
+   Detecting Spinal Stabilization Systems on X-Ray Images
+SO JOURNAL OF CLINICAL MEDICINE
+VL 14
+IS 10
+AR 3282
+DI 10.3390/jcm14103282
+DT Article
+PD MAY 8 2025
+PY 2025
+AB Background/Objectives: Open-source AI models are increasingly applied in
+   medical imaging, yet their effectiveness in detecting and classifying
+   spinal stabilization systems remains underexplored. This study compares
+   ChatGPT-4o (a large language model) and BiomedCLIP (a multimodal model)
+   in their analysis of posturographic X-ray images (AP projection) to
+   assess their accuracy in identifying the presence, type (growing vs.
+   non-growing), and specific system (MCGR vs. PSF). Methods: A dataset of
+   270 X-ray images (93 without stabilization, 80 with MCGR, and 97 with
+   PSF) was analyzed manually by neurosurgeons and evaluated using a
+   three-stage AI-based questioning approach. Performance was assessed via
+   classification accuracy, Gwet's Agreement Coefficient (AC1) for
+   inter-rater reliability, and a two-tailed z-test for statistical
+   significance (p < 0.05). Results: The results indicate that GPT-4o
+   demonstrates high accuracy in detecting spinal stabilization systems,
+   achieving near-perfect recognition (97-100%) for the presence or absence
+   of stabilization. However, its consistency is reduced when
+   distinguishing complex growing-rod (MCGR) configurations, with agreement
+   scores dropping significantly (AC1 = 0.32-0.50). In contrast, BiomedCLIP
+   displays greater response consistency (AC1 = 1.00) but struggles with
+   detailed classification, particularly in recognizing PSF (11% accuracy)
+   and MCGR (4.16% accuracy). Sensitivity analysis revealed GPT-4o's
+   superior stability in hierarchical classification tasks, while
+   BiomedCLIP excelled in binary detection but showed performance
+   deterioration as the classification complexity increased. Conclusions:
+   These findings highlight GPT-4o's robustness in clinical AI-assisted
+   diagnostics, particularly for detailed differentiation of spinal
+   stabilization systems, whereas BiomedCLIP's precision may require
+   further optimization to enhance its applicability in complex
+   radiographic evaluations.
+ZB 0
+ZR 0
+Z8 0
+TC 0
+ZS 0
+ZA 0
+Z9 0
+DA 2025-06-01
+UT WOS:001497527100001
+PM 40429276
+ER
+
+PT J
+AU Wu, Wanying
+   Guo, Yuhu
+   Li, Qi
+   Jia, Congzhuo
+TI Exploring the potential of large language models in identifying
+   metabolic dysfunction-associated steatotic liver disease: A comparative
+   study of non-invasive tests and artificial intelligence-generated
+   responses
+SO LIVER INTERNATIONAL
+VL 45
+IS 4
+DI 10.1111/liv.16112
+EA NOV 2024
+DT Article
+PD APR 2025
+PY 2025
+AB Background and AimsThis study sought to assess the capabilities of large
+   language models (LLMs) in identifying clinically significant metabolic
+   dysfunction-associated steatotic liver disease (MASLD).MethodsWe
+   included individuals from NHANES 2017-2018. The validity and reliability
+   of MASLD diagnosis by GPT-3.5 and GPT-4 were quantitatively examined and
+   compared with those of the Fatty Liver Index (FLI) and United States FLI
+   (USFLI). A receiver operating characteristic curve was conducted to
+   assess the accuracy of MASLD diagnosis via different scoring systems.
+   Additionally, GPT-4V's potential in clinical diagnosis using ultrasound
+   images from MASLD patients was evaluated to provide assessments of LLM
+   capabilities in both textual and visual data interpretation.ResultsGPT-4
+   demonstrated comparable performance in MASLD diagnosis to FLI and USFLI
+   with the AUROC values of .831 (95% CI .796-.867), .817 (95% CI
+   .797-.837) and .827 (95% CI .807-.848), respectively. GPT-4 exhibited a
+   trend of enhanced accuracy, clinical relevance and efficiency compared
+   to GPT-3.5 based on clinician evaluation. Additionally, Pearson's r
+   values between GPT-4 and FLI, as well as USFLI, were .718 and .695,
+   respectively, indicating robust and moderate correlations. Moreover,
+   GPT-4V showed potential in understanding characteristics from hepatic
+   ultrasound imaging but exhibited limited interpretive accuracy in
+   diagnosing MASLD compared to skilled radiologists.ConclusionsGPT-4
+   achieved performance comparable to traditional risk scores in diagnosing
+   MASLD and exhibited improved convenience, versatility and the capacity
+   to offer user-friendly outputs. The integration of GPT-4V highlights the
+   capacities of LLMs in handling both textual and visual medical data,
+   reinforcing their expansive utility in healthcare practice.
+TC 0
+ZA 0
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+Z9 0
+DA 2024-11-23
+UT WOS:001354198800001
+PM 39526465
+ER
+
+PT J
+AU Ong, Hannah
+   Ong, Joshua
+   Cheng, Rebekah
+   Wang, Calvin
+   Lin, Murong
+   Ong, Dennis
+TI GPT Technology to Help Address Longstanding Barriers to Care in Free
+   Medical Clinics
+SO ANNALS OF BIOMEDICAL ENGINEERING
+VL 51
+IS 9
+BP 1906
+EP 1909
+DI 10.1007/s10439-023-03256-4
+EA JUN 2023
+DT Article
+PD SEP 2023
+PY 2023
+AB The implementation of technology in healthcare has revolutionized
+   patient-centered decision making by providing contextualized information
+   about a patient's healthcare journey, leading to increased efficiency
+   (Keyworth et al. in BMC Med Inform Decis Mak 18:93, 2018,
+   https://doi.org/10.1186/s12911-018-0661-3). Artificial intelligence has
+   been integrated within Electronic Health Records (EHR) to prompt
+   screenings or diagnostic tests based on a patient's holistic health
+   profile. While larger hospitals have already widely adopted these
+   technologies, free clinics hold lower utilization of these advanced
+   capability EHRs. The patient population at a free clinic faces a
+   multitude of factors that limits their access to comprehensive care,
+   thus requiring necessary efforts and measures to close the gap in
+   healthcare disparities. Emerging Artificial Intelligence (AI)
+   technology, such as OpenAI's ChatGPT, GPT-4, and other large language
+   models (LLMs) have remarkable potential to improve patient care
+   outcomes, promote health equity, and enhance comprehensive and holistic
+   care in resource-limited settings. This paper aims to identify areas in
+   which integrating these LLM AI advancements into free clinics operations
+   can optimize and streamline healthcare delivery to underserved patient
+   populations. This paper also identifies areas of improvements in GPT
+   that are necessary to deliver those services.
+ZR 0
+TC 11
+ZA 0
+ZB 4
+Z8 0
+ZS 0
+Z9 11
+DA 2023-07-14
+UT WOS:001019903200001
+PM 37355478
+ER
+
+PT J
+AU Li, Cheng-Yi
+   Chang, Kao-Jung
+   Yang, Cheng-Fu
+   Wu, Hsin-Yu
+   Chen, Wenting
+   Bansal, Hritik
+   Chen, Ling
+   Yang, Yi-Ping
+   Chen, Yu-Chun
+   Chen, Shih-Pin
+   Chen, Shih-Jen
+   Lirng, Jiing-Feng
+   Chang, Kai-Wei
+   Chiou, Shih-Hwa
+TI Towards a holistic framework for multimodal LLM in 3D brain CT radiology
+   report generation
+SO NATURE COMMUNICATIONS
+VL 16
+IS 1
+AR 2258
+DI 10.1038/s41467-025-57426-0
+DT Article
+PD MAR 6 2025
+PY 2025
+AB Multi-modal large language models (MLLMs) have transformed the landscape
+   of modern healthcare, with automated radiology report generation (RRG)
+   emerging as a cutting-edge application. While 2D MLLM-based RRG has been
+   well established, its utility for 3D medical images remains largely
+   unexplored. In this regard, we curate the 3D-BrainCT dataset (18,885
+   text-scan pairs) and develop BrainGPT, a clinically visual
+   instruction-tuned (CVIT) model designed for 3D CT RRG. While we notice
+   that the traditional LLM metrics failed to gauge the diagnostic quality
+   of the RRG, we propose feature-oriented radiology task evaluation
+   (FORTE), an evaluation scheme that captures the clinical essence of the
+   generated reports. Here we show that BrainGPT achieves an average FORTE
+   F1-score of 0.71 (degree = 0.661; landmark = 0.706; feature = 0.693, and
+   impression = 0.779) and 74% of BrainGPT-generated reports were
+   indistinguishable from human-written ground truth in a Turing-like test.
+   Together, our work establishes a comprehensive framework encompassing
+   dataset curation, anatomy-aware model fine-tuning, and the development
+   of robust evaluation metrics for the RRG. By sharing our experience in
+   3D MLLM-based RRG, we aim to accelerate the expedition in human-machine
+   collaboration for next-generation healthcare.
+ZR 0
+Z8 0
+ZS 0
+ZA 0
+TC 0
+ZB 0
+Z9 0
+DA 2025-03-16
+UT WOS:001439786500008
+PM 40050277
+ER
+
+PT J
+AU Wu, Xuzhou
+   Li, Guangxin
+   Wang, Xing
+   Xu, Zeyu
+   Wang, Yingni
+   Lei, Shuge
+   Xian, Jianming
+   Wang, Xueyu
+   Zhang, Yibao
+   Li, Gong
+   Yuan, Kehong
+TI Diagnosis assistant for liver cancer utilizing a large language model
+   with three types of knowledge
+SO PHYSICS IN MEDICINE AND BIOLOGY
+VL 70
+IS 9
+AR 095009
+DI 10.1088/1361-6560/adcb17
+DT Article
+PD MAY 4 2025
+PY 2025
+AB Objective. Liver cancer has a high incidence rate, but experienced
+   doctors are lacking in primary healthcare settings. The development of
+   large models offers new possibilities for diagnosis. However, in liver
+   cancer diagnosis, large models face certain limitations, such as
+   insufficient understanding of specific medical images, inadequate
+   consideration of liver vessel factors, and inaccuracies in reasoning
+   logic. Therefore, this study proposes a diagnostic assistance tool
+   specific to liver cancer to enhance the diagnostic capabilities of
+   primary care doctors. Approach. A liver cancer diagnosis framework
+   combining large and small models is proposed. A more accurate model for
+   liver tumor segmentation and a more precise model for liver vessel
+   segmentation are developed. The features extracted from the segmentation
+   results of the small models are combined with the patient's medical
+   records and then provided to the large model. The large model employs
+   chain of thought prompts to simulate expert diagnostic reasoning and
+   uses Retrieval-Augmented Generation to provide reliable answers based on
+   trusted medical knowledge and cases. Main results. In the small model
+   part, the proposed liver tumor and liver vessel segmentation methods
+   achieve improved performance. In the large model part, this approach
+   receives higher evaluation scores from doctors when analyzing patient
+   imaging and medical records. Significance. First, a diagnostic framework
+   combining small models and large models is proposed to optimize the
+   liver cancer diagnosis process. Second, two segmentation models are
+   introduced to compensate for the large model's shortcomings in
+   extracting semantic information from images. Third, by simulating
+   doctors' reasoning and integrating trusted knowledge, the framework
+   enhances the reliability and interpretability of the large model's
+   responses while reducing hallucination phenomena.
+Z8 0
+ZS 0
+ZA 0
+ZR 0
+TC 0
+ZB 0
+Z9 0
+DA 2025-05-08
+UT WOS:001480266600001
+PM 40203862
+ER
+
+PT J
+AU Huppertz, Marc Sebastian
+   Siepmann, Robert
+   Topp, David
+   Nikoubashman, Omid
+   Yueksel, Can
+   Kuhl, Christiane Katharina
+   Truhn, Daniel
+   Nebelung, Sven
+TI Revolution or risk?-Assessing the potential and challenges of GPT-4V in
+   radiologic image interpretation
+SO EUROPEAN RADIOLOGY
+VL 35
+IS 3
+BP 1111
+EP 1121
+DI 10.1007/s00330-024-11115-6
+EA OCT 2024
+DT Article
+PD MAR 2025
+PY 2025
+AB ObjectivesChatGPT-4 Vision (GPT-4V) is a state-of-the-art multimodal
+   large language model (LLM) that may be queried using images. We aimed to
+   evaluate the tool's diagnostic performance when autonomously assessing
+   clinical imaging studies.Materials and methodsA total of 206 imaging
+   studies (i.e., radiography (n = 60), CT (n = 60), MRI (n = 60), and
+   angiography (n = 26)) with unequivocal findings and established
+   reference diagnoses from the radiologic practice of a large university
+   hospital were accessed. Readings were performed uncontextualized, with
+   only the image provided, and contextualized, with additional clinical
+   and demographic information. Responses were assessed along multiple
+   diagnostic dimensions and analyzed using appropriate statistical
+   tests.ResultsWith its pronounced propensity to favor context over image
+   information, the tool's diagnostic accuracy improved from 8.3%
+   (uncontextualized) to 29.1% (contextualized, first diagnosis correct)
+   and 63.6% (contextualized, correct diagnosis among differential
+   diagnoses) (p <= 0.001, Cochran's Q test). Diagnostic accuracy declined
+   by up to 30% when 20 images were re-read after 30 and 90 days and seemed
+   unrelated to the tool's self-reported confidence (Spearman's rho = 0.117
+   (p = 0.776)). While the described imaging findings matched the suggested
+   diagnoses in 92.7%, indicating valid diagnostic reasoning, the tool
+   fabricated 258 imaging findings in 412 responses and misidentified
+   imaging modalities or anatomic regions in 65 images.ConclusionGPT-4V, in
+   its current form, cannot reliably interpret radiologic images. Its
+   tendency to disregard the image, fabricate findings, and misidentify
+   details, especially without clinical context, may misguide healthcare
+   providers and put patients at risk.Key PointsQuestionCan Generative
+   Pre-trained Transformer 4 Vision (GPT-4V) interpret radiologic
+   images-with and without clinical context?FindingsGPT-4V performed
+   poorly, demonstrating diagnostic accuracy rates of 8%
+   (uncontextualized), 29% (contextualized, most likely diagnosis correct),
+   and 64% (contextualized, correct diagnosis among differential
+   diagnoses).Clinical relevanceThe utility of commercial multimodal large
+   language models, such as GPT-4V, in radiologic practice is limited.
+   Without clinical context, diagnostic errors and fabricated findings may
+   compromise patient safety and misguide clinical decision-making. These
+   models must be further refined to be beneficial.Key PointsQuestionCan
+   Generative Pre-trained Transformer 4 Vision (GPT-4V) interpret
+   radiologic images-with and without clinical context?FindingsGPT-4V
+   performed poorly, demonstrating diagnostic accuracy rates of 8%
+   (uncontextualized), 29% (contextualized, most likely diagnosis correct),
+   and 64% (contextualized, correct diagnosis among differential
+   diagnoses).Clinical relevanceThe utility of commercial multimodal large
+   language models, such as GPT-4V, in radiologic practice is limited.
+   Without clinical context, diagnostic errors and fabricated findings may
+   compromise patient safety and misguide clinical decision-making. These
+   models must be further refined to be beneficial.Key PointsQuestionCan
+   Generative Pre-trained Transformer 4 Vision (GPT-4V) interpret
+   radiologic images-with and without clinical context?FindingsGPT-4V
+   performed poorly, demonstrating diagnostic accuracy rates of 8%
+   (uncontextualized), 29% (contextualized, most likely diagnosis correct),
+   and 64% (contextualized, correct diagnosis among differential
+   diagnoses).
+   Clinical relevanceThe utility of commercial multimodal large language
+   models, such as GPT-4V, in radiologic practice is limited. Without
+   clinical context, diagnostic errors and fabricated findings may
+   compromise patient safety and misguide clinical decision-making. These
+   models must be further refined to be beneficial.
+ZA 0
+Z8 0
+ZR 0
+TC 2
+ZB 0
+ZS 0
+Z9 2
+DA 2024-10-28
+UT WOS:001339015800003
+PM 39422726
+ER
+
+PT J
+AU Kelly, Brendan S.
+   Duignan, Sophie
+   Mathur, Prateek
+   Dillon, Henry
+   Lee, Edward H.
+   Yeom, Kristen W.
+   Keane, Pearse A.
+   Lawlor, Aonghus
+   Killeen, Ronan P.
+TI Can ChatGPT4-vision identify radiologic progression of multiple
+   sclerosis on brain MRI?
+SO EUROPEAN RADIOLOGY EXPERIMENTAL
+VL 9
+IS 1
+AR 9
+DI 10.1186/s41747-024-00547-w
+DT Article
+PD JAN 15 2025
+PY 2025
+AB BackgroundThe large language model ChatGPT can now accept image input
+   with the GPT4-vision (GPT4V) version. We aimed to compare the
+   performance of GPT4V to pretrained U-Net and vision transformer (ViT)
+   models for the identification of the progression of multiple sclerosis
+   (MS) on magnetic resonance imaging (MRI).MethodsPaired coregistered MR
+   images with and without progression were provided as input to ChatGPT4V
+   in a zero-shot experiment to identify radiologic progression. Its
+   performance was compared to pretrained U-Net and ViT models. Accuracy
+   was the primary evaluation metric and 95% confidence interval (CIs) were
+   calculated by bootstrapping. We included 170 patients with MS (50 males,
+   120 females), aged 21-74 years (mean 42.3), imaged at a single
+   institution from 2019 to 2021, each with 2-5 MRI studies (496 in
+   total).ResultsOne hundred seventy patients were included, 110 for
+   training, 30 for tuning, and 30 for testing; 100 unseen paired images
+   were randomly selected from the test set for evaluation. Both U-Net and
+   ViT had 94% (95% CI: 89-98%) accuracy while GPT4V had 85% (77-91%).
+   GPT4V gave cautious nonanswers in six cases. GPT4V had precision
+   (specificity), recall (sensitivity), and F1 score of 89% (75-93%), 92%
+   (82-98%), 91 (82-97%) compared to 100% (100-100%), 88 (78-96%), and 0.94
+   (88-98%) for U-Net and 94% (87-100%), 94 (88-100%), and 94 (89-98%) for
+   ViT.ConclusionThe performance of GPT4V combined with its accessibility
+   suggests has the potential to impact AI radiology research. However,
+   misclassified cases and overly cautious non-answers confirm that it is
+   not yet ready for clinical use.Relevance statementGPT4V can identify the
+   radiologic progression of MS in a simplified experimental setting.
+   However, GPT4V is not a medical device, and its widespread availability
+   highlights the need for caution and education for lay users, especially
+   those with limited access to expert healthcare.Key PointsWithout
+   fine-tuning or the need for prior coding experience, GPT4V can perform a
+   zero-shot radiologic change detection task with reasonable
+   accuracy.However, in absolute terms, in a simplified "spot the
+   difference" medical imaging task, GPT4V was inferior to state-of-the-art
+   computer vision methods.GPT4V's performance metrics were more similar to
+   the ViT than the U-net.This is an exploratory experimental study and
+   GPT4V is not intended for use as a medical device.
+ZB 0
+Z8 0
+TC 1
+ZA 0
+ZS 0
+ZR 0
+Z9 1
+DA 2025-01-23
+UT WOS:001398045200003
+PM 39812885
+ER
+
+PT J
+AU Varghese, Julian
+   Chapiro, Julius
+TI ChatGPT: The transformative influence of generative AI on science and
+   healthcare
+SO JOURNAL OF HEPATOLOGY
+VL 80
+IS 6
+BP 977
+EP 980
+DI 10.1016/j.jhep.2023.07.028
+EA MAY 2024
+DT Article
+PD JUN 2024
+PY 2024
+AB In an age where technology is evolving at a sometimes incomprehensibly
+   rapid pace, the liver community must adjust and learn to embrace
+   breakthroughs with an open mind in order to benefit from potentially
+   transformative influences on our science and practice. The Journal of
+   Hepatology has responded to novel developments in artificial
+   intelligence (AI) by recruiting experts in the field to serve on the
+   Editorial Board. Publications introducing novel AI technology are no
+   longer uncommon in our journal and are among the most highly debated and
+   possibly practice-changing papers across a broad range of scientific
+   disciplines, united by their focus on liver disease. As AI is rapidly
+   evolving, this expert paper will focus on educating our readership on
+   large language models and their possible impact on our research practice
+   and clinical outlook, outlining both challenges and opportunities in the
+   field. (c) 2023 The Author(s). Published by Elsevier B.V. on behalf of
+   European Association for the Study of the Liver. This is an open access
+   article u nder the CC BY license
+   (http://creativecommons.org/licenses/by/4.0/).
+ZB 4
+Z8 1
+ZR 0
+TC 30
+ZS 0
+ZA 0
+Z9 30
+DA 2024-07-18
+UT WOS:001266880400001
+PM 37544516
+ER
+
+PT J
+AU MacKay, Emily J.
+   Goldfinger, Shir
+   Chan, Trevor J.
+   Grasfield, Rachel H.
+   Eswar, Vikram J.
+   Li, Kelly
+   Cao, Quy
+   Pouch, Alison M.
+TI Automated structured data extraction from intraoperative
+   echocardiography reports using large language models
+SO BRITISH JOURNAL OF ANAESTHESIA
+VL 134
+IS 5
+BP 1308
+EP 1317
+DI 10.1016/j.bja.2025.01.028
+EA APR 2025
+DT Article
+PD MAY 2025
+PY 2025
+AB Background: Consensus-based large language model (LLM) ensembles might
+   provide an automated solution for extracting structured data from
+   unstructured text in echocardiography reports. Methods: This
+   cross-sectional study utilised 600 intraoperative transoesophageal
+   reports (100 for prompt engineering; 500 for testing) randomly sampled
+   from 7106 adult patients undergoing cardiac surgery at two hospitals
+   within the University of Pennsylvania Healthcare System. Three
+   echocardiographic parameters (left ventricular ejection fraction, right
+   ventricular systolic function, and tricuspid regurgitation) were
+   extracted from both the presurgical and postsurgical sections of the
+   reports. LLM ensembles were generated using five open-source LLMs and
+   four voting strategies: (1) unanimous (five out of five in agreement);
+   (2) supermajority (four or more of five in agreement); (3) majority
+   (three or more of five in agreement); and (4) plurality (two or more of
+   five in agreement). Returned LLM ensemble responses were compared with
+   the reference standard dataset to calculate raw accuracy, consensus
+   accuracy, error rate, and yield. Results: Of the four LLM ensembles, the
+   unanimous LLM ensemble achieved the highest consensus accuracies (99.4%
+   presurgical; 97.9% postsurgical) and the lowest error rates (0.6%
+   presurgical; 2.1% postsurgical) but had the lowest data extraction
+   yields (81.7% presurgical; 80.5% postsurgical) and the lowest raw
+   accuracies (81.2% presurgical; 78.9% postsurgical). In contrast, the
+   plurality LLM ensemble achieved the highest raw accuracies (96.1%
+   presurgical; 93.7% postsurgical) and the highest data extraction yields
+   (99.4% presurgical; 98.9% postsurgical) but had the lowest consensus
+   accuracies (96.7% presurgical; 94.7% postsurgical) and highest error
+   rates (3.3% presurgical; 5.3% postsurgical). Conclusions: A
+   consensus-based LLM ensemble successfully generated structured data from
+   unstructured text contained in intraoperative transoesophageal reports.
+Z8 0
+ZB 0
+ZR 0
+ZS 0
+TC 0
+ZA 0
+Z9 0
+DA 2025-05-07
+UT WOS:001477112200001
+PM 40037947
+ER
+
+PT J
+AU Jiang, Huan
+   Xia, ShuJun
+   Yang, YiXuan
+   Xu, JiaLe
+   Hua, Qing
+   Mei, ZiHan
+   Hou, YiQing
+   Wei, MinYan
+   Lai, LiMei
+   Li, Ning
+   Dong, YiJie
+   Zhou, JianQiao
+TI Transforming free-text radiology reports into structured reports using
+   ChatGPT: A study on thyroid ultrasonography
+SO EUROPEAN JOURNAL OF RADIOLOGY
+VL 175
+AR 111458
+DI 10.1016/j.ejrad.2024.111458
+EA APR 2024
+DT Article
+PD JUN 2024
+PY 2024
+AB Purpose: The importance of structured radiology reports has been fully
+   recognized, as they facilitate efficient data extraction and promote
+   collaboration among healthcare professionals. Our purpose is to assess
+   the accuracy and reproducibility of ChatGPT, a large language model, in
+   generating structured thyroid ultrasound reports. Methods: This is a
+   retrospective study that includes 184 nodules in 136 thyroid ultrasound
+   reports from 136 patients. ChatGPT-3.5 and ChatGPT-4.0 were used to
+   structure the reports based on ACR-TIRADS guidelines. Two radiologists
+   evaluated the responses for quality, nodule categorization accuracy, and
+   management recommendations. Each text was submitted twice to assess the
+   consistency of the nodule classification and management recommendations.
+   Results: On 136 ultrasound reports from 136 patients (mean age, 52 years
+   +/- 12 [SD]; 61 male), ChatGPT-3.5 generated 202 satisfactory structured
+   reports, while ChatGPT-4.0 only produced 69 satisfactory structured
+   reports (74.3 % vs. 25.4 %, odds ratio (OR) = 8.490, 95 %CI:
+   5.775-12.481, p < 0.001). ChatGPT-4.0 outperformed ChatGPT-3.5 in
+   categorizing thyroid nodules, with an accuracy of 69.3 % compared to
+   34.5 % (OR = 4.282, 95 %CI: 3.145-5.831, p < 0.001). ChatGPT-4.0 also
+   provided more comprehensive or correct management recommendations than
+   ChatGPT-3.5 (OR = 1.791, 95 %CI: 1.297-2.473, p < 0.001). Finally,
+   ChatGPT-4.0 exhibits higher consistency in categorizing nodules compared
+   to ChatGPT-3.5 (ICC = 0.732 vs. ICC = 0.429), and both exhibited
+   moderate consistency in management recommendations (ICC = 0.549 vs ICC =
+   0.575). Conclusions: Our study demonstrates the potential of ChatGPT in
+   transforming free-text thyroid ultrasound reports into structured
+   formats. ChatGPT-3.5 excels in generating structured reports, while
+   ChatGPT-4.0 shows superior accuracy in nodule categorization and
+   management recommendations.
+ZA 0
+TC 12
+Z8 2
+ZB 1
+ZS 0
+ZR 0
+Z9 14
+DA 2024-08-18
+UT WOS:001290602500001
+PM 38613868
+ER
+
+PT J
+AU Khanmohammadi, R.
+   Ghanem, A. I.
+   Verdecchia, K.
+   Hall, R.
+   Elshaikh, M. A.
+   Movsas, B.
+   Bagher-Ebadian, H.
+   Chetty, I. J.
+   Ghassemi, M. M.
+   Thind, K.
+TI A Novel Localized Student-Teacher LLM for Enhanced Toxicity Extraction
+   in Radiation Oncology
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3388
+BP E632
+EP E633
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+Z8 0
+TC 0
+ZB 0
+ZR 0
+ZA 0
+ZS 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302069
+ER
+
+PT J
+AU Sorin, Vera
+   Kapelushnik, Noa
+   Hecht, Idan
+   Zloto, Ofira
+   Glicksberg, Benjamin S.
+   Bufman, Hila
+   Livne, Adva
+   Barash, Yiftach
+   Nadkarni, Girish N.
+   Klang, Eyal
+TI Integrated visual and text-based analysis of ophthalmology clinical
+   cases using a large language model
+SO SCIENTIFIC REPORTS
+VL 15
+IS 1
+AR 4999
+DI 10.1038/s41598-025-88948-8
+DT Article
+PD FEB 10 2025
+PY 2025
+AB Recent advancements in generative artificial intelligence have enabled
+   analysis of text with visual data, which could have important
+   implications in healthcare. Diagnosis in ophthalmology is often based on
+   a combination of ocular examination, and clinical context. The aim of
+   this study was to evaluate the performance of multimodal GPT-4 (GPT-4 V)
+   in an integrated analysis of ocular images and clinical text. This
+   retrospective study included 40 patients seen in our institution with
+   images of their ocular examinations. Cases were selected by a
+   board-certified ophthalmologist, to represent various pathologies. We
+   provided the model with each patient image, without and then with the
+   clinical context. We also asked two non-ophthalmology physicians to
+   write diagnoses for each image, without and then with the clinical
+   context. Answers for both GPT-4 V and the non-ophthalmologists were
+   evaluated by two board-certified ophthalmologists. Performance
+   accuracies were calculated and compared. GPT-4 V provided the correct
+   diagnosis in 19/40 (47.5%) cases based on images without clinical
+   context, and in 27/40 (67.5%) cases when clinical context was provided.
+   Non-ophthalmologist physicians provided the correct diagnoses in 24/40
+   (60.0%), and 23/40 (57.5%) of cases without clinical context, and in
+   29/40 (72.5%) and 27/40 (67.5%) with clinical context. For all study
+   participants adding context improved accuracy (p = 0.033). GPT-4 V is
+   currently able to simultaneously analyze and integrate visual and
+   textual data, and arrive at accurate clinical diagnoses in the majority
+   of cases. Multimodal large language models like GPT-4 V have significant
+   potential to advance both patient care and research in ophthalmology.
+TC 2
+ZA 0
+ZR 0
+Z8 0
+ZS 0
+ZB 0
+Z9 2
+DA 2025-02-17
+UT WOS:001418722300017
+PM 39930078
+ER
+
+PT C
+AU Sun, Yihua
+   Khor, Hee Guan
+   Wang, Yuanzheng
+   Wang, Zhuhao
+   Zhao, Hongliang
+   Zhang, Yu
+   Ma, Longfei
+   Zheng, Zhuozhao
+   Liao, Hongen
+BE Dou, Q
+   Feragen, A
+   Giannarou, S
+   Glocker, B
+   Lekadir, K
+   Schnabel, JA
+   Linguraru, MG
+TI Continually Tuning a Large Language Model for Multi-domain Radiology
+   Report Generation
+SO MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION - MICCAI
+   2024, PT V
+SE Lecture Notes in Computer Science
+VL 15005
+BP 177
+EP 187
+DI 10.1007/978-3-031-72086-4_17
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Large language models (LLMs) have demonstrated potential across various
+   tasks, including vision-language applications like chest Xray (XR)
+   report generation (RG) in healthcare. Recent RG approaches focus on
+   optimizing model performance for a single dataset with a single XR
+   modality, often neglecting the critical area of computed tomography (CT)
+   report generation. The challenge is compounded by medical datasets being
+   isolated across different centers, making comprehensive collection
+   difficult. Furthermore, LLMs trained on datasets sequentially can
+   experience catastrophic forgetting. In this paper, we move beyond
+   conventional approaches of training on a single dataset, and focus on
+   improving the overall performance on sequentially collected multi-center
+   datasets. We incorporate four datasets with diverse languages and image
+   modalities for the experiments. Our approach utilizes a minimal number
+   of task-specific learnable weights within an LLM-based RG method for
+   each domain, maintaining the majority of weights frozen to avoid
+   forgetting. Utilizing LLMs' multilingual generalizability, we align
+   models and facilitate knowledge sharing through a multi-label supervised
+   contrastive loss within the LLM hidden space. We design a 2D-3D adapter
+   for the image encoder to transfer from XR to CT RG tasks. A CT disease
+   graph is established for transferring knowledge from XR to CT RG tasks,
+   using CT's most relevant XR disease class centers in a triplet loss.
+   Extensive experiments validate our design.
+CT 27th International Conference on Medical Image Computing and Computer
+   Assisted Intervention (MICCAI)
+CY OCT 06-10, 2024
+CL Palmeraie Conf Ctr, Marrakesh, MOROCCO
+HO Palmeraie Conf Ctr
+SP GH Labs; Childrens Natl Hosp; Pierre Fabre; Comp Assisted Med Intervent
+   Labex; Multidisciplinary Inst Artificial Intelligence Grenoble Alpes;
+   Western Univ, Frugal Biomed Innovat Program; Int Soc Radiol; Medtronic;
+   Pasqual Maragall Fdn; Delft Imaging; Univ Barcelona, Artificial
+   Intelligence Med Lab; Cadi Ayyad Univ; Natl Ctr Sci & Tech Res
+Z8 0
+TC 1
+ZA 0
+ZB 0
+ZR 0
+ZS 0
+Z9 1
+DA 2024-11-30
+UT WOS:001342230100017
+ER
+
+PT J
+AU Gilbert, M.
+   Crutchfield, A.
+   Luo, B.
+   Thind, K.
+   Ghanem, A. I.
+   Siddiqui, F.
+TI Using a Large Language Model (LLM) for Automated Extraction of Discrete
+   Elements from Clinical Notes for Creation of Cancer Databases
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3371
+BP E625
+EP E625
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+Z8 0
+ZA 0
+ZS 0
+ZB 0
+ZR 0
+TC 1
+Z9 1
+DA 2024-12-16
+UT WOS:001325892302054
+ER
+
+PT J
+AU Ostrovsky, Adam M.
+TI Evaluating a large language model's accuracy in chest X-ray
+   interpretation for acute thoracic conditions
+SO AMERICAN JOURNAL OF EMERGENCY MEDICINE
+VL 93
+BP 99
+EP 102
+DI 10.1016/j.ajem.2025.03.060
+EA APR 2025
+DT Article
+PD JUL 2025
+PY 2025
+AB Background: The rapid advancement of artificial intelligence (AI) has
+   great ability to impact healthcare. Chest X-rays are essential for
+   diagnosing acute thoracic conditions in the emergency department (ED),
+   but interpretation delays due to radiologist availability can impact
+   clinical decision-making. AI models, including deep learning algorithms,
+   have been explored for diagnostic support, but the potential of large
+   language models (LLMs) in emergency radiology remains largely
+   unexamined. Methods: This study assessed ChatGPT's feasibility in
+   interpreting chest X-rays for acute thoracic conditions commonly
+   encountered in the ED. A subset of 1400 images from the NIH Chest X-ray
+   dataset was analyzed, representing seven pathology categories:
+   Atelectasis, Effusion, Emphysema, Pneumothorax, Pneumonia, Mass, and No
+   Finding. ChatGPT 4.0, utilizing the "X-Ray Interpreter" add-on, was
+   evaluated for its diagnostic performance across these categories .
+   Results: ChatGPT demonstrated high performance in identifying normal
+   chest X-rays, with a sensitivity of 98.9 %, specificity of 93.9 %, and
+   accuracy of 94.7 %. However, the model's performance varied across
+   pathologies. The best results were observed in diagnosing pneumonia
+   (sensitivity 76.2 %, specificity 93.7 %) and pneumothorax (sensitivity
+   77.4 %, specificity 89.1 %), while performance for atelectasis and
+   emphysema was lower. Conclusion: ChatGPT demonstrates potential as a
+   supplementary tool for differentiating normal from abnormal chest
+   X-rays, with promising results for certain pathologies like pneumonia.
+   However, its diagnostic accuracy for more subtle conditions requires
+   improvement. Further research integrating ChatGPT with specialized image
+   recognition models could enhance its performance, offering new
+   possibilities in medical imaging and education. (c) 2025 The Author.
+   Published by Elsevier Inc. This is an open access article under the CC
+   BY license (http:// creativecommons.org/licenses/by/4.0/).
+ZA 0
+ZS 0
+ZR 0
+ZB 0
+TC 0
+Z8 0
+Z9 0
+DA 2025-04-12
+UT WOS:001461342300001
+PM 40174466
+ER
+
+PT J
+AU Lu, Ming Y.
+   Chen, Bowen
+   Williamson, Drew F. K.
+   Chen, Richard J.
+   Zhao, Melissa
+   Chow, Aaron K.
+   Ikemura, Kenji
+   Kim, Ahrong
+   Pouli, Dimitra
+   Patel, Ankush
+   Soliman, Amr
+   Chen, Chengkuan
+   Ding, Tong
+   Wang, Judy J.
+   Gerber, Georg
+   Liang, Ivy
+   Le, Long Phi
+   Parwani, Anil V.
+   Weishaupt, Luca L.
+   Mahmood, Faisal
+TI A multimodal generative AI copilot for human pathology
+SO NATURE
+VL 634
+IS 8033
+DI 10.1038/s41586-024-07618-3
+EA JUN 2024
+DT Article
+PD OCT 10 2024
+PY 2024
+AB Computational pathology1,2 has witnessed considerable progress in the
+   development of both task-specific predictive models and task-agnostic
+   self-supervised vision encoders3,4. However, despite the explosive
+   growth of generative artificial intelligence (AI), there have been few
+   studies on building general-purpose multimodal AI assistants and
+   copilots5 tailored to pathology. Here we present PathChat, a
+   vision-language generalist AI assistant for human pathology. We built
+   PathChat by adapting a foundational vision encoder for pathology,
+   combining it with a pretrained large language model and fine-tuning the
+   whole system on over 456,000 diverse visual-language instructions
+   consisting of 999,202 question and answer turns. We compare PathChat
+   with several multimodal vision-language AI assistants and GPT-4V, which
+   powers the commercially available multimodal general-purpose AI
+   assistant ChatGPT-4 (ref. 6). PathChat achieved state-of-the-art
+   performance on multiple-choice diagnostic questions from cases with
+   diverse tissue origins and disease models. Furthermore, using open-ended
+   questions and human expert evaluation, we found that overall PathChat
+   produced more accurate and pathologist-preferable responses to diverse
+   queries related to pathology. As an interactive vision-language AI
+   copilot that can flexibly handle both visual and natural language
+   inputs, PathChat may potentially find impactful applications in
+   pathology education, research and human-in-the-loop clinical
+   decision-making.
+   PathChat, a multimodal generative AI copilot for human pathology, has
+   been trained on a large dataset of visual-language instructions to
+   interactively assist users with diverse pathology tasks.
+Z8 5
+ZR 0
+ZS 0
+ZB 19
+TC 83
+ZA 0
+Z9 86
+DA 2024-09-25
+UT WOS:001315117500001
+PM 38866050
+ER
+
+PT J
+AU Zhong, Zhusi
+   Li, Jie
+   Sollee, John
+   Collins, Scott
+   Bai, Harrison
+   Zhang, Paul
+   Healey, Terrance
+   Atalay, Michael
+   Gao, Xinbo
+   Jiao, Zhicheng
+TI Multi-Modality Regional Alignment Network for Covid X-Ray Survival
+   Prediction and Report Generation
+SO IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS
+VL 29
+IS 5
+BP 3293
+EP 3303
+DI 10.1109/JBHI.2024.3417849
+DT Article
+PD MAY 2025
+PY 2025
+AB In response to the worldwide COVID-19 pandemic, advanced automated
+   technologies have emerged as valuable tools to aid healthcare
+   professionals in managing an increased workload by improving radiology
+   report generation and prognostic analysis. This study proposes a
+   Multi-modality Regional Alignment Network (MRANet), an explainable model
+   for radiology report generation and survival prediction that focuses on
+   high-risk regions. By learning spatial correlation in the detector,
+   MRANet visually grounds region-specific descriptions, providing robust
+   anatomical regions with a completion strategy. The visual features of
+   each region are embedded using a novel survival attention mechanism,
+   offering spatially and risk-aware features for sentence encoding while
+   maintaining global coherence across tasks. A cross-domain LLMs-Alignment
+   is employed to enhance the image-to-text transfer process, resulting in
+   sentences rich with clinical detail and improved explainability for
+   radiologists. Multi-center experiments validate the overall performance
+   and each module's composition within the model, encouraging further
+   advancements in radiology report generation research emphasizing
+   clinical interpretation and trustworthiness in AI models applied to
+   medical studies.
+TC 1
+ZR 0
+ZB 0
+ZS 0
+ZA 0
+Z8 0
+Z9 1
+DA 2025-05-16
+UT WOS:001483871500022
+PM 38905090
+ER
+
+PT J
+AU Panagoulias, Dimitrios P.
+   Tsoureli-Nikita, Evridiki
+   Virvou, Maria
+   Tsihrintzis, George A.
+TI Dermacen analytica: A novel methodology integrating multi-modal large
+   language models with machine learning in dermatology
+SO INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS
+VL 199
+AR 105898
+DI 10.1016/j.ijmedinf.2025.105898
+EA MAR 2025
+DT Article
+PD JUL 2025
+PY 2025
+AB Objective: To design, implement, evaluate, and quantify a novel and
+   adaptable Artificial Intelligence-empowered methodology aimed at
+   supporting a dermatologist's workflow in assessing and diagnosing skin
+   conditions, leveraging AI's deep image analytic power and reasoning.
+   Skin presents diverse conditions that no single AI solution can
+   comprehensively address, suggesting that mimicking a medical
+   professional's diagnostic process and creating strategic AI
+   interventions may enhance decision-making. Patients and Methods: We
+   employ large language, transformer-based vision models for image
+   analysis, sophisticated machine learning tools for guideline-based
+   segmentation, and measuring tasks in our system. As no single technology
+   is sufficient on its own for efficient use by dermatologists, we apply a
+   sequential logic with agency to improve outcomes. Results: Using natural
+   language processing methods and incorporating human expert evaluation,
+   our system achieved a weighted accuracy of 87% on the dataset used,
+   demonstrating its reasoning and diagnostic capabilities. Conclusions:
+   This study serves as a proof of concept for the application of AI in
+   dermatology, highlighting its potential to enhance the patient journey
+   for which we approximate the value of such interventions in healthcare
+   using graph theory with an associated cost-optimization objective
+   function.
+Z8 0
+TC 0
+ZR 0
+ZA 0
+ZB 0
+ZS 0
+Z9 0
+DA 2025-04-08
+UT WOS:001458155100001
+PM 40153891
+ER
+
+EF

@@ -1,0 +1,2385 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Geevarghese, Ruben
+   Solomon, Stephen B.
+   Alexander, Erica S.
+   Marinelli, Brett
+   Chatterjee, Subrata
+   Jain, Pulkit
+   Cadley, John
+   Hollingsworth, Alex
+   Chatterjee, Avijit
+   Ziv, Etay
+TI Utility of a Large Language Model for Extraction of Clinical Findings
+   from Healthcare Data following Lung Ablation: A Feasibility Study
+SO JOURNAL OF VASCULAR AND INTERVENTIONAL RADIOLOGY
+VL 36
+IS 4
+DI 10.1016/j.jvir.2024.11.029
+EA MAR 2025
+DT Article
+PD APR 2025
+PY 2025
+AB To assess the feasibility of utilizing a large language model (LLM) in
+   extracting clinically relevant information from healthcare data in
+   patients who have undergone microwave ablation for lung tumors. In this
+   single-center retrospective study, radiology reports and clinic notes of
+   20 patients were extracted, up to 12 months after treatment. Utilizing
+   an LLM (generative pretrained transformer 3.5 Turbo 16k), a zero-shot
+   prompt strategy was employed to identify 4 key outcomes from relevant
+   healthcare data: (a) recurrence at ablation site, (b) pneumothorax, (c)
+   hemoptysis, and (d) hemothorax following ablation. This was validated
+   with ground-truth labels obtained through manual chart review. Analysis
+   of 104 radiology reports and 37 clinic notes was undertaken. The LLM
+   output demonstrated high accuracy (85%-100%) across the 4 outcomes. An
+   LLM approach appears to have utility in extraction of clinically
+   relevant information from healthcare data. This method may be beneficial
+   in facilitating data analysis for future interventional radiology
+   studies.
+Z8 0
+ZB 0
+ZA 0
+ZR 0
+TC 0
+ZS 0
+Z9 0
+DA 2025-04-04
+UT WOS:001453244100001
+PM 39662619
+ER
+
+PT J
+AU Rosskopf, Steffen
+   Meder, Benjamin
+TI Healthcare 4.0-Medizin im Wandel
+SO HERZ
+VL 49
+IS 5
+BP 350
+EP 354
+DI 10.1007/s00059-024-05267-w
+EA AUG 2024
+DT Review
+PD OCT 2024
+PY 2024
+AB Healthcare 4.0 describes the future transformation of the healthcare
+   sector driven by the combination of digital technologies, such as
+   artificial intelligence (AI), big data and the Internet of Medical
+   Things, enabling the advancement of precision medicine. This overview
+   article addresses various areas such as large language models (LLM),
+   diagnostics and robotics, shedding light on the positive aspects of
+   Healthcare 4.0 and showcasing exciting methods and application examples
+   in cardiology. It delves into the broad knowledge base and enormous
+   potential of LLMs, highlighting their immediate benefits as digital
+   assistants or for administrative tasks. In diagnostics, the increasing
+   usefulness of wearables is emphasized and an AI for predicting heart
+   filling pressures based on cardiac magnetic resonance imaging (MRI) is
+   introduced. Additionally, it discusses the revolutionary methodology of
+   a digital simulation of the physical heart (digital twin). Finally, it
+   addresses both regulatory frameworks and a brief vision of data-driven
+   healthcare delivery, explaining the need for investments in technical
+   personnel and infrastructure to achieve a more effective medicine.
+Z8 0
+ZB 0
+ZS 0
+ZA 0
+TC 0
+ZR 0
+Z9 0
+DA 2024-08-14
+UT WOS:001287384100001
+PM 39115627
+ER
+
+PT J
+AU Wu, Dongyuan
+   Nie, Liming
+   Mumtaz, Rao Asad
+   Agarwal, Kadambri
+TI A LLM-Based Hybrid-Transformer Diagnosis System in Healthcare.
+SO IEEE journal of biomedical and health informatics
+VL PP
+DI 10.1109/JBHI.2024.3481412
+DT Journal Article
+PD 2024-Oct-16
+PY 2024
+AB The application of computer vision-powered large language models (LLMs)
+   for medical image diagnosis has significantly advanced healthcare
+   systems. Recent progress in developing symmetrical architectures has
+   greatly impacted various medical imaging tasks. While CNNs or RNNs have
+   demonstrated excellent performance, these architectures often face
+   notable limitations of substantial losses in detailed information, such
+   as requiring to capture global semantic information effectively and
+   relying heavily on deep encoders and aggressive downsampling. This paper
+   introduces a novel LLM-based Hybrid-Transformer Network (HybridTransNet)
+   designed to encode tokenized Big Data patches with the transformer
+   mechanism, which elegantly embeds multimodal data of varying sizes as
+   token sequence inputs of LLMS. Subsequently, the network performs both
+   inter-scale and intra-scale self-attention, processing data features
+   through a transformer-based symmetric architecture with a refining
+   module, which facilitates accurately recovering both local and global
+   context information. Additionally, the output is refined using a novel
+   fuzzy selector. Compared to other existing methods on two distinct
+   datasets, the experimental findings and formal assessment demonstrate
+   that our LLM-based HybridTransNet provides superior performance for
+   brain tumor diagnosis in healthcare informatics.
+ZA 0
+ZS 0
+TC 0
+ZR 0
+ZB 0
+Z8 0
+Z9 0
+DA 2024-10-18
+UT MEDLINE:39412973
+PM 39412973
+ER
+
+PT J
+AU Lin, Chihung
+   Kuo, Chang-Fu
+TI Roles and Potential of Large Language Models in Healthcare: A
+   Comprehensive Review.
+SO Biomedical journal
+BP 100868
+EP 100868
+DI 10.1016/j.bj.2025.100868
+DT Journal Article
+PD 2025-Apr-29
+PY 2025
+AB Large Language Models (LLMs) are capable of transforming healthcare by
+   demonstrating remarkable capabilities in language understanding and
+   generation. They have matched or surpassed human performance in
+   standardized medical examinations and assisted in diagnostics across
+   specialties like dermatology, radiology, and ophthalmology. LLMs can
+   enhance patient education by providing accurate, readable, and
+   empathetic responses, and they can streamline clinical workflows through
+   efficient information extraction from unstructured data such as clinical
+   notes. Integrating LLM into clinical practice involves user interface
+   design, clinician training, and effective collaboration between
+   Artificial Intelligence (AI) systems and healthcare professionals. Users
+   must possess a solid understanding of generative AI and domain knowledge
+   to assess the generated content critically. Ethical considerations to
+   ensure patient privacy, data security, mitigating biases, and
+   maintaining transparency are critical for responsible deployment. Future
+   directions for LLMs in healthcare include interdisciplinary
+   collaboration, developing new benchmarks that incorporate safety and
+   ethical measures, advancing multimodal LLMs that integrate text and
+   imaging data, creating LLM-based medical agents capable of complex
+   decision-making, addressing underrepresented specialties like rare
+   diseases, and integrating LLMs with robotic systems to enhance precision
+   in procedures. Emphasizing patient safety, ethical integrity, and
+   human-centered implementation is essential for maximizing the benefits
+   of LLMs, while mitigating potential risks, thereby helping to ensure
+   that these AI tools enhance rather than replace human expertise and
+   compassion in healthcare.
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+TC 0
+Z9 0
+DA 2025-05-04
+UT MEDLINE:40311872
+PM 40311872
+ER
+
+PT J
+AU Arnold, Philipp
+   Henkel, Maurice
+   Bamberg, Fabian
+   Kotter, Elmar
+TI Integration of large language models into the clinic. Revolution in
+   analysing and processing patient data to increase efficiency and quality
+   in radiology
+SO RADIOLOGIE
+DI 10.1007/s00117-025-01431-3
+EA MAR 2025
+DT Review; Early Access
+PY 2025
+AB BackgroundLarge Language Models (LLMs) like ChatGPT, Llama and Claude
+   are transforming healthcare by interpreting complex text, extracting
+   information, and providing guideline-based support. Radiology, with its
+   high patient volume and digital workflows, is a ideal field for LLM
+   integration. ObjectiveAssessment of the potential of LLMs to enhance
+   efficiency, standardization, and decision support in radiology, while
+   addressing ethical and regulatory challenges. Material and methodsPilot
+   studies at Freiburg and Basel university hospitals evaluated local LLM
+   systems for tasks like prior report summarization and guideline-driven
+   reporting. Integration with Picture Archiving and Communication System
+   (PACS) and Electronic Health Record (EHR) systems was achieved via
+   Digital Imaging and Communications in Medicine (DICOM) and Fast
+   Healthcare Interoperability Resources (FHIR) standards. Metrics included
+   time savings, compliance with the European Union (EU) Artificial
+   Intelligence (AI) Act, and user acceptance. ResultsLLMs demonstrate
+   significant potential as a support tool for radiologists in clinical
+   practice by reducing reporting times, automating routine tasks, and
+   ensuring consistent, high-quality results. They also support
+   interdisciplinary workflows (e.g., tumor boards) and meet data
+   protection requirements when locally implemented. DiscussionLocal LLM
+   systems are feasible and beneficial in radiology, enhancing efficiency
+   and diagnostic quality. Future work should refine transparency, expand
+   applications, and ensure LLMs complement medical expertise while
+   adhering to ethical and legal standards.
+ZS 0
+ZA 0
+Z8 0
+ZR 0
+TC 0
+ZB 0
+Z9 0
+DA 2025-03-26
+UT WOS:001442977100001
+PM 40072530
+ER
+
+PT J
+AU Kalaw, Fritz Gerald P.
+   Baxter, Sally L.
+TI Ethical considerations for large language models in ophthalmology
+SO CURRENT OPINION IN OPHTHALMOLOGY
+VL 35
+IS 6
+BP 438
+EP 446
+DI 10.1097/ICU.0000000000001083
+DT Article
+PD NOV 2024
+PY 2024
+AB Purpose of reviewThis review aims to summarize and discuss the ethical
+   considerations regarding large language model (LLM) use in the field of
+   ophthalmology.Recent findingsThis review of 47 articles on LLM
+   applications in ophthalmology highlights their diverse potential uses,
+   including education, research, clinical decision support, and surgical
+   assistance (as an aid in operative notes). We also review ethical
+   considerations such as the inability of LLMs to interpret data
+   accurately, the risk of promoting controversial or harmful
+   recommendations, and breaches of data privacy. These concerns imply the
+   need for cautious integration of artificial intelligence in healthcare,
+   emphasizing human oversight, transparency, and accountability to
+   mitigate risks and uphold ethical standards.SummaryThe integration of
+   LLMs in ophthalmology offers potential advantages such as aiding in
+   clinical decision support and facilitating medical education through
+   their ability to process queries and analyze ophthalmic imaging and
+   clinical cases. However, their utilization also raises ethical concerns
+   regarding data privacy, potential misinformation, and biases inherent in
+   the datasets used. Awareness of these concerns should be addressed in
+   order to optimize its utility in the healthcare setting. More
+   importantly, promoting responsible and careful use by consumers should
+   be practiced.
+ZR 0
+ZA 0
+ZB 0
+ZS 0
+Z8 0
+TC 2
+Z9 2
+DA 2024-10-05
+UT WOS:001322587400009
+PM 39259616
+ER
+
+PT J
+AU Syed, Sibtain
+   Ahmed, Rehan
+   Iqbal, Arshad
+   Ahmad, Naveed
+   Alshara, Mohammed Ali
+TI MediScan: A Framework of U-Health and Prognostic AI Assessment on
+   Medical Imaging
+SO JOURNAL OF IMAGING
+VL 10
+IS 12
+AR 322
+DI 10.3390/jimaging10120322
+DT Article
+PD DEC 2024
+PY 2024
+AB With technological advancements, remarkable progress has been made with
+   the convergence of health sciences and Artificial Intelligence (AI).
+   Modern health systems are proposed to ease patient diagnostics. However,
+   the challenge is to provide AI-based precautions to patients and doctors
+   for more accurate risk assessment. The proposed healthcare system aims
+   to integrate patients, doctors, laboratories, pharmacies, and
+   administrative personnel use cases and their primary functions onto a
+   single platform. The proposed framework can also process microscopic
+   images, CT scans, X-rays, and MRI to classify malignancy and give
+   doctors a set of AI precautions for patient risk assessment. The
+   proposed framework incorporates various DCNN models for identifying
+   different forms of tumors and fractures in the human body i.e., brain,
+   bones, lungs, kidneys, and skin, and generating precautions with the
+   help of the Fined-Tuned Large Language Model (LLM) i.e., Generative
+   Pretrained Transformer 4 (GPT-4). With enough training data, DCNN can
+   learn highly representative, data-driven, hierarchical image features.
+   The GPT-4 model is selected for generating precautions due to its
+   explanation, reasoning, memory, and accuracy on prior medical
+   assessments and research studies. Classification models are evaluated by
+   classification report (i.e., Recall, Precision, F1 Score, Support,
+   Accuracy, and Macro and Weighted Average) and confusion matrix and have
+   shown robust performance compared to the conventional schemes.
+ZA 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+ZB 0
+Z9 0
+DA 2025-01-05
+UT WOS:001386020400001
+PM 39728219
+ER
+
+PT J
+AU Gencer, Gulcan
+   Gencer, Kerem
+TI Large Language Models in Healthcare: A Bibliometric Analysis and
+   Examination of Research Trends
+SO JOURNAL OF MULTIDISCIPLINARY HEALTHCARE
+VL 18
+BP 223
+EP 238
+DI 10.2147/JMDH.S502351
+DT Article
+PD 2025
+PY 2025
+AB Background: The integration of large language models (LLMs) in
+   healthcare has generated significant interest due to their potential to
+   improve diagnostic accuracy, personalization of treatment, and patient
+   care efficiency. Objective: This study aims to conduct a comprehensive
+   bibliometric analysis to identify current research trends, main themes
+   and future directions regarding applications in the healthcare sector.
+   Methods: A systematic scan of publications until 08.05.2024 was carried
+   out from an important database such as Web of Science.Using bibliometric
+   tools such as VOSviewer and CiteSpace, we analyzed data covering
+   publication counts, citation analysis, co-authorship, co- occurrence of
+   keywords and thematic development to map the intellectual landscape and
+   collaborative networks in this field. Results: The analysis included
+   more than 500 articles published between 2021 and 2024. The United
+   States, Germany and the United Kingdom were the top contributors to this
+   field. The study highlights that neural network applications in
+   diagnostic imaging, natural language processing for clinical
+   documentation, and patient data in the field of general internal
+   medicine, radiology, medical informatics, health care services, surgery,
+   oncology, ophthalmology, neurology, orthopedics and psychiatry have seen
+   significant growth in publications over the past two years. Keyword
+   trend analysis revealed emerging sub-themes such as clinical research,
+   artificial intelligence, ChatGPT, education, natural language
+   processing, clinical management, virtual reality, chatbot, indicating a
+   shift towards addressing the broader implications of LLM application in
+   healthcare. Conclusion: The use of LLM in healthcare is an expanding
+   field with significant academic and clinical interest. This bibliometric
+   analysis not only maps the current state of the research, but also
+   identifies important areas that require further research and
+   development. Continued advances in this field are expected to
+   significantly impact future healthcare applications, with a focus on
+   increasing the accuracy and personalization of patient care through
+   advanced data analytics.
+ZR 0
+Z8 0
+ZS 0
+ZA 0
+TC 3
+ZB 0
+Z9 3
+DA 2025-01-25
+UT WOS:001400829200001
+PM 39844924
+ER
+
+PT J
+AU Li, Cheng-Yi
+   Chang, Kao-Jung
+   Yang, Cheng-Fu
+   Wu, Hsin-Yu
+   Chen, Wenting
+   Bansal, Hritik
+   Chen, Ling
+   Yang, Yi-Ping
+   Chen, Yu-Chun
+   Chen, Shih-Pin
+   Chen, Shih-Jen
+   Lirng, Jiing-Feng
+   Chang, Kai-Wei
+   Chiou, Shih-Hwa
+TI Towards a holistic framework for multimodal LLM in 3D brain CT radiology
+   report generation
+SO NATURE COMMUNICATIONS
+VL 16
+IS 1
+AR 2258
+DI 10.1038/s41467-025-57426-0
+DT Article
+PD MAR 6 2025
+PY 2025
+AB Multi-modal large language models (MLLMs) have transformed the landscape
+   of modern healthcare, with automated radiology report generation (RRG)
+   emerging as a cutting-edge application. While 2D MLLM-based RRG has been
+   well established, its utility for 3D medical images remains largely
+   unexplored. In this regard, we curate the 3D-BrainCT dataset (18,885
+   text-scan pairs) and develop BrainGPT, a clinically visual
+   instruction-tuned (CVIT) model designed for 3D CT RRG. While we notice
+   that the traditional LLM metrics failed to gauge the diagnostic quality
+   of the RRG, we propose feature-oriented radiology task evaluation
+   (FORTE), an evaluation scheme that captures the clinical essence of the
+   generated reports. Here we show that BrainGPT achieves an average FORTE
+   F1-score of 0.71 (degree = 0.661; landmark = 0.706; feature = 0.693, and
+   impression = 0.779) and 74% of BrainGPT-generated reports were
+   indistinguishable from human-written ground truth in a Turing-like test.
+   Together, our work establishes a comprehensive framework encompassing
+   dataset curation, anatomy-aware model fine-tuning, and the development
+   of robust evaluation metrics for the RRG. By sharing our experience in
+   3D MLLM-based RRG, we aim to accelerate the expedition in human-machine
+   collaboration for next-generation healthcare.
+ZR 0
+Z8 0
+ZS 0
+ZA 0
+TC 0
+ZB 0
+Z9 0
+DA 2025-03-16
+UT WOS:001439786500008
+PM 40050277
+ER
+
+PT J
+AU Wong, Tien Y.
+   Tham, Yih Chung
+   Guan, Zhouyu
+   Li, Jiajia
+   Cheung, Carol
+   Zheng, Yingfeng
+   Keane, Pearse Andrew
+   Cheng, Ching-Yu
+   Tan, Gavin S.
+   Sheng, Bin
+   Wong, Tien Y.
+   Tham, Yih Chung
+   Guan, Zhouyu
+   Li, Jiajia
+   Cheung, Carol
+   Zheng, Yingfeng
+   Keane, Pearse Andrew
+   Cheng, Ching-Yu
+   Tan, Gavin S.
+   Sheng, Bin
+TI An Integrated Image-based Deep Learning and Language Models for Diabetic
+   Retinopathy: A Multi-Stage Development, Testing and Prospective
+   Comparative Study
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+MA 4926
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+Z8 0
+ZS 0
+ZB 0
+ZA 0
+ZR 0
+TC 0
+Z9 0
+DA 2024-11-30
+UT WOS:001313316204205
+ER
+
+PT J
+AU Sun, Yu
+   Zhang, Xianglin
+   Dong, Liang
+   Liu, Ning
+TI Multi-objective evolutionary neural architecture search for medical
+   image analysis using transformer and large language models in advancing
+   public health
+SO APPLIED SOFT COMPUTING
+VL 179
+AR 113279
+DI 10.1016/j.asoc.2025.113279
+DT Article
+PD JUL 2025
+PY 2025
+AB The rapid growth of medical imaging data in modern healthcare networks
+   demands sophisticated automated analysis methods that can maintain high
+   accuracy while operating efficiently at scale. Current approaches using
+   transformers and large language models (LLMs) face challenges balancing
+   computational requirements with diagnostic precision across diverse
+   healthcare settings. This paper presents TransMed-NAS (transformer
+   medical neural architecture search), a multi-objective evolutionary
+   neural architecture search framework that automatically discovers
+   efficient hybrid architectures by integrating transformers and LLMs for
+   image segmentation. Our approach leverages evolutionary computation to
+   optimize segmentation and computational efficiency while incorporating
+   medical domain knowledge through LLM guidance. framework introduces
+   several innovations: a hierarchical channel selection strategy that
+   preserves clinically relevant features, a weight entanglement mechanism
+   that accelerates architecture search through intelligent knowledge
+   transfer, and a surrogate model acceleration technique that reduces
+   computational overhead maintaining reliability. Experimental results on
+   the ISIC 2020 dataset demonstrate TransMed-NAS's performance compared to
+   state-of-the-art methods. Our small model variant achieves competitive
+   (0.934 Dice score) with only 0.82M parameters, while our large variant
+   establishes new benchmarks Dice score) with significantly reduced
+   computational requirements. Ablation studies confirm the effectiveness
+   of each component, particularly highlighting how LLM integration
+   enhances architecture search efficiency clinical relevance. These
+   results demonstrate TransMed-NAS's potential to advance automated
+   medical analysis in resource-diverse healthcare settings, making
+   sophisticated diagnostic capabilities more accessible to underserved
+   communities.
+ZA 0
+ZB 0
+TC 0
+Z8 0
+ZS 0
+ZR 0
+Z9 0
+DA 2025-06-13
+UT WOS:001505047200001
+ER
+
+PT J
+AU John, Annette
+   Alhajj, Reda
+   Rokne, Jon
+TI A systematic review of AI as a digital twin for prostate cancer care
+SO COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
+VL 268
+AR 108804
+DI 10.1016/j.cmpb.2025.108804
+EA MAY 2025
+DT Review
+PD AUG 2025
+PY 2025
+AB Artificial Intelligence (AI) and Digital Twin (DT) technologies are
+   rapidly transforming healthcare, offering the potential for
+   personalized, accurate, and efficient medical care. This systematic
+   review focuses on the intersection of AI-based digital twins and their
+   applications in prostate cancer pathology. A digital twin, when applied
+   to healthcare, creates a dynamic, data-driven virtual model that
+   simulates a patient's biological systems in real-time. By incorporating
+   AI techniques such as Machine Learning (ML) and Deep Learning (DL),
+   these systems enhance predictive accuracy, enable early diagnosis, and
+   facilitate individualized treatment strategies for prostate cancer. This
+   review systematically examines recent advances (2020-2025) in AI-driven
+   digital twins for prostate cancer, highlighting key methodologies,
+   algorithms, and data integration strategies. The literature analysis
+   also reveals substantial progress in image processing, predictive
+   modeling, and clinical decision support systems, which are the basic
+   tools used when implementing digital twins for prostate cancer care. Our
+   survey also critically evaluates the strengths and limitations of
+   current approaches, identifying gaps such as the need for real-time data
+   integration, improved explainability in AI models, and more robust
+   clinical validation. It concludes with a discussion of future research
+   directions, emphasizing the importance of integrating multi-modal data
+   with Large Language Models (LLMs) and Vision-Language Models (VLMs),
+   scalability, and ethical considerations in advancing AI-driven digital
+   twins for prostate cancer diagnosis and treatment. This paper provides a
+   comprehensive resource for researchers and clinicians, offering insights
+   into how AI-based digital twins can enhance precision medicine and
+   improve patient outcomes in prostate cancer care.
+ZA 0
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+TC 0
+Z9 0
+DA 2025-05-23
+UT WOS:001490802200002
+PM 40347618
+ER
+
+PT J
+AU Sai, Siva
+   Gaur, Aanchal
+   Sai, Revant
+   Chamola, Vinay
+   Guizani, Mohsen
+   Rodrigues, Joel J. P. C.
+TI Generative AI for Transformative Healthcare: A Comprehensive Study of
+   Emerging Models, Applications, Case Studies, and Limitations
+SO IEEE ACCESS
+VL 12
+BP 31078
+EP 31106
+DI 10.1109/ACCESS.2024.3367715
+DT Article
+PD 2024
+PY 2024
+AB Generative artificial intelligence (GAI) can be broadly described as an
+   artificial intelligence system capable of generating images, text, and
+   other media types with human prompts. GAI models like ChatGPT, DALL-E,
+   and Bard have recently caught the attention of industry and academia
+   equally. GAI applications span various industries like art, gaming,
+   fashion, and healthcare. In healthcare, GAI shows promise in medical
+   research, diagnosis, treatment, and patient care and is already making
+   strides in real-world deployments. There has yet to be any detailed
+   study concerning the applications and scope of GAI in healthcare.
+   Addressing this research gap, we explore several applications,
+   real-world scenarios, and limitations of GAI in healthcare. We examine
+   how GAI models like ChatGPT and DALL-E can be leveraged to aid in the
+   applications of medical imaging, drug discovery, personalized patient
+   treatment, medical simulation and training, clinical trial optimization,
+   mental health support, healthcare operations and research, medical
+   chatbots, human movement simulation, and a few more applications. Along
+   with applications, we cover four real-world healthcare scenarios that
+   employ GAI: visual snow syndrome diagnosis, molecular drug optimization,
+   medical education, and dentistry. We also provide an elaborate
+   discussion on seven healthcare-customized LLMs like Med-PaLM, BioGPT,
+   DeepHealth, etc.,Since GAI is still evolving, it poses challenges like
+   the lack of professional expertise in decision making, risk of patient
+   data privacy, issues in integrating with existing healthcare systems,
+   and the problem of data bias which are elaborated on in this work along
+   with several other challenges. We also put forward multiple directions
+   for future research in GAI for healthcare.
+ZS 0
+ZA 0
+Z8 0
+ZR 0
+ZB 5
+TC 39
+Z9 40
+DA 2024-03-21
+UT WOS:001176001000001
+ER
+
+PT J
+AU Truhn, Daniel
+   Weber, Christian D.
+   Braun, Benedikt J.
+   Bressem, Keno
+   Kather, Jakob N.
+   Kuhl, Christiane
+   Nebelung, Sven
+TI A pilot study on the efficacy of GPT-4 in providing orthopedic treatment
+   recommendations from MRI reports
+SO SCIENTIFIC REPORTS
+VL 13
+IS 1
+AR 20159
+DI 10.1038/s41598-023-47500-2
+DT Article
+PD NOV 17 2023
+PY 2023
+AB Large language models (LLMs) have shown potential in various
+   applications, including clinical practice. However, their accuracy and
+   utility in providing treatment recommendations for orthopedic conditions
+   remain to be investigated. Thus, this pilot study aims to evaluate the
+   validity of treatment recommendations generated by GPT-4 for common knee
+   and shoulder orthopedic conditions using anonymized clinical MRI
+   reports. A retrospective analysis was conducted using 20 anonymized
+   clinical MRI reports, with varying severity and complexity. Treatment
+   recommendations were elicited from GPT-4 and evaluated by two
+   board-certified specialty-trained senior orthopedic surgeons. Their
+   evaluation focused on semiquantitative gradings of accuracy and clinical
+   utility and potential limitations of the LLM-generated recommendations.
+   GPT-4 provided treatment recommendations for 20 patients (mean age, 50
+   years +/- 19 [standard deviation]; 12 men) with acute and chronic knee
+   and shoulder conditions. The LLM produced largely accurate and
+   clinically useful recommendations. However, limited awareness of a
+   patient's overall situation, a tendency to incorrectly appreciate
+   treatment urgency, and largely schematic and unspecific treatment
+   recommendations were observed and may reduce its clinical usefulness. In
+   conclusion, LLM-based treatment recommendations are largely adequate and
+   not prone to 'hallucinations', yet inadequate in particular situations.
+   Critical guidance by healthcare professionals is obligatory, and
+   independent use by patients is discouraged, given the dependency on
+   precise data input.
+ZB 9
+ZA 0
+ZR 0
+Z8 2
+ZS 0
+TC 33
+Z9 33
+DA 2024-04-05
+UT WOS:001125371600058
+PM 37978240
+ER
+
+PT J
+AU MacKay, Emily J.
+   Goldfinger, Shir
+   Chan, Trevor J.
+   Grasfield, Rachel H.
+   Eswar, Vikram J.
+   Li, Kelly
+   Cao, Quy
+   Pouch, Alison M.
+TI Automated structured data extraction from intraoperative
+   echocardiography reports using large language models
+SO BRITISH JOURNAL OF ANAESTHESIA
+VL 134
+IS 5
+BP 1308
+EP 1317
+DI 10.1016/j.bja.2025.01.028
+EA APR 2025
+DT Article
+PD MAY 2025
+PY 2025
+AB Background: Consensus-based large language model (LLM) ensembles might
+   provide an automated solution for extracting structured data from
+   unstructured text in echocardiography reports. Methods: This
+   cross-sectional study utilised 600 intraoperative transoesophageal
+   reports (100 for prompt engineering; 500 for testing) randomly sampled
+   from 7106 adult patients undergoing cardiac surgery at two hospitals
+   within the University of Pennsylvania Healthcare System. Three
+   echocardiographic parameters (left ventricular ejection fraction, right
+   ventricular systolic function, and tricuspid regurgitation) were
+   extracted from both the presurgical and postsurgical sections of the
+   reports. LLM ensembles were generated using five open-source LLMs and
+   four voting strategies: (1) unanimous (five out of five in agreement);
+   (2) supermajority (four or more of five in agreement); (3) majority
+   (three or more of five in agreement); and (4) plurality (two or more of
+   five in agreement). Returned LLM ensemble responses were compared with
+   the reference standard dataset to calculate raw accuracy, consensus
+   accuracy, error rate, and yield. Results: Of the four LLM ensembles, the
+   unanimous LLM ensemble achieved the highest consensus accuracies (99.4%
+   presurgical; 97.9% postsurgical) and the lowest error rates (0.6%
+   presurgical; 2.1% postsurgical) but had the lowest data extraction
+   yields (81.7% presurgical; 80.5% postsurgical) and the lowest raw
+   accuracies (81.2% presurgical; 78.9% postsurgical). In contrast, the
+   plurality LLM ensemble achieved the highest raw accuracies (96.1%
+   presurgical; 93.7% postsurgical) and the highest data extraction yields
+   (99.4% presurgical; 98.9% postsurgical) but had the lowest consensus
+   accuracies (96.7% presurgical; 94.7% postsurgical) and highest error
+   rates (3.3% presurgical; 5.3% postsurgical). Conclusions: A
+   consensus-based LLM ensemble successfully generated structured data from
+   unstructured text contained in intraoperative transoesophageal reports.
+Z8 0
+ZB 0
+ZR 0
+ZS 0
+TC 0
+ZA 0
+Z9 0
+DA 2025-05-07
+UT WOS:001477112200001
+PM 40037947
+ER
+
+PT J
+AU Ong, Hannah
+   Ong, Joshua
+   Cheng, Rebekah
+   Wang, Calvin
+   Lin, Murong
+   Ong, Dennis
+TI GPT Technology to Help Address Longstanding Barriers to Care in Free
+   Medical Clinics
+SO ANNALS OF BIOMEDICAL ENGINEERING
+VL 51
+IS 9
+BP 1906
+EP 1909
+DI 10.1007/s10439-023-03256-4
+EA JUN 2023
+DT Article
+PD SEP 2023
+PY 2023
+AB The implementation of technology in healthcare has revolutionized
+   patient-centered decision making by providing contextualized information
+   about a patient's healthcare journey, leading to increased efficiency
+   (Keyworth et al. in BMC Med Inform Decis Mak 18:93, 2018,
+   https://doi.org/10.1186/s12911-018-0661-3). Artificial intelligence has
+   been integrated within Electronic Health Records (EHR) to prompt
+   screenings or diagnostic tests based on a patient's holistic health
+   profile. While larger hospitals have already widely adopted these
+   technologies, free clinics hold lower utilization of these advanced
+   capability EHRs. The patient population at a free clinic faces a
+   multitude of factors that limits their access to comprehensive care,
+   thus requiring necessary efforts and measures to close the gap in
+   healthcare disparities. Emerging Artificial Intelligence (AI)
+   technology, such as OpenAI's ChatGPT, GPT-4, and other large language
+   models (LLMs) have remarkable potential to improve patient care
+   outcomes, promote health equity, and enhance comprehensive and holistic
+   care in resource-limited settings. This paper aims to identify areas in
+   which integrating these LLM AI advancements into free clinics operations
+   can optimize and streamline healthcare delivery to underserved patient
+   populations. This paper also identifies areas of improvements in GPT
+   that are necessary to deliver those services.
+ZR 0
+TC 11
+ZA 0
+ZB 4
+Z8 0
+ZS 0
+Z9 11
+DA 2023-07-14
+UT WOS:001019903200001
+PM 37355478
+ER
+
+PT J
+AU Su, Cheng
+   Wen, Jinbo
+   Kang, Jiawen
+   Wang, Yonghua
+   Su, Yuanjia
+   Pan, Hudan
+   Zhong, Zishao
+   Hossain, M. Shamim
+TI Hybrid RAG-Empowered Multimodal LLM for Secure Data Management in
+   Internet of Medical Things: A Diffusion-Based Contract Approach
+SO IEEE INTERNET OF THINGS JOURNAL
+VL 12
+IS 10
+BP 13428
+EP 13440
+DI 10.1109/JIOT.2024.3521425
+DT Article
+PD MAY 15 2025
+PY 2025
+AB Secure data management and effective data sharing have become paramount
+   in the rapidly evolving healthcare landscape, especially with the
+   growing demand for the Internet of Medical Things (IoMT) integration.
+   The advent of generative artificial intelligence (GenAI) has further
+   elevated multimodal large language models (MLLMs) as essential tools for
+   managing and optimizing healthcare data in IoMT. MLLMs can handle
+   multimodal inputs and generate different kinds of data by utilizing
+   large-scale training on massive multimodal datasets. Nevertheless,
+   significant challenges remain in developing medical MLLMs, especially
+   security and data freshness concerns, which impact the quality of MLLM
+   outputs. To this end, this article proposes a hybrid Retrieval-Augmented
+   Generation (RAG)-empowered medical MLLM framework for healthcare data
+   management. The proposed framework enables secure data training by
+   utilizing a hierarchical cross-chain design. Furthermore, it improves
+   the output quality of MLLMs by using hybrid RAG that filters different
+   unimodal RAG results using multimodal metrics and integrates these
+   retrieval results as additional inputs for MLLMs. Furthermore, we
+   utilize the age of information (AoI) to indirectly assess the influence
+   of data freshness on MLLMs and apply contract theory to motivate
+   healthcare data stakeholders to disseminate their current data, thereby
+   alleviating information asymmetry in the data-sharing process. Finally,
+   we employ a generative diffusion model-based deep reinforcement learning
+   (DRL) technique to find the optimal contract for efficient data sharing.
+   Numerical results show the effectiveness of the proposed approach in
+   achieving secure and efficient healthcare data management.
+Z8 0
+ZR 0
+ZB 0
+ZA 0
+ZS 0
+TC 1
+Z9 1
+DA 2025-05-18
+UT WOS:001484711600036
+ER
+
+PT J
+AU Gilbert, M.
+   Crutchfield, A.
+   Luo, B.
+   Thind, K.
+   Ghanem, A. I.
+   Siddiqui, F.
+TI Using a Large Language Model (LLM) for Automated Extraction of Discrete
+   Elements from Clinical Notes for Creation of Cancer Databases
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3371
+BP E625
+EP E625
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+Z8 0
+ZA 0
+ZS 0
+ZB 0
+ZR 0
+TC 1
+Z9 1
+DA 2024-12-16
+UT WOS:001325892302054
+ER
+
+PT B
+AU Mahyoub, Mohammed
+Z2  
+TI From Clinical Text to Informed Decisions: A Study of Large Language
+   Models in Radiology
+DT Dissertation/Thesis
+PD Jan 01 2025
+PY 2025
+ZB 0
+ZA 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+UT PQDT:123143819
+ER
+
+PT J
+AU Encalada, Sebastian
+   Gupta, Sahil
+   Hunt, Christine
+   Eldrige, Jason
+   Evans, John 2nd
+   Mosquera-Moscoso, Johanna
+   Pessoa de Mendonca, Laura Furtado
+   Kanahan-Osman, Sharima
+   Bade, Sohail
+   Bade, Sahil
+   Ivicic, Lisbet
+   Foskey, Stephanie
+   Lyles, Jason
+   Suarez, Juan
+   Fisher, Aaron
+   Khan, Hamaad
+   Stone, Jeffrey A
+   Hurdle, Mark
+TI Optimizing patient understanding of spine MRI reports using AI: A
+   prospective single center study.
+SO Interventional pain medicine
+VL 4
+IS 1
+BP 100550
+EP 100550
+DI 10.1016/j.inpm.2025.100550
+DT Journal Article
+PD 2025-Mar
+PY 2025
+AB Background: Patient comprehension of spine MRI reports remains a
+   significant challenge, potentially affecting healthcare engagement and
+   outcomes. Artificial Intelligence (AI) may offer a solution for
+   interpreting complex medical terminology into layman's terms language.
+   Objective: To evaluate the effectiveness of AI-based interpretation of
+   spine MRI reports in improving patient comprehension and satisfaction.
+   Methods: A prospective, single-center survey study was conducted at a
+   single institution's multidisciplinary pain and spine clinics from May
+   2024 to November 2024, enrolling 102 adult patients scheduled for spine
+   MRI. Imaging reports were interpreted using a single AI-based Large
+   Language Model (LLM) that is securely operated within the hospital's
+   network, with interpretations independently reviewed by healthcare
+   providers and research coordinators. A board-certified neuroradiologist
+   evaluated the accuracy of AI interpretations using a standardized
+   5-point scale. We analyzed survey responses from participants who
+   received both their original MRI reports and AI-interpreted versions,
+   comparing comprehension, clarity, engagement, and satisfaction.
+   Results: Participants reported higher comprehension with AI-interpreted
+   MRI reports versus original radiology reports (8.50±1.91 vs 6.56±2.42;
+   P<.001). AI interpretations received superior scores for clarity
+   (8.57±1.79 vs 6.96±2.12; P<.001), understanding of medical conditions
+   (7.75±2.18 vs 6.27±2.28; P<.001), and healthcare engagement (8.35±2.00
+   vs 6.78±2.48; P<.001). Accuracy assessment showed that 82.4% of AI
+   interpretations achieved high-quality ratings (≥4) [95% CI:
+   69.7%-90.4%], while 92.2% were rated acceptable (≥3). Most participants
+   (54.0%) assigned the highest possible recommendation scores to AI
+   interpretation. No significant differences were found between age groups
+   and gender.
+   Conclusions: AI-based interpretation of spine MRI reports significantly
+   improved patient comprehension and satisfaction. Despite the promise of
+   rapidly evolving AI-based technologies, a considerable percentage of AI
+   interpretations were deemed to be inaccurate, warranting the need for
+   further research.
+ZA 0
+ZB 0
+TC 0
+ZS 0
+ZR 0
+Z8 0
+Z9 0
+DA 2025-03-09
+UT MEDLINE:40051774
+PM 40051774
+ER
+
+PT J
+AU Xie, Kevin
+   Ojemann, William K. S.
+   Gallagher, Ryan S.
+   Shinohara, Russell T.
+   Lucas, Alfredo
+   Hill, Chloe E.
+   Hamilton, Roy H.
+   Johnson, Kevin B.
+   Roth, Dan
+   Litt, Brian
+   Ellis, Colin A.
+TI Disparities in seizure outcomes revealed by large language models
+SO JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION
+VL 31
+IS 6
+BP 1348
+EP 1355
+DI 10.1093/jamia/ocae047
+EA MAR 2024
+DT Article
+PD MAY 20 2024
+PY 2024
+AB Objective Large-language models (LLMs) can potentially revolutionize
+   health care delivery and research, but risk propagating existing biases
+   or introducing new ones. In epilepsy, social determinants of health are
+   associated with disparities in care access, but their impact on seizure
+   outcomes among those with access remains unclear. Here we (1) evaluated
+   our validated, epilepsy-specific LLM for intrinsic bias, and (2) used
+   LLM-extracted seizure outcomes to determine if different demographic
+   groups have different seizure outcomes.Materials and Methods We tested
+   our LLM for differences and equivalences in prediction accuracy and
+   confidence across demographic groups defined by race, ethnicity, sex,
+   income, and health insurance, using manually annotated notes. Next, we
+   used LLM-classified seizure freedom at each office visit to test for
+   demographic outcome disparities, using univariable and multivariable
+   analyses.Results We analyzed 84 675 clinic visits from 25 612 unique
+   patients seen at our epilepsy center. We found little evidence of bias
+   in the prediction accuracy or confidence of outcome classifications
+   across demographic groups. Multivariable analysis indicated worse
+   seizure outcomes for female patients (OR 1.33, P <= .001), those with
+   public insurance (OR 1.53, P <= .001), and those from lower-income zip
+   codes (OR >= 1.22, P <= .007). Black patients had worse outcomes than
+   White patients in univariable but not multivariable analysis (OR 1.03, P
+   = .66).Conclusion We found little evidence that our LLM was
+   intrinsically biased against any demographic group. Seizure freedom
+   extracted by LLM revealed disparities in seizure outcomes across several
+   demographic groups. These findings quantify the critical need to reduce
+   disparities in the care of people with epilepsy.
+ZB 1
+Z8 0
+ZA 0
+ZS 0
+TC 5
+ZR 0
+Z9 5
+DA 2024-03-29
+UT WOS:001184502000001
+PM 38481027
+ER
+
+PT J
+AU Fisch, Urs
+   Kliem, Paulina
+   Grzonka, Pascale
+   Sutter, Raoul
+TI Performance of large language models on advocating the management of
+   meningitis: a comparative qualitative stud
+SO BMJ HEALTH & CARE INFORMATICS
+VL 31
+IS 1
+AR e100978
+DI 10.1136/bmjhci-2023-100978
+DT Article
+PD FEB 2024
+PY 2024
+AB Objectives We aimed to examine the adherence of large language models
+   (LLMs) to bacterial meningitis guidelines using a hypothetical medical
+   case, highlighting their utility and limitations in healthcare.Methods A
+   simulated clinical scenario of a patient with bacterial meningitis
+   secondary to mastoiditis was presented in three independent sessions to
+   seven publicly accessible LLMs (Bard, Bing, Claude-2, GTP-3.5, GTP-4,
+   Llama, PaLM). Responses were evaluated for adherence to good clinical
+   practice and two international meningitis guidelines.Results A central
+   nervous system infection was identified in 90% of LLM sessions. All
+   recommended imaging, while 81% suggested lumbar puncture. Blood cultures
+   and specific mastoiditis work-up were proposed in only 62% and 38%
+   sessions, respectively. Only 38% of sessions provided the correct
+   empirical antibiotic treatment, while antiviral treatment and
+   dexamethasone were advised in 33% and 24%, respectively. Misleading
+   statements were generated in 52%. No significant correlation was found
+   between LLMs' text length and performance (r=0.29, p=0.20). Among all
+   LLMs, GTP-4 demonstrated the best performance.Discussion Latest LLMs
+   provide valuable advice on differential diagnosis and diagnostic
+   procedures but significantly vary in treatment-specific information for
+   bacterial meningitis when introduced to a realistic clinical scenario.
+   Misleading statements were common, with performance differences
+   attributed to each LLM's unique algorithm rather than output
+   length.Conclusions Users must be aware of such limitations and
+   performance variability when considering LLMs as a support tool for
+   medical decision-making. Further research is needed to refine these
+   models' comprehension of complex medical scenarios and their ability to
+   provide reliable information.
+TC 7
+Z8 0
+ZS 0
+ZR 0
+ZB 1
+ZA 0
+Z9 7
+DA 2024-02-12
+UT WOS:001156524500002
+PM 38307617
+ER
+
+PT J
+AU Maroncelli, Roberto
+   Rizzo, Veronica
+   Pasculli, Marcella
+   Cicciarelli, Federica
+   Macera, Massimo
+   Galati, Francesca
+   Catalano, Carlo
+   Pediconi, Federica
+TI Probing clarity: AI-generated simplified breast imaging reports for
+   enhanced patient comprehension powered by ChatGPT-4o
+SO EUROPEAN RADIOLOGY EXPERIMENTAL
+VL 8
+IS 1
+AR 124
+DI 10.1186/s41747-024-00526-1
+DT Article
+PD OCT 30 2024
+PY 2024
+AB Background To assess the reliability and comprehensibility of breast
+   radiology reports simplified by artificial intelligence using the large
+   language model (LLM) ChatGPT-4o. Methods A radiologist with 20 years'
+   experience selected 21 anonymized breast radiology reports, 7
+   mammography, 7 breast ultrasound, and 7 breast magnetic resonance
+   imaging (MRI), categorized according to breast imaging reporting and
+   data system (BI-RADS). These reports underwent simplification by
+   prompting ChatGPT-4o with "Explain this medical report to a patient
+   using simple language". Five breast radiologists assessed the quality of
+   these simplified reports for factual accuracy, completeness, and
+   potential harm with a 5-point Likert scale from 1 (strongly agree) to 5
+   (strongly disagree). Another breast radiologist evaluated the text
+   comprehension of five non-healthcare personnel readers using a 5-point
+   Likert scale from 1 (excellent) to 5 (poor). Descriptive statistics,
+   Cronbach's alpha, and the Kruskal-Wallis test were used. Results
+   Mammography, ultrasound, and MRI showed high factual accuracy (median 2)
+   and completeness (median 2) across radiologists, with low potential harm
+   scores (median 5); no significant group differences (p >= 0.780), and
+   high internal consistency (alpha > 0.80) were observed. Non-healthcare
+   readers showed high comprehension (median 2 for mammography and MRI and
+   1 for ultrasound); no significant group differences across modalities (p
+   = 0.368), and high internal consistency (alpha > 0.85) were observed.
+   BI-RADS 0, 1, and 2 reports were accurately explained, while BI-RADS 3-6
+   reports were challenging. Conclusion The model demonstrated reliability
+   and clarity, offering promise for patients with diverse backgrounds.
+   LLMs like ChatGPT-4o could simplify breast radiology reports, aid in
+   communication, and enhance patient care. Relevance statement Simplified
+   breast radiology reports generated by ChatGPT-4o show potential in
+   enhancing communication with patients, improving comprehension across
+   varying educational backgrounds, and contributing to patient-centered
+   care in radiology practice. Key Points AI simplifies complex breast
+   imaging reports, enhancing patient understanding. Simplified reports
+   from AI maintain accuracy, improving patient comprehension
+   significantly. Implementing AI reports enhances patient engagement and
+   communication in breast imaging.
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+TC 3
+ZA 0
+Z9 3
+DA 2024-11-07
+UT WOS:001346069300001
+PM 39477904
+ER
+
+PT J
+AU Chen, Qian
+   Lin, Zihang
+   Li, Xudong
+   Zheng, Jingyuan
+   Zhang, Yan
+   Ji, Rongrong
+TI Multi-scale and contrastive learning for pediatric chest radiograph
+   classification tasks
+SO DISPLAYS
+VL 87
+AR 102951
+DI 10.1016/j.displa.2024.102951
+EA JAN 2025
+DT Article
+PD APR 2025
+PY 2025
+AB Pediatric medical image classification faces enormous challenges due to
+   the subtlety of children's physiology, the subtle manifestations of
+   pathological changes, and the urgent need for accurate and timely
+   diagnosis. This complexity is further exacerbated by the high
+   variability in image quality, the small sample sizes of rare diseases,
+   and the need for models to generalize well over diverse and often
+   limited datasets. Addressing these challenges is imperative to improve
+   pediatric healthcare outcomes. To this end, this paper proposes a model
+   that combines contrastive learning and multi-scale theory, which
+   simulates the behavior of the eye zooming in and out of an image when a
+   physician is looking at a medical imaging picture. First, we zoom in and
+   out the image and then perform feature extraction and blending by
+   feature encoder and scale integration unit for the purpose of learning
+   the fine texture and global feature of the lesion. At the same time, we
+   write a series of texts for the disease category that needs to be
+   diagnosed and get its features through text encoder. Considering the
+   further fusion of image features, we also introduce a frozen LLM block
+   to do it. Finally, we use text features and image features for
+   similarity computation, the crucial step of contrastive learning, and
+   obtain the final categories. On four public datasets, our proposed model
+   performs excellently and outperforms existing SOTA methods. In addition,
+   our model also performs well in generalized proficiency testing,
+   particularly in IQA. With this work, we aim to open new avenues for the
+   use of contrastive learning and multi-scale theory in pediatric medical
+   imaging and to enrich the understanding of its potential in this
+   specialized field.
+ZR 0
+ZB 0
+Z8 0
+TC 0
+ZS 0
+ZA 0
+Z9 0
+DA 2025-01-22
+UT WOS:001397596400001
+ER
+
+PT J
+AU Pelekis, Sotiris
+   Koutroubas, Thanos
+   Blika, Afroditi
+   Berdelis, Anastasis
+   Karakolis, Evangelos
+   Ntanos, Christos
+   Spiliotis, Evangelos
+   Askounis, Dimitris
+TI Adversarial machine learning: a review of methods, tools, and critical
+   industry sectors
+SO ARTIFICIAL INTELLIGENCE REVIEW
+VL 58
+IS 8
+AR 226
+DI 10.1007/s10462-025-11147-4
+DT Article
+PD MAY 3 2025
+PY 2025
+AB The rapid advancement of Artificial Intelligence (AI), particularly
+   Machine Learning (ML) and Deep Learning (DL), has produced
+   high-performance models widely used in various applications, ranging
+   from image recognition and chatbots to autonomous driving and smart grid
+   systems. However, security threats arise from the vulnerabilities of ML
+   models to adversarial attacks and data poisoning, posing risks such as
+   system malfunctions and decision errors. Meanwhile, data privacy
+   concerns arise, especially with personal data being used in model
+   training, which can lead to data breaches. This paper surveys the
+   Adversarial Machine Learning (AML) landscape in modern AI systems, while
+   focusing on the dual aspects of robustness and privacy. Initially, we
+   explore adversarial attacks and defenses using comprehensive taxonomies.
+   Subsequently, we investigate robustness benchmarks alongside open-source
+   AML technologies and software tools that ML system stakeholders can use
+   to develop robust AI systems. Lastly, we delve into the landscape of AML
+   in four industry fields -automotive, digital healthcare, electrical
+   power and energy systems (EPES), and Large Language Model (LLM)-based
+   Natural Language Processing (NLP) systems- analyzing attacks, defenses,
+   and evaluation concepts, thereby offering a holistic view of the modern
+   AI-reliant industry and promoting enhanced ML robustness and privacy
+   preservation in the future.
+ZB 0
+ZA 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+DA 2025-05-07
+UT WOS:001480703000010
+ER
+
+PT J
+AU Omar, Mahmud
+   Soffer, Shelly
+   Agbareia, Reem
+   Bragazzi, Nicola Luigi
+   Apakama, Donald U.
+   Horowitz, Carol R.
+   Charney, Alexander W.
+   Freeman, Robert
+   Kummer, Benjamin
+   Glicksberg, Benjamin S.
+   Nadkarni, Girish N.
+   Klang, Eyal
+TI Sociodemographic biases in medical decision making by large language
+   models
+SO NATURE MEDICINE
+DI 10.1038/s41591-025-03626-6
+EA APR 2025
+DT Article; Early Access
+PY 2025
+AB Large language models (LLMs) show promise in healthcare, but concerns
+   remain that they may produce medically unjustified clinical care
+   recommendations reflecting the influence of patients' sociodemographic
+   characteristics. We evaluated nine LLMs, analyzing over 1.7 million
+   model-generated outputs from 1,000 emergency department cases (500 real
+   and 500 synthetic). Each case was presented in 32 variations (31
+   sociodemographic groups plus a control) while holding clinical details
+   constant. Compared to both a physician-derived baseline and each model's
+   own control case without sociodemographic identifiers, cases labeled as
+   Black or unhoused or identifying as LGBTQIA+ were more frequently
+   directed toward urgent care, invasive interventions or mental health
+   evaluations. For example, certain cases labeled as being from LGBTQIA+
+   subgroups were recommended mental health assessments approximately six
+   to seven times more often than clinically indicated. Similarly, cases
+   labeled as having high-income status received significantly more
+   recommendations (P < 0.001) for advanced imaging tests such as computed
+   tomography and magnetic resonance imaging, while low- and
+   middle-income-labeled cases were often limited to basic or no further
+   testing. After applying multiple-hypothesis corrections, these key
+   differences persisted. Their magnitude was not supported by clinical
+   reasoning or guidelines, suggesting that they may reflect model-driven
+   bias, which could eventually lead to health disparities rather than
+   acceptable clinical variation. Our findings, observed in both
+   proprietary and open-source models, underscore the need for robust bias
+   evaluation and mitigation strategies to ensure that LLM-driven medical
+   advice remains equitable and patient centered.
+ZB 0
+Z8 0
+TC 2
+ZA 0
+ZS 0
+ZR 0
+Z9 2
+DA 2025-04-23
+UT WOS:001466469500001
+PM 40195448
+ER
+
+PT J
+AU Pugliese, Giorgia
+   Maccari, Alberto
+   Felisati, Elena
+   Felisati, Giovanni
+   Giudici, Leonardo
+   Rapolla, Chiara
+   Pisani, Antonia
+   Saibene, Alberto Maria
+TI Are artificial intelligence large language models a reliable tool for
+   difficult differential diagnosis? An a posteriori analysis of a peculiar
+   case of necrotizing otitis externa
+SO CLINICAL CASE REPORTS
+VL 11
+IS 9
+AR e7933
+DI 10.1002/ccr3.7933
+DT Article
+PD SEP 2023
+PY 2023
+AB Key Clinical MessageLarge language models have made artificial
+   intelligence readily available to the general public and potentially
+   have a role in healthcare; however, their use in difficult differential
+   diagnosis is still limited, as demonstrated by a case of necrotizing
+   otitis externa.AbstractThis case report presents a peculiar case of
+   necrotizing otitis externa (NOE) with skull base involvement which
+   proved diagnostically challenging. The initial patient presentation and
+   the imaging performed on the 78-year-old patient suggested a neoplastic
+   rhinopharyngeal lesion and only after several unsuccessful biopsies the
+   patient was transferred to our unit. Upon re-evaluation of the clinical
+   picture, a clinical hypothesis of NOE with skull base erosion was made
+   and confirmed by identifying Pseudomonas aeruginosa in biopsy specimens
+   of skull base bone and external auditory canal skin. Upon diagnosis
+   confirmation, the patient was treated with culture-oriented long-term
+   antibiotics with complete resolution of the disease. Given the complex
+   clinical presentation, we chose to submit a posteriori this NOE case to
+   two large language models (LLM) to test their ability to handle
+   difficult differential diagnoses. LLMs are easily approachable
+   artificial intelligence tools that enable human-like interaction with
+   the user relying upon large information databases for analyzing queries.
+   The LLMs of choice were ChatGPT-3 and ChatGPT-4 and they were requested
+   to analyze the case being provided with only objective clinical and
+   imaging data.
+   This computed tomography scan shows bilateral partial erosion of the
+   bony boundaries of the middle skull base (simple arrows) with moderate
+   soft tissue contrast enhancement (double arrows) in a case of
+   necrotizing otitis externa case.image
+Z8 0
+ZS 0
+TC 3
+ZB 0
+ZR 0
+ZA 0
+Z9 3
+DA 2023-09-27
+UT WOS:001067165300001
+PM 37736475
+ER
+
+PT J
+AU Shah, Uzair
+   Khan, Sulaiman
+   Alzubaidi, Mahmood
+   Agus, Marco
+   Househ, Mowafa
+TI Unveiling the Potential of ChatGPT and YOLOv7 for Evaluating Children's
+   Emotions Using Their Artistic Expressions.
+SO Studies in health technology and informatics
+VL 316
+BP 409
+EP 413
+DI 10.3233/SHTI240434
+DT Journal Article
+PD 2024-Aug-22
+PY 2024
+AB Recent advancements in large language models (LLMs) have sparked
+   considerable interest in their potential applications across various
+   healthcare domains. One promising prospect is leveraging these
+   generative models to accurately predict children's emotions by combining
+   computer vision and natural language processing techniques. However,
+   understanding children's emotional states based on their artistic
+   expressions is equally crucial. To address this challenge, this paper
+   presents a pipelined architecture comprising YOLOv7 and the powerful
+   GPT-3.5 Turbo language model, where YOLOv7 is employed for object
+   detection using art therapy imaging annotations, while GPT-3.5
+   interprets the sketches. After rigorously evaluating the proposed
+   framework through a series of comprehensive experiments, we observed
+   that our model achieved high confidence scores for both object detection
+   and emotion interpretation. The robust performance of the proposed
+   framework not only aids in explaining children's art but also provides
+   valuable insights for parents and therapists. This capability enables
+   them to better understand children's emotional states based on their
+   artistic expressions, ultimately facilitating improved support and care.
+ZS 0
+Z8 0
+ZR 0
+TC 0
+ZA 0
+ZB 0
+Z9 0
+DA 2024-08-24
+UT MEDLINE:39176763
+PM 39176763
+ER
+
+PT C
+AU Sun, Yihua
+   Khor, Hee Guan
+   Wang, Yuanzheng
+   Wang, Zhuhao
+   Zhao, Hongliang
+   Zhang, Yu
+   Ma, Longfei
+   Zheng, Zhuozhao
+   Liao, Hongen
+BE Dou, Q
+   Feragen, A
+   Giannarou, S
+   Glocker, B
+   Lekadir, K
+   Schnabel, JA
+   Linguraru, MG
+TI Continually Tuning a Large Language Model for Multi-domain Radiology
+   Report Generation
+SO MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION - MICCAI
+   2024, PT V
+SE Lecture Notes in Computer Science
+VL 15005
+BP 177
+EP 187
+DI 10.1007/978-3-031-72086-4_17
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Large language models (LLMs) have demonstrated potential across various
+   tasks, including vision-language applications like chest Xray (XR)
+   report generation (RG) in healthcare. Recent RG approaches focus on
+   optimizing model performance for a single dataset with a single XR
+   modality, often neglecting the critical area of computed tomography (CT)
+   report generation. The challenge is compounded by medical datasets being
+   isolated across different centers, making comprehensive collection
+   difficult. Furthermore, LLMs trained on datasets sequentially can
+   experience catastrophic forgetting. In this paper, we move beyond
+   conventional approaches of training on a single dataset, and focus on
+   improving the overall performance on sequentially collected multi-center
+   datasets. We incorporate four datasets with diverse languages and image
+   modalities for the experiments. Our approach utilizes a minimal number
+   of task-specific learnable weights within an LLM-based RG method for
+   each domain, maintaining the majority of weights frozen to avoid
+   forgetting. Utilizing LLMs' multilingual generalizability, we align
+   models and facilitate knowledge sharing through a multi-label supervised
+   contrastive loss within the LLM hidden space. We design a 2D-3D adapter
+   for the image encoder to transfer from XR to CT RG tasks. A CT disease
+   graph is established for transferring knowledge from XR to CT RG tasks,
+   using CT's most relevant XR disease class centers in a triplet loss.
+   Extensive experiments validate our design.
+CT 27th International Conference on Medical Image Computing and Computer
+   Assisted Intervention (MICCAI)
+CY OCT 06-10, 2024
+CL Palmeraie Conf Ctr, Marrakesh, MOROCCO
+HO Palmeraie Conf Ctr
+SP GH Labs; Childrens Natl Hosp; Pierre Fabre; Comp Assisted Med Intervent
+   Labex; Multidisciplinary Inst Artificial Intelligence Grenoble Alpes;
+   Western Univ, Frugal Biomed Innovat Program; Int Soc Radiol; Medtronic;
+   Pasqual Maragall Fdn; Delft Imaging; Univ Barcelona, Artificial
+   Intelligence Med Lab; Cadi Ayyad Univ; Natl Ctr Sci & Tech Res
+Z8 0
+TC 1
+ZA 0
+ZB 0
+ZR 0
+ZS 0
+Z9 1
+DA 2024-11-30
+UT WOS:001342230100017
+ER
+
+PT J
+AU Izhar, Amaan
+   Idris, Norisma
+   Japar, Nurul
+TI Engaging Preference Optimization Alignment in Large Language Model for
+   Continual Radiology Report Generation: A Hybrid Approach
+SO COGNITIVE COMPUTATION
+VL 17
+IS 1
+AR 53
+DI 10.1007/s12559-025-10404-6
+DT Letter
+PD FEB 2025
+PY 2025
+AB Large language models (LLMs) remain relatively underutilized in medical
+   imaging, particularly in radiology, which is essential for disease
+   diagnosis and management. Nonetheless, radiology report generation (RRG)
+   is a time-consuming task that can result in delays and inconsistencies.
+   To address these challenges, we present a novel hybrid approach that
+   integrates multi-modal radiology information and preference optimization
+   alignment in LLM for continual RRG. Our method integrates a pre-trained
+   small multi-modal model to analyze radiology images and generate an
+   initial report, which is subsequently refined and aligned by an LLM
+   using odds ratio preference optimization (ORPO) and with historical
+   patient data and assessments to mimic radiologist-like responses,
+   bypassing reinforcement learning from human feedback-based (RLHF)
+   alignment. This two-stage fusion-supervised fine-tuning followed by
+   preference optimization-ensures high accuracy while minimizing
+   hallucinations and errors. We also propose a data field curation
+   strategy extendable to various other RRG modality datasets, focusing on
+   selecting relevant responses for preference alignment. We evaluate our
+   approach on two public datasets, achieving state-of-the-art performance
+   with average Bleu scores of 0.375 and 0.647, Meteor scores of 0.495 and
+   0.714, Rouge-L scores of 0.483 and 0.732, and average F1-RadGraph scores
+   of 0.488 and 0.487, for chest X-rays and lung CT scan datasets,
+   respectively. We further provide in-depth qualitative analyses and
+   ablation studies to explain the workings of our model and grasp the
+   clinical relevance for RRG. This work presents the first application of
+   preference optimization in continual RRG, representing a significant
+   advancement in automating clinically reliable report generation. By
+   reducing cognitive burdens on radiologists through AI-powered reasoning
+   and alignment in LLMs, the proposed model improves decision-making,
+   perception, and diagnostic precision, streamlining workflows and
+   enhancing patient care. Our code is available at
+   https://github.com/AI-14/r2gpoallm.
+Z8 0
+ZB 0
+TC 1
+ZS 0
+ZR 0
+ZA 0
+Z9 1
+DA 2025-02-01
+UT WOS:001407936900001
+ER
+
+PT J
+AU Baxter, Sally Liu
+TI Transforming Patient Experience: Harnessing AI -Powered Virtual
+   Assistants in Ophthalmology
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+MA 6
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+ZS 0
+ZB 0
+TC 0
+ZR 0
+Z8 0
+ZA 0
+Z9 0
+DA 2024-12-01
+UT WOS:001312227700084
+ER
+
+PT J
+AU Duponchel, Ludovic
+   de Oliveira, Rodrigo Rocha
+   Motto-Ros, Vincent
+TI Large Language Models (such as ChatGPT) as Tools for Machine
+   Learning-Based Data Insights in Analytical Chemistry
+SO ANALYTICAL CHEMISTRY
+VL 97
+IS 13
+BP 6956
+EP 6961
+DI 10.1021/acs.analchem.4c05046
+EA FEB 2025
+DT Article
+PD FEB 5 2025
+PY 2025
+AB Artificial intelligence (AI), especially through the development of deep
+   learning techniques like convolutional neural networks (CNNs), has
+   revolutionized numerous fields. CNNs, introduced by Yann LeCun in the
+   1990s (Hubbard, W.; Jackel, L. D. Backpropagation Applied to Handwritten
+   Zip Code Recognition. Neural Comput. 1989, 1 (4), 541- 551.
+   https://doi.org/10.1162/neco.1989.1.4.541), have found applications in
+   healthcare for medical diagnostics, autonomous vehicles in
+   transportation, stock market prediction in finance, and image
+   recognition in computer vision to name just a few. Similarly, in
+   analytical chemistry, deep learning has enhanced data analysis from
+   techniques like MS spectrometry, NMR, fluorescence spectroscopy, and
+   chromatography. Another AI branch, Natural Language Processing (NLP),
+   has surged recently with the advent of Large Language Models (LLMs),
+   such as OpenAI's ChatGPT. This paper demonstrates the application of an
+   LLM via a smartphone to conduct multivariate data analyses, in an
+   interactive conversational manner, of a hyper-spectral imaging data set
+   from laser-induced breakdown spectroscopy (LIBS). We demonstrate the
+   potential of LLMs to process and analyze data sets, which automatically
+   generate and execute code in response to user queries, and anticipate
+   their growing role in the future of analytical chemistry.
+ZA 0
+ZS 0
+ZR 0
+Z8 0
+ZB 0
+TC 2
+Z9 2
+DA 2025-02-14
+UT WOS:001416057000001
+PM 39907023
+ER
+
+PT J
+AU Li, Ang
+   Wang, Yunxin
+   Chen, Hongxu
+TI AI driven cardiovascular risk prediction using NLP and Large Language
+   Models for personalized medicine in athletes
+SO SLAS TECHNOLOGY
+VL 32
+AR 100286
+DI 10.1016/j.slast.2025.100286
+EA APR 2025
+DT Article
+PD JUN 2025
+PY 2025
+AB The performance and long-term health of athletes are significantly
+   influenced by their cardiovascular resilience and associated risk
+   factors. This study explores the innovative applications of Natural
+   Language Processing (NLP) and Large Language Models (LLMs) in biomedical
+   diagnostics, particularly for AI-driven arrhythmia detection,
+   hypertrophic cardiomyopathy (HCM) in athletes, and personalized
+   medicine. The complexity of analysing diverse biomedical datasets, such
+   as electrocardiograms (ECG), clinical records, genetic screening
+   reports, and imaging results, poses challenges in obtaining precise
+   early diagnoses. To address these issues, we introduce a hybrid machine
+   learning (ML) framework that integrates the Wolf Pack Search Algorithm
+   Dynamic Random Forest (WPSA-DRF) with a RoBERTa-based LLM to enhance the
+   accuracy of cardiovascular disease predictions. Using advanced NLP
+   techniques, including biomedical text mining, entity recognition, and
+   feature extraction, the system processes structured and unstructured
+   clinical data to detect abnormalities associated with sudden cardiac
+   arrest (SCA), arrhythmias, and genetic cardiomyopathies. The proposed
+   system achieves a diagnostic accuracy of 92.5 %, precision of 92.7 %,
+   recall of 99.23 %, and F1-score of 95.6 %, outperforming traditional
+   diagnostic methodologies. Furthermore, the research underscores the role
+   of LLMs in personalized medicine, identifying patient-specific risk
+   factors and optimizing treatment pathways for cardiac patients. This
+   work highlights how NLP-driven AI solutions are transforming biomedical
+   research, accelerating early disease detection, and improving clinical
+   decision-making for both athletes and the general population.
+ZR 0
+TC 0
+ZA 0
+ZS 0
+Z8 0
+ZB 0
+Z9 0
+DA 2025-05-08
+UT WOS:001478484900001
+PM 40216258
+ER
+
+PT J
+AU Wu, Wanying
+   Guo, Yuhu
+   Li, Qi
+   Jia, Congzhuo
+TI Exploring the potential of large language models in identifying
+   metabolic dysfunction-associated steatotic liver disease: A comparative
+   study of non-invasive tests and artificial intelligence-generated
+   responses
+SO LIVER INTERNATIONAL
+VL 45
+IS 4
+DI 10.1111/liv.16112
+EA NOV 2024
+DT Article
+PD APR 2025
+PY 2025
+AB Background and AimsThis study sought to assess the capabilities of large
+   language models (LLMs) in identifying clinically significant metabolic
+   dysfunction-associated steatotic liver disease (MASLD).MethodsWe
+   included individuals from NHANES 2017-2018. The validity and reliability
+   of MASLD diagnosis by GPT-3.5 and GPT-4 were quantitatively examined and
+   compared with those of the Fatty Liver Index (FLI) and United States FLI
+   (USFLI). A receiver operating characteristic curve was conducted to
+   assess the accuracy of MASLD diagnosis via different scoring systems.
+   Additionally, GPT-4V's potential in clinical diagnosis using ultrasound
+   images from MASLD patients was evaluated to provide assessments of LLM
+   capabilities in both textual and visual data interpretation.ResultsGPT-4
+   demonstrated comparable performance in MASLD diagnosis to FLI and USFLI
+   with the AUROC values of .831 (95% CI .796-.867), .817 (95% CI
+   .797-.837) and .827 (95% CI .807-.848), respectively. GPT-4 exhibited a
+   trend of enhanced accuracy, clinical relevance and efficiency compared
+   to GPT-3.5 based on clinician evaluation. Additionally, Pearson's r
+   values between GPT-4 and FLI, as well as USFLI, were .718 and .695,
+   respectively, indicating robust and moderate correlations. Moreover,
+   GPT-4V showed potential in understanding characteristics from hepatic
+   ultrasound imaging but exhibited limited interpretive accuracy in
+   diagnosing MASLD compared to skilled radiologists.ConclusionsGPT-4
+   achieved performance comparable to traditional risk scores in diagnosing
+   MASLD and exhibited improved convenience, versatility and the capacity
+   to offer user-friendly outputs. The integration of GPT-4V highlights the
+   capacities of LLMs in handling both textual and visual medical data,
+   reinforcing their expansive utility in healthcare practice.
+TC 0
+ZA 0
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+Z9 0
+DA 2024-11-23
+UT WOS:001354198800001
+PM 39526465
+ER
+
+PT J
+AU Khanmohammadi, R.
+   Ghanem, A. I.
+   Verdecchia, K.
+   Hall, R.
+   Elshaikh, M. A.
+   Movsas, B.
+   Bagher-Ebadian, H.
+   Chetty, I. J.
+   Ghassemi, M. M.
+   Thind, K.
+TI A Novel Localized Student-Teacher LLM for Enhanced Toxicity Extraction
+   in Radiation Oncology
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3388
+BP E632
+EP E633
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+Z8 0
+TC 0
+ZB 0
+ZR 0
+ZA 0
+ZS 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302069
+ER
+
+PT J
+AU Frosolini, Andrea
+   Catarzi, Lisa
+   Benedetti, Simone
+   Latini, Linda
+   Chisci, Glauco
+   Franz, Leonardo
+   Gennaro, Paolo
+   Gabriele, Guido
+TI The Role of Large Language Models (LLMs) in Providing Triage for
+   Maxillofacial Trauma Cases: A Preliminary Study
+SO DIAGNOSTICS
+VL 14
+IS 8
+AR 839
+DI 10.3390/diagnostics14080839
+DT Article
+PD APR 2024
+PY 2024
+AB Background: In the evolving field of maxillofacial surgery, integrating
+   advanced technologies like Large Language Models (LLMs) into medical
+   practices, especially for trauma triage, presents a promising yet
+   largely unexplored potential. This study aimed to evaluate the
+   feasibility of using LLMs for triaging complex maxillofacial trauma
+   cases by comparing their performance against the expertise of a tertiary
+   referral center. Methods: Utilizing a comprehensive review of patient
+   records in a tertiary referral center over a year-long period,
+   standardized prompts detailing patient demographics, injury
+   characteristics, and medical histories were created. These prompts were
+   used to assess the triage suggestions of ChatGPT 4.0 and Google GEMINI
+   against the center's recommendations, supplemented by evaluating the
+   AI's performance using the QAMAI and AIPI questionnaires. Results: The
+   results in 10 cases of major maxillofacial trauma indicated moderate
+   agreement rates between LLM recommendations and the referral center,
+   with some variances in the suggestion of appropriate examinations (70%
+   ChatGPT and 50% GEMINI) and treatment plans (60% ChatGPT and 45%
+   GEMINI). Notably, the study found no statistically significant
+   differences in several areas of the questionnaires, except in the
+   diagnosis accuracy (GEMINI: 3.30, ChatGPT: 2.30; p = 0.032) and
+   relevance of the recommendations (GEMINI: 2.90, ChatGPT: 3.50; p =
+   0.021). A Spearman correlation analysis highlighted significant
+   correlations within the two questionnaires, specifically between the
+   QAMAI total score and AIPI treatment scores (rho = 0.767, p = 0.010).
+   Conclusions: This exploratory investigation underscores the potential of
+   LLMs in enhancing clinical decision making for maxillofacial trauma
+   cases, indicating a need for further research to refine their
+   application in healthcare settings.
+TC 17
+ZB 2
+ZS 0
+ZR 0
+Z8 0
+ZA 0
+Z9 17
+DA 2024-05-05
+UT WOS:001210140800001
+PM 38667484
+ER
+
+PT J
+AU Huppertz, Marc Sebastian
+   Siepmann, Robert
+   Topp, David
+   Nikoubashman, Omid
+   Yueksel, Can
+   Kuhl, Christiane Katharina
+   Truhn, Daniel
+   Nebelung, Sven
+TI Revolution or risk?-Assessing the potential and challenges of GPT-4V in
+   radiologic image interpretation
+SO EUROPEAN RADIOLOGY
+VL 35
+IS 3
+BP 1111
+EP 1121
+DI 10.1007/s00330-024-11115-6
+EA OCT 2024
+DT Article
+PD MAR 2025
+PY 2025
+AB ObjectivesChatGPT-4 Vision (GPT-4V) is a state-of-the-art multimodal
+   large language model (LLM) that may be queried using images. We aimed to
+   evaluate the tool's diagnostic performance when autonomously assessing
+   clinical imaging studies.Materials and methodsA total of 206 imaging
+   studies (i.e., radiography (n = 60), CT (n = 60), MRI (n = 60), and
+   angiography (n = 26)) with unequivocal findings and established
+   reference diagnoses from the radiologic practice of a large university
+   hospital were accessed. Readings were performed uncontextualized, with
+   only the image provided, and contextualized, with additional clinical
+   and demographic information. Responses were assessed along multiple
+   diagnostic dimensions and analyzed using appropriate statistical
+   tests.ResultsWith its pronounced propensity to favor context over image
+   information, the tool's diagnostic accuracy improved from 8.3%
+   (uncontextualized) to 29.1% (contextualized, first diagnosis correct)
+   and 63.6% (contextualized, correct diagnosis among differential
+   diagnoses) (p <= 0.001, Cochran's Q test). Diagnostic accuracy declined
+   by up to 30% when 20 images were re-read after 30 and 90 days and seemed
+   unrelated to the tool's self-reported confidence (Spearman's rho = 0.117
+   (p = 0.776)). While the described imaging findings matched the suggested
+   diagnoses in 92.7%, indicating valid diagnostic reasoning, the tool
+   fabricated 258 imaging findings in 412 responses and misidentified
+   imaging modalities or anatomic regions in 65 images.ConclusionGPT-4V, in
+   its current form, cannot reliably interpret radiologic images. Its
+   tendency to disregard the image, fabricate findings, and misidentify
+   details, especially without clinical context, may misguide healthcare
+   providers and put patients at risk.Key PointsQuestionCan Generative
+   Pre-trained Transformer 4 Vision (GPT-4V) interpret radiologic
+   images-with and without clinical context?FindingsGPT-4V performed
+   poorly, demonstrating diagnostic accuracy rates of 8%
+   (uncontextualized), 29% (contextualized, most likely diagnosis correct),
+   and 64% (contextualized, correct diagnosis among differential
+   diagnoses).Clinical relevanceThe utility of commercial multimodal large
+   language models, such as GPT-4V, in radiologic practice is limited.
+   Without clinical context, diagnostic errors and fabricated findings may
+   compromise patient safety and misguide clinical decision-making. These
+   models must be further refined to be beneficial.Key PointsQuestionCan
+   Generative Pre-trained Transformer 4 Vision (GPT-4V) interpret
+   radiologic images-with and without clinical context?FindingsGPT-4V
+   performed poorly, demonstrating diagnostic accuracy rates of 8%
+   (uncontextualized), 29% (contextualized, most likely diagnosis correct),
+   and 64% (contextualized, correct diagnosis among differential
+   diagnoses).Clinical relevanceThe utility of commercial multimodal large
+   language models, such as GPT-4V, in radiologic practice is limited.
+   Without clinical context, diagnostic errors and fabricated findings may
+   compromise patient safety and misguide clinical decision-making. These
+   models must be further refined to be beneficial.Key PointsQuestionCan
+   Generative Pre-trained Transformer 4 Vision (GPT-4V) interpret
+   radiologic images-with and without clinical context?FindingsGPT-4V
+   performed poorly, demonstrating diagnostic accuracy rates of 8%
+   (uncontextualized), 29% (contextualized, most likely diagnosis correct),
+   and 64% (contextualized, correct diagnosis among differential
+   diagnoses).
+   Clinical relevanceThe utility of commercial multimodal large language
+   models, such as GPT-4V, in radiologic practice is limited. Without
+   clinical context, diagnostic errors and fabricated findings may
+   compromise patient safety and misguide clinical decision-making. These
+   models must be further refined to be beneficial.
+ZA 0
+Z8 0
+ZR 0
+TC 2
+ZB 0
+ZS 0
+Z9 2
+DA 2024-10-28
+UT WOS:001339015800003
+PM 39422726
+ER
+
+PT J
+AU Hsieh, Chihcheng
+   Moreira, Catarina
+   Nobre, Isabel Blanco
+   Sousa, Sandra Costa
+   Ouyang, Chun
+   Brereton, Margot
+   Jorge, Joaquim
+   Nascimento, Jacinto C
+TI DALL-M: Context-aware clinical data augmentation with large language
+   models.
+SO Computers in biology and medicine
+VL 190
+BP 110022
+EP 110022
+DI 10.1016/j.compbiomed.2025.110022
+DT Journal Article
+PD 2025-May
+PY 2025
+AB X-ray images are vital in medical diagnostics, but their effectiveness
+   is limited without clinical context. Radiologists often find chest
+   X-rays insufficient for diagnosing underlying diseases, necessitating
+   the integration of structured clinical features with radiology reports.
+   To address this, we introduce DALL-M, a novel framework that enhances
+   clinical datasets by generating contextual synthetic data. DALL-M
+   augments structured patient data, including vital signs (e.g., heart
+   rate, oxygen saturation), radiology findings (e.g., lesion presence),
+   and demographic factors. It integrates this tabular data with contextual
+   knowledge extracted from radiology reports and domain-specific resources
+   (e.g., Radiopaedia, Wikipedia), ensuring clinical consistency and
+   reliability. DALL-M follows a three-phase process: (i) clinical context
+   storage, (ii) expert query generation, and (iii) context-aware feature
+   augmentation. Using large language models (LLMs), it generates both
+   contextual synthetic values for existing clinical features and entirely
+   new, clinically relevant features. Applied to 799 cases from the
+   MIMIC-IV dataset, DALL-M expanded the original 9 clinical features to
+   91. Empirical validation with machine learning models - including
+   Decision Trees, Random Forests, XGBoost, and TabNET - demonstrated a
+   16.5% improvement in F1 score and a 25% increase in Precision and
+   Recall. DALL-M bridges an important gap in clinical data augmentation by
+   preserving data integrity while enhancing predictive modeling in
+   healthcare. Our results show that integrating LLM-generated synthetic
+   features significantly improves model performance, making DALL-M a
+   scalable and practical approach for AI-driven medical diagnostics.
+ZB 0
+ZA 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+DA 2025-04-05
+UT MEDLINE:40174497
+PM 40174497
+ER
+
+PT J
+AU Azurmendi, Iker
+   Gonzalez, Manuel
+   Garcia, Gustavo
+   Zulueta, Ekaitz
+   Martin, Elena
+TI Deep Learning-Based Postural Asymmetry Detection Through Pressure Mat
+SO APPLIED SCIENCES-BASEL
+VL 14
+IS 24
+AR 12050
+DI 10.3390/app142412050
+DT Article
+PD DEC 2024
+PY 2024
+AB Deep learning, a subfield of artificial intelligence that uses neural
+   networks with multiple layers, is rapidly changing healthcare. Its
+   ability to analyze large datasets and extract relevant information makes
+   it a powerful tool for improving diagnosis, treatment, and disease
+   management. The integration of DL with pressure mats-which are devices
+   that use pressure sensors to continuously and non-invasively monitor the
+   interaction between patients and the contact surface-is a promising
+   application. These pressure platforms generate data that can be very
+   useful for detecting postural anomalies. In this paper we will discuss
+   the application of deep learning algorithms in the analysis of pressure
+   data for the detection of postural asymmetries in 139 patients aged 3 to
+   20 years. We investigated several main tasks: patient classification,
+   hemibody segmentation, recognition of specific body parts, and
+   generation of automated clinical reports. For this purpose,
+   convolutional neural networks in their classification and regression
+   modalities, the object detection algorithm YOLOv8, and the open language
+   model LLaMa3 were used. Our results demonstrated high accuracy in all
+   tasks: classification achieved 100% accuracy; hemibody division obtained
+   an MAE of approximately 7; and object detection had an average accuracy
+   of 70%. These results demonstrate the potential of this approach for
+   monitoring postural and motor disabilities. By enabling personalized
+   patient care, our methodology contributes to improved clinical outcomes
+   and healthcare delivery. To our best knowledge, this is the first study
+   that combines pressure images with multiple deep learning algorithms for
+   the detection and assessment of postural disorders and motor
+   disabilities in this group of patients.
+ZR 0
+ZB 0
+ZA 0
+TC 1
+ZS 0
+Z8 0
+Z9 1
+DA 2024-12-31
+UT WOS:001384060100001
+ER
+
+PT J
+AU Wang, Yue
+   Yang, Shuo
+   Zeng, Chengcheng
+   Xie, Yingwei
+   Shen, Ya
+   Li, Jian
+   Huang, Xiao
+   Wei, Ruili
+   Chen, Yuqing
+TI Evaluating the performance of ChatGPT in patient consultation and
+   image-based preliminary diagnosis in thyroid eye disease
+SO FRONTIERS IN MEDICINE
+VL 12
+AR 1546706
+DI 10.3389/fmed.2025.1546706
+DT Article
+PD FEB 18 2025
+PY 2025
+AB Background The emergence of Large Language Model (LLM) chatbots, such as
+   ChatGPT, has great promise for enhancing healthcare practice. Online
+   consultation, accurate pre-diagnosis, and clinical efforts are of
+   fundamental importance for the patient-oriented management
+   system.Objective This cross-sectional study aims to evaluate the
+   performance of ChatGPT in inquiries across ophthalmic domains and to
+   focus on Thyroid Eye Disease (TED) consultation and image-based
+   preliminary diagnosis in a non-English language.Methods We obtained
+   frequently consulted clinical inquiries from a published reference based
+   on patient consultation data, titled A Comprehensive Collection of
+   Thyroid Eye Disease Knowledge. Additionally, we collected facial and
+   Computed Tomography (CT) images from 16 patients with a definitive
+   diagnosis of TED. From 18 to 30 May 2024, inquiries about the TED
+   consultation and preliminary diagnosis were posed to ChatGPT using a new
+   chat for each question. Responses to questions from ChatGPT-4, 4o, and
+   an experienced ocular professor were compiled into three questionnaires,
+   which were evaluated by patients and ophthalmologists on four
+   dimensions: accuracy, comprehensiveness, conciseness, and satisfaction.
+   The preliminary diagnosis of TED was deemed accurate, and the
+   differences in the accuracy rates were further calculated.Results For
+   common TED consultation questions, ChatGPT-4o delivered more accurate
+   information with logical consistency, adhering to a structured format of
+   disease definition, detailed sections, and summarized conclusions.
+   Notably, the answers generated by ChatGPT-4o were rated higher than
+   those of ChatGPT-4 and the professor, with accuracy (4.33 [0.69]),
+   comprehensiveness (4.17 [0.75]), conciseness (4.12 [0.77]), and
+   satisfaction (4.28 [0.70]). The characteristics of the evaluators, the
+   response variables, and other quality scores were all correlated with
+   overall satisfaction levels. Based on several facial images, ChatGPT-4
+   twice failed to make diagnoses because of lacking characteristic
+   symptoms or a complete medical history, whereas ChatGPT-4o accurately
+   identified the pathologic conditions in 31.25% of cases (95% confidence
+   interval, CI: 11.02-58.66%). Furthermore, in combination with CT images,
+   ChatGPT-4o performed comparably to the professor in terms of diagnosis
+   accuracy (87.5, 95% CI 61.65-98.45%).Conclusion ChatGPT-4o excelled in
+   comprehensive and satisfactory patient consultation and imaging
+   interpretation, indicating the potential to improve clinical practice
+   efficiency. However, limitations in disinformation management and legal
+   permissions remain major concerns, which require further investigation
+   in clinical practice.
+TC 1
+ZB 0
+ZS 0
+ZA 0
+Z8 0
+ZR 0
+Z9 1
+DA 2025-03-08
+UT WOS:001435934700001
+PM 40041459
+ER
+
+PT J
+AU Voinea, Stefan-Vlad
+   Mamuleanu, Madalin
+   Teica, Rossy Vladut
+   Florescu, Lucian Mihai
+   Selisteanu, Dan
+   Gheonea, Ioana Andreea
+TI GPT-Driven Radiology Report Generation with Fine-Tuned Llama 3
+SO BIOENGINEERING-BASEL
+VL 11
+IS 10
+AR 1043
+DI 10.3390/bioengineering11101043
+DT Article
+PD OCT 2024
+PY 2024
+AB The integration of deep learning into radiology has the potential to
+   enhance diagnostic processes, yet its acceptance in clinical practice
+   remains limited due to various challenges. This study aimed to develop
+   and evaluate a fine-tuned large language model (LLM), based on Llama
+   3-8B, to automate the generation of accurate and concise conclusions in
+   magnetic resonance imaging (MRI) and computed tomography (CT) radiology
+   reports, thereby assisting radiologists and improving reporting
+   efficiency. A dataset comprising 15,000 radiology reports was collected
+   from the University of Medicine and Pharmacy of Craiova's Imaging
+   Center, covering a diverse range of MRI and CT examinations made by four
+   experienced radiologists. The Llama 3-8B model was fine-tuned using
+   transfer-learning techniques, incorporating parameter quantization to
+   4-bit precision and low-rank adaptation (LoRA) with a rank of 16 to
+   optimize computational efficiency on consumer-grade GPUs. The model was
+   trained over five epochs using an NVIDIA RTX 3090 GPU, with intermediary
+   checkpoints saved for monitoring. Performance was evaluated
+   quantitatively using Bidirectional Encoder Representations from
+   Transformers Score (BERTScore), Recall-Oriented Understudy for Gisting
+   Evaluation (ROUGE), Bilingual Evaluation Understudy (BLEU), and Metric
+   for Evaluation of Translation with Explicit Ordering (METEOR) metrics on
+   a held-out test set. Additionally, a qualitative assessment was
+   conducted, involving 13 independent radiologists who participated in a
+   Turing-like test and provided ratings for the AI-generated conclusions.
+   The fine-tuned model demonstrated strong quantitative performance,
+   achieving a BERTScore F1 of 0.8054, a ROUGE-1 F1 of 0.4998, a ROUGE-L F1
+   of 0.4628, and a METEOR score of 0.4282. In the human evaluation, the
+   artificial intelligence (AI)-generated conclusions were preferred over
+   human-written ones in approximately 21.8% of cases, indicating that the
+   model's outputs were competitive with those of experienced radiologists.
+   The average rating of the AI-generated conclusions was 3.65 out of 5,
+   reflecting a generally favorable assessment. Notably, the model
+   maintained its consistency across various types of reports and
+   demonstrated the ability to generalize to unseen data. The fine-tuned
+   Llama 3-8B model effectively generates accurate and coherent conclusions
+   for MRI and CT radiology reports. By automating the conclusion-writing
+   process, this approach can assist radiologists in reducing their
+   workload and enhancing report consistency, potentially addressing some
+   barriers to the adoption of deep learning in clinical practice. The
+   positive evaluations from independent radiologists underscore the
+   model's potential utility. While the model demonstrated strong
+   performance, limitations such as dataset bias, limited sample diversity,
+   a lack of clinical judgment, and the need for large computational
+   resources require further refinement and real-world validation. Future
+   work should explore the integration of such models into clinical
+   workflows, address ethical and legal considerations, and extend this
+   approach to generate complete radiology reports.
+ZS 0
+ZB 0
+Z8 1
+ZA 0
+ZR 0
+TC 1
+Z9 1
+DA 2024-11-03
+UT WOS:001342753500001
+PM 39451418
+ER
+
+PT B
+AU Kollapally, Navya Martin
+Z2  
+TI A Methodological Framework for Ontology Development, Enrichment, and
+   Application in Natural Language Processing Tasks
+DT Dissertation/Thesis
+PD Jan 01 2024
+PY 2024
+ZR 0
+ZS 0
+ZA 0
+Z8 0
+ZB 0
+TC 0
+Z9 0
+UT PQDT:112748987
+ER
+
+PT C
+AU Woolsey, Chancellor
+   Miller, Skye
+   Kauchak, David
+   Harber, Philip
+   Rains, Steven
+   Leroy, Gondy
+GP IEEE COMPUTER SOC
+TI Diffusion Models for Image Generation to Enhance Health Literacy
+SO 2024 IEEE 12TH INTERNATIONAL CONFERENCE ON HEALTHCARE INFORMATICS, ICHI
+   2024
+SE IEEE International Conference on Healthcare Informatics
+BP 312
+EP 319
+DI 10.1109/ICHI61247.2024.00047
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Improving health literacy is critical for patient education, and a lack
+   of health literacy has been shown to negatively affect both patients and
+   the overall healthcare system. Text is the most common form of
+   educational materials. In this paper, we explore how text information
+   can be automatically augmented with images using a text-to-image model
+   to assist in readability and comprehension. To understand what text
+   types are amenable to image generation, we controlled for two text
+   characteristics: concreteness (concrete vs. abstract) and length
+   (sentence vs. noun phrase). We conducted a 2x2 study with N=80 medical
+   prompts across all four conditions: sentence-concrete,
+   sentence-abstract, noun-phrase-concrete, and noun-phrase-abstract.
+   Experts evaluated the images on six metrics. Both the length and the
+   concreteness were found to affect the quality of the generated images
+   significantly. Overall, the Google Image Search results were better than
+   the automatically generated results, highlighting the challenges of
+   generative models.
+CT 12th IEEE International Conference on Healthcare Informatics (IEEE-ICHI)
+CY JUN 03-06, 2024
+CL Orlando, FL
+SP IEEE; IEEE Comp Soc Tech Community Intelligent Informat; Univ Minnesota,
+   Div Computat Hlth Sci; Weill Cornell Med Inst Artificial Intelligence &
+   Digital Hlth; Univ Florida Hlth; Yale Univ, Sch Med; Springer; Florida
+   State Univ, Coll Commun & Informat
+ZR 0
+ZS 0
+ZB 0
+TC 0
+ZA 0
+Z8 0
+Z9 0
+DA 2024-11-02
+UT WOS:001304501700039
+ER
+
+PT J
+AU Han, B.
+   Chen, Y.
+   Buyyounouski, M. K.
+   Gensheimer, M. F.
+   Xing, L.
+TI RadAlonc: Enhancing Decision-Making in Radiation Oncology with a
+   GPT-4-Based Prompt-Driven Large Language Model
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 2297
+BP E134
+EP E134
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZS 0
+ZB 0
+TC 0
+Z8 0
+ZR 0
+ZA 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892300029
+ER
+
+PT J
+AU Kartsonis, William
+   Pastena, Paola
+   Hajagos, Janos
+   Hirsch, Kelly
+   Gilotra, Kevin
+   Murundi, Shamanth
+   Raiker, Ashna
+   de la Bastide, Chris
+   Martinez, Camilo
+   Tassiopoulos, Apostolos
+TI Enhancing Aortic Aneurysm Surveillance: Transformer Natural Language
+   Processing for Flagging and Measuring in Radiology Reports
+SO ANNALS OF VASCULAR SURGERY
+VL 110
+BP 95
+EP 105
+DI 10.1016/j.avsg.2024.09.059
+EA NOV 2024
+PN B
+DT Article
+PD JAN 2025
+PY 2025
+AB Background: Incidental findings of aortic aneurysms (AAs) often go
+   unreported, and established patients are frequently lost to follow-up.
+   Natural language processing (NLP) offers a promising solution to address
+   these issues. While rule-based NLP methods have shown some success,
+   recent advancements in transformer-based large language models (LLMs)
+   remain underutilized. This study has 3 following aims: (1) to evaluate
+   the effectiveness of our innovative transformer-based NLP pipeline
+   regarding AA detection; (2) to detail the clinical impact by quantifying
+   the number of patients who could benefit from such technology; and (3)
+   to use this information to help coordinate appointments with patients,
+   ensuring proper monitoring and management. Methods: 3,229 radiology
+   reports were divided into 3 batches with varying class balance. Each
+   entry was processed through our innovative NLP pipeline, where it was
+   fragmented using regular expression functions to isolate relevant
+   textual segments. These segments were subsequently processed through our
+   "question and find"(Q&F) function, powered by Google's bidirectional
+   encoder representations from transformers, a well-established
+   transformer LLM. This Q&F function extracted aortic diameter
+   measurements, flagging measurements that exceeded a predefined
+   threshold. Following detection, we conducted comprehensive chart reviews
+   and contacted primary care providers (PCPs) and patients to categorize
+   aneurysms as "known"or "incidental."We also assessed whether patients
+   with known aneurysms were adhering to regular yearly screenings and
+   coordinated follow-up appointments. Results: Evaluation of the 3 batches
+   showed high F1 scores: 99.4% (95% CI [98.5-100]), 96.7% (95% CI
+   [95.0-98.2]), and 98.9% (95% CI [98.0-99.6]). Overall measurement
+   accuracy was 98.9% (95% CI [97.6-100]), 99.6% (95% CI [99.3-99.9]), and
+   98.1% (95% CI [96.899.4]). Compared to manual chart reviews, the NLP
+   system demonstrated superior accuracy and fewer errors: 12 vs. 22 (P-
+   0.084), 47 vs. 98 (P- 0.000021), and 31 vs. 53 (P- 0.015). Of the 412
+   patients investigated, 58 (14.1%) involved incidental findings, 54
+   patients (15.3%) were lost to follow-up, 39 patients (55.7%) were
+   successfully contacted, and 37 follow-up appointments (12.1%) were
+   successfully coordinated. Conclusions: The high-performance metrics from
+   our study demonstrate that transformer- based NLP can enhance AA
+   surveillance. Our subsequent comprehensive patient profiling highlighted
+   the need for such a system as a safety net within the electronic medical
+   record, systematically reviewing radiology reports to detect incidental
+   findings and patients lost to followup. This ensures appropriate
+   referrals and monitoring, improving patient outcomes and healthcare
+   efficiency through timely clinical interventions.
+ZS 0
+ZB 0
+Z8 0
+ZR 0
+ZA 0
+TC 0
+Z9 0
+DA 2024-11-30
+UT WOS:001361729800001
+PM 39424172
+ER
+
+EF

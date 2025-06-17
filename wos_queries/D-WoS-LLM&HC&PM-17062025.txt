@@ -1,0 +1,256 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ramachandran, Muthu
+TI AI AND BLOCKCHAIN FRAMEWORK FOR HEALTHCARE APPLICATIONS
+SO FACTA UNIVERSITATIS-SERIES ELECTRONICS AND ENERGETICS
+VL 37
+IS 1
+BP 169
+EP 193
+DI 10.2298/FUEE2401169R
+DT Article
+PD MAR 2024
+PY 2024
+AB Artificial Intelligence (AI) has impacted global economy, workforce
+   productivity, smart health, smart cities, smart transport, and much more
+   to come. Large Language Models (LLM) such as ChatGPT and Google's
+   Gemini, have been widely adopted in various applications. Blockchain
+   Technology stands as a towering disruptor in today's tech landscape,
+   offering assurances of enhanced security and scalability for various
+   applications. Within the realm of healthcare, its adoption has surged,
+   spanning from streamlined recordkeeping to bolstered clinical trials,
+   fortified medical supply chains, and vigilant patient monitoring. These
+   applications harness the intrinsic attributes of blockchain to elevate
+   standards of safety, privacy, and security within the healthcare sector.
+   The combined power of AI and blockchain has the potential to
+   revolutionize healthcare delivery, ensuring improved security,
+   transparency, and efficiency. Nevertheless, Porru et al. [1] have
+   highlighted deficiencies in the processes, tools, and techniques within
+   this domain. Hence, this paper aims to furnish a structured framework
+   that ensures both security and sustainability in the development of
+   healthcare blockchain applications. This paper also provides an overview
+   of societal impact on both technologies. This article has evolved best
+   practice guidelines and a systematic development framework for
+   AI-Blockchain integration, known as AI-BlockchainOps. This research has
+   also developed a reference architecture, exemplifying the modeling of an
+   Electronic Health Record (EHR) using BPMN and simulation. Within this
+   Electronic Health Record (EHR) scenario encompassing 100 user requests,
+   the simulation absorbed 97.09% of cloud resources, with 76.33% allocated
+   to knowledge discovery, and a utilization rate of 93.20% for blockchain
+   scientists, alongside various other contributing factors.
+ZS 0
+TC 0
+Z8 0
+ZR 0
+ZB 0
+ZA 0
+Z9 0
+DA 2024-04-16
+UT WOS:001195161000014
+ER
+
+PT J
+AU Zhang, Peng
+   Shi, Jiayu
+   Boulos, Maged N. Kamel
+TI Generative AI in Medicine and Healthcare: Moving Beyond the 'Peak of
+   Inflated Expectations'
+SO FUTURE INTERNET
+VL 16
+IS 12
+AR 462
+DI 10.3390/fi16120462
+DT Review
+PD DEC 2024
+PY 2024
+AB The rapid development of specific-purpose Large Language Models (LLMs),
+   such as Med-PaLM, MEDITRON-70B, and Med-Gemini, has significantly
+   impacted healthcare, offering unprecedented capabilities in clinical
+   decision support, diagnostics, and personalized health monitoring. This
+   paper reviews the advancements in medicine-specific LLMs, the
+   integration of Retrieval-Augmented Generation (RAG) and prompt
+   engineering, and their applications in improving diagnostic accuracy and
+   educational utility. Despite the potential, these technologies present
+   challenges, including bias, hallucinations, and the need for robust
+   safety protocols. The paper also discusses the regulatory and ethical
+   considerations necessary for integrating these models into mainstream
+   healthcare. By examining current studies and developments, this paper
+   aims to provide a comprehensive overview of the state of LLMs in
+   medicine and highlight the future directions for research and
+   application. The study concludes that while LLMs hold immense potential,
+   their safe and effective integration into clinical practice requires
+   rigorous testing, ongoing evaluation, and continuous collaboration among
+   stakeholders.
+ZR 0
+TC 4
+ZB 0
+ZA 0
+ZS 0
+Z8 0
+Z9 4
+DA 2025-01-01
+UT WOS:001384353900001
+ER
+
+PT J
+AU Momand, Ziaullah
+   Mongkolnam, Pornchai
+   Chan, Jonathan H.
+   Charoenkitkarn, Nipon
+TI Integrating Sensor Data with Large Language Models for Enhanced Elderly
+   Care: A Methodological Framework
+SO SENSORS AND MATERIALS
+VL 37
+IS 3
+BP 1099
+EP 1138
+DI 10.18494/SAM5387
+DT Article
+PD 2025
+PY 2025
+AB The global aged population is expected to exceed 2.1 billion,
+   representing 21.65% of the total population by 2050. This demographic
+   shift underscores an urgent need for efficient elderly care,
+   particularly in home settings. AI advancements have made sensor
+   technology, including wearable biosensors, environmental monitors, and
+   biochemical sensors, essential for elderly care by enabling the
+   collection of physiological and activity data. Current systems overwhelm
+   caregivers with complex data analysis and personalized recommendations.
+   Large language models (LLMs) address this by offering insights through
+   natural language interfaces, using extensive medical data. While some
+   studies have integrated sensor data with LLMs for health monitoring
+   applications, a comprehensive framework for seamlessly combining diverse
+   sensor data with LLMs in elderly care is still missing. In this study,
+   we propose a novel methodological framework that addresses the
+   challenges of integrating heterogeneous sensor data with LLMs to provide
+   real-time healthcare insights for caregivers of the elderly using sensor
+   technologies. Our framework employs few-shot learning on Generative
+   Pre-trained Transformer (GPT-4) and GPT3.5 to process structured sensor
+   data from wearable and environmental devices. The LLMpowered application
+   then generates insightful responses based on the user's input, providing
+   actionable and personalized recommendations. The GPT-4 model
+   outperformed GPT-3.5 in Structured Query Language (SQL) query generation
+   for sensor data retrieval and processing, achieving a semantic
+   similarity score of 0.95, precision of 88.5%, recall of 98.92%, and an
+   F1-score of 93.40%. In this study, we explore how integrating sensor
+   data with LLMs enhances usability and reduces complexity in health
+   monitoring systems. Our framework sets a new benchmark for advancing
+   elderly care through innovative LLM-powered applications and sensor
+   technology.
+ZS 0
+ZR 0
+TC 0
+Z8 0
+ZA 0
+ZB 0
+Z9 0
+DA 2025-04-07
+UT WOS:001457559700001
+ER
+
+PT J
+AU Azurmendi, Iker
+   Gonzalez, Manuel
+   Garcia, Gustavo
+   Zulueta, Ekaitz
+   Martin, Elena
+TI Deep Learning-Based Postural Asymmetry Detection Through Pressure Mat
+SO APPLIED SCIENCES-BASEL
+VL 14
+IS 24
+AR 12050
+DI 10.3390/app142412050
+DT Article
+PD DEC 2024
+PY 2024
+AB Deep learning, a subfield of artificial intelligence that uses neural
+   networks with multiple layers, is rapidly changing healthcare. Its
+   ability to analyze large datasets and extract relevant information makes
+   it a powerful tool for improving diagnosis, treatment, and disease
+   management. The integration of DL with pressure mats-which are devices
+   that use pressure sensors to continuously and non-invasively monitor the
+   interaction between patients and the contact surface-is a promising
+   application. These pressure platforms generate data that can be very
+   useful for detecting postural anomalies. In this paper we will discuss
+   the application of deep learning algorithms in the analysis of pressure
+   data for the detection of postural asymmetries in 139 patients aged 3 to
+   20 years. We investigated several main tasks: patient classification,
+   hemibody segmentation, recognition of specific body parts, and
+   generation of automated clinical reports. For this purpose,
+   convolutional neural networks in their classification and regression
+   modalities, the object detection algorithm YOLOv8, and the open language
+   model LLaMa3 were used. Our results demonstrated high accuracy in all
+   tasks: classification achieved 100% accuracy; hemibody division obtained
+   an MAE of approximately 7; and object detection had an average accuracy
+   of 70%. These results demonstrate the potential of this approach for
+   monitoring postural and motor disabilities. By enabling personalized
+   patient care, our methodology contributes to improved clinical outcomes
+   and healthcare delivery. To our best knowledge, this is the first study
+   that combines pressure images with multiple deep learning algorithms for
+   the detection and assessment of postural disorders and motor
+   disabilities in this group of patients.
+ZR 0
+ZB 0
+ZA 0
+TC 1
+ZS 0
+Z8 0
+Z9 1
+DA 2024-12-31
+UT WOS:001384060100001
+ER
+
+PT J
+AU de Oliveira, Adonias Caetano
+   Bessa, Renato Freitas
+   Soares, Ariel
+TI Comparative analysis of BERT-based and generative large language models
+   for detecting suicidal ideation: a performance evaluation study
+SO CADERNOS DE SAUDE PUBLICA
+VL 40
+IS 10
+AR e00028824
+DI 10.1590/0102-311XEN028824
+DT Article
+PD 2024
+PY 2024
+AB Artificial intelligence can detect suicidal ideation manifestations in
+   texts. Studies demonstrate that BERT-based models achieve better
+   performance in text classification problems. Large language models
+   (LLMs) answer free-text queries without being specifically trained. This
+   work aims to compare the performance of three variations of BERT models
+   and LLMs (Google Bard, Microsoft Bing/GPT-4, and OpenAI ChatGPT-3.5) for
+   identifying suicidal ideation from nonclinical texts written in
+   Brazilian Portuguese. A dataset labeled by psychologists consisted of
+   2,691 sentences without suicidal ideation and 1,097 with suicidal
+   ideation, of which 100 sentences were selected for testing. We applied
+   data preprocessing techniques, hyperparameter optimization, and hold-out
+   cross-validation for training and testing BERT models. When evaluating
+   LLMs, we used zero-shot prompting engineering. Each test sentence was
+   labeled if it contained suicidal ideation, according to the chatbot's
+   response. Bing/GPT-4 achieved the best performance, with 98% across all
+   metrics. Fine-tuned BERT models outperformed the other LLMs:
+   BERTimbau-Large performed the best with a 96% accuracy, followed by
+   BERTimbau-Base with 94%, and BERT-Multilingual with 87%. Bard performed
+   the worst with 62% accuracy, whereas ChatGPT-3.5 achieved 81%. The high
+   recall capacity of the models suggests a low misclassification rate of
+   at-risk patients, which is crucial to prevent missed interventions by
+   professionals. However, despite their potential in supporting suicidal
+   ideation detection, these models have not been validated in a patient
+   monitoring clinical setting. Therefore, caution is advised when using
+   the evaluated models as tools to assist healthcare professionals in
+   detecting suicidal ideation.
+ZA 0
+Z8 0
+ZR 0
+ZS 0
+ZB 0
+TC 0
+Z9 0
+DA 2024-12-07
+UT WOS:001367474800001
+PM 39607132
+ER
+
+EF

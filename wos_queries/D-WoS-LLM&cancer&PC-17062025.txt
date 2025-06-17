@@ -1,0 +1,1174 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Garcia-Barragan, Alvaro
+   Sakor, Ahmad
+   Vidal, Maria-Esther
+   Menasalvas, Ernestina
+   Gonzalez, Juan Cristobal Sanchez
+   Provencio, Mariano
+   Robles, Victor
+TI NSSC: a neuro-symbolic AI system for enhancing accuracy of named entity
+   recognition and linking from oncologic clinical notes
+SO MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING
+AR s11517-024-03227-4
+DI 10.1007/s11517-024-03227-4
+EA NOV 2024
+DT Article; Early Access
+PY 2024
+AB Accurate recognition and linking of oncologic entities in clinical notes
+   is essential for extracting insights across cancer research, patient
+   care, clinical decision-making, and treatment optimization. We present
+   the Neuro-Symbolic System for Cancer (NSSC), a hybrid AI framework that
+   integrates neurosymbolic methods with named entity recognition (NER) and
+   entity linking (EL) to transform unstructured clinical notes into
+   structured terms using medical vocabularies, with the Unified Medical
+   Language System (UMLS) as a case study. NSSC was evaluated on a dataset
+   of clinical notes from breast cancer patients, demonstrating significant
+   improvements in the accuracy of both entity recognition and linking
+   compared to state-of-the-art models. Specifically, NSSC achieved a 33%
+   improvement over BioFalcon and a 58% improvement over scispaCy. By
+   combining large language models (LLMs) with symbolic reasoning, NSSC
+   improves the recognition and interoperability of oncologic entities,
+   enabling seamless integration with existing biomedical knowledge. This
+   approach marks a significant advancement in extracting meaningful
+   information from clinical narratives, offering promising applications in
+   cancer research and personalized patient care.
+ZA 0
+ZB 0
+ZS 0
+ZR 0
+TC 1
+Z8 0
+Z9 1
+DA 2024-11-07
+UT WOS:001345890000001
+PM 39485651
+ER
+
+PT C
+AU Kim, Kyungwon
+   Lee, Yongmoon
+   Park, Doohyun
+   Eo, Taejoon
+   Youn, Daemyung
+   Lee, Hyesang
+   Hwang, Dosik
+BE Feragen, A
+   Giannarou, S
+   Glocker, B
+   Lekadir, K
+   Schnabel, JA
+   Linguraru, MG
+   Dou, Q
+TI LLM-Guided Multi-modal Multiple Instance Learning for 5-Year Overall
+   Survival Prediction of Lung Cancer
+SO MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION - MICCAI
+   2024, PT III
+SE Lecture Notes in Computer Science
+VL 15003
+BP 239
+EP 249
+DI 10.1007/978-3-031-72384-1_23
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Accurately predicting the 5-year prognosis of lung cancer patients is
+   crucial for guiding treatment planning and providing optimal patient
+   care. Traditional methods relying on CT image-based cancer stage
+   assessment and morphological analysis of cancer cells in pathology
+   images have encountered challenges in terms of reliability and accuracy
+   due to the complexity and diversity of information within these images.
+   Recent rapid advancements in deep learning have shown promising
+   performance in prognosis prediction, however utilizing CT and pathology
+   images independently is limited by their differing imaging
+   characteristics and the unique prognostic information. To effectively
+   address these challenges, this study proposes a novel framework that
+   integrates prognostic capabilities of both CT and pathology images with
+   clinical information, employing a multi-modal integration approach via
+   multiple instance learning, leveraging large language models (LLMs) to
+   analyze clinical notes and align them with image modalities. The
+   proposed approach was rigorously validated using external datasets from
+   different hospitals, demonstrating superior performance over models
+   reliant on vision or clinical data alone. This highlights the
+   adaptability and strength of LLMs in managing complex multi-modal
+   medical datasets for lung cancer prognosis, marking a significant
+   advance towards more accurate and comprehensive patient care strategies.
+   The code is publicly available on
+   https://github.com/KyleKWKim/LLM-guided-Multimodal-MIL.
+CT 27th International Conference on Medical Image Computing and Computer
+   Assisted Intervention (MICCAI)
+CY OCT 06-10, 2024
+CL Palmeraie Conf Ctr, Marrakesh, MOROCCO
+HO Palmeraie Conf Ctr
+SP GH Labs; Childrens Natl Hosp; Pierre Fabre; Comp Assisted Med Intervent
+   Labex; Multidisciplinary Inst Artificial Intelligence Grenoble Alpes;
+   Western Univ, Frugal Biomed Innovat Program; Int Soc Radiol; Medtronic;
+   Pasqual Maragall Fdn; Delft Imaging; Univ Barcelona, Artificial
+   Intelligence Med Lab; Cadi Ayyad Univ; Natl Ctr Sci & Tech Res
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+TC 1
+ZA 0
+Z9 1
+DA 2024-11-28
+UT WOS:001342227700023
+ER
+
+PT J
+AU Yalamanchili, Amulya
+   Sengupta, Bishwambhar
+   Song, Joshua
+   Lim, Sara
+   Thomas, Tarita O.
+   Mittal, Bharat B.
+   Abazeed, Mohamed E.
+   Teo, P. Troy
+TI Quality of Large Language Model Responses to Radiation Oncology Patient
+   Care Questions
+SO JAMA NETWORK OPEN
+VL 7
+IS 4
+AR e244630
+DI 10.1001/jamanetworkopen.2024.4630
+DT Article
+PD APR 2 2024
+PY 2024
+AB Importance Artificial intelligence (AI) large language models (LLMs)
+   demonstrate potential in simulating human-like dialogue. Their efficacy
+   in accurate patient-clinician communication within radiation oncology
+   has yet to be explored. Objective To determine an LLM's quality of
+   responses to radiation oncology patient care questions using both
+   domain-specific expertise and domain-agnostic metrics. Design, Setting,
+   and Participants This cross-sectional study retrieved questions and
+   answers from websites (accessed February 1 to March 20, 2023) affiliated
+   with the National Cancer Institute and the Radiological Society of North
+   America. These questions were used as queries for an AI LLM, ChatGPT
+   version 3.5 (accessed February 20 to April 20, 2023), to prompt
+   LLM-generated responses. Three radiation oncologists and 3 radiation
+   physicists ranked the LLM-generated responses for relative factual
+   correctness, relative completeness, and relative conciseness compared
+   with online expert answers. Statistical analysis was performed from July
+   to October 2023. Main Outcomes and Measures The LLM's responses were
+   ranked by experts using domain-specific metrics such as relative
+   correctness, conciseness, completeness, and potential harm compared with
+   online expert answers on a 5-point Likert scale. Domain-agnostic metrics
+   encompassing cosine similarity scores, readability scores, word count,
+   lexicon, and syllable counts were computed as independent quality checks
+   for LLM-generated responses. Results Of the 115 radiation oncology
+   questions retrieved from 4 professional society websites, the LLM
+   performed the same or better in 108 responses (94%) for relative
+   correctness, 89 responses (77%) for completeness, and 105 responses
+   (91%) for conciseness compared with expert answers. Only 2 LLM responses
+   were ranked as having potential harm. The mean (SD) readability
+   consensus score for expert answers was 10.63 (3.17) vs 13.64 (2.22) for
+   LLM answers (P < .001), indicating 10th grade and college reading
+   levels, respectively. The mean (SD) number of syllables was 327.35
+   (277.15) for expert vs 376.21 (107.89) for LLM answers (P = .07), the
+   mean (SD) word count was 226.33 (191.92) for expert vs 246.26 (69.36)
+   for LLM answers (P = .27), and the mean (SD) lexicon score was 200.15
+   (171.28) for expert vs 219.10 (61.59) for LLM answers (P = .24).
+   Conclusions and Relevance In this cross-sectional study, the LLM
+   generated accurate, comprehensive, and concise responses with minimal
+   risk of harm, using language similar to human experts but at a higher
+   reading level. These findings suggest the LLM's potential, with some
+   retraining, as a valuable resource for patient queries in radiation
+   oncology and other medical fields.
+ZR 0
+Z8 2
+ZS 0
+ZB 5
+ZA 0
+TC 19
+Z9 20
+DA 2024-04-12
+UT WOS:001197566900004
+PM 38564215
+ER
+
+PT J
+AU Verda, Damiano
+   Parodi, Stefano
+   Ferrari, Enrico
+   Muselli, Marco
+TI Analyzing gene expression data for pediatric and adult cancer diagnosis
+   using logic learning machine and standard supervised methods
+SO BMC BIOINFORMATICS
+VL 20
+AR 390
+DI 10.1186/s12859-019-2953-8
+SU 9
+DT Article
+PD NOV 22 2019
+PY 2019
+AB Background: Logic Learning Machine (LLM) is an innovative method of
+   supervised analysis capable of constructing models based on simple and
+   intelligible rules.
+   In this investigation the performance of LLM in classifying patients
+   with cancer was evaluated using a set of eight publicly available gene
+   expression databases for cancer diagnosis.
+   LLM accuracy was assessed by summary ROC curve (sROC) analysis and
+   estimated by the area under an sROC curve (sAUC). Its performance was
+   compared in cross validation with that of standard supervised methods,
+   namely: decision tree, artificial neural network, support vector machine
+   (SVM) and k-nearest neighbor classifier.
+   Results: LLM showed an excellent accuracy (sAUC = 0.99, 95%CI: 0.98-1.0)
+   and outperformed any other method except SVM.
+   Conclusions: LLM is a new powerful tool for the analysis of gene
+   expression data for cancer diagnosis. Simple rules generated by LLM
+   could contribute to a better understanding of cancer biology,
+   potentially addressing therapeutic approaches.
+ZR 0
+Z8 0
+TC 13
+ZS 0
+ZA 0
+ZB 4
+Z9 13
+DA 2020-01-03
+UT WOS:000503868200007
+PM 31757200
+ER
+
+PT J
+AU Busch, Felix
+   Hoffmann, Lena
+   Rueger, Christopher
+   van Dijk, Elon H. C.
+   Kader, Rawen
+   Ortiz-Prado, Esteban
+   Makowski, Marcus R.
+   Saba, Luca
+   Hadamitzky, Martin
+   Kather, Jakob Nikolas
+   Truhn, Daniel
+   Cuocolo, Renato
+   Adams, Lisa C.
+   Bressem, Keno K.
+TI Current applications and challenges in large language models for patient
+   care: a systematic review
+SO COMMUNICATIONS MEDICINE
+VL 5
+IS 1
+AR 26
+DI 10.1038/s43856-024-00717-2
+DT Article
+PD JAN 21 2025
+PY 2025
+AB BackgroundThe introduction of large language models (LLMs) into clinical
+   practice promises to improve patient education and empowerment, thereby
+   personalizing medical care and broadening access to medical knowledge.
+   Despite the popularity of LLMs, there is a significant gap in
+   systematized information on their use in patient care. Therefore, this
+   systematic review aims to synthesize current applications and
+   limitations of LLMs in patient care.MethodsWe systematically searched 5
+   databases for qualitative, quantitative, and mixed methods articles on
+   LLMs in patient care published between 2022 and 2023. From 4349 initial
+   records, 89 studies across 29 medical specialties were included. Quality
+   assessment was performed using the Mixed Methods Appraisal Tool 2018. A
+   data-driven convergent synthesis approach was applied for thematic
+   syntheses of LLM applications and limitations using free line-by-line
+   coding in Dedoose.ResultsWe show that most studies investigate
+   Generative Pre-trained Transformers (GPT)-3.5 (53.2%, n = 66 of 124
+   different LLMs examined) and GPT-4 (26.6%, n = 33/124) in answering
+   medical questions, followed by patient information generation, including
+   medical text summarization or translation, and clinical documentation.
+   Our analysis delineates two primary domains of LLM limitations: design
+   and output. Design limitations include 6 second-order and 12 third-order
+   codes, such as lack of medical domain optimization, data transparency,
+   and accessibility issues, while output limitations include 9
+   second-order and 32 third-order codes, for example, non-reproducibility,
+   non-comprehensiveness, incorrectness, unsafety, and bias.ConclusionsThis
+   review systematically maps LLM applications and limitations in patient
+   care, providing a foundational framework and taxonomy for their
+   implementation and evaluation in healthcare settings.
+ZR 0
+ZA 0
+ZB 0
+Z8 0
+ZS 0
+TC 8
+Z9 8
+DA 2025-01-29
+UT WOS:001402540700001
+PM 39838160
+ER
+
+PT J
+AU Berman, Eliza
+   Malek, Holly Sundberg
+   Bitzer, Michael
+   Malek, Nisar
+   Eickhoff, Carsten
+TI Retrieval Augmented Therapy Suggestion for Molecular Tumor Boards:
+   Algorithmic Development and Validation Study
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+VL 27
+AR e64364
+DI 10.2196/64364
+DT Article
+PD MAR 5 2025
+PY 2025
+AB Background: Molecular tumor boards (MTBs) require intensive manual
+   investigation to generate optimal treatment recommendations for
+   patients. Large language models (LLMs) can catalyze MTB recommendations,
+   decrease human error, improve accessibility to care, and enhance the
+   efficiency of precision oncology. Objective: In this study, we aimed to
+   investigate the efficacy of LLM-generated treatments for MTB patients.
+   We specifically investigate the LLMs' ability to generate evidence-based
+   treatment recommendations using PubMed references. Methods: We built a
+   retrieval augmented generation pipeline using PubMed data. We prompted
+   the resulting LLM to generate treatment recommendations with PubMed
+   references using a test set of patients from an MTB conference at a
+   large comprehensive cancer center at a tertiary care institution.
+   Members of the MTB manually assessed the relevancy and correctness of
+   the generated responses. Results: A total of 75% of the referenced
+   articles were properly cited from PubMed, while 17% of the referenced
+   articles were hallucinations, and the remaining were not properly cited
+   from PubMed. Clinician-generated LLM queries achieved higher accuracy
+   through clinician evaluation than automated queries, with clinicians
+   labeling 25% of LLM responses as equal to their recommendations and
+   37.5% as alternative plausible treatments. Conclusions:This study
+   demonstrates how retrieval augmented generation-enhanced LLMscan bea
+   powerful tool in accelerating MTB conferences, as LLMs are sometimes
+   capable of achieving clinician-equal treatment recommendations. However,
+   further investigation is required to achieve stable results with zero
+   hallucinations. LLMs signify a scalable solution to the time-intensive
+   process of MTB investigations. However, LLM performance demonstrates
+   that they must be used with heavy clinician supervision, and cannot yet
+   fully automate the MTB pipeline.
+ZS 0
+ZR 0
+ZA 0
+Z8 0
+TC 0
+ZB 0
+Z9 0
+DA 2025-04-19
+UT WOS:001467624400010
+PM 40053768
+ER
+
+PT J
+AU Bitaraf, Ehsan
+   Jafarpour, Maryam
+   Shool, Sina
+   Saboori Amleshi, Reza
+TI Unveiling Medical Insights: Advanced Topic Extraction from Scientific
+   Articles.
+SO Studies in health technology and informatics
+VL 316
+BP 944
+EP 948
+DI 10.3233/SHTI240566
+DT Journal Article
+PD 2024-Aug-22
+PY 2024
+AB In the ever-evolving landscape of medical research and healthcare, the
+   abundance of scientific articles presents both a treasure trove of
+   knowledge and a daunting challenge. Researchers, clinicians, and data
+   scientists grapple with vast amounts of unstructured information,
+   seeking to extract meaningful insights that can drive advancements in
+   the biomedical domain including, research trends, patient care, drug
+   discovery, and disease understanding. This paper utilizes the topic
+   extraction algorithms on Breast Cancer Research to shed light on the
+   current trends and the path to follow in this field. We utilized
+   TextRank and Large Language Models (LLM) using the TripleA tool to
+   extract topics in the field, analyzing and comparing the results.
+TC 0
+ZR 0
+Z8 0
+ZA 0
+ZB 0
+ZS 0
+Z9 0
+DA 2024-08-24
+UT MEDLINE:39176947
+PM 39176947
+ER
+
+PT C
+AU Makram, Manal
+   Mohammed, Ammar
+BE AbdelRaouf, A
+   Shorim, N
+   Hatem, S
+   Kandil, Y
+   Bahaa-Eldin, A
+TI AI Applications in Medical Reporting and Diagnosis
+SO 2024 INTERNATIONAL MOBILE, INTELLIGENT, AND UBIQUITOUS COMPUTING
+   CONFERENCE, MIUCC 2024
+BP 185
+EP 192
+DI 10.1109/MIUCC62295.2024.10783552
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB The integration of artificial intelligence (AI) in healthcare is
+   revolutionizing diagnosis and patient care by improving clinical
+   documentation and the management of electronic health records that
+   depend on medical image interpretation, increasing accuracy, and
+   reducing time. Egypt ranks first in liver disease and second in liver
+   cancer mortality worldwide in 2020. Large language models, a subset of
+   AI techniques, can assist in disease diagnosis. LLM models with
+   multimodal capabilities can classify and describe patient scan images
+   and extract information from clinical notes. These models can extract
+   vital diagnoses with the support of prompt engineering, as one of these
+   models can answer questions, summarize information, and translate
+   complex medical terminology into plain language, enabling patients to
+   understand their medical reports and diagnoses. There are two primary
+   approaches to achieving this. First, fine-tuning can adapt the model to
+   medical data, which can be resource-intensive. The second approach,
+   pre-trained LLM models can be utilized to leverage pre-trained models to
+   perform the necessary tasks, focusing on effectively using prompts to
+   guide the model for precise and relevant outputs. This study highlights
+   the role of generative AI models by focusing on prompt engineering, and
+   how carefully crafting prompts can enhance the effectiveness of LLM
+   models in medical applications with high accuracy. It demonstrates this
+   through experiments using pre-trained models based on semantic
+   similarity with GPT-4o and BioGPT. Implementing a zero-shot model for
+   liver tumor classification is one of the prompt engineering techniques.
+   The performance metrics achieved were impressive, accuracy, precision,
+   recall, and F1-scores are 88, 81, 88, and 83 percent, respectively.
+CT 4th International Mobile, Intelligent, and Ubiquitous Computing
+   Conference
+CY NOV 13-14, 2024
+CL Cairo, EGYPT
+SP Misr International University
+ZS 0
+Z8 0
+ZB 0
+TC 0
+ZR 0
+ZA 0
+Z9 0
+DA 2025-03-07
+UT WOS:001416363600027
+ER
+
+PT J
+AU Zhu, L.
+   Anand, A.
+   Gevorkyan, G.
+   Mcgee, L. A.
+   Rwigema, J. C.
+   Rong, Y.
+   Patel, S. H.
+TI Testing and Validation of a Custom Trained Large Language Model for HN
+   Patients with Guardrails
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 118
+IS 5
+MA 182
+BP E52
+EP E53
+DT Meeting Abstract
+PD APR 1 2024
+PY 2024
+CT Multidisciplinary Head and Neck Cancers Symposium
+CY FEB 29-MAR 02, 2024
+CL Phoenix, AZ
+TC 1
+ZS 0
+Z8 0
+ZA 0
+ZR 0
+ZB 0
+Z9 1
+DA 2024-10-18
+UT WOS:001300212900102
+ER
+
+PT J
+AU Cheligeer, Ken
+   Wu, Guosong
+   Laws, Alison
+   Quan, May Lynn
+   Li, Andrea
+   Brisson, Anne-Marie
+   Xie, Jason
+   Xu, Yuan
+TI Validation of large language models for detecting pathologic complete
+   response in breast cancer using population-based pathology reports
+SO BMC MEDICAL INFORMATICS AND DECISION MAKING
+VL 24
+IS 1
+AR 283
+DI 10.1186/s12911-024-02677-y
+DT Article
+PD OCT 3 2024
+PY 2024
+AB AimsThe primary goal of this study is to evaluate the capabilities of
+   Large Language Models (LLMs) in understanding and processing complex
+   medical documentation. We chose to focus on the identification of
+   pathologic complete response (pCR) in narrative pathology reports. This
+   approach aims to contribute to the advancement of comprehensive
+   reporting, health research, and public health surveillance, thereby
+   enhancing patient care and breast cancer management
+   strategies.MethodsThe study utilized two analytical pipelines, developed
+   with open-source LLMs within the healthcare system's computing
+   environment. First, we extracted embeddings from pathology reports using
+   15 different transformer-based models and then employed logistic
+   regression on these embeddings to classify the presence or absence of
+   pCR. Secondly, we fine-tuned the Generative Pre-trained Transformer-2
+   (GPT-2) model by attaching a simple feed-forward neural network (FFNN)
+   layer to improve the detection performance of pCR from pathology
+   reports.ResultsIn a cohort of 351 female breast cancer patients who
+   underwent neoadjuvant chemotherapy (NAC) and subsequent surgery between
+   2010 and 2017 in Calgary, the optimized method displayed a sensitivity
+   of 95.3% (95%CI: 84.0-100.0%), a positive predictive value of 90.9%
+   (95%CI: 76.5-100.0%), and an F1 score of 93.0% (95%CI: 83.7-100.0%). The
+   results, achieved through diverse LLM integration, surpassed traditional
+   machine learning models, underscoring the potential of LLMs in clinical
+   pathology information extraction.ConclusionsThe study successfully
+   demonstrates the efficacy of LLMs in interpreting and processing digital
+   pathology data, particularly for determining pCR in breast cancer
+   patients post-NAC. The superior performance of LLM-based pipelines over
+   traditional models highlights their significant potential in extracting
+   and analyzing key clinical data from narrative reports. While promising,
+   these findings highlight the need for future external validation to
+   confirm the reliability and broader applicability of these methods.
+ZB 1
+TC 2
+Z8 0
+ZA 0
+ZS 0
+ZR 0
+Z9 2
+DA 2024-10-10
+UT WOS:001325741000001
+PM 39363322
+ER
+
+PT J
+AU Mora, J.
+   Chen, S.
+   Mak, R. H.
+   Bitterman, D. S.
+TI Cancer Treatment Information Differences by Bilingual Prompting in Large
+   Language Model Chatbots
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3415
+BP E645
+EP E646
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZS 0
+ZB 0
+TC 0
+ZA 0
+ZR 0
+Z8 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302096
+ER
+
+PT J
+AU Sarrias, Oskitz Ruiz
+   del Prado, Maria Purificacion Martinez
+   Gonzalez, Maria Angeles Sala
+   Sagarduy, Josune Azcuna
+   Cuesta, Pablo Casado
+   Berjano, Covadonga Figaredo
+   Galve-Calvo, Elena
+   Hernandez, Borja Lopez de San Vicente
+   Lopez-Santillan, Maria
+   Escolastico, Maitane Nuno
+   Togneri, Laura Sanchez
+   Sardina, Laura Sande
+   Hoyos, Maria Teresa Perez
+   Villar, Maria Teresa Abad
+   Zudaire, Maialen Zabalza
+   Beristain, Onintza Sayar
+TI Leveraging Large Language Models for Precision Monitoring of
+   Chemotherapy-Induced Toxicities: A Pilot Study with Expert Comparisons
+   and Future Directions
+SO CANCERS
+VL 16
+IS 16
+AR 2830
+DI 10.3390/cancers16162830
+DT Article
+PD AUG 2024
+PY 2024
+AB Simple Summary This study evaluated the ability of Large Language Models
+   (LLMs) to classify subjective toxicities from chemotherapy by comparing
+   them with expert oncologists. Using fictitious cases, it was
+   demonstrated that LLMs can achieve accuracy similar to that of
+   oncologists in general toxicity categories, although they need
+   improvement in specific categories. LLMs show great potential for
+   enhancing patient monitoring and reducing the workload of doctors.
+   Future research should focus on training LLMs specifically for medical
+   tasks and validating these findings with real patients, always ensuring
+   accuracy and ethical data management.Abstract Introduction: Large
+   Language Models (LLMs), such as the GPT model family from OpenAI, have
+   demonstrated transformative potential across various fields, especially
+   in medicine. These models can understand and generate contextual text,
+   adapting to new tasks without specific training. This versatility can
+   revolutionize clinical practices by enhancing documentation, patient
+   interaction, and decision-making processes. In oncology, LLMs offer the
+   potential to significantly improve patient care through the continuous
+   monitoring of chemotherapy-induced toxicities, which is a task that is
+   often unmanageable for human resources alone. However, existing research
+   has not sufficiently explored the accuracy of LLMs in identifying and
+   assessing subjective toxicities based on patient descriptions. This
+   study aims to fill this gap by evaluating the ability of LLMs to
+   accurately classify these toxicities, facilitating personalized and
+   continuous patient care. Methods: This comparative pilot study assessed
+   the ability of an LLM to classify subjective toxicities from
+   chemotherapy. Thirteen oncologists evaluated 30 fictitious cases created
+   using expert knowledge and OpenAI's GPT-4. These evaluations, based on
+   the CTCAE v.5 criteria, were compared to those of a contextualized LLM
+   model. Metrics such as mode and mean of responses were used to gauge
+   consensus. The accuracy of the LLM was analyzed in both general and
+   specific toxicity categories, considering types of errors and false
+   alarms. The study's results are intended to justify further research
+   involving real patients. Results: The study revealed significant
+   variability in oncologists' evaluations due to the lack of interaction
+   with fictitious patients. The LLM model achieved an accuracy of 85.7% in
+   general categories and 64.6% in specific categories using mean
+   evaluations with mild errors at 96.4% and severe errors at 3.6%. False
+   alarms occurred in 3% of cases. When comparing the LLM's performance to
+   that of expert oncologists, individual accuracy ranged from 66.7% to
+   89.2% for general categories and 57.0% to 76.0% for specific categories.
+   The 95% confidence intervals for the median accuracy of oncologists were
+   81.9% to 86.9% for general categories and 67.6% to 75.6% for specific
+   categories. These benchmarks highlight the LLM's potential to achieve
+   expert-level performance in classifying chemotherapy-induced toxicities.
+   Discussion: The findings demonstrate that LLMs can classify subjective
+   toxicities from chemotherapy with accuracy comparable to expert
+   oncologists. The LLM achieved 85.7% accuracy in general categories and
+   64.6% in specific categories. While the model's general category
+   performance falls within expert ranges, specific category accuracy
+   requires improvement. The study's limitations include the use of
+   fictitious cases, lack of patient interaction, and reliance on audio
+   transcriptions.
+   Nevertheless, LLMs show significant potential for enhancing patient
+   monitoring and reducing oncologists' workload. Future research should
+   focus on the specific training of LLMs for medical tasks, conducting
+   studies with real patients, implementing interactive evaluations,
+   expanding sample sizes, and ensuring robustness and generalization in
+   diverse clinical settings. Conclusions: This study concludes that LLMs
+   can classify subjective toxicities from chemotherapy with accuracy
+   comparable to expert oncologists. The LLM's performance in general
+   toxicity categories is within the expert range, but there is room for
+   improvement in specific categories. LLMs have the potential to enhance
+   patient monitoring, enable early interventions, and reduce severe
+   complications, improving care quality and efficiency. Future research
+   should involve specific training of LLMs, validation with real patients,
+   and the incorporation of interactive capabilities for real-time patient
+   interactions. Ethical considerations, including data accuracy,
+   transparency, and privacy, are crucial for the safe integration of LLMs
+   into clinical practice.
+ZS 0
+ZR 0
+ZB 0
+Z8 0
+TC 3
+ZA 0
+Z9 3
+DA 2024-09-09
+UT WOS:001304981100001
+PM 39199603
+ER
+
+PT J
+AU Haider, Syed Ali
+   Pressman, Sophia M.
+   Borna, Sahar
+   Gomez-Cabello, Cesar A.
+   Sehgal, Ajai
+   Leibovich, Bradley C.
+   Forte, Antonio Jorge
+TI Evaluating Large Language Model (LLM) Performance on Established Breast
+   Classification Systems
+SO DIAGNOSTICS
+VL 14
+IS 14
+AR 1491
+DI 10.3390/diagnostics14141491
+DT Article
+PD JUL 2024
+PY 2024
+AB Medical researchers are increasingly utilizing advanced LLMs like
+   ChatGPT-4 and Gemini to enhance diagnostic processes in the medical
+   field. This research focuses on their ability to comprehend and apply
+   complex medical classification systems for breast conditions, which can
+   significantly aid plastic surgeons in making informed decisions for
+   diagnosis and treatment, ultimately leading to improved patient
+   outcomes. Fifty clinical scenarios were created to evaluate the
+   classification accuracy of each LLM across five established
+   breast-related classification systems. Scores from 0 to 2 were assigned
+   to LLM responses to denote incorrect, partially correct, or completely
+   correct classifications. Descriptive statistics were employed to compare
+   the performances of ChatGPT-4 and Gemini. Gemini exhibited superior
+   overall performance, achieving 98% accuracy compared to ChatGPT-4's 71%.
+   While both models performed well in the Baker classification for
+   capsular contracture and UTSW classification for gynecomastia, Gemini
+   consistently outperformed ChatGPT-4 in other systems, such as the
+   Fischer Grade Classification for gender-affirming mastectomy, Kajava
+   Classification for ectopic breast tissue, and Regnault Classification
+   for breast ptosis. With further development, integrating LLMs into
+   plastic surgery practice will likely enhance diagnostic support and
+   decision making.
+ZA 0
+TC 11
+ZS 0
+Z8 0
+ZB 2
+ZR 0
+Z9 11
+DA 2024-08-02
+UT WOS:001276540600001
+PM 39061628
+ER
+
+PT J
+AU Chen, Zikang
+   Wang, Qinchuan
+   Sun, Yaoqian
+   Cai, Hailing
+   Lu, Xudong
+TI Chat-ePRO: Development and pilot study of an electronic patient-reported
+   outcomes system based on ChatGPT
+SO JOURNAL OF BIOMEDICAL INFORMATICS
+VL 154
+AR 104651
+DI 10.1016/j.jbi.2024.104651
+EA MAY 2024
+DT Article
+PD JUN 2024
+PY 2024
+AB Objective: Chatbots have the potential to improve user compliance in
+   electronic Patient-Reported Outcome (ePRO) system. Compared to
+   rule-based chatbots, Large Language Model (LLM) offers advantages such
+   as simplifying the development process and increasing conversational
+   flexibility. However, there is currently a lack of practical
+   applications of LLMs in ePRO systems. Therefore, this study utilized
+   ChatGPT to develop the ChatePRO system and designed a pilot study to
+   explore the feasibility of building an ePRO system based on LLM.
+   Materials and Methods: This study employed prompt engineering and
+   offline knowledge distillation to design a dialogue algorithm and built
+   the Chat-ePRO system on the WeChat Mini Program platform. In order to
+   compare Chat-ePRO with the form-based ePRO and rule-based chatbot ePRO
+   used in previous studies, we conducted a pilot study applying the three
+   ePRO systems sequentially at the Sir Run Run Shaw Hospital to collect
+   patients' PRO data. Result: Chat-ePRO is capable of correctly generating
+   conversation based on PRO forms (success rate: 95.7 %) and accurately
+   extracting the PRO data instantaneously from conversation (Macro-F1:
+   0.95). The majority of subjective evaluations from doctors (>70 %)
+   suggest that Chat-ePRO is able to comprehend questions and consistently
+   generate responses. Pilot study shows that Chat-ePRO demonstrates higher
+   response rate (9/10, 90 %) and longer interaction time (10.86 s/turn)
+   compared to the other two methods. Conclusion: Our study demonstrated
+   the feasibility of utilizing algorithms such as prompt engineering to
+   drive LLM in completing ePRO data collection tasks, and validated that
+   the Chat-ePRO system can effectively enhance patient compliance.
+Z8 0
+ZA 0
+ZR 0
+ZS 0
+TC 1
+ZB 0
+Z9 1
+DA 2024-06-17
+UT WOS:001243033900001
+PM 38703936
+ER
+
+PT J
+AU Schaefer, Moritz
+   Reichl, Stephan
+   Ter Horst, Rob
+   Nicolas, Adele M
+   Krausgruber, Thomas
+   Piras, Francesco
+   Stepper, Peter
+   Bock, Christoph
+   Samwald, Matthias
+TI GPT-4 as a biomedical simulator.
+SO Computers in biology and medicine
+VL 178
+BP 108796
+EP 108796
+DI 10.1016/j.compbiomed.2024.108796
+DT Journal Article
+PD 2024-Aug
+PY 2024
+AB BACKGROUND: Computational simulation of biological processes can be a
+   valuable tool for accelerating biomedical research, but usually requires
+   extensive domain knowledge and manual adaptation. Large language models
+   (LLMs) such as GPT-4 have proven surprisingly successful for a wide
+   range of tasks. This study provides proof-of-concept for the use of
+   GPT-4 as a versatile simulator of biological systems.
+   METHODS: We introduce SimulateGPT, a proof-of-concept for
+   knowledge-driven simulation across levels of biological organization
+   through structured prompting of GPT-4. We benchmarked our approach
+   against direct GPT-4 inference in blinded qualitative evaluations by
+   domain experts in four scenarios and in two quantitative scenarios with
+   experimental ground truth. The qualitative scenarios included mouse
+   experiments with known outcomes and treatment decision support in
+   sepsis. The quantitative scenarios included prediction of gene
+   essentiality in cancer cells and progression-free survival in cancer
+   patients.
+   RESULTS: In qualitative experiments, biomedical scientists rated
+   SimulateGPT's predictions favorably over direct GPT-4 inference. In
+   quantitative experiments, SimulateGPT substantially improved
+   classification accuracy for predicting the essentiality of individual
+   genes and increased correlation coefficients and precision in the
+   regression task of predicting progression-free survival.
+   CONCLUSION: This proof-of-concept study suggests that LLMs may enable a
+   new class of biomedical simulators. Such text-based simulations appear
+   well suited for modeling and understanding complex living systems that
+   are difficult to describe with physics-based first-principles
+   simulations, but for which extensive knowledge is available as written
+   text. Finally, we propose several directions for further development of
+   LLM-based biomedical simulators, including augmentation through web
+   search retrieval, integrated mathematical modeling, and fine-tuning on
+   experimental data.
+ZR 0
+TC 5
+ZS 0
+Z8 0
+ZB 1
+ZA 0
+Z9 5
+DA 2024-06-25
+UT MEDLINE:38909448
+PM 38909448
+ER
+
+PT J
+AU Han, B.
+   Chen, Y.
+   Buyyounouski, M. K.
+   Gensheimer, M. F.
+   Xing, L.
+TI RadAlonc: Enhancing Decision-Making in Radiation Oncology with a
+   GPT-4-Based Prompt-Driven Large Language Model
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 2297
+BP E134
+EP E134
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZS 0
+ZB 0
+TC 0
+Z8 0
+ZR 0
+ZA 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892300029
+ER
+
+PT J
+AU Gumilar, Khanisyah Erza
+   Indraprasta, Birama R.
+   Faridzi, Ach Salman
+   Wibowo, Bagus M.
+   Herlambang, Aditya
+   Rahestyningtyas, Eccita
+   Irawan, Budi
+   Tambunan, Zulkarnain
+   Bustomi, Ahmad Fadhli
+   Brahmantara, Bagus Ngurah
+   Yu, Zih-Ying
+   Hsu, Yu-Cheng
+   Pramuditya, Herlangga
+   Putra, Very Great E.
+   Nugroho, Hari
+   Mulawardhana, Pungky
+   Tjokroprawiro, Brahmana A.
+   Hedianto, Tri
+   Ibrahim, Ibrahim H.
+   Huang, Jingshan
+   Lij, Dongqi
+   Lu, Chien-Hsing
+   Yang, Jer-Yen
+   Liao, Li-Na
+   Tan, Ming
+TI Assessment of Large Language Models (LLMs) in decision-making support
+   for gynecologic oncology
+SO COMPUTATIONAL AND STRUCTURAL BIOTECHNOLOGY JOURNAL
+VL 23
+BP 4019
+EP 4026
+DI 10.1016/j.csbj.2024.10.050
+EA NOV 2024
+DT Article
+PD DEC 2024
+PY 2024
+AB Objective: This study investigated the ability of Large Language Models
+   (LLMs) to provide accurate and consistent answers by focusing on their
+   performance in complex gynecologic cancer cases. Background: LLMs are
+   advancing rapidly and require a thorough evaluation to ensure that they
+   can be safely and effectively used in clinical decision-making. Such
+   evaluations are essential for confirming LLM reliability and accuracy in
+   supporting medical professionals in casework. Study design: We assessed
+   three prominent LLMs-ChatGPT-4 (CG-4), Gemini Advanced (GemAdv), and
+   Copilot-evaluating their accuracy, consistency, and overall performance.
+   Fifteen clinical vignettes of varying difficulty and five open-ended
+   questions based on real patient cases were used. The responses were
+   coded, randomized, and evaluated blindly by six expert gynecologic
+   oncologists using a 5-point Likert scale for relevance, clarity, depth,
+   focus, and coherence. Results: GemAdv demonstrated superior accuracy
+   (81.87 %) compared to both CG-4 (61.60 %) and Copilot (70.67 %) across
+   all difficulty levels. GemAdv consistently provided correct answers more
+   frequently (>60 % every day during the testing period). Although CG-4
+   showed a slight advantage in adhering to the National Comprehensive
+   Cancer Network (NCCN) treatment guidelines, GemAdv excelled in the depth
+   and focus of the answers provided, which are crucial aspects of clinical
+   decision-making. Conclusion: LLMs, especially GemAdv, show potential in
+   supporting clinical practice by providing accurate, consistent, and
+   relevant information for gynecologic cancer. However, further refinement
+   is needed for more complex scenarios. This study highlights the promise
+   of LLMs in gynecologic oncology, emphasizing the need for ongoing
+   development and rigorous evaluation to maximize their clinical utility
+   and reliability.
+ZA 0
+ZR 0
+ZB 0
+TC 4
+ZS 0
+Z8 0
+Z9 4
+DA 2024-11-30
+UT WOS:001362231200001
+PM 39610903
+ER
+
+PT J
+AU Jinia, A. J.
+   Chapman, K. L.
+   Liu, S.
+   Della Biancia, C.
+   Li, A.
+   Moran, J. M.
+TI Challenges in Developing an Al -Based Analysis System for Incident
+   Learning
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3198
+BP E542
+EP E542
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZB 0
+ZS 0
+Z8 0
+ZA 0
+ZR 0
+TC 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892301523
+ER
+
+PT J
+AU Erdat, Efe Cem
+   Kavak, Engin Eren
+TI Benchmarking LLM chatbots' oncological knowledge with the Turkish
+   Society of Medical Oncology's annual board examination questions
+SO BMC CANCER
+VL 25
+IS 1
+AR 197
+DI 10.1186/s12885-025-13596-0
+DT Article
+PD FEB 4 2025
+PY 2025
+AB Background Large language models (LLMs) have shown promise in various
+   medical applications, including clinical decision-making and education.
+   In oncology, the increasing complexity of patient care and the vast
+   volume of medical literature require efficient tools to assist
+   practitioners. However, the use of LLMs in oncology education and
+   knowledge assessment remains underexplored. This study aims to evaluate
+   and compare the oncological knowledge of four LLMs using standardized
+   board examination questions. Methods We assessed the performance of four
+   LLMs-Claude 3.5 Sonnet (Anthropic), ChatGPT 4o (OpenAI), Llama-3 (Meta),
+   and Gemini 1.5 (Google)-using the Turkish Society of Medical Oncology's
+   annual board examination questions from 2016 to 2024. A total of 790
+   valid multiple-choice questions covering various oncology topics were
+   included. Each model was tested on its ability to answer these questions
+   in Turkish. Performance was analyzed based on the number of correct
+   answers, with statistical comparisons made using chi-square tests and
+   one-way ANOVA. Results Claude 3.5 Sonnet outperformed the other models,
+   passing all eight exams with an average score of 77.6%. ChatGPT 4o
+   passed seven out of eight exams, with an average score of 67.8%. Llama-3
+   and Gemini 1.5 showed lower performance, passing four and three exams
+   respectively, with average scores below 50%. Significant differences
+   were observed among the models' performances (F = 17.39, p < 0.001).
+   Claude 3.5 and ChatGPT 4.0 demonstrated higher accuracy across most
+   oncology topics. A decline in performance in recent years, particularly
+   in the 2024 exam, suggests limitations due to outdated training data.
+   Conclusions Significant differences in oncological knowledge were
+   observed among the four LLMs, with Claude 3.5 Sonnet and ChatGPT 4o
+   demonstrating superior performance. These findings suggest that advanced
+   LLMs have the potential to serve as valuable tools in oncology education
+   and decision support. However, regular updates and enhancements are
+   necessary to maintain their relevance and accuracy, especially to
+   incorporate the latest medical advancements.
+ZB 0
+TC 1
+Z8 0
+ZS 0
+ZR 0
+ZA 0
+Z9 1
+DA 2025-02-13
+UT WOS:001414301200003
+PM 39905358
+ER
+
+PT J
+AU Jang, B. S.
+   Alcorn, S. R.
+   McNutt, T. R.
+   Ehsan, U.
+TI Hype or Reality: Utility of Large Language Models in Radiation Oncology
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3382
+BP E629
+EP E630
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZB 0
+Z8 0
+ZR 0
+ZA 0
+TC 0
+ZS 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302063
+ER
+
+PT C
+AU Sharma, Manish
+   Farough, Samira
+   Burkett, Andre
+   Prasanth, Jerome
+   El-Shafeey, Nabil
+   Zygadlo, Dominic
+   Dunn, Chera
+   Korn, Ron
+BE Yoshida, H
+   Wu, S
+TI Leveraging LLMs like ChatGPT for robust quality checks and medical text
+   agreement rationale enhancing adjudication quality and alignment in BICR
+   for oncology clinical trials
+SO IMAGING INFORMATICS FOR HEALTHCARE, RESEARCH, AND APPLICATIONS, MEDICAL
+   IMAGING 2024
+SE Proceedings of SPIE
+VL 12931
+AR 1293103
+DI 10.1117/12.3009153
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Purpose: Blinded independent central review (BICR) is recommended by the
+   US FDA for registration of oncology trials as image assessment bias is
+   avoided and no chance of unblinding of patient data. Double read with
+   adjudication is the method used to reduce endpoint assessment
+   variability. In cases of disagreement between the readers, a third
+   reader called an adjudicator, reviews the assessment by the two
+   radiologists and decides which assessment is most accurate. Adjudication
+   rate (AR) and adjudicator agreement rate (AAR) are the two indicators
+   used to evaluate reviewer performance and overall trial variability and
+   quality. Sentiment analysis (SA) is based on natural language processing
+   and can tag the data as 'positive', 'negative' or 'neutral' although
+   current technologies can provide a more complex analysis of emotions in
+   the written text. Medical SA can analyze patients' and doctors'
+   opinions, sentiments, attitudes, and emotions in the clinical
+   background. Python, the most frequently used programming language for
+   deep learning worldwide and ChatGPT, an AI-based chatbot can be used for
+   assessing adjudicator comment quality based on sentiment analysis. If
+   successful, this analysis can open another novel implementation for
+   Large Language Models (LLMs) or ChatGPT in clinical research and medical
+   imaging.
+   Methods: This prospective study involved the review of cases for 100
+   subjects by board-certified radiologists using the Response Evaluation
+   Criteria in Solid Tumors (RECIST) 1.1 criteria. The study employed a
+   double read with adjudication paradigm in a central imaging review
+   setup. The agreement of adjudication was assessed and compared with the
+   overall response, agreed reader, and medical text. The medical text
+   entered by the adjudicator is usually a free text field that typically
+   lacks standardization and control over its content, which may affect its
+   correlation with reviewer selection for agreement. Although uncommon,
+   errors by the adjudicator can occur due to ambiguous text, mis-clicks,
+   or application delay errors. To analyze the adjudicator's comments,
+   sentiment analysis was conducted using a Python plug-in with ChatGPT as
+   a large language model. Based on this analysis, the subjects were
+   categorized as either having "Potential Error" or "No Error".
+   Results: The algorithm supported by ChatGPT was evaluated against a Gold
+   Standard, determined by a board-certified radiologist with over 20 years
+   of experience in the BICR process. A comparison was made to assess
+   accuracy and reproducibility, revealing that only 4 out of 100 subjects
+   had different outcomes. The sensitivity was calculated as 0.857,
+   specificity as 1.0, and accuracy as 0.96.
+   Conclusions: The remarkable Natural Language Processing (NLP)
+   capabilities of ChatGPT are evident in its ability to classify the
+   sentiment as positive, negative, or neutral based on the free-text
+   adjudicator comments provided during the review process. This
+   classification enables a comparison with the actual assessment,
+   adjudicator agreement, and overall patient outcome, highlighting the
+   impressive performance of ChatGPT in this regard.
+CT Conference on Medical Imaging - Imaging Informatics for Healthcare,
+   Research, and Applications
+CY FEB 19-21, 2024
+CL San Diego, CA
+SP SPIE; Amer Assoc Physicists Med; Radiol Soc N Amer; World Mol Imaging
+   Soc; Soc Imaging Informat Med; Int Fdn Comp Assisted Radiol & Surg; Med
+   Image Percept Soc
+ZA 0
+ZS 0
+ZR 0
+TC 0
+ZB 0
+Z8 0
+Z9 0
+DA 2024-05-31
+UT WOS:001219280700002
+ER
+
+EF

@@ -1,0 +1,213 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sarrias, Oskitz Ruiz
+   del Prado, Maria Purificacion Martinez
+   Gonzalez, Maria Angeles Sala
+   Sagarduy, Josune Azcuna
+   Cuesta, Pablo Casado
+   Berjano, Covadonga Figaredo
+   Galve-Calvo, Elena
+   Hernandez, Borja Lopez de San Vicente
+   Lopez-Santillan, Maria
+   Escolastico, Maitane Nuno
+   Togneri, Laura Sanchez
+   Sardina, Laura Sande
+   Hoyos, Maria Teresa Perez
+   Villar, Maria Teresa Abad
+   Zudaire, Maialen Zabalza
+   Beristain, Onintza Sayar
+TI Leveraging Large Language Models for Precision Monitoring of
+   Chemotherapy-Induced Toxicities: A Pilot Study with Expert Comparisons
+   and Future Directions
+SO CANCERS
+VL 16
+IS 16
+AR 2830
+DI 10.3390/cancers16162830
+DT Article
+PD AUG 2024
+PY 2024
+AB Simple Summary This study evaluated the ability of Large Language Models
+   (LLMs) to classify subjective toxicities from chemotherapy by comparing
+   them with expert oncologists. Using fictitious cases, it was
+   demonstrated that LLMs can achieve accuracy similar to that of
+   oncologists in general toxicity categories, although they need
+   improvement in specific categories. LLMs show great potential for
+   enhancing patient monitoring and reducing the workload of doctors.
+   Future research should focus on training LLMs specifically for medical
+   tasks and validating these findings with real patients, always ensuring
+   accuracy and ethical data management.Abstract Introduction: Large
+   Language Models (LLMs), such as the GPT model family from OpenAI, have
+   demonstrated transformative potential across various fields, especially
+   in medicine. These models can understand and generate contextual text,
+   adapting to new tasks without specific training. This versatility can
+   revolutionize clinical practices by enhancing documentation, patient
+   interaction, and decision-making processes. In oncology, LLMs offer the
+   potential to significantly improve patient care through the continuous
+   monitoring of chemotherapy-induced toxicities, which is a task that is
+   often unmanageable for human resources alone. However, existing research
+   has not sufficiently explored the accuracy of LLMs in identifying and
+   assessing subjective toxicities based on patient descriptions. This
+   study aims to fill this gap by evaluating the ability of LLMs to
+   accurately classify these toxicities, facilitating personalized and
+   continuous patient care. Methods: This comparative pilot study assessed
+   the ability of an LLM to classify subjective toxicities from
+   chemotherapy. Thirteen oncologists evaluated 30 fictitious cases created
+   using expert knowledge and OpenAI's GPT-4. These evaluations, based on
+   the CTCAE v.5 criteria, were compared to those of a contextualized LLM
+   model. Metrics such as mode and mean of responses were used to gauge
+   consensus. The accuracy of the LLM was analyzed in both general and
+   specific toxicity categories, considering types of errors and false
+   alarms. The study's results are intended to justify further research
+   involving real patients. Results: The study revealed significant
+   variability in oncologists' evaluations due to the lack of interaction
+   with fictitious patients. The LLM model achieved an accuracy of 85.7% in
+   general categories and 64.6% in specific categories using mean
+   evaluations with mild errors at 96.4% and severe errors at 3.6%. False
+   alarms occurred in 3% of cases. When comparing the LLM's performance to
+   that of expert oncologists, individual accuracy ranged from 66.7% to
+   89.2% for general categories and 57.0% to 76.0% for specific categories.
+   The 95% confidence intervals for the median accuracy of oncologists were
+   81.9% to 86.9% for general categories and 67.6% to 75.6% for specific
+   categories. These benchmarks highlight the LLM's potential to achieve
+   expert-level performance in classifying chemotherapy-induced toxicities.
+   Discussion: The findings demonstrate that LLMs can classify subjective
+   toxicities from chemotherapy with accuracy comparable to expert
+   oncologists. The LLM achieved 85.7% accuracy in general categories and
+   64.6% in specific categories. While the model's general category
+   performance falls within expert ranges, specific category accuracy
+   requires improvement. The study's limitations include the use of
+   fictitious cases, lack of patient interaction, and reliance on audio
+   transcriptions.
+   Nevertheless, LLMs show significant potential for enhancing patient
+   monitoring and reducing oncologists' workload. Future research should
+   focus on the specific training of LLMs for medical tasks, conducting
+   studies with real patients, implementing interactive evaluations,
+   expanding sample sizes, and ensuring robustness and generalization in
+   diverse clinical settings. Conclusions: This study concludes that LLMs
+   can classify subjective toxicities from chemotherapy with accuracy
+   comparable to expert oncologists. The LLM's performance in general
+   toxicity categories is within the expert range, but there is room for
+   improvement in specific categories. LLMs have the potential to enhance
+   patient monitoring, enable early interventions, and reduce severe
+   complications, improving care quality and efficiency. Future research
+   should involve specific training of LLMs, validation with real patients,
+   and the incorporation of interactive capabilities for real-time patient
+   interactions. Ethical considerations, including data accuracy,
+   transparency, and privacy, are crucial for the safe integration of LLMs
+   into clinical practice.
+ZS 0
+ZR 0
+ZB 0
+Z8 0
+TC 3
+ZA 0
+Z9 3
+DA 2024-09-09
+UT WOS:001304981100001
+PM 39199603
+ER
+
+PT J
+AU Chien, Shuo-Chen
+   Yen, Chia-Ming
+   Chang, Yu-Hung
+   Chen, Ying-Erh
+   Liu, Chia-Chun
+   Hsiao, Yu-Ping
+   Yang, Ping-Yen
+   Lin, Hong-Ming
+   Yang, Tsung-En
+   Lu, Xing-Hua
+   Wu, I-Chien
+   Hsu, Chih-Cheng
+   Chiou, Hung-Yi
+   Chung, Ren-Hua
+TI Using large language model (LLM) to identify high-burden informal
+   caregivers in long-term care
+SO COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
+VL 255
+AR 108329
+DI 10.1016/j.cmpb.2024.108329
+EA JUL 2024
+DT Article
+PD OCT 2024
+PY 2024
+AB Background: The rising global elderly population increases the demand
+   for caregiving, yet traditional methods may not fully assess the
+   challenges faced by vital informal caregivers. Objective: To investigate
+   the efficacy of Large Language Model (LLM) in detecting overburdened
+   informal caregivers, benchmarking against rule-based and machine
+   learning methods. Methods: 1,791 eligible informal caregivers from
+   Southern Taiwan and utilized their textual case summary reports for the
+   LLM. We also employed structured questionnaire results for machine
+   learning models. Furthermore, we leveraged the visualization of the
+   LLM's attention mechanisms to enhance our understanding of the model's
+   interpretative capabilities. Results: The LLM achieved an Area Under the
+   Receiver Operating Characteristic (AUROC) curve of 0.84 and an Area
+   Under the Precision-Recall Curve (AUPRC) of 0.70, marking an 8% and 14%
+   improvement over traditional methods. The visualization of the attention
+   mechanism accurately reflected the evaluations of human experts,
+   concentrating on descriptions of high-burden descriptions and the
+   relationships between caregivers and recipients. Conclusion: This
+   research demonstrates the notable capability of LLM to accurately
+   identify high-burden caregivers in Long-term Care (LTC) settings.
+   Compared to traditional approaches, LLM offers an opportunity for the
+   future of LTC research and policymaking.
+Z8 0
+TC 2
+ZB 0
+ZA 0
+ZS 0
+ZR 0
+Z9 2
+DA 2024-07-29
+UT WOS:001274640800001
+PM 39029418
+ER
+
+PT J
+AU Zhang, Peng
+   Shi, Jiayu
+   Boulos, Maged N. Kamel
+TI Generative AI in Medicine and Healthcare: Moving Beyond the 'Peak of
+   Inflated Expectations'
+SO FUTURE INTERNET
+VL 16
+IS 12
+AR 462
+DI 10.3390/fi16120462
+DT Review
+PD DEC 2024
+PY 2024
+AB The rapid development of specific-purpose Large Language Models (LLMs),
+   such as Med-PaLM, MEDITRON-70B, and Med-Gemini, has significantly
+   impacted healthcare, offering unprecedented capabilities in clinical
+   decision support, diagnostics, and personalized health monitoring. This
+   paper reviews the advancements in medicine-specific LLMs, the
+   integration of Retrieval-Augmented Generation (RAG) and prompt
+   engineering, and their applications in improving diagnostic accuracy and
+   educational utility. Despite the potential, these technologies present
+   challenges, including bias, hallucinations, and the need for robust
+   safety protocols. The paper also discusses the regulatory and ethical
+   considerations necessary for integrating these models into mainstream
+   healthcare. By examining current studies and developments, this paper
+   aims to provide a comprehensive overview of the state of LLMs in
+   medicine and highlight the future directions for research and
+   application. The study concludes that while LLMs hold immense potential,
+   their safe and effective integration into clinical practice requires
+   rigorous testing, ongoing evaluation, and continuous collaboration among
+   stakeholders.
+ZR 0
+TC 4
+ZB 0
+ZA 0
+ZS 0
+Z8 0
+Z9 4
+DA 2025-01-01
+UT WOS:001384353900001
+ER
+
+EF

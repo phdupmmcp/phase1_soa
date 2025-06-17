@@ -1,0 +1,2255 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Tran, Minh-Nam
+   Nguyen, Phu-Vinh
+   Nguyen, Long
+   Dinh, Dien
+BE Fu, X
+   Fleisig, E
+TI ViMedAQA: A Vietnamese Medical Abstractive Question-Answering Dataset
+   and Findings of Large Language Model
+SO PROCEEDINGS OF THE 62ND ANNUAL MEETING OF THE ASSOCIATION FOR
+   COMPUTATIONAL LINGUISTICS, VOL 4: STUDENT RESEARCH WORKSHOP
+BP 270
+EP 278
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Question answering involves creating answers to questions. With the
+   growth of large language models, the ability of question-answering
+   systems has dramatically improved. However, there is a lack of
+   Vietnamese abstractive question-answering datasets, especially in the
+   medical domain. Therefore, this research aims to mitigate this gap by
+   introducing ViMedAQA(1). This Vietnamese Medical Abstractive
+   Question-Answering dataset covers four topics in the Vietnamese medical
+   domain, including body parts, disease, drugs, and medicine.
+   Additionally, the empirical results on the proposed dataset examine the
+   capability of the large language models in the Vietnamese medical
+   domain, including reasoning, memorizing, and awareness of essential
+   information.
+CT 62nd Annual Meeting of the Association-for-Computational-Linguistics
+   (ACL) / Student Research Workshop (SRW)
+CY AUG 11-16, 2024
+CL Bangkok, THAILAND
+SP Assoc Computat Linguist; Apple; LG AI Res; Newsbreak; MetaAI; Google
+   DeepMind; Megagon Labs; Baidu; SCB IOX; SONY; Alibaba Cloud Tongyi;
+   Amazon Sci; ByteDance; IBM; Meituan; Oracle; Ahrefs; Cohere; MI;
+   Tianqiao & Chrissy, Chen Inst; Ant Grp; Adobe; Babelscape; Translated;
+   DataoceanAI; Thailand Convent & Exhibit Bur; KBTG; ETDA; Artificial
+   Intelligence Assoc Thailand; NSTDA, NECTEC
+ZR 0
+TC 0
+Z8 0
+ZS 0
+ZB 0
+ZA 0
+Z9 0
+DA 2024-12-11
+UT WOS:001356731300024
+ER
+
+PT J
+AU Wang, Xin
+   Sun, Zhaocai
+   Wang, Pingping
+   Wei, Benzheng
+TI Original Research MedicalGLM: A Pediatric Medical Question Answering
+   Model with a quality evaluation mechanism
+SO JOURNAL OF BIOMEDICAL INFORMATICS
+VL 165
+AR 104793
+DI 10.1016/j.jbi.2025.104793
+EA MAR 2025
+DT Article
+PD MAY 2025
+PY 2025
+AB Objective: Large Language models (LLMs) have a wide range of medical
+   applications, especially in scenarios such as question-answering.
+   However, existing models face the challenge of accurately assessing the
+   quality of information when generating medical information, which may
+   lead to the inability to effectively distinguish beneficial and harmful
+   information, thus affecting the quality of question-answering. This
+   study aims to improve the information quality and practicability of
+   medical question-answering. Methods: This study proposes MedicalGLM, a
+   fine-tuning model based on a quality evaluation mechanism. Specifically,
+   MedicalGLM contains a reward model for assessing the quality of medical
+   QA. It adjusts its training process by returning the assessment scores
+   to the QA model as penalties through a quality score loss function.
+   Results: The experimental results indicate that MedicalGLM achieved the
+   highest scores among the evaluated models in the Rouge-1, Rouge-2,
+   Rouge-L, and BLEU metrics, with values of 54.90, 28.02, 44.50, and
+   32.61, respectively. Its proficiency in generating responses for the
+   pediatric medical quiz task is notably superior to other prevailing LLMs
+   in the medical domain. Conclusion: MedicalGLM significantly improves the
+   quality and practicability of the generated information of the medical
+   question-answering model by introducing a quality evaluation mechanism,
+   which provides an effective improvement idea for researching medical
+   large language models. Our code and model are publicly available for
+   further research on https://github.com/wangxinwwang/MedicalGLM.
+TC 0
+ZS 0
+Z8 0
+ZA 0
+ZR 0
+ZB 0
+Z9 0
+DA 2025-03-21
+UT WOS:001444942800001
+PM 40058479
+ER
+
+PT J
+AU Dai, Yizheng
+   Shao, Xin
+   Zhang, Jinlu
+   Chen, Yulong
+   Chen, Qian
+   Liao, Jie
+   Chi, Fei
+   Zhang, Junhua
+   Fan, Xiaohui
+TI TCMChat: A generative large language model for traditional Chinese
+   medicine
+SO PHARMACOLOGICAL RESEARCH
+VL 210
+AR 107530
+DI 10.1016/j.phrs.2024.107530
+EA DEC 2024
+DT Article
+PD DEC 2024
+PY 2024
+AB The utilization of ground-breaking large language models (LLMs)
+   accompanied with dialogue system has been progressively prevalent in the
+   medical domain. Nevertheless, the expertise of LLMs in Traditional
+   Chinese Medicine (TCM) remains restricted despite several TCM LLMs
+   proposed recently. Herein, we introduced TCMChat
+   (https://xomics.com.cn/tcmchat), a generative LLM with pre-training (PT)
+   and supervised fine-tuning (SFT) on large-scale curated TCM text
+   knowledge and Chinese Question-Answering (QA) datasets. In detail, we
+   first compiled a customized collection of six scenarios of Chinese
+   medicine as the training set by text mining and manual verification,
+   involving TCM knowledgebase, choice question, reading comprehension,
+   entity extraction, medical case diagnosis, and herb or formula
+   recommendation. Next, we subjected the model to PT and SFT, using the
+   Baichuan2-7B-Chat as the foundation model. The benchmarking datasets and
+   case studies further demonstrate the superior performance of TCMChat in
+   comparison to existing models. Our code, data and model are publicly
+   released on GitHub (https://github.com/ZJUFanLab/TCMChat) and
+   HuggingFace (https://huggingface. co/ZJUFanLab), providing high-quality
+   knowledgebase for the research of TCM modernization with a userfriendly
+   dialogue web tool.
+Z8 0
+TC 0
+ZR 0
+ZS 0
+ZB 0
+ZA 0
+Z9 0
+DA 2024-12-16
+UT WOS:001374093600001
+PM 39617279
+ER
+
+PT C
+AU Zhu, Jinyang
+   Gong, Qingyue
+   Zhou, Chunfang
+   Luan, Huidan
+GP Assoc Computing Machinery
+TI ZhongJing: A Locally Deployed Large Language Model for Traditional
+   Chinese Medicine and Corresponding Evaluation Methodology An LLM for the
+   TCM Field and the Corresponding Evaluation Method
+SO PROCEEDINGS OF 2023 4TH INTERNATIONAL SYMPOSIUM ON ARTIFICIAL
+   INTELLIGENCE FOR MEDICINE SCIENCE, ISAIMS 2023
+BP 1036
+EP 1042
+DI 10.1145/3644116.3644294
+DT Proceedings Paper
+PD 2023
+PY 2023
+AB The success of ChatGPT has showcased the potential applications of Large
+   Language Models (LLMs) in the field of Traditional Chinese Medicine
+   (TCM), encompassing areas such as medical diagnosis, adjunctive therapy,
+   and TCM talent cultivation. However, the current challenges, including
+   hardware constraints, insufficient model domain knowledge, and
+   difficulties in domain-specific evaluation, have constrained the fusion
+   of LLMs with TCM. In an attempt to address these issues, this paper
+   introduces ZhongJing, a domain-specific LLM fine-tuned within the domain
+   of TCM, capable of generating responses at a rate of 8 tokens per
+   second, smoothly operating on local personal computers. To assess the
+   model's domain expertise, this paper introduces the TCMEval evaluation
+   method, designed concerning medical students' exams. Experimental
+   results demonstrate that ZhongJing achieves a 6.49 TCMEval Score
+   improvement over Chinese-LLaMA2 in the field of TCM, indicating the
+   model's ability to generate more specialized responses compared to
+   baseline models.
+CT 4th International Symposium on Artificial Intelligence for Medicine
+   Science (ISAIMS)
+CY OCT 20-22, 2023
+CL Chengdu, PEOPLES R CHINA
+ZA 0
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+TC 2
+Z9 2
+DA 2024-07-18
+UT WOS:001213963600173
+ER
+
+PT J
+AU Duan, Yuchen
+   Zhou, Qingqing
+   Li, Yu
+   Qin, Chi
+   Wang, Ziyang
+   Kan, Hongxing
+   Hu, Jili
+TI Research on a traditional Chinese medicine case-based question-answering
+   system integrating large language models and knowledge graphs
+SO FRONTIERS IN MEDICINE
+VL 11
+AR 1512329
+DI 10.3389/fmed.2024.1512329
+DT Article
+PD JAN 7 2025
+PY 2025
+AB Introduction Traditional Chinese Medicine (TCM) case records encapsulate
+   vast clinical experiences and theoretical insights, holding significant
+   research and practical value. However, traditional case studies face
+   challenges such as large data volumes, complex information, and
+   difficulties in efficient retrieval and analysis. This study aimed to
+   address these issues by leveraging modern data techniques to improve
+   access and analysis of TCM case records.Methods A total of 679 case
+   records from Wang Zhongqi, a renowned physician of Xin'an Medicine, a
+   branch of TCM, covering 41 diseases, were selected. The study involved
+   four stages: pattern layer construction, knowledge extraction,
+   integration, and data storage and visualization. A large language model
+   (LLM) was employed to automatically extract key entities, including
+   symptoms, pathogenesis, treatment principles, and prescriptions. These
+   were structured into a TCM case knowledge graph.Results The LLM
+   successfully identified and extracted relevant entities, which were then
+   organized into relational triples. A TCM case query system based on
+   natural language input was developed. The system's performance,
+   evaluated using the RAGAS framework, achieved high scores: 0.9375 in
+   faithfulness, 0.9686 in answer relevancy, and 0.9500 in context recall;
+   In human evaluations, the levels of safety and usability are
+   significantly higher than those of LLMs without using RAG.Discussion The
+   results demonstrate that integrating LLMs with a knowledge graph
+   significantly enhances the efficiency and accuracy of retrieving TCM
+   case information. This approach could play a crucial role in modernizing
+   TCM research and improving access to clinical insights. Future research
+   may explore expanding the dataset and refining the query system for
+   broader applications.
+ZR 0
+TC 1
+Z8 0
+ZS 0
+ZB 0
+ZA 0
+Z9 1
+DA 2025-01-25
+UT WOS:001400611400001
+PM 39839612
+ER
+
+PT J
+AU Chang, Ying
+   Yin, Jian-ming
+   Li, Jian-min
+   Liu, Chang
+   Cao, Ling-yong
+   Lin, Shu-yuan
+TI Applications and Future Prospects of Medical LLMs: A Survey Based on the
+   M-KAT Conceptual Framework
+SO JOURNAL OF MEDICAL SYSTEMS
+VL 48
+IS 1
+AR 112
+DI 10.1007/s10916-024-02132-5
+DT Review
+PD DEC 27 2024
+PY 2024
+AB The success of large language models (LLMs) in general areas have
+   sparked a wave of research into their applications in the medical field.
+   However, enhancing the medical professionalism of these models remains a
+   major challenge. This study proposed a novel model training theoretical
+   framework, the M-KAT framework, which integrated domain-specific
+   training methods for LLMs with the unique characteristics of the medical
+   discipline. This framework aimed to improve the medical professionalism
+   of the models from three perspectives: general knowledge acquisition,
+   specialized skill development, and alignment with clinical thinking.
+   This study summarized the outcomes of medical LLMs across four tasks:
+   clinical diagnosis and treatment, medical question answering, medical
+   research, and health management. Using the M-KAT framework, we analyzed
+   the contribution to enhancement of professionalism of models through
+   different training stages. At the same time, for some of the potential
+   risks associated with medical LLMs, targeted solutions can be achieved
+   through pre-training, SFT, and model alignment based on cultivated
+   professional capabilities. Additionally, this study identified main
+   directions for future research on medical LLMs: advancing professional
+   evaluation datasets and metrics tailored to the needs of medical tasks,
+   conducting in-depth studies on medical multimodal large language models
+   (MLLMs) capable of integrating diverse data types, and exploring the
+   forms of medical agents and multi-agent frameworks that can interact
+   with real healthcare environments and support clinical decision-making.
+   It is hoped that predictions of work can provide a reference for
+   subsequent research.
+ZS 0
+Z8 0
+TC 1
+ZB 0
+ZR 0
+ZA 0
+Z9 1
+DA 2024-12-30
+UT WOS:001383525300001
+PM 39725770
+ER
+
+PT J
+AU Zakka, Cyril
+   Chaurasia, Akash
+   Shad, Rohan
+   Dalal, Alex R
+   Kim, Jennifer L
+   Moor, Michael
+   Alexander, Kevin
+   Ashley, Euan
+   Boyd, Jack
+   Boyd, Kathleen
+   Hirsch, Karen
+   Langlotz, Curt
+   Nelson, Joanna
+   Hiesinger, William
+TI Almanac: Retrieval-Augmented Language Models for Clinical Medicine.
+SO Research square
+DI 10.21203/rs.3.rs-2883198/v1
+DT Preprint
+PD 2023 May 02
+PY 2023
+AB Large-language models have recently demonstrated impressive zero-shot
+   capabilities in a variety of natural language tasks such as
+   summarization, dialogue generation, and question-answering. Despite many
+   promising applications in clinical medicine, adoption of these models in
+   real-world settings has been largely limited by their tendency to
+   generate incorrect and sometimes even toxic statements. In this study,
+   we develop Almanac, a large language model framework augmented with
+   retrieval capabilities for medical guideline and treatment
+   recommendations. Performance on a novel dataset of clinical scenarios
+   (n= 130) evaluated by a panel of 5 board-certified and resident
+   physicians demonstrates significant increases in factuality (mean of 18%
+   at p-value < 0.05) across all specialties, with improvements in
+   completeness and safety. Our results demonstrate the potential for large
+   language models to be effective tools in the clinical decision-making
+   process, while also emphasizing the importance of careful testing and
+   deployment to mitigate their shortcomings.
+Z8 0
+ZA 0
+ZB 2
+ZS 0
+TC 8
+ZR 0
+Z9 8
+DA 2023-05-21
+UT MEDLINE:37205549
+PM 37205549
+ER
+
+PT J
+AU Farquhar, Sebastian
+   Kossen, Jannik
+   Kuhn, Lorenz
+   Gal, Yarin
+TI Detecting hallucinations in large language models using semantic entropy
+SO NATURE
+VL 630
+IS 8017
+DI 10.1038/s41586-024-07421-0
+DT Article
+PD JUN 20 2024
+PY 2024
+AB Large language model (LLM) systems, such as ChatGPT 1 or Gemini 2 , can
+   show impressive reasoning and question-answering capabilities but often
+   'hallucinate' false outputs and unsubstantiated answers 3,4 . Answering
+   unreliably or without the necessary information prevents adoption in
+   diverse fields, with problems including fabrication of legal precedents
+   5 or untrue facts in news articles 6 and even posing a risk to human
+   life in medical domains such as radiology 7 . Encouraging truthfulness
+   through supervision or reinforcement has been only partially successful
+   8 . Researchers need a general method for detecting hallucinations in
+   LLMs that works even with new and unseen questions to which humans might
+   not know the answer. Here we develop new methods grounded in statistics,
+   proposing entropy-based uncertainty estimators for LLMs to detect a
+   subset of hallucinations-confabulations-which are arbitrary and
+   incorrect generations. Our method addresses the fact that one idea can
+   be expressed in many ways by computing uncertainty at the level of
+   meaning rather than specific sequences of words. Our method works across
+   datasets and tasks without a priori knowledge of the task, requires no
+   task-specific data and robustly generalizes to new tasks not seen
+   before. By detecting when a prompt is likely to produce a confabulation,
+   our method helps users understand when they must take extra care with
+   LLMs and opens up new possibilities for using LLMs that are otherwise
+   prevented by their unreliability.
+   Hallucinations (confabulations) in large language model systems can be
+   tackled by measuring uncertainty about the meanings of generated
+   responses rather than the text itself to improve question-answering
+   accuracy.
+ZR 0
+ZB 9
+ZA 0
+TC 85
+ZS 0
+Z8 2
+Z9 88
+DA 2025-03-12
+UT WOS:001262429400005
+PM 38898292
+ER
+
+PT C
+AU Oduro-Afriyie, Joel
+   Jamil, Hasan M.
+GP ACM
+TI Enabling the Informed Patient Paradigm with Secure and Personalized
+   Medical Question Answering
+SO 14TH ACM CONFERENCE ON BIOINFORMATICS, COMPUTATIONAL BIOLOGY, AND HEALTH
+   INFORMATICS, BCB 2023
+DI 10.1145/3584371.3613016
+DT Proceedings Paper
+PD 2023
+PY 2023
+AB Quality patient care is a complex and multifaceted problem requiring the
+   integration of data from multiple sources. We propose Medicient, a
+   knowledge-graph-based question answering system that processes
+   heterogeneous data sources, including patient health records, drug
+   databases, and medical literature, into a unified knowledge graph with
+   zero training. The knowledge graph is then utilized to provide
+   personalized recommendations for treatment or medication. The system
+   leverages the power of large language models for question understanding
+   and natural language response generation, while hiding sensitive patient
+   information. We compare our system to a large language model (ChatGPT),
+   which does not have access to patient health records, and show that our
+   system provides better recommendations. This study contributes to a
+   growing body of research on knowledge graphs and their applications in
+   healthcare.
+CT 14th ACM Conference on Bioinformatics, Computational Biology, and Health
+   Informatics (ACM-BCB)
+CY SEP 03-06, 2023
+CL Houston, TX
+SP Assoc Comp Machinery; ACM Special Interest Grp Bioinformat, Computat
+   Biol, & Biomed Informat
+ZR 0
+ZA 0
+Z8 0
+TC 2
+ZB 0
+ZS 0
+Z9 3
+DA 2024-03-19
+UT WOS:001143941200033
+ER
+
+PT J
+AU Saleh, Yasmeen
+   Abu Talib, Manar
+   Nasir, Qassim
+   Dakalbab, Fatima
+TI Evaluating large language models: a systematic review of efficiency,
+   applications, and future directions
+SO FRONTIERS IN COMPUTER SCIENCE
+VL 7
+AR 1523699
+DI 10.3389/fcomp.2025.1523699
+DT Review
+PD MAY 27 2025
+PY 2025
+AB Large language models, the innovative breakthrough taking the world by
+   storm, have been applied in several fields, such as medicine, education,
+   finance, and law. Moreover, large language models can integrate into
+   those fields through their abilities in natural language processing,
+   text generation, question answering, and several other use cases that
+   benefit human interactions and decision-making. Furthermore, it is
+   imperative to acknowledge the differences involved with large language
+   models beyond their applications by considering aspects such as their
+   types, setups, parameters, and performance. This could help us
+   understand how each large language model could be utilized to its
+   fullest extent for maximum benefit. In this systematic literature
+   review, we explore each of these aspects in depth. Finally, we conclude
+   with insights and future directions for advancing the efficiency and
+   applicability of large language models.
+Z8 0
+ZS 0
+ZB 0
+TC 0
+ZA 0
+ZR 0
+Z9 0
+DA 2025-06-14
+UT WOS:001505398100001
+ER
+
+PT J
+AU Hua, Rui
+   Dong, Xin
+   Wei, Yu
+   Shu, Zixin
+   Yang, Pengcheng
+   Hu, Yunhui
+   Zhou, Shuiping
+   Sun, He
+   Yan, Kaijing
+   Yan, Xijun
+   Chang, Kai
+   Li, Xiaodong
+   Bai, Yuning
+   Zhang, Runshun
+   Wang, Wenjia
+   Zhou, Xuezhong
+TI Lingdan: enhancing encoding of traditional Chinese medicine knowledge
+   for clinical reasoning tasks with large language models
+SO JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION
+DI 10.1093/jamia/ocae087
+EA JUL 2024
+DT Article; Early Access
+PY 2024
+AB Objective The recent surge in large language models (LLMs) across
+   various fields has yet to be fully realized in traditional Chinese
+   medicine (TCM). This study aims to bridge this gap by developing a large
+   language model tailored to TCM knowledge, enhancing its performance and
+   accuracy in clinical reasoning tasks such as diagnosis, treatment, and
+   prescription recommendations.Materials and Methods This study harnessed
+   a wide array of TCM data resources, including TCM ancient books,
+   textbooks, and clinical data, to create 3 key datasets: the TCM
+   Pre-trained Dataset, the Traditional Chinese Patent Medicine (TCPM)
+   Question Answering Dataset, and the Spleen and Stomach Herbal
+   Prescription Recommendation Dataset. These datasets underpinned the
+   development of the Lingdan Pre-trained LLM and 2 specialized models: the
+   Lingdan-TCPM-Chat Model, which uses a Chain-of-Thought process for
+   symptom analysis and TCPM recommendation, and a Lingdan Prescription
+   Recommendation model (Lingdan-PR) that proposes herbal prescriptions
+   based on electronic medical records.Results The Lingdan-TCPM-Chat and
+   the Lingdan-PR Model, fine-tuned on the Lingdan Pre-trained LLM,
+   demonstrated state-of-the art performances for the tasks of TCM clinical
+   knowledge answering and herbal prescription recommendation. Notably,
+   Lingdan-PR outperformed all state-of-the-art baseline models, achieving
+   an improvement of 18.39% in the Top@20 F1-score compared with the best
+   baseline.Conclusion This study marks a pivotal step in merging advanced
+   LLMs with TCM, showcasing the potential of artificial intelligence to
+   help improve clinical decision-making of medical diagnostics and
+   treatment strategies. The success of the Lingdan Pre-trained LLM and its
+   derivative models, Lingdan-TCPM-Chat and Lingdan-PR, not only
+   revolutionizes TCM practices but also opens new avenues for the
+   application of artificial intelligence in other specialized medical
+   fields. Our project is available at
+   https://github.com/TCMAI-BJTU/LingdanLLM.
+Z8 4
+ZR 0
+ZA 0
+ZS 0
+TC 7
+ZB 0
+Z9 11
+DA 2024-07-28
+UT WOS:001273695100001
+PM 39038795
+ER
+
+PT J
+AU Qiu, Pengcheng
+   Wu, Chaoyi
+   Zhang, Xiaoman
+   Lin, Weixiong
+   Wang, Haicheng
+   Zhang, Ya
+   Wang, Yanfeng
+   Xie, Weidi
+TI Towards building multilingual language model for medicine
+SO NATURE COMMUNICATIONS
+VL 15
+IS 1
+AR 8384
+DI 10.1038/s41467-024-52417-z
+DT Article
+PD SEP 27 2024
+PY 2024
+AB The development of open-source, multilingual medical language models can
+   benefit a wide, linguistically diverse audience from different regions.
+   To promote this domain, we present contributions from the following:
+   First, we construct a multilingual medical corpus, containing
+   approximately 25.5B tokens encompassing 6 main languages, termed as
+   MMedC, enabling auto-regressive domain adaptation for general LLMs;
+   Second, to monitor the development of multilingual medical LLMs, we
+   propose a multilingual medical multi-choice question-answering benchmark
+   with rationale, termed as MMedBench; Third, we have assessed a number of
+   open-source large language models (LLMs) on our benchmark, along with
+   those further auto-regressive trained on MMedC. Our final model,
+   MMed-Llama 3, with only 8B parameters, achieves superior performance
+   compared to all other open-source models on both MMedBench and English
+   benchmarks, even rivaling GPT-4. In conclusion, in this work, We present
+   a large-scale corpus, a benchmark and a series of models to support the
+   development of multilingual medical LLMs.
+ZR 0
+ZA 0
+ZS 0
+TC 13
+ZB 0
+Z8 2
+Z9 15
+DA 2024-12-31
+UT WOS:001377401300018
+PM 39333468
+ER
+
+PT J
+AU Park, SaYoon
+   Chang-EopKim
+TI Enhancing Korean Medicine Education with Large Language Models: Focusing
+   on the Development of Educational Artificial Intelligence
+Z1 거대언어모델을 활용한 한의학 교육 강화: 교육용 인공지능 개발을 중심으로
+SO Journal of Physiology & Pathology in Korean Medicine
+S1 동의생리병리학회지
+VL 37
+IS 5
+BP 134
+EP 138
+DT research-article
+PD 2023
+PY 2023
+AB Large language models (LLMs) have introduced groundbreaking innovations
+   in various fields, including healthcare, where they augment medical
+   diagnosis, decision-making, and facilitate patient-doctor communication
+   through their exceptional contextual understanding and inferential
+   abilities. In the realm of Korean medicine (KM), the utilization of LLMs
+   is highly anticipated. However, it demands additional training with
+   domain-specific KM data for seamless integration of KM knowledge. There
+   are two predominant strategies for training domain-specific LLMs in the
+   KM domain. The first approach entails direct manipulation of the LLM's
+   internals by either pretraining a base model on an extensive corpus of
+   KM data or fine-tuning a pretrained model's parameters using KM-related
+   question-answering datasets. The second approach avoids internal model
+   manipulation and leverages techniques like prompt engineering, retrieval
+   augmented generation, and cognitive augmentation. Domain-specific LLMs
+   specialized for KM hold the potential for diverse applications, ranging
+   from personalized medical education plans and content generation to
+   knowledge integration, curriculum development, automated student
+   assessment, virtual patient simulations, and advanced research and
+   scholarly activities. These advancements are poised to significantly
+   impact the field of KM and medical education at large.
+ZB 0
+Z8 0
+TC 0
+ZA 0
+ZS 0
+ZR 0
+Z9 0
+DA 2023-01-01
+UT KJD:ART003011785
+ER
+
+PT C
+AU Xu, Mingming
+   Ye, Chen
+   Zeng, Zheng
+   Chang, Chenyang
+   Qi, Shijie
+   Wu, Yujia
+   Yang, Huifang
+   Chen, Yifan
+   Huang, Haifeng
+   Liu, Lin
+   Cao, Zhanqiang
+   Deng, Xuliang
+BE Chang, RN
+   Chang, CK
+   Yang, J
+   Jin, Z
+   Sheng, M
+   Fan, J
+   Fletcher, K
+   He, Q
+   Wen, B
+   Ahamed, SI
+   Pravadelli, G
+   Shahriar, H
+   Bombieri, N
+   Xie, H
+   Atukorala, N
+   Mahmood, A
+   Chu, W
+   Rogers, J
+TI Adopting Generative AI with Precaution in Dentistry: A Review and
+   Reflection
+SO 2024 IEEE INTERNATIONAL CONFERENCE ON DIGITAL HEALTH, ICDH 2024
+BP 244
+EP 256
+DI 10.1109/ICDH62654.2024.00047
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB The progress in large language models (LLMs) brings much excitement and
+   efforts in medical artificial intelligence, which could transform
+   patient-doctor conversation while making joint medical decisions. LLMs,
+   exemplified by ChatGPT, are proficient in grasping and generating text,
+   and can perform tasks such as question answering, document summarising,
+   and paraphrasing with a level of proficiency comparable to that of a
+   human. Their potential applications span across various tasks in
+   medicine, notably improving clinical patient care experience, advancing
+   scientific medical research, and revolutionizing medical education. This
+   survey critically examines the evolving landscape of medical large
+   language models (Med LLMs), with a special focus on their application in
+   stomatology. While Med LLMs are inevitably becoming an integral part to
+   medical text processing and image processing, their use in enhancing
+   clinical care requires extra precaution and assurance due to the
+   stringent requirements on ethics and patient safety. The design,
+   deployment and use of LLMs and services requires thorough risks analysis
+   of technology misuse and potential harms. This survey looks into the
+   current status, different prospects and challenges in LLMs development
+   in medical use cases and ways to control and mitigates risks of
+   generative artificial intelligence.
+CT IEEE International Conference on Digital Health (IEEE ICDH)
+CY JUL 07-13, 2024
+CL Shenzhen, PEOPLES R CHINA
+SP IEEE; IEEE Comp Soc; Tech Comm Serv Comp
+Z8 0
+ZS 0
+ZB 1
+ZA 0
+ZR 0
+TC 1
+Z9 1
+DA 2024-10-26
+UT WOS:001308534900035
+ER
+
+PT J
+AU Sorin, Vera
+   Glicksberg, Benjamin S.
+   Artsi, Yaara
+   Barash, Yiftach
+   Konen, Eli
+   Nadkarni, Girish N.
+   Klang, Eyal
+TI Utilizing large language models in breast cancer management: systematic
+   review
+SO JOURNAL OF CANCER RESEARCH AND CLINICAL ONCOLOGY
+VL 150
+IS 3
+AR 140
+DI 10.1007/s00432-024-05678-6
+DT Review
+PD MAR 19 2024
+PY 2024
+AB PurposeDespite advanced technologies in breast cancer management,
+   challenges remain in efficiently interpreting vast clinical data for
+   patient-specific insights. We reviewed the literature on how large
+   language models (LLMs) such as ChatGPT might offer solutions in this
+   field.MethodsWe searched MEDLINE for relevant studies published before
+   December 22, 2023. Keywords included: "large language models", "LLM",
+   "GPT", "ChatGPT", "OpenAI", and "breast". The risk bias was evaluated
+   using the QUADAS-2 tool.ResultsSix studies evaluating either ChatGPT-3.5
+   or GPT-4, met our inclusion criteria. They explored clinical notes
+   analysis, guideline-based question-answering, and patient management
+   recommendations. Accuracy varied between studies, ranging from 50 to
+   98%. Higher accuracy was seen in structured tasks like information
+   retrieval. Half of the studies used real patient data, adding practical
+   clinical value. Challenges included inconsistent accuracy, dependency on
+   the way questions are posed (prompt-dependency), and in some cases,
+   missing critical clinical information.ConclusionLLMs hold potential in
+   breast cancer care, especially in textual information extraction and
+   guideline-driven clinical question-answering. Yet, their inconsistent
+   accuracy underscores the need for careful validation of these models,
+   and the importance of ongoing supervision.
+ZS 0
+ZB 6
+ZA 0
+Z8 0
+ZR 0
+TC 17
+Z9 17
+DA 2024-04-01
+UT WOS:001187667700004
+PM 38504034
+ER
+
+PT J
+AU Zhao, Ziwei
+   Zhang, Weiyi
+   Chen, Xiaolan
+   Song, Fan
+   Gunasegaram, James
+   Huang, Wenyong
+   Shi, Danli
+   He, Mingguang
+TI Slit-lamp-GPT: Application of Large Language Models for Slit Lamp Image
+   Report Generation and Question Answering
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+MA 2368
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+ZB 0
+ZA 0
+TC 0
+ZS 0
+ZR 0
+Z8 0
+Z9 0
+DA 2024-12-01
+UT WOS:001312227707005
+ER
+
+PT J
+AU Akinseloyin, Opeoluwa
+   Jiang, Xiaorui
+   Palade, Vasile
+TI A question-answering framework for automated abstract screening using
+   large language models
+SO JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION
+VL 31
+IS 9
+DI 10.1093/jamia/ocae166
+EA JUL 2024
+DT Article
+PD JUL 23 2024
+PY 2024
+AB Objective This paper aims to address the challenges in abstract
+   screening within systematic reviews (SR) by leveraging the zero-shot
+   capabilities of large language models (LLMs).Methods We employ LLM to
+   prioritize candidate studies by aligning abstracts with the selection
+   criteria outlined in an SR protocol. Abstract screening was transformed
+   into a novel question-answering (QA) framework, treating each selection
+   criterion as a question addressed by LLM. The framework involves
+   breaking down the selection criteria into multiple questions, properly
+   prompting LLM to answer each question, scoring and re-ranking each
+   answer, and combining the responses to make nuanced inclusion or
+   exclusion decisions.Results and Discussion Large-scale validation was
+   performed on the benchmark of CLEF eHealth 2019 Task 2:
+   Technology-Assisted Reviews in Empirical Medicine. Focusing on GPT-3.5
+   as a case study, the proposed QA framework consistently exhibited a
+   clear advantage over traditional information retrieval approaches and
+   bespoke BERT-family models that were fine-tuned for prioritizing
+   candidate studies (ie, from the BERT to PubMedBERT) across 31 datasets
+   of 4 categories of SRs, underscoring their high potential in
+   facilitating abstract screening. The experiments also showcased the
+   viability of using selection criteria as a query for reference
+   prioritization. The experiments also showcased the viability of the
+   framework using different LLMs.Conclusion Investigation justified the
+   indispensable value of leveraging selection criteria to improve the
+   performance of automated abstract screening. LLMs demonstrated
+   proficiency in prioritizing candidate studies for abstract screening
+   using the proposed QA framework. Significant performance improvements
+   were obtained by re-ranking answers using the semantic alignment between
+   abstracts and selection criteria. This further highlighted the
+   pertinence of utilizing selection criteria to enhance abstract
+   screening.
+Z8 1
+ZS 0
+TC 2
+ZR 0
+ZB 0
+ZA 0
+Z9 3
+DA 2024-07-29
+UT WOS:001274409600001
+PM 39042516
+ER
+
+PT J
+AU Liu, Jialin
+   Wang, Changyu
+   Liu, Siru
+TI Utility of ChatGPT in Clinical Practice
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+VL 25
+AR e48568
+DI 10.2196/48568
+DT Article
+PD JUN 28 2023
+PY 2023
+AB ChatGPT is receiving increasing attention and has a variety of
+   application scenarios in clinical practice. In clinical decision
+   support, ChatGPT has been used to generate accurate differential
+   diagnosis lists, support clinical decision-making, optimize clinical
+   decision support, and provide insights for cancer screening decisions.
+   In addition, ChatGPT has been used for intelligent question-answering to
+   provide reliable information about diseases and medical queries. In
+   terms of medical documentation, ChatGPT has proven effective in
+   generating patient clinical letters, radiology reports, medical notes,
+   and discharge summaries, improving efficiency and accuracy for health
+   care providers. Future research directions include real-time monitoring
+   and predictive analytics, precision medicine and personalized treatment,
+   the role of ChatGPT in telemedicine and remote health care, and
+   integration with existing health care systems. Overall, ChatGPT is a
+   valuable tool that complements the expertise of health care providers
+   and improves clinical decision-making and patient care. However, ChatGPT
+   is a double-edged sword. We need to carefully consider and study the
+   benefits and potential dangers of ChatGPT. In this viewpoint, we discuss
+   recent advances in ChatGPT research in clinical practice and suggest
+   possible risks and challenges of using ChatGPT in clinical practice. It
+   will help guide and support future artificial intelligence research
+   similar to ChatGPT in health.
+ZS 1
+ZR 0
+Z8 5
+TC 230
+ZB 25
+ZA 0
+Z9 234
+DA 2023-08-24
+UT WOS:001045687800005
+PM 37379067
+ER
+
+PT C
+AU Zhao, Wei
+   Chen, Qinghui
+   You, Junling
+GP ASSOC COMPUTING MACHINERY
+TI LlmRe: A zero-shot entity relation extraction method based on the large
+   language model
+SO PROCEEDINGS OF 2023 7TH INTERNATIONAL CONFERENCE ON ELECTRONIC
+   INFORMATION TECHNOLOGY AND COMPUTER ENGINEERING, EITCE 2023
+BP 475
+EP 480
+DI 10.1145/3650400.3650478
+DT Proceedings Paper
+PD 2023
+PY 2023
+AB Entity relation extraction aims to extract knowledge triples from
+   unstructured or semi-structured text data and can be applied to various
+   fields, including medicine, finance knowledge graph construction and
+   intelligent question-answering. Traditional entity relation extraction
+   requires a large amount of labeled data, consumes a lot of labor and
+   time, and the trained model lacks generalization ability, which is
+   difficult to migrate to other fields. Zero-shot entity relation
+   extraction relieves the dependence on labeled data in traditional
+   method. Based on unlabeled text data, zero-shot entity relation
+   extraction has strong domain adaptability, which is a very challenging
+   and practical task. Recent work on large language models shows that
+   large models can effectively complete downstream tasks through natural
+   language instructions and have good generalization ability. Inspired by
+   this, we explore the use of large models for information extraction. Due
+   to the randomness of large language model generation, we introduce
+   in-context learning in entity relation extraction task to guide large
+   language model to output data in a specified format to help obtain
+   structured data. At the same time, we propose a three-stage extraction
+   framework for decomposing entity relation extraction tasks, and each
+   stage is conducted in the form of question and answer to reduce the
+   complexity of extraction. We evaluated the knowledge triples extraction
+   performance of the model on three self-built test datasets in different
+   fields, and the experimental result showed that our proposed method
+   achieved impressive performance in the zero-shot entity relation
+   extraction task, surpassing the comparison model on multiple metrics,
+   proving the effectiveness and domain adaptability of the proposed
+   method.
+CT 7th International Conference on Electronic Information Technology and
+   Computer Engineering (EITCE)
+CY OCT 20-22, 2023
+CL Xiamen, PEOPLES R CHINA
+ZR 0
+TC 0
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+Z9 0
+DA 2024-09-15
+UT WOS:001283896700078
+ER
+
+PT J
+AU Li, Zhenzhu
+   Zhang, Jingfeng
+   Zhou, Wei
+   Zheng, Jianjun
+   Xia, Yinshui
+TI GPT-agents based on medical guidelines can improve the responsiveness
+   and explainability of outcomes for traumatic brain injury rehabilitation
+SO SCIENTIFIC REPORTS
+VL 14
+IS 1
+AR 7626
+DI 10.1038/s41598-024-58514-9
+DT Article
+PD APR 1 2024
+PY 2024
+AB This study explored the application of generative pre-trained
+   transformer (GPT) agents based on medical guidelines using large
+   language model (LLM) technology for traumatic brain injury (TBI)
+   rehabilitation-related questions. To assess the effectiveness of
+   multiple agents (GPT-agents) created using GPT-4, a comparison was
+   conducted using direct GPT-4 as the control group (GPT-4). The
+   GPT-agents comprised multiple agents with distinct functions, including
+   "Medical Guideline Classification", "Question Retrieval", "Matching
+   Evaluation", "Intelligent Question Answering (QA)", and "Results
+   Evaluation and Source Citation". Brain rehabilitation questions were
+   selected from the doctor-patient Q&A database for assessment. The
+   primary endpoint was a better answer. The secondary endpoints were
+   accuracy, completeness, explainability, and empathy. Thirty questions
+   were answered; overall GPT-agents took substantially longer and more
+   words to respond than GPT-4 (time: 54.05 vs. 9.66 s, words: 371 vs. 57).
+   However, GPT-agents provided superior answers in more cases compared to
+   GPT-4 (66.7 vs. 33.3%). GPT-Agents surpassed GPT-4 in accuracy
+   evaluation (3.8 +/- 1.02 vs. 3.2 +/- 0.96, p = 0.0234). No difference in
+   incomplete answers was found (2 +/- 0.87 vs. 1.7 +/- 0.79, p = 0.213).
+   However, in terms of explainability (2.79 +/- 0.45 vs. 07 +/- 0.52, p <
+   0.001) and empathy (2.63 +/- 0.57 vs. 1.08 +/- 0.51, p < 0.001)
+   evaluation, the GPT-agents performed notably better. Based on medical
+   guidelines, GPT-agents enhanced the accuracy and empathy of responses to
+   TBI rehabilitation questions. This study provides guideline references
+   and demonstrates improved clinical explainability. However, further
+   validation through multicenter trials in a clinical setting is
+   necessary. This study offers practical insights and establishes
+   groundwork for the potential theoretical integration of LLM-agents
+   medicine.
+ZA 0
+ZR 0
+ZS 0
+ZB 1
+TC 1
+Z8 0
+Z9 1
+DA 2024-04-12
+UT WOS:001195796200031
+PM 38561445
+ER
+
+PT J
+AU Kipp, Markus
+TI From GPT-3.5 to GPT-4.o: A Leap in AI's Medical Exam Performance
+SO INFORMATION
+VL 15
+IS 9
+AR 543
+DI 10.3390/info15090543
+DT Article
+PD SEP 2024
+PY 2024
+AB ChatGPT is a large language model trained on increasingly large datasets
+   to perform diverse language-based tasks. It is capable of answering
+   multiple-choice questions, such as those posed by diverse medical
+   examinations. ChatGPT has been generating considerable attention in both
+   academic and non-academic domains in recent months. In this study, we
+   aimed to assess GPT's performance on anatomical multiple-choice
+   questions retrieved from medical licensing examinations in Germany. Two
+   different versions were compared. GPT-3.5 demonstrated moderate
+   accuracy, correctly answering 60-64% of questions from the autumn 2022
+   and spring 2021 exams. In contrast, GPT-4.o showed significant
+   improvement, achieving 93% accuracy on the autumn 2022 exam and 100% on
+   the spring 2021 exam. When tested on 30 unique questions not available
+   online, GPT-4.o maintained a 96% accuracy rate. Furthermore, GPT-4.o
+   consistently outperformed medical students across six state exams, with
+   a statistically significant mean score of 95.54% compared with the
+   students' 72.15%. The study demonstrates that GPT-4.o outperforms both
+   its predecessor, GPT-3.5, and a cohort of medical students, indicating
+   its potential as a powerful tool in medical education and assessment.
+   This improvement highlights the rapid evolution of LLMs and suggests
+   that AI could play an increasingly important role in supporting and
+   enhancing medical training, potentially offering supplementary resources
+   for students and professionals. However, further research is needed to
+   assess the limitations and practical applications of such AI systems in
+   real-world medical practice.
+ZR 0
+ZB 0
+ZA 0
+ZS 0
+Z8 0
+TC 5
+Z9 5
+DA 2024-10-07
+UT WOS:001323461700001
+ER
+
+PT J
+AU Maharjan, Jenish
+   Garikipati, Anurag
+   Singh, Navan Preet
+   Cyrus, Leo
+   Sharma, Mayank
+   Ciobanu, Madalina
+   Barnes, Gina
+   Thapa, Rahul
+   Mao, Qingqing
+   Das, Ritankar
+TI OpenMedLM: prompt engineering can out-perform fine-tuning in medical
+   question-answering with open-source large language models
+SO SCIENTIFIC REPORTS
+VL 14
+IS 1
+AR 14156
+DI 10.1038/s41598-024-64827-6
+DT Article
+PD JUN 2024
+PY 2024
+AB LLMs can accomplish specialized medical knowledge tasks, however,
+   equitable access is hindered by the extensive fine-tuning, specialized
+   medical data requirement, and limited access to proprietary models.
+   Open-source (OS) medical LLMs show performance improvements and provide
+   the transparency and compliance required in healthcare. We present
+   OpenMedLM, a prompting platform delivering state-of-the-art (SOTA)
+   performance for OS LLMs on medical benchmarks. We evaluated OS
+   foundation LLMs (7B-70B) on medical benchmarks (MedQA, MedMCQA,
+   PubMedQA, MMLU medical-subset) and selected Yi34B for developing
+   OpenMedLM. Prompting strategies included zero-shot, few-shot,
+   chain-of-thought, and ensemble/self-consistency voting. OpenMedLM
+   delivered OS SOTA results on three medical LLM benchmarks, surpassing
+   previous best-performing OS models that leveraged costly and extensive
+   fine-tuning. OpenMedLM displays the first results to date demonstrating
+   the ability of OS foundation models to optimize performance, absent
+   specialized fine-tuning. The model achieved 72.6% accuracy on MedQA,
+   outperforming the previous SOTA by 2.4%, and 81.7% accuracy on MMLU
+   medical-subset, establishing itself as the first OS LLM to surpass 80%
+   accuracy on this benchmark. Our results highlight medical-specific
+   emergent properties in OS LLMs not documented elsewhere to date and
+   validate the ability of OS models to accomplish healthcare tasks,
+   highlighting the benefits of prompt engineering to improve performance
+   of accessible LLMs for medical applications.
+ZR 0
+Z8 0
+TC 16
+ZS 0
+ZA 0
+ZB 2
+Z9 16
+DA 2024-08-07
+UT WOS:001275958700048
+PM 38898116
+ER
+
+PT J
+AU Sukhwal, Prakash C.
+   Rajan, Vaibhav
+   Kankanhalli, Atreyi
+TI A Joint LLM-KG System for Disease Q&A
+SO IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS
+VL 29
+IS 3
+BP 2257
+EP 2270
+DI 10.1109/JBHI.2024.3514659
+DT Article
+PD MAR 2025
+PY 2025
+AB Medical question answer (QA) assistants respond to lay users'
+   health-related queries by synthesizing information from multiple sources
+   using natural language processing and related techniques. They can serve
+   as vital tools to alleviate issues of misinformation, information
+   overload, and complexity of medical language, thus addressing lay users'
+   information needs while reducing the burden on healthcare professionals.
+   QA systems, the engines of such assistants, have often used large
+   language models (LLMs) or knowledge graphs (KG), though the approaches
+   could be complementary. LLM-based QA systems excel at understanding
+   complex questions and providing well-formed answers but are prone to
+   factual mistakes. KG-based QA systems, which represent facts well, are
+   mostly limited to answering short-answer questions with pre-created
+   templates. While a few studies have used both LLM and KG for text-based
+   QA, the approaches are still prone to incomplete or inaccurate answers.
+   Extant QA systems also have limitations in terms of automation and
+   performance. We address these challenges by designing a novel, automated
+   disease QA system named Disease Guru-Long-Form Question Answer
+   (DG-LFQA), which effectively utilizes both LLM and KG techniques through
+   a joint reasoning approach to answer disease-related questions
+   appropriate for lay users. Our evaluation of the system using a range of
+   quality metrics demonstrates its efficacy over related baseline systems.
+ZS 0
+TC 0
+ZR 0
+Z8 0
+ZB 0
+ZA 0
+Z9 0
+DA 2025-03-26
+UT WOS:001440184500008
+PM 40030566
+ER
+
+PT J
+AU Wang, Zhonghai
+   Jiang, Jie
+   Zhan, Yibing
+   Zhou, Bohao
+   Li, Yanhong
+   Zhang, Chong
+   Yu, Baosheng
+   Ding, Liang
+   Jin, Hua
+   Peng, Jun
+   Lin, Xu
+   Liu, Weifeng
+TI Hypnos: A domain-specific large language model for anesthesiology
+SO NEUROCOMPUTING
+VL 624
+AR 129389
+DI 10.1016/j.neucom.2025.129389
+EA JAN 2025
+DT Article
+PD APR 1 2025
+PY 2025
+AB The recent success of large language models (LLMs) has sparked a growing
+   interest in their domain-specific tuning for medical applications.
+   However, sufficient data collection in highly specialized domains such
+   as anesthesiology poses significant challenges. In this work, we explore
+   training a domain-specific LLM for anesthesiology, referred to as
+   Hypnos, with limited real-world data, employing a progressive
+   general-to-specific strategy. We incorporate medical question answering
+   (QA) data collected at three different scales and specific levels: (1) 8
+   million pieces of general medical QA data from public websites; (2)
+   approximately 180k pieces of synthetic anesthesia QA data generated by
+   popular medical LLMs; and (3) approximately 35k pieces of real-world
+   anesthesia QA data collected from anesthesia websites or books. The
+   training process consists of two stages: fine-tuning a pretrained
+   general LLM using general medical data and real-world anesthesia data,
+   followed by further fine-tuning using synthetic and real-world
+   anesthesia data. To evaluate the proposed Hypnos model, we conduct
+   intensive experiments on a newly introduced anesthesia QA benchmark. The
+   experimental results demonstrate that the proposed Hypnos outperforms
+   recent medical LLMs in terms of widely used metrics (such as BLEU,
+   ROUGE, and GLEU) as well as GPT-4 and human evaluations.
+ZA 0
+Z8 0
+ZB 0
+TC 1
+ZR 0
+ZS 0
+Z9 1
+DA 2025-02-10
+UT WOS:001414056200001
+ER
+
+PT J
+AU Kjell, Oscar N. E.
+   Kjell, Katarina
+   Schwartz, H. Andrew
+TI Beyond rating scales: With targeted evaluation, large language models
+   are poised for psychological assessment
+SO PSYCHIATRY RESEARCH
+VL 333
+AR 115667
+DI 10.1016/j.psychres.2023.115667
+EA JAN 2024
+DT Review
+PD MAR 2024
+PY 2024
+AB In this narrative review, we survey recent empirical evaluations of
+   AI-based language assessments and present a case for the technology of
+   large language models to be poised for changing standardized
+   psychological assessment. Artificial intelligence has been undergoing a
+   purported "paradigm shift" initiated by new machine learning models,
+   large language models (e.g., BERT, LAMMA, and that behind ChatGPT).
+   These models have led to unprecedented accuracy over most computerized
+   language processing tasks, from web searches to automatic machine
+   translation and question answering, while their dialogue-based forms,
+   like ChatGPT have captured the interest of over a million users. The
+   success of the large language model is mostly attributed to its
+   capability to numerically represent words in their context, long a
+   weakness of previous attempts to automate psychological assessment from
+   language. While potential applications for automated therapy are
+   beginning to be studied on the heels of chatGPT's success, here we
+   present evidence that suggests, with thorough validation of targeted
+   deployment scenarios, that AI's newest technology can move mental health
+   assessment away from rating scales and to instead use how people
+   naturally communicate, in language.
+TC 16
+ZA 0
+ZB 2
+Z8 1
+ZR 0
+ZS 0
+Z9 17
+DA 2024-03-08
+UT WOS:001168160200001
+PM 38290286
+ER
+
+PT J
+AU Zhou, Bohao
+   Zhan, Yibing
+   Wang, Zhonghai
+   Li, Yanhong
+   Zhang, Chong
+   Yu, Baosheng
+   Ding, Liang
+   Jin, Hua
+   Liu, Weifeng
+   Wang, Xiongbin
+   Tao, Dapeng
+TI Benchmarking Medical LLMs on Anesthesiology: A Comprehensive Dataset in
+   Chinese
+SO IEEE TRANSACTIONS ON EMERGING TOPICS IN COMPUTATIONAL INTELLIGENCE
+DI 10.1109/TETCI.2024.3502465
+EA JAN 2025
+DT Article; Early Access
+PY 2025
+AB With the recent success of large language models (LLMs), interest in
+   developing them for medical domains has increased. However, due to the
+   lack of benchmark datasets, evaluating the capabilities of medical LLMs
+   remains challenging, particularly in highly specialized fields such as
+   anesthesiology. To address this gap, we introduce a comprehensive
+   anesthesiology benchmark dataset in Chinese, known as the Chinese
+   Anesthesiology Benchmark (CAB). This benchmark facilitates the
+   evaluation of medical LLMs for anesthesiology across three crucial
+   dimensions: knowledge, application, and safety. Specifically, the CAB
+   provides more than 8 k questions collected from examinations and books
+   for knowledge-level evaluation; more than 2 k questions collected from
+   online anesthesia consultations and hospitals for application-level
+   evaluation; and 136 tests from seven anesthesia medical care scenarios
+   for safety-level evaluation. With the proposed CAB dataset, we conducted
+   a thorough evaluation of six medical LLMs, such as Bianque-2 and
+   HuatuoGPT-13B, and eleven general LLMs, such as Qwen-7B-Chat and GPT-4.
+   The evaluation results revealed that there are still clear gaps in the
+   capacities of medical LLMs for anesthesiology compared with those of
+   medical students in the field of anesthesia. We hope that the proposed
+   CAB dataset can facilitate the development of medical LLMs for
+   anesthesiology.
+ZB 0
+Z8 0
+TC 1
+ZS 0
+ZR 0
+ZA 0
+Z9 1
+DA 2025-01-27
+UT WOS:001401073000001
+ER
+
+PT J
+AU Lonergan, Rebecca Murphy
+   Curry, Jake
+   Dhas, Kallpana
+   Simmons, Benno I.
+TI Stratified Evaluation of GPT's Question Answering in Surgery Reveals
+   Artificial Intelligence (AI) Knowledge Gaps
+SO CUREUS JOURNAL OF MEDICAL SCIENCE
+VL 15
+IS 11
+AR e48788
+DI 10.7759/cureus.48788
+DT Article
+PD NOV 14 2023
+PY 2023
+AB Large language models (LLMs) have broad potential applications in
+   medicine, such as aiding with education, providing reassurance to
+   patients, and supporting clinical decision-making. However, there is a
+   notable gap in understanding their applicability and performance in the
+   surgical domain and how their performance varies across specialties.
+   This paper aims to evaluate the performance of LLMs in answering
+   surgical questions relevant to clinical practice and to assess how this
+   performance varies across different surgical specialties.We used the
+   MedMCQA dataset, a large-scale multi-choice question-answer (MCQA)
+   dataset consisting of clinical questions across all areas of medicine.
+   We extracted the relevant 23,035 surgical questions and submitted them
+   to the popular LLMs Generative Pre-trained Transformers (GPT)-3.5 and
+   GPT-4 (OpenAI OpCo, LLC, San Francisco, CA). Generative Pre-trained
+   Transformer is a large language model that can generate human-like text
+   by predicting subsequent words in a sentence based on the context of the
+   words that come before it. It is pre-trained on a diverse range of texts
+   and can perform a variety of tasks, such as answering questions, without
+   needing task-specific training. The question-answering accuracy of GPT
+   was calculated and compared between the two models and across surgical
+   specialties. Both GPT-3.5 and GPT-4 achieved accuracies of 53.3% and
+   64.4%, respectively, on surgical questions, showing a statistically
+   significant difference in performance. When compared to their
+   performance on the full MedMCQA dataset, the two models performed
+   differently: GPT-4 performed worse on surgical questions than on the
+   dataset as a whole, while GPT-3.5 showed the opposite pattern.
+   Significant variations in accuracy were also observed across different
+   surgical specialties, with strong performances in anatomy, vascular, and
+   paediatric surgery and worse performances in orthopaedics, ENT, and
+   neurosurgery.Large language models exhibit promising capabilities in
+   addressing surgical questions, although the variability in their
+   performance between specialties cannot be ignored. The lower performance
+   of the latest GPT-4 model on surgical questions relative to questions
+   across all medicine highlights the need for targeted improvements and
+   continuous updates to ensure relevance and accuracy in surgical
+   applications. Further research and continuous monitoring of LLM
+   performance in surgical domains are crucial to fully harnessing their
+   potential and mitigating the risks of misinformation.
+Z8 0
+TC 14
+ZR 0
+ZB 3
+ZA 0
+ZS 0
+Z9 14
+DA 2024-01-08
+UT WOS:001109604800025
+PM 38098921
+ER
+
+PT J
+AU Bedi, Suhana
+   Liu, Yutong
+   Orr-Ewing, Lucy
+   Dash, Dev
+   Koyejo, Sanmi
+   Callahan, Alison
+   Fries, Jason A.
+   Wornow, Michael
+   Swaminathan, Akshay
+   Lehmann, Lisa Soleymani
+   Hong, Hyo Jung
+   Kashyap, Mehr
+   Chaurasia, Akash R.
+   Shah, Nirav R.
+   Singh, Karandeep
+   Tazbaz, Troy
+   Milstein, Arnold
+   Pfeffer, Michael A.
+   Shah, Nigam H.
+TI Testing and Evaluation of Health Care Applications of Large Language
+   Models: A Systematic Review
+SO JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+VL 333
+IS 4
+BP 319
+EP 328
+DI 10.1001/jama.2024.21700
+EA OCT 2024
+DT Article
+PD JAN 28 2025
+PY 2025
+AB Importance: Large language models (LLMs) can assist in various health
+   care activities, but current evaluation approaches may not adequately
+   identify the most useful application areas. Objective: To summarize
+   existing evaluations of LLMs in health care in terms of 5 components:
+   (1) evaluation data type, (2) health care task, (3) natural language
+   processing (NLP) and natural language understanding (NLU) tasks, (4)
+   dimension of evaluation, and (5) medical specialty. Data sources: A
+   systematic search of PubMed and Web of Science was performed for studies
+   published between January 1, 2022, and February 19, 2024. Study
+   selection: Studies evaluating 1 or more LLMs in health care. Data
+   extraction and synthesis: Three independent reviewers categorized
+   studies via keyword searches based on the data used, the health care
+   tasks, the NLP and NLU tasks, the dimensions of evaluation, and the
+   medical specialty. Results: Of 519 studies reviewed, published between
+   January 1, 2022, and February 19, 2024, only 5% used real patient care
+   data for LLM evaluation. The most common health care tasks were
+   assessing medical knowledge such as answering medical licensing
+   examination questions (44.5%) and making diagnoses (19.5%).
+   Administrative tasks such as assigning billing codes (0.2%) and writing
+   prescriptions (0.2%) were less studied. For NLP and NLU tasks, most
+   studies focused on question answering (84.2%), while tasks such as
+   summarization (8.9%) and conversational dialogue (3.3%) were infrequent.
+   Almost all studies (95.4%) used accuracy as the primary dimension of
+   evaluation; fairness, bias, and toxicity (15.8%), deployment
+   considerations (4.6%), and calibration and uncertainty (1.2%) were
+   infrequently measured. Finally, in terms of medical specialty area, most
+   studies were in generic health care applications (25.6%), internal
+   medicine (16.4%), surgery (11.4%), and ophthalmology (6.9%), with
+   nuclear medicine (0.6%), physical medicine (0.4%), and medical genetics
+   (0.2%) being the least represented. Conclusions and relevance: Existing
+   evaluations of LLMs mostly focus on accuracy of question answering for
+   medical examinations, without consideration of real patient care data.
+   Dimensions such as fairness, bias, and toxicity and deployment
+   considerations received limited attention. Future evaluations should
+   adopt standardized applications and metrics, use clinical data, and
+   broaden focus to include a wider range of tasks and specialties.
+ZR 0
+ZB 2
+ZS 0
+ZA 0
+Z8 0
+TC 47
+Z9 47
+DA 2024-10-30
+UT WOS:001338321500002
+PM 39405325
+ER
+
+PT J
+AU Sandmann, Sarah
+   Riepenhausen, Sarah
+   Plagwitz, Lucas
+   Varghese, Julian
+TI Systematic analysis of ChatGPT, Google search and Llama 2 for clinical
+   decision support tasks
+SO NATURE COMMUNICATIONS
+VL 15
+IS 1
+AR 2050
+DI 10.1038/s41467-024-46411-8
+DT Article
+PD MAR 6 2024
+PY 2024
+AB It is likely that individuals are turning to Large Language Models
+   (LLMs) to seek health advice, much like searching for diagnoses on
+   Google. We evaluate clinical accuracy of GPT-3 center dot 5 and GPT-4
+   for suggesting initial diagnosis, examination steps and treatment of 110
+   medical cases across diverse clinical disciplines. Moreover, two model
+   configurations of the Llama 2 open source LLMs are assessed in a
+   sub-study. For benchmarking the diagnostic task, we conduct a naive
+   Google search for comparison. Overall, GPT-4 performed best with
+   superior performances over GPT-3 center dot 5 considering diagnosis and
+   examination and superior performance over Google for diagnosis. Except
+   for treatment, better performance on frequent vs rare diseases is
+   evident for all three approaches. The sub-study indicates slightly lower
+   performances for Llama models. In conclusion, the commercial LLMs show
+   growing potential for medical question answering in two successive major
+   releases. However, some weaknesses underscore the need for robust and
+   regulated AI models in health care. Open source LLMs can be a viable
+   option to address specific needs regarding data privacy and transparency
+   of training.
+   People will likely use ChatGPT to seek health advice. Here, the authors
+   show promising performance of ChatGPT and open source models, but a lack
+   of high accuracy considering medical question answering. Improvements
+   are expected over time via domain-specific finetuning and integration of
+   regulations.
+ZS 0
+ZR 0
+Z8 3
+ZB 11
+TC 56
+ZA 0
+Z9 59
+DA 2024-04-03
+UT WOS:001180826600013
+PM 38448475
+ER
+
+PT J
+AU Singhal, Karan
+   Azizi, Shekoofeh
+   Tu, Tao
+   Mahdavi, S. Sara
+   Wei, Jason
+   Chung, Hyung Won
+   Scales, Nathan
+   Tanwani, Ajay
+   Cole-Lewis, Heather
+   Pfohl, Stephen
+   Payne, Perry
+   Seneviratne, Martin
+   Gamble, Paul
+   Kelly, Chris
+   Babiker, Abubakr
+   Schaerli, Nathanael
+   Chowdhery, Aakanksha
+   Mansfield, Philip
+   Demner-Fushman, Dina
+   Arcas, Blaise Aguera y
+   Webster, Dale
+   Corrado, Greg S.
+   Matias, Yossi
+   Chou, Katherine
+   Gottweis, Juraj
+   Tomasev, Nenad
+   Liu, Yun
+   Rajkomar, Alvin
+   Barral, Joelle
+   Semturs, Christopher
+   Karthikesalingam, Alan
+   Natarajan, Vivek
+TI Large language models encode clinical knowledge
+SO NATURE
+VL 620
+IS 7972
+BP 172
+EP +
+DI 10.1038/s41586-023-06291-2
+EA JUL 2023
+DT Article
+PD AUG 3 2023
+PY 2023
+AB Large language models (LLMs) have demonstrated impressive capabilities,
+   but the bar for clinical applications is high. Attempts to assess the
+   clinical knowledge of models typically rely on automated evaluations
+   based on limited benchmarks. Here, to address these limitations, we
+   present MultiMedQA, a benchmark combining six existing medical question
+   answering datasets spanning professional medicine, research and consumer
+   queries and a new dataset of medical questions searched online,
+   HealthSearchQA. We propose a human evaluation framework for model
+   answers along multiple axes including factuality, comprehension,
+   reasoning, possible harm and bias. In addition, we evaluate Pathways
+   Language Model(1) (PaLM, a 540-billion parameter LLM) and its
+   instruction-tuned variant, Flan-PaLM2 on MultiMedQA. Using a combination
+   of prompting strategies, Flan-PaLM achieves state-of-the-art accuracy on
+   every MultiMedQA multiple-choice dataset (MedQA(3), MedMCQA(4),
+   PubMedQA(5) and Measuring Massive Multitask Language Understanding
+   (MMLU) clinical topics(6)), including 67.6% accuracy on MedQA (US
+   Medical Licensing Exam-style questions), surpassing the prior state of
+   the art by more than 17%. However, human evaluation reveals key gaps. To
+   resolve this, we introduce instruction prompt tuning, a
+   parameter-efficient approach for aligning LLMs to new domains using a
+   few exemplars. The resulting model, Med-PaLM, performs encouragingly,
+   but remains inferior to clinicians. We show that comprehension,
+   knowledge recall and reasoning improve with model scale and instruction
+   prompt tuning, suggesting the potential utility of LLMs in medicine. Our
+   human evaluations reveal limitations of today's models, reinforcing the
+   importance of both evaluation frameworks and method development in
+   creating safe, helpful LLMs for clinical applications.
+TC 1025
+ZR 0
+ZS 2
+Z8 41
+ZB 197
+ZA 0
+Z9 1074
+DA 2023-08-20
+UT WOS:001028865500001
+PM 37438534
+ER
+
+PT J
+AU Chen, Xiaolan
+   Zhang, Weiyi
+   Zhao, Ziwei
+   Xu, Pusheng
+   Zheng, Yingfeng
+   Shi, Danli
+   He, Mingguang
+TI ICGA-GPT: report generation and question answering for indocyanine green
+   angiography images
+SO BRITISH JOURNAL OF OPHTHALMOLOGY
+VL 108
+IS 10
+BP 1450
+EP 1456
+DI 10.1136/bjo-2023-324446
+EA MAR 2024
+DT Article
+PD OCT 2024
+PY 2024
+AB Background Indocyanine green angiography (ICGA) is vital for diagnosing
+   chorioretinal diseases, but its interpretation and patient communication
+   require extensive expertise and time-consuming efforts. We aim to
+   develop a bilingual ICGA report generation and question-answering (QA)
+   system.
+   Methods Our dataset comprised 213 129 ICGA images from 2919
+   participants. The system comprised two stages: image-text alignment for
+   report generation by a multimodal transformer architecture, and large
+   language model (LLM)-based QA with ICGA text reports and human-input
+   questions. Performance was assessed using both qualitative metrics
+   (including Bilingual Evaluation Understudy (BLEU), Consensus-based Image
+   Description Evaluation (CIDEr), Recall-Oriented Understudy for Gisting
+   Evaluation-Longest Common Subsequence (ROUGE-L), Semantic Propositional
+   Image Caption Evaluation (SPICE), accuracy, sensitivity, specificity,
+   precision and F1 score) and subjective evaluation by three experienced
+   ophthalmologists using 5-point scales (5 refers to high quality).
+   Results We produced 8757 ICGA reports covering 39 disease-related
+   conditions after bilingual translation (66.7% English, 33.3% Chinese).
+   The ICGA-GPT model's report generation performance was evaluated with
+   BLEU scores (1-4) of 0.48, 0.44, 0.40 and 0.37; CIDEr of 0.82; ROUGE of
+   0.41 and SPICE of 0.18. For disease-based metrics, the average
+   specificity, accuracy, precision, sensitivity and F1 score were 0.98,
+   0.94, 0.70, 0.68 and 0.64, respectively. Assessing the quality of 50
+   images (100 reports), three ophthalmologists achieved substantial
+   agreement (kappa=0.723 for completeness, kappa=0.738 for accuracy),
+   yielding scores from 3.20 to 3.55. In an interactive QA scenario
+   involving 100 generated answers, the ophthalmologists provided scores of
+   4.24, 4.22 and 4.10, displaying good consistency (kappa=0.779).
+   Conclusion This pioneering study introduces the ICGA-GPT model for
+   report generation and interactive QA for the first time, underscoring
+   the potential of LLMs in assisting with automated ICGA image
+   interpretation.
+ZS 0
+TC 10
+ZB 3
+ZR 0
+Z8 0
+ZA 0
+Z9 10
+DA 2024-03-30
+UT WOS:001189002900001
+PM 38508675
+ER
+
+PT J
+AU Nazi, Zabir Al
+   Peng, Wei
+TI Large Language Models in Healthcare and Medical Domain: A Review
+SO INFORMATICS-BASEL
+VL 11
+IS 3
+AR 57
+DI 10.3390/informatics11030057
+DT Review
+PD SEP 2024
+PY 2024
+AB The deployment of large language models (LLMs) within the healthcare
+   sector has sparked both enthusiasm and apprehension. These models
+   exhibit the remarkable ability to provide proficient responses to
+   free-text queries, demonstrating a nuanced understanding of professional
+   medical knowledge. This comprehensive survey delves into the
+   functionalities of existing LLMs designed for healthcare applications
+   and elucidates the trajectory of their development, starting with
+   traditional Pretrained Language Models (PLMs) and then moving to the
+   present state of LLMs in the healthcare sector. First, we explore the
+   potential of LLMs to amplify the efficiency and effectiveness of diverse
+   healthcare applications, particularly focusing on clinical language
+   understanding tasks. These tasks encompass a wide spectrum, ranging from
+   named entity recognition and relation extraction to natural language
+   inference, multimodal medical applications, document classification, and
+   question-answering. Additionally, we conduct an extensive comparison of
+   the most recent state-of-the-art LLMs in the healthcare domain, while
+   also assessing the utilization of various open-source LLMs and
+   highlighting their significance in healthcare applications. Furthermore,
+   we present the essential performance metrics employed to evaluate LLMs
+   in the biomedical domain, shedding light on their effectiveness and
+   limitations. Finally, we summarize the prominent challenges and
+   constraints faced by large language models in the healthcare sector by
+   offering a holistic perspective on their potential benefits and
+   shortcomings. This review provides a comprehensive exploration of the
+   current landscape of LLMs in healthcare, addressing their role in
+   transforming medical applications and the areas that warrant further
+   research and development.
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+TC 54
+ZB 1
+Z9 54
+DA 2024-10-07
+UT WOS:001323615500001
+ER
+
+PT J
+AU Hu, Mingzhe
+   Qian, Joshua
+   Pan, Shaoyan
+   Li, Yuheng
+   Qiu, Richard L. J.
+   Yang, Xiaofeng
+TI Advancing medical imaging with language models: featuring a spotlight on
+   ChatGPT
+SO PHYSICS IN MEDICINE AND BIOLOGY
+VL 69
+IS 10
+AR 10TR01
+DI 10.1088/1361-6560/ad387d
+DT Review
+PD MAY 21 2024
+PY 2024
+AB This review paper aims to serve as a comprehensive guide and
+   instructional resource for researchers seeking to effectively implement
+   language models in medical imaging research. First, we presented the
+   fundamental principles and evolution of language models, dedicating
+   particular attention to large language models. We then reviewed the
+   current literature on how language models are being used to improve
+   medical imaging, emphasizing a range of applications such as image
+   captioning, report generation, report classification, findings
+   extraction, visual question response systems, interpretable diagnosis
+   and so on. Notably, the capabilities of ChatGPT were spotlighted for
+   researchers to explore its further applications. Furthermore, we covered
+   the advantageous impacts of accurate and efficient language models in
+   medical imaging analysis, such as the enhancement of clinical workflow
+   efficiency, reduction of diagnostic errors, and assistance of clinicians
+   in providing timely and accurate diagnoses. Overall, our goal is to have
+   better integration of language models with medical imaging, thereby
+   inspiring new ideas and innovations. It is our aspiration that this
+   review can serve as a useful resource for researchers in this field,
+   stimulating continued investigative and innovative pursuits of the
+   application of language models in medical imaging.
+ZB 2
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+TC 8
+Z9 8
+DA 2024-06-25
+UT WOS:001251008700001
+PM 38537293
+ER
+
+PT J
+AU Volkmer, Sebastian
+   Meyer-Lindenberg, Andreas
+   Schwarz, Emanuel
+TI Large language models in psychiatry: Opportunities and challenges
+SO PSYCHIATRY RESEARCH
+VL 339
+AR 116026
+DI 10.1016/j.psychres.2024.116026
+EA JUN 2024
+DT Article
+PD SEP 2024
+PY 2024
+AB The ability of Large Language Models (LLMs) to analyze and respond to
+   freely written text is causing increasing excitement in the field of
+   psychiatry; the application of such models presents unique opportunities
+   and challenges for psychiatric applications. This review article seeks
+   to offer a comprehensive overview of LLMs in psychiatry, their model
+   architecture, potential use cases, and clinical considerations. LLM
+   frameworks such as ChatGPT/ GPT-4 are trained on huge amounts of text
+   data that are sometimes fine-tuned for specific tasks. This opens up a
+   wide range of possible psychiatric applications, such as accurately
+   predicting individual patient risk factors for specific disorders,
+   engaging in therapeutic intervention, and analyzing therapeutic
+   material, to name a few. However, adoption in the psychiatric setting
+   presents many challenges, including inherent limitations and biases in
+   LLMs, concerns about explainability and privacy, and the potential
+   damage resulting from produced misinformation. This review covers
+   potential opportunities and limitations and highlights potential
+   considerations when these models are applied in a real-world psychiatric
+   context.
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+TC 14
+ZR 0
+Z9 14
+DA 2024-07-12
+UT WOS:001259580300001
+PM 38909412
+ER
+
+PT J
+AU Hu, Danqing
+   Liu, Bing
+   Zhu, Xiaofeng
+   Lu, Xudong
+   Wu, Nan
+TI Zero-shot information extraction from radiological reports using ChatGPT
+SO INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS
+VL 183
+AR 105321
+DI 10.1016/j.ijmedinf.2023.105321
+EA DEC 2023
+DT Article
+PD MAR 2024
+PY 2024
+AB Introduction: Electronic health records contain an enormous amount of
+   valuable information recorded in free text. Information extraction is
+   the strategy to transform free text into structured data, but some of
+   its components require annotated data to tune, which has become a
+   bottleneck. Large language models achieve good performances on various
+   downstream NLP tasks without parameter tuning, becoming a possible way
+   to extract information in a zero-shot manner. Methods: In this study, we
+   aim to explore whether the most popular large language model, ChatGPT,
+   can extract information from the radiological reports. We first design
+   the prompt template for the interested information in the CT reports.
+   Then, we generate the prompts by combining the prompt template with the
+   CT reports as the inputs of ChatGPT to obtain the responses. A
+   post-processing module is developed to transform the responses into
+   structured extraction results. Besides, we add prior medical knowledge
+   to the prompt template to reduce wrong extraction results. We also
+   explore the consistency of the extraction results. Results: We conducted
+   the experiments with 847 real CT reports. The experimental results
+   indicate that ChatGPT can achieve competitive performances for some
+   extraction tasks like tumor location, tumor long and short diameters
+   compared with the baseline information extraction system. By adding some
+   prior medical knowledge to the prompt template, extraction tasks about
+   tumor spiculations and lobulations obtain significant improvements but
+   tasks about tumor density and lymph node status do not achieve better
+   performances. Conclusion: ChatGPT can achieve competitive information
+   extraction for radiological reports in a zero-shot manner. Adding prior
+   medical knowledge as instructions can further improve performances for
+   some extraction tasks but may lead to worse performances for some
+   complex extraction tasks.
+ZA 0
+TC 29
+ZR 0
+ZB 4
+Z8 1
+ZS 0
+Z9 30
+DA 2024-03-04
+UT WOS:001165970200001
+PM 38157785
+ER
+
+PT J
+AU Mora, J.
+   Chen, S.
+   Mak, R. H.
+   Bitterman, D. S.
+TI Cancer Treatment Information Differences by Bilingual Prompting in Large
+   Language Model Chatbots
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3415
+BP E645
+EP E646
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZS 0
+ZB 0
+TC 0
+ZA 0
+ZR 0
+Z8 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302096
+ER
+
+PT J
+AU Ma, Chunwei
+   Wolfinger, Russell D.
+TI Toward an Explainable Large Language Model for the Automatic
+   Identification of the Drug-Induced Liver Injury Literature
+SO CHEMICAL RESEARCH IN TOXICOLOGY
+VL 37
+IS 9
+BP 1524
+EP 1534
+DI 10.1021/acs.chemrestox.4c00134
+EA AUG 2024
+DT Article
+PD AUG 27 2024
+PY 2024
+AB Drug-induced liver injury (DILI) stands as a significant concern in drug
+   safety, representing the primary cause of acute liver failure.
+   Identifying the scientific literature related to DILI is crucial for
+   monitoring, investigating, and conducting meta-analyses of drug safety
+   issues. Given the intricate and often obscure nature of drug
+   interactions, simple keyword searching can be insufficient for the
+   exhaustive retrieval of the DILI-relevant literature. Manual curation of
+   DILI-related publications demands pharmaceutical expertise and is
+   susceptible to errors, severely limiting throughput. Despite numerous
+   efforts utilizing cutting-edge natural language processing and deep
+   learning techniques to automatically identify the DILI-related
+   literature, their performance remains suboptimal for real-world
+   applications in clinical research and regulatory contexts. In the past
+   year, large language models (LLMs) such as ChatGPT and its open-source
+   counterpart LLaMA have achieved groundbreaking progress in natural
+   language understanding and question answering, paving the way for the
+   automated, high-throughput identification of the DILI-related literature
+   and subsequent analysis. Leveraging a large-scale public dataset
+   comprising 14 203 training publications from the CAMDA 2022 literature
+   AI challenge, we have developed what we believe to be the first LLM
+   specialized in DILI analysis based on LLaMA-2. In comparison with other
+   smaller language models such as BERT, GPT, and their variants, LLaMA-2
+   exhibits an enhanced out-of-fold accuracy of 97.19% and area under the
+   ROC curve of 0.9947 using 3-fold cross-validation on the training set.
+   Despite LLMs' initial design for dialogue systems, our study illustrates
+   their successful adaptation into accurate classifiers for automated
+   identification of the DILI-related literature from vast collections of
+   documents. This work is a step toward unleashing the potential of LLMs
+   in the context of regulatory science and facilitating the regulatory
+   review process.
+Z8 0
+ZB 0
+ZS 0
+ZR 0
+ZA 0
+TC 1
+Z9 1
+DA 2024-09-02
+UT WOS:001300226300001
+PM 39190012
+ER
+
+PT J
+AU Antaki, Fares
+   Touma, Samir
+   Milad, Daniel
+   El -Khoury, Jonathan
+   Duval, Renaud
+TI Evaluating the Performance of ChatGPT in Ophthalmology
+SO OPHTHALMOLOGY SCIENCE
+VL 3
+IS 4
+AR 100324
+DI 10.1016/j.xops.2023.100324
+EA JUN 2023
+DT Article
+PD DEC 2023
+PY 2023
+AB Purpose: Foundation models are a novel type of artificial intelligence
+   algorithms, in which models are pre -trained at scale on unannotated
+   data and fine-tuned for a myriad of downstream tasks, such as generating
+   text. This study assessed the accuracy of ChatGPT, a large language
+   model (LLM), in the ophthalmology question -answering space.Design:
+   Evaluation of diagnostic test or technology.Participants: ChatGPT is a
+   publicly available LLM. Methods: We tested 2 versions of ChatGPT
+   (January 9 "legacy" and ChatGPT Plus) on 2 popular multiple choice
+   question banks commonly used to prepare for the high-stakes Ophthalmic
+   Knowledge Assessment Program (OKAP) examination. We generated two
+   260-question simulated exams from the Basic and Clinical Science Course
+   (BCSC) Self-Assessment Program and the OphthoQuestions online question
+   bank. We carried out logistic regression to determine the effect of the
+   examination section, cognitive level, and difficulty index on answer
+   accuracy. We also performed a post hoc analysis using Tukey's test to
+   decide if there were meaningful differences between the tested
+   subspecialties.Main Outcome Measures: We reported the accuracy of
+   ChatGPT for each examination section in percentage correct by comparing
+   ChatGPT's outputs with the answer key provided by the question banks. We
+   presented logistic regression results with a likelihood ratio (LR)
+   chi-square. We considered differences between examination sections
+   statistically significant at a P value of < 0.05.Results: The legacy
+   model achieved 55.8% accuracy on the BCSC set and 42.7% on the
+   OphthoQuestions set. With ChatGPT Plus, accuracy increased to 59.4% &
+   PLUSMN; 0.6% and 49.2% & PLUSMN; 1.0%, respectively. Accuracy improved
+   with easier questions when controlling for the examination section and
+   cognitive level. Logistic regression analysis of the legacy model showed
+   that the examination section (LR, 27.57; P = 0.006) followed by question
+   difficulty (LR, 24.05; P < 0.001) were most predictive of ChatGPT's
+   answer accuracy. Although the legacy model performed best in general
+   medicine and worst in neuro-ophthalmology (P < 0.001) and ocular
+   pathology (P = 0.029), similar post hoc findings were not seen with
+   ChatGPT Plus, suggesting more consistent results across examination
+   sections.Conclusion: ChatGPT has encouraging performance on a simulated
+   OKAP examination. Specializing LLMs through domain-specific pretraining
+   may be necessary to improve their performance in ophthalmic
+   subspecialties.Financial Disclosure(s): Proprietary or commercial
+   disclosure may be found after the references. Ophthalmology Science
+   2023;3:100324 & COPY; 2023 by the American Academy of Ophthalmology.
+   This is an open access article under the CC BY-NC-ND license
+   (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+ZS 0
+ZB 51
+TC 250
+Z8 2
+ZR 0
+ZA 0
+Z9 253
+DA 2023-07-10
+UT WOS:001016246200001
+PM 37334036
+ER
+
+PT C
+AU Chan, Pak Yuen Patrick
+   Keung, Jacky
+BE Chui, KT
+   Hui, YK
+   Yang, D
+   Lee, LK
+   Wong, LP
+   Reynolds, BL
+TI A Symmetric Metamorphic Relations Approach Supporting LLM for Education
+   Technology
+SO 2024 INTERNATIONAL SYMPOSIUM ON EDUCATIONAL TECHNOLOGY, ISET
+SE International Symposium on Educational Technology
+BP 39
+EP 43
+DI 10.1109/ISET61814.2024.00017
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Question-Answering (Q&A) educational websites are widely used as
+   self-learning platforms, and pre-trained large language models (LLMs)
+   play a crucial role in maintaining content quality. Despite their
+   usefulness, LLMs still fall short of human performance. To tackle this
+   issue, we propose leveraging symmetric Metamorphic Relations (MRs) to
+   enhance LLMs' performance by improving their machine common sense. The
+   goal is to ensure that learners receive more relevant content. This work
+   presents an empirical experiment using one specific symmetric MR, three
+   LLMs, and a publicly available dataset of labelled Stack Overflow data.
+   We employ the symmetric MR to generate training data that augments the
+   machine common sense of LLMs. Additionally, we prepare a separate set of
+   training data consisting of labelled Stack Overflow data for comparison
+   purposes. By comparing the results of a common ability test and the
+   predictions made by LLMs trained with different training datasets, we
+   can assess the potential practicality of our proposed approach. Our
+   experimental results demonstrate that a Bert-based LLM trained with
+   MR-generated data outperforms a Bert-based LLM trained solely with
+   regular labelled data. This outcome highlights the effectiveness of
+   symmetric MRs in enhancing LLMs' performance by improving their machine
+   common sense. Subsequent studies can extend our approach to other
+   domains related to education technology and explore additional MRs to
+   further enhance the study experience of students.
+CT 10th International Symposium on Educational Technology (ISET)
+CY JUL 29-AUG 01, 2024
+CL Macau, PEOPLES R CHINA
+SP IEEE Macau; IEEE Macau Sect; Univ Macau; Hong Kong Metropolitan Univ;
+   City Univ Hong Kong; Hong Kong Soc Multimedia & Image Comp; Chinese Univ
+   Hong Kong, Ctr Learning Sci & Technologies; IEEE Educ Soc, Tech Comm
+   Learning Sci; IEEE Comp Soc
+TC 0
+ZS 0
+ZA 0
+ZB 0
+Z8 0
+ZR 0
+Z9 0
+DA 2024-11-15
+UT WOS:001329055500008
+ER
+
+PT J
+AU Alam, Minhaj Nur
+   Haghighi, Tania
+   Gholami, Sina
+   Leng, Theodore
+TI To assess the potential and capabilities of large language models (LLMs)
+   trained on in-domain ophthalmology data
+SO INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE
+VL 65
+IS 7
+MA 5656
+DT Meeting Abstract
+PD JUN 2024
+PY 2024
+CT Annual Meeting of the
+   Association-for-Research-in-Vision-and-Ophthalmology (ARVO)
+CY MAY 05-09, 2024
+CL Seattle, WA
+SP Assoc Res Vision & Ophthalmol
+ZB 0
+ZA 0
+ZS 0
+ZR 0
+Z8 0
+TC 0
+Z9 0
+DA 2024-11-30
+UT WOS:001313316206225
+ER
+
+PT J
+AU Chiang, Chia-Chun
+   Luo, Man
+   Dumkrieger, Gina
+   Trivedi, Shubham
+   Chen, Yi-Chieh
+   Chao, Chieh-Ju
+   Schwedt, Todd J.
+   Sarker, Abeed
+   Banerjee, Imon
+TI A large language model-based generative natural language processing
+   framework fine-tuned on clinical notes accurately extracts headache
+   frequency from electronic health records
+SO HEADACHE
+VL 64
+IS 4
+BP 400
+EP 409
+DI 10.1111/head.14702
+EA MAR 2024
+DT Article
+PD APR 2024
+PY 2024
+AB ObjectiveTo develop a natural language processing (NLP) algorithm that
+   can accurately extract headache frequency from free-text clinical
+   notes.BackgroundHeadache frequency, defined as the number of days with
+   any headache in a month (or 4 weeks), remains a key parameter in the
+   evaluation of treatment response to migraine preventive medications.
+   However, due to the variations and inconsistencies in documentation by
+   clinicians, significant challenges exist to accurately extract headache
+   frequency from the electronic health record (EHR) by traditional NLP
+   algorithms.MethodsThis was a retrospective cross-sectional study with
+   patients identified from two tertiary headache referral centers, Mayo
+   Clinic Arizona and Mayo Clinic Rochester. All neurology consultation
+   notes written by 15 specialized clinicians (11 headache specialists and
+   4 nurse practitioners) between 2012 and 2022 were extracted and 1915
+   notes were used for model fine-tuning (90%) and testing (10%). We
+   employed four different NLP frameworks: (1) ClinicalBERT (Bidirectional
+   Encoder Representations from Transformers) regression model, (2)
+   Generative Pre-Trained Transformer-2 (GPT-2) Question Answering (QA)
+   model zero-shot, (3) GPT-2 QA model few-shot training fine-tuned on
+   clinical notes, and (4) GPT-2 generative model few-shot training
+   fine-tuned on clinical notes to generate the answer by considering the
+   context of included text.ResultsThe mean (standard deviation) headache
+   frequency of our training and testing datasets were 13.4 (10.9) and 14.4
+   (11.2), respectively. The GPT-2 generative model was the best-performing
+   model with an accuracy of 0.92 (0.91, 0.93, 95% confidence interval
+   [CI]) and R2 score of 0.89 (0.87, 0.90, 95% CI), and all GPT-2-based
+   models outperformed the ClinicalBERT model in terms of exact matching
+   accuracy. Although the ClinicalBERT regression model had the lowest
+   accuracy of 0.27 (0.26, 0.28), it demonstrated a high R2 score of 0.88
+   (0.85, 0.89), suggesting the ClinicalBERT model can reasonably predict
+   the headache frequency within a range of <= +/- 3 days, and the R2 score
+   was higher than the GPT-2 QA zero-shot model or GPT-2 QA model few-shot
+   training fine-tuned model.ConclusionWe developed a robust information
+   extraction model based on a state-of-the-art large language model, a
+   GPT-2 generative model that can extract headache frequency from EHR
+   free-text clinical notes with high accuracy and R2 score. It overcame
+   several challenges related to different ways clinicians document
+   headache frequency that were not easily achieved by traditional NLP
+   models. We also showed that GPT-2-based frameworks outperformed
+   ClinicalBERT in terms of accuracy in extracting headache frequency from
+   clinical notes. To facilitate research in the field, we released the
+   GPT-2 generative model and inference code with open-source license of
+   community use in GitHub. Additional fine-tuning of the algorithm might
+   be required when applied to different health-care systems for various
+   clinical use cases.
+   We developed a novel artificial intelligence program that can
+   automatically and accurately extract headache frequency from doctors'
+   notes. Figuring out how often someone gets headaches is important as it
+   helps doctors see how bad the problem is and if treatments are working.
+   Our method, using a powerful program called Generative Pre-Trained
+   Transformer-2, worked better than older ways and could make big data
+   migraine research easier.
+ZB 5
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+TC 9
+Z9 9
+DA 2024-04-04
+UT WOS:001189935500001
+PM 38525734
+ER
+
+PT J
+AU Olszewski, Robert
+   Watros, Klaudia
+   Manczak, Malgorzata
+   Owoc, Jakub
+   Jeziorski, Krzysztof
+   Brzezinski, Jakub
+TI Assessing the response quality and readability of chatbots in
+   cardiovascular health, oncology, and psoriasis: A comparative study
+SO INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS
+VL 190
+AR 105562
+DI 10.1016/j.ijmedinf.2024.105562
+EA JUL 2024
+DT Article
+PD OCT 2024
+PY 2024
+AB Background: Chatbots using the Large Language Model (LLM) generate human
+   responses to questions from all categories. Due to staff shortages in
+   healthcare systems, patients waiting for an appointment increasingly use
+   chatbots to get information about their condition. Given the number of
+   chatbots currently available, assessing the responses they generate is
+   essential. Methods: Five chatbots with free access were selected
+   (Gemini, Microsoft Copilot, PiAI, ChatGPT, ChatSpot) and blinded using
+   letters (A, B, C, D, E). Each chatbot was asked questions about
+   cardiology, oncology, and psoriasis. Responses were compared to
+   guidelines from the European Society of Cardiology, American Academy of
+   Dermatology and American Society of Clinical Oncology. All answers were
+   assessed using readability scales (Flesch Reading Scale, Gunning Fog
+   Scale Level, Flesch-Kincaid Grade Level and Dale-Chall Score). Using a
+   3point Likert scale, two independent medical professionals assessed the
+   compliance of the responses with the guidelines. Results: A total of 45
+   questions were asked of all chatbots. Chatbot C gave the shortest
+   answers, 7.0 (6.0 - 8.0), and Chatbot A the longest 17.5 (13.0 - 24.5).
+   The Flesch Reading Ease Scale ranged from 16.3 (12.2 - 21.9) (Chatbot D)
+   to 39.8 (29.0 - 50.4) (Chatbot A). Flesch-Kincaid Grade Level ranged
+   from 12.5 (10.6 - 14.6) (Chatbot A) to 15.9 (15.1 - 17.1) (Chatbot D).
+   Gunning Fog Scale Level ranged from 15.77 (Chatbot A) to 19.73 (Chatbot
+   D). Dale-Chall Score ranged from 10.3 (9.3 - 11.3) (Chatbot A) to 11.9
+   (11.5 - 12.4) (Chatbot D). Conclusion: This study indicates that
+   chatbots vary in length, quality, and readability. They answer each
+   question in their own way, based on the data they have pulled from the
+   web. Reliability of the responses generated by chatbots is high. This
+   suggests that people who want information from a chatbot need to be
+   careful and verify the answers they receive, particularly when they ask
+   about medical and health aspects.
+ZS 0
+ZR 0
+TC 3
+Z8 1
+ZB 0
+ZA 0
+Z9 4
+DA 2024-08-07
+UT WOS:001281403200001
+PM 39059084
+ER
+
+EF

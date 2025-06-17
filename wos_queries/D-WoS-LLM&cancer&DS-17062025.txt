@@ -1,0 +1,1162 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Hung, Tony K. W.
+   Kuperman, Gilad J.
+   Sherman, Eric J.
+   Ho, Alan L.
+   Weng, Chunhua
+   Pfister, David G.
+   Mao, Jun J.
+TI Performance of Retrieval-Augmented Large Language Models to Recommend
+   Head and Neck Cancer Clinical Trials
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+VL 26
+AR e60695
+DI 10.2196/60695
+DT Article
+PD OCT 15 2024
+PY 2024
+ZS 0
+ZR 0
+ZA 0
+TC 2
+ZB 2
+Z8 0
+Z9 2
+DA 2024-10-28
+UT WOS:001339497900004
+PM 39405514
+ER
+
+PT J
+AU Kaiser, Kristen N.
+   Hughes, Alexa J.
+   Yang, Anthony D.
+   Turk, Anita A.
+   Mohanty, Sanjay
+   Gonzalez, Andrew A.
+   Patzer, Rachel E.
+   Bilimoria, Karl Y.
+   Ellis, Ryan J.
+TI Accuracy and consistency of publicly available Large Language Models as
+   clinical decision support tools for the management of colon cancer
+SO JOURNAL OF SURGICAL ONCOLOGY
+VL 130
+IS 5
+BP 1104
+EP 1110
+DI 10.1002/jso.27821
+EA AUG 2024
+DT Article
+PD OCT 2024
+PY 2024
+AB Background: Large Language Models (LLM; e.g., ChatGPT) may be used to
+   assist clinicians and form the basis of future clinical decision support
+   (CDS) for colon cancer. The objectives of this study were to (1)
+   evaluate the response accuracy of two LLM-powered interfaces in
+   identifying guideline-based care in simulated clinical scenarios and (2)
+   define response variation between and within LLMs. Methods: Clinical
+   scenarios with "next steps in management" queries were developed based
+   on National Comprehensive Cancer Network guidelines. Prompts were
+   entered into OpenAI ChatGPT and Microsoft Copilot in independent
+   sessions, yielding four responses per scenario. Responses were compared
+   to clinician-developed responses and assessed for accuracy, consistency,
+   and verbosity. Results: Across 108 responses to 27 prompts, both
+   platforms yielded completely correct responses to 36% of scenarios (n =
+   39). For ChatGPT, 39% (n = 21) were missing information and 24% (n = 14)
+   contained inaccurate/misleading information. Copilot performed
+   similarly, with 37% (n = 20) having missing information and 28% (n = 15)
+   containing inaccurate/misleading information (p = 0.96). Clinician
+   responses were significantly shorter (34 +/- 15.5 words) than both
+   ChatGPT (251 +/- 86 words) and Copilot (271 +/- 67 words; both p <
+   0.01). Conclusions: Publicly available LLM applications often provide
+   verbose responses with vague or inaccurate information regarding colon
+   cancer management. Significant optimization is required before use in
+   formal CDS.
+Z8 0
+ZA 0
+ZR 0
+ZS 0
+TC 6
+ZB 0
+Z9 6
+DA 2024-08-23
+UT WOS:001293197900001
+PM 39155667
+ER
+
+PT J
+AU Kaiser, Philippe
+   Yang, Shan
+   Bach, Michael
+   Breit, Christian
+   Mertz, Kirsten
+   Stieltjes, Bram
+   Ebbing, Jan
+   Wetterauer, Christian
+   Henkel, Maurice
+TI The interaction of structured data using openEHR and large Language
+   models for clinical decision support in prostate cancer
+SO WORLD JOURNAL OF UROLOGY
+VL 43
+IS 1
+AR 67
+DI 10.1007/s00345-024-05423-1
+DT Article
+PD JAN 13 2025
+PY 2025
+AB BackgroundMultidisciplinary teams (MDTs) are essential for cancer care
+   but are resource-intensive. Decision-making processes within MDTs, while
+   critical, contribute to increased healthcare costs due to the need for
+   specialist time and coordination. The recent emergence of large language
+   models (LLMs) offers the potential to improve the efficiency and
+   accuracy of clinical decision-making processes, potentially reducing
+   costs associated with traditional MDT models.MethodsWe conducted a
+   retrospective study of 171 consecutively treated patients with newly
+   diagnosed prostate cancer. Relevant structured clinical data and the
+   European Association of Urology (EAU) pocket guidelines were provided to
+   two LLMs (chatGPT-4, Claude-3-Opus). LLM treatment recommendations were
+   compared to actual treatment recommendations of the MDT meeting
+   (MDM).ResultsBoth LLMs demonstrated an overall adherence of 93% with the
+   MDT treatment recommendations. Discrepancies between LLM and MDT
+   recommendations were observed in 15 cases (9%), primarily due to lack of
+   clinical information that could be provided to the LLMs. In 5 cases
+   (3%), the LLM recommendations were not in line with EAU guidelines
+   despite having access to all relevant information.ConclusionsOur
+   findings provide evidence that LLMs can provide accurate treatment
+   recommendations for newly diagnosed prostate cancer patients. LLMs have
+   the potential to streamline MDT workflows, enabling specialists to focus
+   on complex cases and patient-centered discussions.Patient SummaryIn this
+   study, we explored the potential of artificial intelligence models
+   called large language models (LLMs) to assist in treatment
+   decision-making for prostate cancer patients. We found that LLMs, when
+   provided with patient information and clinical guidelines, can recommend
+   treatments that closely match those made by a team of cancer
+   specialists, suggesting that LLMs could help streamline the
+   decision-making process and potentially reduce healthcare costs.
+ZR 0
+Z8 0
+TC 0
+ZB 0
+ZS 0
+ZA 0
+Z9 0
+DA 2025-01-20
+UT WOS:001397199400002
+PM 39804478
+ER
+
+PT J
+AU Lammert, Jacqueline
+   Dreyer, Tobias
+   Mathes, Sonja
+   Kuligin, Leonid
+   Borm, Kai J.
+   Schatz, Ulrich A.
+   Kiechle, Marion
+   Loersch, Alisa M.
+   Jung, Johannes
+   Lange, Sebastian
+   Pfarr, Nicole
+   Durner, Anna
+   Schwamborn, Kristina
+   Winter, Christof
+   Ferber, Dyke
+   Kather, Jakob Nikolas
+   Mogler, Carolin
+   Illert, Anna L.
+   Tschochohei, Maximilian
+TI Expert-Guided Large Language Models for Clinical Decision Support in
+   Precision Oncology
+SO JCO PRECISION ONCOLOGY
+VL 8
+AR e2400478
+DI 10.1200/PO-24-00478
+DT Article
+PD OCT 2024
+PY 2024
+AB PURPOSE Rapidly expanding medical literature challenges oncologists
+   seeking targeted cancer therapies. General-purpose large language models
+   (LLMs) lack domain-specific knowledge, limiting their clinical utility.
+   This study introduces the LLM system Medical Evidence Retrieval and Data
+   Integration for Tailored Healthcare (MEREDITH), designed to support
+   treatment recommendations in precision oncology. Built on Google's
+   Gemini Pro LLM, MEREDITH uses retrieval-augmented generation and chain
+   of thought.
+   METHODS We evaluated MEREDITH on 10 publicly available fictional
+   oncology cases with iterative feedback from a molecular tumor board
+   (MTB) at a major German cancer center. Initially limited to
+   PubMed-indexed literature (draft system), MEREDITH was enhanced to
+   incorporate clinical studies on drug response within the specific tumor
+   type, trial databases, drug approval status, and oncologic guidelines.
+   The MTB provided a benchmark with manually curated treatment
+   recommendations and assessed the clinical relevance of LLM-generated
+   options (qualitative assessment). We measured semantic cosine similarity
+   between LLM suggestions and clinician responses (quantitative
+   assessment).
+   RESULTS MEREDITH identified a broader range of treatment options (median
+   4) compared with MTB experts (median 2). These options included
+   therapies on the basis of preclinical data and combination treatments,
+   expanding the treatment possibilities for consideration by the MTB. This
+   broader approach was achieved by incorporating a curated medical data
+   set that contextualized molecular targetability. Mirroring the approach
+   MTB experts use to evaluate MTB cases improved the LLM's ability to
+   generate relevant suggestions. This is supported by high concordance
+   between LLM suggestions and expert recommendations (94.7% for the
+   enhanced system) and a significant increase in semantic similarity from
+   the draft to the enhanced system (from 0.71 to 0.76, P = .01).
+   CONCLUSION Expert feedback and domain-specific data augment LLM
+   performance. Future research should investigate responsible LLM
+   integration into real-world clinical workflows.
+ZA 0
+ZB 0
+TC 4
+Z8 0
+ZS 0
+ZR 0
+Z9 4
+DA 2025-01-13
+UT WOS:001376907800001
+PM 39475661
+ER
+
+PT J
+AU John, Annette
+   Alhajj, Reda
+   Rokne, Jon
+TI A systematic review of AI as a digital twin for prostate cancer care
+SO COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
+VL 268
+AR 108804
+DI 10.1016/j.cmpb.2025.108804
+EA MAY 2025
+DT Review
+PD AUG 2025
+PY 2025
+AB Artificial Intelligence (AI) and Digital Twin (DT) technologies are
+   rapidly transforming healthcare, offering the potential for
+   personalized, accurate, and efficient medical care. This systematic
+   review focuses on the intersection of AI-based digital twins and their
+   applications in prostate cancer pathology. A digital twin, when applied
+   to healthcare, creates a dynamic, data-driven virtual model that
+   simulates a patient's biological systems in real-time. By incorporating
+   AI techniques such as Machine Learning (ML) and Deep Learning (DL),
+   these systems enhance predictive accuracy, enable early diagnosis, and
+   facilitate individualized treatment strategies for prostate cancer. This
+   review systematically examines recent advances (2020-2025) in AI-driven
+   digital twins for prostate cancer, highlighting key methodologies,
+   algorithms, and data integration strategies. The literature analysis
+   also reveals substantial progress in image processing, predictive
+   modeling, and clinical decision support systems, which are the basic
+   tools used when implementing digital twins for prostate cancer care. Our
+   survey also critically evaluates the strengths and limitations of
+   current approaches, identifying gaps such as the need for real-time data
+   integration, improved explainability in AI models, and more robust
+   clinical validation. It concludes with a discussion of future research
+   directions, emphasizing the importance of integrating multi-modal data
+   with Large Language Models (LLMs) and Vision-Language Models (VLMs),
+   scalability, and ethical considerations in advancing AI-driven digital
+   twins for prostate cancer diagnosis and treatment. This paper provides a
+   comprehensive resource for researchers and clinicians, offering insights
+   into how AI-based digital twins can enhance precision medicine and
+   improve patient outcomes in prostate cancer care.
+ZA 0
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+TC 0
+Z9 0
+DA 2025-05-23
+UT WOS:001490802200002
+PM 40347618
+ER
+
+PT J
+AU Griewing, Sebastian
+   Lechner, Fabian
+   Gremke, Niklas
+   Lukac, Stefan
+   Janni, Wolfgang
+   Wallwiener, Markus
+   Wagner, Uwe
+   Hirsch, Martin
+   Kuhn, Sebastian
+TI Proof-of-concept study of a small language model chatbot for breast
+   cancer decision support - a transparent, source-controlled, explainable
+   and data-secure approach
+SO JOURNAL OF CANCER RESEARCH AND CLINICAL ONCOLOGY
+VL 150
+IS 10
+AR 451
+DI 10.1007/s00432-024-05964-3
+DT Article
+PD OCT 9 2024
+PY 2024
+AB Purpose Large language models (LLM) show potential for decision support
+   in breast cancer care. Their use in clinical care is currently
+   prohibited by lack of control over sources used for decision-making,
+   explainability of the decision-making process and health data security
+   issues. Recent development of Small Language Models (SLM) is discussed
+   to address these challenges. This preclinical proof-of-concept study
+   tailors an open-source SLM to the German breast cancer guideline
+   (BC-SLM) to evaluate initial clinical accuracy and technical
+   functionality in a preclinical simulation. Methods A multidisciplinary
+   tumor board (MTB) is used as the gold-standard to assess the initial
+   clinical accuracy in terms of concordance of the BC-SLM with MTB and
+   comparing it to two publicly available LLM, ChatGPT3.5 and 4. The study
+   includes 20 fictional patient profiles and recommendations for 5
+   treatment modalities, resulting in 100 binary treatment recommendations
+   (recommended or not recommended). Statistical evaluation includes
+   concordance with MTB in % including Cohen's Kappa statistic (kappa).
+   Technical functionality is assessed qualitatively in terms of local
+   hosting, adherence to the guideline and information retrieval. Results
+   The overall concordance amounts to 86% for BC-SLM (kappa = 0.721, p <
+   0.001), 90% for ChatGPT4 (kappa = 0.820, p < 0.001) and 83% for
+   ChatGPT3.5 (kappa = 0.661, p < 0.001). Specific concordance for each
+   treatment modality ranges from 65 to 100% for BC-SLM, 85-100% for
+   ChatGPT4, and 55-95% for ChatGPT3.5. The BC-SLM is locally functional,
+   adheres to the standards of the German breast cancer guideline and
+   provides referenced sections for its decision-making. Conclusion The
+   tailored BC-SLM shows initial clinical accuracy and technical
+   functionality, with concordance to the MTB that is comparable to
+   publicly-available LLMs like ChatGPT4 and 3.5. This serves as a
+   proof-of-concept for adapting a SLM to an oncological disease and its
+   guideline to address prevailing issues with LLM by ensuring decision
+   transparency, explainability, source control, and data security, which
+   represents a necessary step towards clinical validation and safe use of
+   language models in clinical oncology.
+ZR 0
+ZA 0
+Z8 0
+TC 1
+ZB 1
+ZS 0
+Z9 1
+DA 2024-10-24
+UT WOS:001335902900001
+PM 39382778
+ER
+
+PT J
+AU Delourme, Solene
+   Redjdal, Akram
+   Bouaud, Jacques
+   Seroussi, Brigitte
+TI Leveraging Guideline-Based Clinical Decision Support Systems with Large
+   Language Models: A Case Study with Breast Cancer
+SO METHODS OF INFORMATION IN MEDICINE
+VL 63
+IS 03/04
+BP 85
+EP 96
+DI 10.1055/a-2528-4299
+EA APR 2025
+DT Article
+PD SEP 2024
+PY 2024
+AB Background Multidisciplinary tumor boards (MTBs) have been established
+   in most countries to allow experts collaboratively determine the best
+   treatment decisions for cancer patients. However, MTBs often face
+   challenges such as case overload, which can compromise MTB decision
+   quality. Clinical decision support systems (CDSSs) have been introduced
+   to assist clinicians in this process. Despite their potential, CDSSs are
+   still underutilized in routine practice. The emergence of large language
+   models (LLMs), such as ChatGPT, offers new opportunities to improve the
+   efficiency and usability of traditional CDSSs. Objectives OncoDoc2 is a
+   guideline-based CDSS developed using a documentary approach and applied
+   to breast cancer management. This study aims to evaluate the potential
+   of LLMs, used as question-answering (QA) systems, to improve the
+   usability of OncoDoc2 across different prompt engineering techniques
+   (PETs). Methods Data extracted from breast cancer patient summaries
+   (BCPSs), together with questions formulated by OncoDoc2, were used to
+   create prompts for various LLMs, and several PETs were designed and
+   tested. Using a sample of 200 randomized BCPSs, LLMs and PETs were
+   initially compared with regard to their responses to OncoDoc2 questions
+   using classic metrics (accuracy, precision, recall, and F1 score). Best
+   performing LLMs and PETs were further assessed by comparing the
+   therapeutic recommendations generated by OncoDoc2, based on LLM inputs,
+   to those provided by MTB clinicians using OncoDoc2. Finally, the best
+   performing method was validated using a new sample of 30 randomized
+   BCPSs. Results The combination of Mistral and OpenChat models under the
+   enhanced Zero-Shot PET showed the best performance as a
+   question-answering system. This approach gets a precision of 60.16%, a
+   recall of 54.18%, an F1 score of 56.59%, and an accuracy of 75.57% on
+   the validation set of 30 BCPSs. However, this approach yielded poor
+   results as a CDSS, with only 16.67% of the recommendations generated by
+   OncoDoc2 based on LLM inputs matching the gold standard. Conclusion All
+   the criteria in the OncoDoc2 decision tree are crucial for capturing the
+   uniqueness of each patient. Any deviation from a criterion alters the
+   recommendations generated. Despite achieving a good accuracy rate of
+   75.57%, LLMs still face challenges in reliably understanding complex
+   medical contexts and be effective as CDSSs.
+ZS 0
+ZR 0
+ZB 0
+ZA 0
+TC 0
+Z8 0
+Z9 0
+DA 2025-04-26
+UT WOS:001468790500001
+PM 39880005
+ER
+
+PT J
+AU Griewing, Sebastian
+   Knitza, Johannes
+   Boekhoff, Jelena
+   Hillen, Christoph
+   Lechner, Fabian
+   Wagner, Uwe
+   Wallwiener, Markus
+   Kuhn, Sebastian
+TI Evolution of publicly available large language models for complex
+   decision-making in breast cancer care
+SO ARCHIVES OF GYNECOLOGY AND OBSTETRICS
+VL 310
+IS 1
+BP 537
+EP 550
+DI 10.1007/s00404-024-07565-4
+EA MAY 2024
+DT Article
+PD JUL 2024
+PY 2024
+AB Purpose This study investigated the concordance of five different
+   publicly available Large Language Models (LLM) with the recommendations
+   of a multidisciplinary tumor board regarding treatment recommendations
+   for complex breast cancer patient profiles.Methods Five LLM, including
+   three versions of ChatGPT (version 4 and 3.5, with data access until
+   September 3021 and January 2022), Llama2, and Bard were prompted to
+   produce treatment recommendations for 20 complex breast cancer patient
+   profiles. LLM recommendations were compared to the recommendations of a
+   multidisciplinary tumor board (gold standard), including surgical,
+   endocrine and systemic treatment, radiotherapy, and genetic testing
+   therapy options.Results GPT4 demonstrated the highest concordance
+   (70.6%) for invasive breast cancer patient profiles, followed by GPT3.5
+   September 2021 (58.8%), GPT3.5 January 2022 (41.2%), Llama2 (35.3%) and
+   Bard (23.5%). Including precancerous lesions of ductal carcinoma in
+   situ, the identical ranking was reached with lower overall concordance
+   for each LLM (GPT4 60.0%, GPT3.5 September 2021 50.0%, GPT3.5 January
+   2022 35.0%, Llama2 30.0%, Bard 20.0%). GPT4 achieved full concordance
+   (100%) for radiotherapy. Lowest alignment was reached in recommending
+   genetic testing, demonstrating a varying concordance (55.0% for GPT3.5
+   January 2022, Llama2 and Bard up to 85.0% for GPT4).Conclusion This
+   early feasibility study is the first to compare different LLM in breast
+   cancer care with regard to changes in accuracy over time, i.e., with
+   access to more data or through technological upgrades. Methodological
+   advancement, i.e., the optimization of prompting techniques, and
+   technological development, i.e., enabling data input control and secure
+   data processing, are necessary in the preparation of large-scale and
+   multicenter studies to provide evidence on their safe and reliable
+   clinical application. At present, safe and evidenced use of LLM in
+   clinical breast cancer care is not yet feasible.
+ZB 3
+Z8 0
+ZA 0
+ZR 0
+ZS 0
+TC 14
+Z9 14
+DA 2024-06-04
+UT WOS:001233695900001
+PM 38806945
+ER
+
+PT J
+AU Rinderknecht, Emily
+   von Winning, Dominik
+   Kravchuk, Anton
+   Schaefer, Christof
+   Schnabel, Marco J.
+   Siepmann, Stephan
+   Mayr, Roman
+   Grassinger, Jochen
+   Gossler, Christopher
+   Pohl, Fabian
+   Siska, Peter J.
+   Zeman, Florian
+   Breyer, Johannes
+   Schmelzer, Anna
+   Gilfrich, Christian
+   Brookman-May, Sabine D.
+   Burger, Maximilian
+   Haas, Maximilian
+   May, Matthias
+TI Modification and Validation of the System Causability Scale Using
+   AI-Based Therapeutic Recommendations for Urological Cancer Patients: A
+   Basis for the Development of a Prospective Comparative Study
+SO CURRENT ONCOLOGY
+VL 31
+IS 11
+BP 7061
+EP 7073
+DI 10.3390/curroncol31110520
+DT Article
+PD NOV 2024
+PY 2024
+AB The integration of artificial intelligence, particularly Large Language
+   Models (LLMs), has the potential to significantly enhance therapeutic
+   decision-making in clinical oncology. Initial studies across various
+   disciplines have demonstrated that LLM-based treatment recommendations
+   can rival those of multidisciplinary tumor boards (MTBs); however, such
+   data are currently lacking for urological cancers. This preparatory
+   study establishes a robust methodological foundation for the forthcoming
+   CONCORDIA trial, including the validation of the System Causability
+   Scale (SCS) and its modified version (mSCS), as well as the selection of
+   LLMs for urological cancer treatment recommendations based on
+   recommendations from ChatGPT-4 and an MTB for 40 urological cancer
+   scenarios. Both scales demonstrated strong validity, reliability (all
+   aggregated Cohen's K > 0.74), and internal consistency (all Cronbach's
+   Alpha > 0.9), with the mSCS showing superior reliability, internal
+   consistency, and clinical applicability (p < 0.01). Two Delphi processes
+   were used to define the LLMs to be tested in the CONCORDIA study
+   (ChatGPT-4 and Claude 3.5 Sonnet) and to establish the acceptable
+   non-inferiority margin for LLM recommendations compared to MTB
+   recommendations. The forthcoming ethics-approved and registered
+   CONCORDIA non-inferiority trial will require 110 urological cancer
+   scenarios, with an mSCS difference threshold of 0.15, a Bonferroni
+   corrected alpha of 0.025, and a beta of 0.1. Blinded mSCS assessments of
+   MTB recommendations will then be compared to those of the LLMs. In
+   summary, this work establishes the necessary prerequisites prior to
+   initiating the CONCORDIA study and validates a modified score with high
+   applicability and reliability for this and future trials.
+ZS 0
+ZR 0
+TC 1
+ZB 0
+Z8 0
+ZA 0
+Z9 1
+DA 2024-12-03
+UT WOS:001364848300001
+PM 39590151
+ER
+
+PT J
+AU Benson, Ryzen
+   Elia, Marianna
+   Hyams, Benjamin
+   Chang, Ji Hyun
+   Hong, Julian C
+TI A Narrative Review on the Application of Large Language Models to
+   Support Cancer Care and Research.
+SO Yearbook of medical informatics
+VL 33
+IS 1
+BP 90
+EP 98
+DI 10.1055/s-0044-1800726
+DT Journal Article; Review
+PD 2024-Aug
+PY 2024
+AB OBJECTIVES: The emergence of large language models has resulted in a
+   significant shift in informatics research and carries promise in
+   clinical cancer care. Here we provide a narrative review of the recent
+   use of large language models (LLMs) to support cancer care, prevention,
+   and research.
+   METHODS: We performed a search of the Scopus database for studies on the
+   application of bidirectional encoder representations from transformers
+   (BERT) and generative-pretrained transformer (GPT) LLMs in cancer care
+   published between the start of 2021 and the end of 2023. We present
+   salient and impactful papers related to each of these themes.
+   RESULTS: Studies identified focused on aspects of clinical decision
+   support (CDS), cancer education, and support for research activities.
+   The use of LLMs for CDS primarily focused on aspects of treatment and
+   screening planning, treatment response, and the management of adverse
+   events. Studies using LLMs for cancer education typically focused on
+   question-answering, assessing cancer myths and misconceptions, and text
+   summarization and simplification. Finally, studies using LLMs to support
+   research activities focused on scientific writing and idea generation,
+   cohort identification and extraction, clinical data processing, and
+   NLP-centric tasks.
+   CONCLUSIONS: The application of LLMs in cancer care has shown promise
+   across a variety of diverse use cases. Future research should utilize
+   quantitative metrics, qualitative insights, and user insights in the
+   development and evaluation of LLM-based cancer care tools. The
+   development of open-source LLMs for use in cancer care research and
+   activities should also be a priority.
+ZS 0
+TC 0
+ZA 0
+ZR 0
+Z8 0
+ZB 0
+Z9 0
+DA 2025-04-11
+UT MEDLINE:40199294
+PM 40199294
+ER
+
+PT J
+AU Li, Ya
+   Zheng, Xuecong
+   Li, Jiaping
+   Dai, Qingyun
+   Wang, Chang-Dong
+   Chen, Min
+TI LKAN: LLM-Based Knowledge-Aware Attention Network for Clinical Staging
+   of Liver Cancer
+SO IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS
+VL 29
+IS 4
+BP 3007
+EP 3020
+DI 10.1109/JBHI.2024.3478809
+DT Article
+PD APR 2025
+PY 2025
+AB Clinical staging of liver cancer (CSoLC), an important indicator for
+   evaluating primary liver cancer (PLC), is key in the diagnosis,
+   treatment, and rehabilitation of liver cancer. In China, the current
+   CSoLC adopts the China liver cancer (CNLC) staging, which is usually
+   evaluated by clinicians based on radiology reports. Therefore, inferring
+   clinical information from unstructured radiology reports can provide
+   auxiliary decision support for clinicians. The key to solving the
+   challenging task is to guide the model to pay attention to the
+   staging-related words or sentences, and the following issues may occur:
+   1) Imbalanced categories: Early- and mid-stage liver cancer symptoms are
+   subtle, resulting in more data in the end-stage. 2) Domain sensitivity
+   of liver cancer data: The liver cancer dataset contains substantial
+   domain knowledge, leading to out-of-vocabulary issues and reduced
+   classification accuracy. 3) Free-text and lengthy report: Radiology
+   reports sparsely describe various lesions using domain-specific terms,
+   making it hard to mine staging-related information. To address these,
+   this article proposes a large language model (LLM)-based Knowledge-aware
+   Attention Network (LKAN) for CSoLC. First, for maintaining semantic
+   consistency, LLM and a rule-based algorithm are integrated to generate
+   more diverse and reasonable data. Second, an unlabeled radiology corpus
+   is pre-trained to introduce domain knowledge for subsequent
+   representation learning. Third, attention is improved by incorporating
+   both global and local features to guide the model's focus on
+   staging-relevant information. Compared with the baseline models, LKAN
+   has achieved the best results with 90.3% Accuracy, 90.0% Macro_F1 score,
+   and 90.0% Macro_Recall.
+ZR 0
+ZS 0
+Z8 0
+ZA 0
+ZB 0
+TC 1
+Z9 1
+DA 2025-04-19
+UT WOS:001459663700029
+PM 39392729
+ER
+
+PT J
+AU Rao, Arya
+   Kim, John
+   Kamineni, Meghana
+   Pang, Michael
+   Lie, Winston
+   Succi, Marc D
+TI Evaluating ChatGPT as an Adjunct for Radiologic Decision-Making.
+SO medRxiv : the preprint server for health sciences
+DI 10.1101/2023.02.02.23285399
+DT Preprint
+PD 2023 Feb 07
+PY 2023
+AB BACKGROUND: ChatGPT, a popular new large language model (LLM) built by
+   OpenAI, has shown impressive performance in a number of specialized
+   applications. Despite the rising popularity and performance of AI,
+   studies evaluating the use of LLMs for clinical decision support are
+   lacking.
+   PURPOSE: To evaluate ChatGPT's capacity for clinical decision support in
+   radiology via the identification of appropriate imaging services for two
+   important clinical presentations: breast cancer screening and breast
+   pain.
+   MATERIALS AND METHODS: We compared ChatGPT's responses to the American
+   College of Radiology (ACR) Appropriateness Criteria for breast pain and
+   breast cancer screening. Our prompt formats included an open-ended (OE)
+   format, where ChatGPT was asked to provide the single most appropriate
+   imaging procedure, and a select all that apply (SATA) format, where
+   ChatGPT was given a list of imaging modalities to assess. Scoring
+   criteria evaluated whether proposed imaging modalities were in
+   accordance with ACR guidelines.
+   RESULTS: ChatGPT achieved an average OE score of 1.83 (out of 2) and a
+   SATA average percentage correct of 88.9% for breast cancer screening
+   prompts, and an average OE score of 1.125 (out of 2) and a SATA average
+   percentage correct of 58.3% for breast pain prompts.
+   CONCLUSION: Our results demonstrate the feasibility of using ChatGPT for
+   radiologic decision making, with the potential to improve clinical
+   workflow and responsible use of radiology services.
+ZR 0
+Z8 1
+TC 62
+ZA 0
+ZS 0
+ZB 14
+Z9 63
+DA 2023-02-18
+UT MEDLINE:36798292
+PM 36798292
+ER
+
+PT J
+AU Marti, Deniz
+   Budathoki, Anjila
+   Ding, Yi
+   Lucas, Gale
+   Nelson, David
+TI How Does Acknowledging Users' Preferences Impact AI's Ability to Make
+   Conflicting Recommendations?
+SO INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION
+DI 10.1080/10447318.2024.2426035
+EA NOV 2024
+DT Article; Early Access
+PY 2024
+AB Artificial intelligence (AI) decision support systems are crucial in
+   modern decision-making processes. Their increasing human-like
+   adaptability introduces challenges, especially when their
+   recommendations, for whatever reason, need to conflict with user
+   preferences. This study examines the communication strategies AI systems
+   should employ when their recommendations conflict with user preferences.
+   We explored this research question through a hypothetical future
+   interface where ChatGPT offers travel recommendations populated on a
+   map. An online survey-based experiment was conducted, presenting 160
+   participants with ChatGPT-generated travel recommendations displayed
+   alongside Bing map visuals. We employed a mixed-method experimental
+   design, combining both between-subjects and within-subjects approaches,
+   to investigate the impact of conflicting recommendations and the
+   acknowledgment of user preferences on the acceptance of these
+   recommendations. This effect is especially pronounced when the AI system
+   acknowledges users' preferences yet still offers conflicting
+   recommendations to them. Contrary to the expectation that acknowledging
+   users' preferences could buffer the impact of such conflicts, our
+   observations indicate the contrary. The presence of conflict following
+   acknowledgment of users' preferences, significantly causes a backfire
+   effect, leading users to reject the recommendations. These findings
+   underscore the need for consideration of recommendation delivery
+   strategies in AI decision support systems and offer insights for
+   designing future user interfaces and user experience research in the
+   realm of recommendations provided by AI decision-support systems.
+ZS 0
+ZR 0
+TC 1
+Z8 0
+ZA 0
+ZB 0
+Z9 1
+DA 2024-11-28
+UT WOS:001361008800001
+ER
+
+PT J
+AU Phillips-Wren, Gloria
+   Virvou, Maria
+TI Issues and trends in generative AI technologies for decision making
+SO INTELLIGENT DECISION TECHNOLOGIES-NETHERLANDS
+VL 19
+IS 2
+BP 574
+EP 584
+DI 10.1177/18724981251320551
+EA FEB 2025
+DT Article
+PD MAR 2025
+PY 2025
+AB Generative AI (GenAI) technologies are examined through the lens of
+   issues and trends related to decision making. After examining the
+   foundations of the technology particularly related to large language
+   models (LLM), opportunities for GenAI to be used in the decision-making
+   process of intelligence, design, choice and implementation are explored.
+   With its ability to rapidly generate insights, present optimized
+   solutions, and provide detailed analysis of given input, the technology
+   has demonstrated that it can assist and augment human decision making.
+   Although GenAI systems have the potential to transform content creation
+   and human cognition, they also raise issues around accuracy,
+   misinformation, ethics, bias, morality, social impacts, privacy,
+   copyright, legality, and explainability, among others. Addressing these
+   challenges is important to maximize the efficacy of GenAI in decision
+   making.
+ZR 0
+TC 0
+ZS 0
+ZB 0
+Z8 0
+ZA 0
+Z9 0
+DA 2025-04-24
+UT WOS:001470103800001
+ER
+
+PT J
+AU Reicher, Lee
+   Lutsker, Guy
+   Michaan, Nadav
+   Grisaru, Dan
+   Laskov, Ido
+TI Exploring the role of artificial intelligence, large language models:
+   Comparing patient-focused information and clinical decision support
+   capabilities to the gynecologic oncology guidelines
+SO INTERNATIONAL JOURNAL OF GYNECOLOGY & OBSTETRICS
+VL 168
+IS 2
+BP 419
+EP 427
+DI 10.1002/ijgo.15869
+EA AUG 2024
+DT Review
+PD FEB 2025
+PY 2025
+AB Gynecologic cancer requires personalized care to improve outcomes. Large
+   language models (LLMs) hold the potential to provide intelligent
+   question-answering with reliable information about medical queries in
+   clear and plain English, which can be understood by both healthcare
+   providers and patients. We aimed to evaluate two freely available LLMs
+   (ChatGPT and Google's Bard) in answering questions regarding the
+   management of gynecologic cancer. The LLMs' performances were evaluated
+   by developing a set questions that addressed common gynecologic
+   oncologic findings from a patient's perspective and more complex
+   questions to elicit recommendations from a clinician's perspective. Each
+   question was presented to the LLM interface, and the responses generated
+   by the artificial intelligence (AI) model were recorded. The responses
+   were assessed based on the adherence to the National Comprehensive
+   Cancer Network and European Society of Gynecological Oncology
+   guidelines. This evaluation aimed to determine the accuracy and
+   appropriateness of the information provided by LLMs. We showed that the
+   models provided largely appropriate responses to questions regarding
+   common cervical cancer screening tests and BRCA-related questions. Less
+   useful answers were received to complex and controversial gynecologic
+   oncology cases, as assessed by reviewing the common guidelines. ChatGPT
+   and Bard lacked knowledge of regional guideline variations, However, it
+   provided practical and multifaceted advice to patients and caregivers
+   regarding the next steps of management and follow up. We conclude that
+   LLMs may have a role as an adjunct informational tool to improve
+   outcomes.
+   ChatGPT and Bard provide appropriate responses to patient's perspective
+   gynecologic oncologic questions, but is less useful for complex
+   questions compared with the National Comprehensive Cancer
+   Network/European Society of Gynecological Oncology guidelines.
+TC 5
+ZR 0
+Z8 0
+ZA 0
+ZB 0
+ZS 0
+Z9 5
+DA 2024-08-23
+UT WOS:001293448800001
+PM 39161265
+ER
+
+PT J
+AU Ammo, Tekoshin
+   Guillaume, Vincent G. J.
+   Hofmann, Ulf Krister
+   Ulmer, Norma M.
+   Buenting, Nina
+   Laenger, Florian
+   Beier, Justus P.
+   Leypold, Tim
+TI Evaluating ChatGPT-4o as a decision support tool in multidisciplinary
+   sarcoma tumor boards: heterogeneous performance across various
+   specialties
+SO FRONTIERS IN ONCOLOGY
+VL 14
+AR 1526288
+DI 10.3389/fonc.2024.1526288
+DT Article
+PD JAN 17 2025
+PY 2025
+AB Background and objectives Since the launch of ChatGPT in 2023, large
+   language models have attracted substantial interest to be deployed in
+   the health care sector. This study evaluates the performance of
+   ChatGPT-4o as a support tool for decision-making in multidisciplinary
+   sarcoma tumor boards.Methods We created five sarcoma patient cases
+   mimicking real-world scenarios and prompted ChatGPT-4o to issue tumor
+   board decisions. These recommendations were independently assessed by a
+   multidisciplinary panel, consisting of an orthopedic surgeon, plastic
+   surgeon, radiation oncologist, radiologist, and pathologist. Assessments
+   were graded on a Likert scale from 1 (completely disagree) to 5
+   (completely agree) across five categories: understanding,
+   therapy/diagnostic recommendation, aftercare recommendation,
+   summarization, and support tool effectiveness.Results The mean score for
+   ChatGPT-4o performance was 3.76, indicating moderate effectiveness.
+   Surgical specialties received the highest score, with a mean score of
+   4.48, while diagnostic specialties (radiology/pathology) performed
+   considerably better than the radiation oncology specialty, which
+   performed poorly.Conclusions This study provides initial insights into
+   the use of prompt-engineered large language models as decision support
+   tools in sarcoma tumor boards. ChatGPT-4o recommendations regarding
+   surgical specialties performed best while ChatGPT-4o struggled to give
+   valuable advice in the other tested specialties. Clinicians should
+   understand both the advantages and limitations of this technology for
+   effective integration into clinical practice.
+ZB 0
+ZS 0
+ZR 0
+ZA 0
+Z8 0
+TC 1
+Z9 1
+DA 2025-02-05
+UT WOS:001409805600001
+PM 39896191
+ER
+
+PT J
+AU Benary, Manuela
+   Wang, Xing David
+   Schmidt, Max
+   Soll, Dominik
+   Hilfenhaus, Georg
+   Nassir, Mani
+   Sigler, Christian
+   Knoedler, Maren
+   Keller, Ulrich
+   Beule, Dieter
+   Keilholz, Ulrich
+   Leser, Ulf
+   Rieke, Damian T.
+TI Leveraging Large Language Models for Decision Support in Personalized
+   Oncology
+SO JAMA NETWORK OPEN
+VL 6
+IS 11
+AR e2343689
+DI 10.1001/jamanetworkopen.2023.43689
+DT Article
+PD NOV 17 2023
+PY 2023
+AB Importance Clinical interpretation of complex biomarkers for precision
+   oncology currently requires manual investigations of previous studies
+   and databases. Conversational large language models (LLMs) might be
+   beneficial as automated tools for assisting clinical
+   decision-making.Objective To assess performance and define their role
+   using 4 recent LLMs as support tools for precision oncology.Design,
+   Setting, and Participants This diagnostic study examined 10 fictional
+   cases of patients with advanced cancer with genetic alterations. Each
+   case was submitted to 4 different LLMs (ChatGPT, Galactica, Perplexity,
+   and BioMedLM) and 1 expert physician to identify personalized treatment
+   options in 2023. Treatment options were masked and presented to a
+   molecular tumor board (MTB), whose members rated the likelihood of a
+   treatment option coming from an LLM on a scale from 0 to 10 (0,
+   extremely unlikely; 10, extremely likely) and decided whether the
+   treatment option was clinically useful.Main Outcomes and Measures Number
+   of treatment options, precision, recall, F1 score of LLMs compared with
+   human experts, recognizability, and usefulness of
+   recommendations.Results For 10 fictional cancer patients (4 with lung
+   cancer, 6 with other; median [IQR] 3.5 [3.0-4.8] molecular alterations
+   per patient), a median (IQR) number of 4.0 (4.0-4.0) compared with 3.0
+   (3.0-5.0), 7.5 (4.3-9.8), 11.5 (7.8-13.0), and 13.0 (11.3-21.5)
+   treatment options each was identified by the human expert and 4 LLMs,
+   respectively. When considering the expert as a criterion standard,
+   LLM-proposed treatment options reached F1 scores of 0.04, 0.17, 0.14,
+   and 0.19 across all patients combined. Combining treatment options from
+   different LLMs allowed a precision of 0.29 and a recall of 0.29 for an
+   F1 score of 0.29. LLM-generated treatment options were recognized as
+   AI-generated with a median (IQR) 7.5 (5.3-9.0) points in contrast to 2.0
+   (1.0-3.0) points for manually annotated cases. A crucial reason for
+   identifying AI-generated treatment options was insufficient accompanying
+   evidence. For each patient, at least 1 LLM generated a treatment option
+   that was considered helpful by MTB members. Two unique useful treatment
+   options (including 1 unique treatment strategy) were identified only by
+   LLM.Conclusions and Relevance In this diagnostic study, treatment
+   options of LLMs in precision oncology did not reach the quality and
+   credibility of human experts; however, they generated helpful ideas that
+   might have complemented established procedures. Considering
+   technological progress, LLMs could play an increasingly important role
+   in assisting with screening and selecting relevant biomedical literature
+   to support evidence-based, personalized treatment decisions.
+ZB 23
+ZR 0
+ZA 0
+Z8 3
+TC 91
+ZS 0
+Z9 95
+DA 2024-01-11
+UT WOS:001124127500011
+PM 37976064
+ER
+
+PT J
+AU Schaefer, Moritz
+   Reichl, Stephan
+   Ter Horst, Rob
+   Nicolas, Adele M
+   Krausgruber, Thomas
+   Piras, Francesco
+   Stepper, Peter
+   Bock, Christoph
+   Samwald, Matthias
+TI GPT-4 as a biomedical simulator.
+SO Computers in biology and medicine
+VL 178
+BP 108796
+EP 108796
+DI 10.1016/j.compbiomed.2024.108796
+DT Journal Article
+PD 2024-Aug
+PY 2024
+AB BACKGROUND: Computational simulation of biological processes can be a
+   valuable tool for accelerating biomedical research, but usually requires
+   extensive domain knowledge and manual adaptation. Large language models
+   (LLMs) such as GPT-4 have proven surprisingly successful for a wide
+   range of tasks. This study provides proof-of-concept for the use of
+   GPT-4 as a versatile simulator of biological systems.
+   METHODS: We introduce SimulateGPT, a proof-of-concept for
+   knowledge-driven simulation across levels of biological organization
+   through structured prompting of GPT-4. We benchmarked our approach
+   against direct GPT-4 inference in blinded qualitative evaluations by
+   domain experts in four scenarios and in two quantitative scenarios with
+   experimental ground truth. The qualitative scenarios included mouse
+   experiments with known outcomes and treatment decision support in
+   sepsis. The quantitative scenarios included prediction of gene
+   essentiality in cancer cells and progression-free survival in cancer
+   patients.
+   RESULTS: In qualitative experiments, biomedical scientists rated
+   SimulateGPT's predictions favorably over direct GPT-4 inference. In
+   quantitative experiments, SimulateGPT substantially improved
+   classification accuracy for predicting the essentiality of individual
+   genes and increased correlation coefficients and precision in the
+   regression task of predicting progression-free survival.
+   CONCLUSION: This proof-of-concept study suggests that LLMs may enable a
+   new class of biomedical simulators. Such text-based simulations appear
+   well suited for modeling and understanding complex living systems that
+   are difficult to describe with physics-based first-principles
+   simulations, but for which extensive knowledge is available as written
+   text. Finally, we propose several directions for further development of
+   LLM-based biomedical simulators, including augmentation through web
+   search retrieval, integrated mathematical modeling, and fine-tuning on
+   experimental data.
+ZR 0
+TC 5
+ZS 0
+Z8 0
+ZB 1
+ZA 0
+Z9 5
+DA 2024-06-25
+UT MEDLINE:38909448
+PM 38909448
+ER
+
+PT J
+AU Cangelosi, Davide
+   Muselli, Marco
+   Parodi, Stefano
+   Blengio, Fabiola
+   Becherini, Pamela
+   Versteeg, Rogier
+   Conte, Massimo
+   Varesio, Luigi
+TI Use of Attribute Driven Incremental Discretization and Logic Learning
+   Machine to build a prognostic classifier for neuroblastoma patients
+SO BMC BIOINFORMATICS
+VL 15
+AR S4
+DI 10.1186/1471-2105-15-S5-S4
+SU 5
+DT Article
+PD MAY 6 2014
+PY 2014
+AB Background: Cancer patient's outcome is written, in part, in the gene
+   expression profile of the tumor. We previously identified a 62-probe
+   sets signature (NB-hypo) to identify tissue hypoxia in neuroblastoma
+   tumors and showed that NB-hypo stratified neuroblastoma patients in good
+   and poor outcome [1]. It was important to develop a prognostic
+   classifier to cluster patients into risk groups benefiting of defined
+   therapeutic approaches. Novel classification and data discretization
+   approaches can be instrumental for the generation of accurate predictors
+   and robust tools for clinical decision support. We explored the
+   application to gene expression data of Rulex, a novel software suite
+   including the Attribute Driven Incremental Discretization technique for
+   transforming continuous variables into simplified discrete ones and the
+   Logic Learning Machine model for intelligible rule generation.
+   Results: We applied Rulex components to the problem of predicting the
+   outcome of neuroblastoma patients on the bases of 62 probe sets NB-hypo
+   gene expression signature. The resulting classifier consisted in 9 rules
+   utilizing mainly two conditions of the relative expression of 11 probe
+   sets. These rules were very effective predictors, as shown in an
+   independent validation set, demonstrating the validity of the LLM
+   algorithm applied to microarray data and patients' classification. The
+   LLM performed as efficiently as Prediction Analysis of Microarray and
+   Support Vector Machine, and outperformed other learning algorithms such
+   as C4.5. Rulex carried out a feature selection by selecting a new
+   signature (NB-hypo-II) of 11 probe sets that turned out to be the most
+   relevant in predicting outcome among the 62 of the NB-hypo signature.
+   Rules are easily interpretable as they involve only few conditions.
+   Furthermore, we demonstrate that the application of a weighted
+   classification associated with the rules improves the classification of
+   poorly represented classes.
+   Conclusions: Our findings provided evidence that the application of
+   Rulex to the expression values of NB-hypo signature created a set of
+   accurate, high quality, consistent and interpretable rules for the
+   prediction of neuroblastoma patients' outcome. We identified the Rulex
+   weighted classification as a flexible tool that can support clinical
+   decisions. For these reasons, we consider Rulex to be a useful tool for
+   cancer classification from microarray gene expression data.
+ZA 0
+TC 23
+ZS 0
+ZR 0
+ZB 8
+Z8 0
+Z9 23
+DA 2014-07-09
+UT WOS:000337464500004
+PM 25078098
+ER
+
+PT J
+AU Erdat, Efe Cem
+   Kavak, Engin Eren
+TI Benchmarking LLM chatbots' oncological knowledge with the Turkish
+   Society of Medical Oncology's annual board examination questions
+SO BMC CANCER
+VL 25
+IS 1
+AR 197
+DI 10.1186/s12885-025-13596-0
+DT Article
+PD FEB 4 2025
+PY 2025
+AB Background Large language models (LLMs) have shown promise in various
+   medical applications, including clinical decision-making and education.
+   In oncology, the increasing complexity of patient care and the vast
+   volume of medical literature require efficient tools to assist
+   practitioners. However, the use of LLMs in oncology education and
+   knowledge assessment remains underexplored. This study aims to evaluate
+   and compare the oncological knowledge of four LLMs using standardized
+   board examination questions. Methods We assessed the performance of four
+   LLMs-Claude 3.5 Sonnet (Anthropic), ChatGPT 4o (OpenAI), Llama-3 (Meta),
+   and Gemini 1.5 (Google)-using the Turkish Society of Medical Oncology's
+   annual board examination questions from 2016 to 2024. A total of 790
+   valid multiple-choice questions covering various oncology topics were
+   included. Each model was tested on its ability to answer these questions
+   in Turkish. Performance was analyzed based on the number of correct
+   answers, with statistical comparisons made using chi-square tests and
+   one-way ANOVA. Results Claude 3.5 Sonnet outperformed the other models,
+   passing all eight exams with an average score of 77.6%. ChatGPT 4o
+   passed seven out of eight exams, with an average score of 67.8%. Llama-3
+   and Gemini 1.5 showed lower performance, passing four and three exams
+   respectively, with average scores below 50%. Significant differences
+   were observed among the models' performances (F = 17.39, p < 0.001).
+   Claude 3.5 and ChatGPT 4.0 demonstrated higher accuracy across most
+   oncology topics. A decline in performance in recent years, particularly
+   in the 2024 exam, suggests limitations due to outdated training data.
+   Conclusions Significant differences in oncological knowledge were
+   observed among the four LLMs, with Claude 3.5 Sonnet and ChatGPT 4o
+   demonstrating superior performance. These findings suggest that advanced
+   LLMs have the potential to serve as valuable tools in oncology education
+   and decision support. However, regular updates and enhancements are
+   necessary to maintain their relevance and accuracy, especially to
+   incorporate the latest medical advancements.
+ZB 0
+TC 1
+Z8 0
+ZS 0
+ZR 0
+ZA 0
+Z9 1
+DA 2025-02-13
+UT WOS:001414301200003
+PM 39905358
+ER
+
+EF

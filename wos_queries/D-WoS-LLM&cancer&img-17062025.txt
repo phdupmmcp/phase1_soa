@@ -1,0 +1,2875 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Singh, Krishna B.
+   Hahm, Eun-Ryeong
+   Singh, Shivendra V.
+TI Leelamine suppresses cMyc expression in prostate cancer cells in
+   vitro and inhibits prostate carcinogenesis in vivo
+SO JOURNAL OF CANCER METASTASIS AND TREATMENT
+VL 7
+AR 16
+DI 10.20517/2394-4722.2021.08
+DT Article
+PD 2021
+PY 2021
+AB Aim: Leelamine (LLM) inhibits the growth of human prostate cancer cells
+   but the underlying mechanism is not fully understood. The present study
+   was undertaken to determine the effect of LLM on cMyc, which is
+   overexpressed in a subset of human prostate cancers.
+   Methods: The effect of LLM on cMyc expression and activity was
+   determined by western blotting/confocal microscopy and luciferase
+   reporter assay, respectively. A transgenic mouse model of prostate
+   cancer (Hi-Myc) was used to determine the chemopreventive efficacy of
+   LLM.
+   Results: Exposure of androgen-sensitive (LNCaP) and castration-resistant
+   (22Rv1) human prostate cancer cells to LLM resulted in downregulation of
+   protein and mRNA levels of cMyc. Overexpression of cMyc partially
+   attenuated LLM-mediated inhibition of colony formation, cell viability,
+   and cell migration in 22Rv1 and/ or PC-3 cells. LLM treatment decreased
+   protein levels of cMyc targets ( e. g., lactate dehydrogenase), however,
+   overexpression of cMyc did not attenuate these effects. A trend for a
+   decrease in the expression level of cMyc protein was discernible in
+   22Rv1 xenografts from LLM-treated mice compared with control mice. LLM
+   treatment (10 mg/kg body weight, 5 times/week) was well-tolerated by
+   Hi-Myc transgenic mice. The incidence of high-grade prostatic
+   intraepithelial neoplasia, adenocarcinoma in situ, and microinvasion
+   were lower in LLM-treated Hi-Myc mice but the difference was not
+   statistically significant.
+   Conclusion: The present study reveals that LLM inhibits cMyc expression
+   in human prostate cancer cells in vitro but concentrations higher than
+   10 mg/kg may be required to achieve chemoprevention of prostate cancer.
+TC 4
+ZB 2
+ZS 0
+ZA 0
+Z8 0
+ZR 0
+Z9 4
+DA 2021-01-01
+UT WOS:000911213000016
+PM 34660908
+ER
+
+PT J
+AU Bhayana, Rajesh
+   Alwahbi, Omar
+   Ladak, Aly Muhammad
+   Deng, Yangqing
+   Dias, Adriano Basso
+   Elbanna, Khaled
+   Gomez, Jorge Abreu
+   Jajodia, Ankush
+   Jhaveri, Kartik
+   Johnson, Sarah
+   Kajal, Dilkash
+   Wang, David
+   Soong, Christine
+   Kielar, Ania
+   Krishna, Satheesh
+TI Leveraging Large Language Models to Generate Clinical Histories for
+   Oncologic Imaging Requisitions
+SO RADIOLOGY
+VL 314
+IS 2
+AR e242134
+DI 10.1148/radiol.242134
+DT Article
+PD FEB 2025
+PY 2025
+AB Background: Clinical information improves imaging interpretation, but
+   physician-provided histories on requisitions for oncologic imaging often
+   lack key details. Purpose: To evaluate large language models (LLMs) for
+   automatically generating clinical histories for oncologic imaging
+   requisitions from clinical notes and compare them with original
+   requisition histories. Materials and Methods: In total, 207 patients
+   with CT performed at a cancer center from January to November 2023 and
+   with an electronic health record clinical note coinciding with ordering
+   date were randomly selected. A multidisciplinary team informed selection
+   of 10 parameters important for oncologic imaging history, including
+   primary oncologic diagnosis, treatment history, and acute symptoms.
+   Clinical notes were independently reviewed to establish the reference
+   standard regarding presence of each parameter. After prompt engineering
+   with seven patients, GPT-4 (version 0613; OpenAI) was prompted on April
+   9, 2024, to automatically generate structured clinical histories for the
+   200 remaining patients. Using the reference standard, LLM extraction
+   performance was calculated (recall, precision, F1 score). LLM-generated
+   and original requisition histories were compared for completeness
+   (proportion including each parameter), and 10 radiologists performed
+   pairwise comparison for quality, preference, and subjective likelihood
+   of harm. Results: For the 200 LLM-generated histories, GPT-4 performed
+   well, extracting oncologic parameters from clinical notes (F1 = 0.983).
+   Compared with original requisition histories, LLM-generated histories
+   more frequently included parameters critical for radiologist
+   interpretation, including primary oncologic diagnosis (99.5% vs 89% [199
+   and 178 of 200 histories, respectively]; P < .001), acute or worsening
+   symptoms (15% vs 4% [29 and seven of 200]; P < .001), and relevant
+   surgery (61% vs 12% [122 and 23 of 200]; P < .001). Radiologists
+   preferred LLM-generated histories for imaging interpretation (89% vs 5%,
+   7% equal; P < .001), indicating they would enable more complete
+   interpretation (86% vs 0%, 15% equal; P < .001) and have a lower
+   likelihood of harm (3% vs 55%, 42% neither; P < .001). Conclusion: An
+   LLM enabled accurate automated clinical histories for oncologic imaging
+   from clinical notes. Compared with original requisition histories,
+   LLM-generated histories were more complete and were preferred by
+   radiologists for imaging interpretation and perceived safety.
+ZA 0
+Z8 0
+ZR 0
+ZB 0
+ZS 0
+TC 1
+Z9 1
+DA 2025-03-08
+UT WOS:001434851700023
+PM 39903072
+ER
+
+PT J
+AU Tozuka, Ryota
+   Johno, Hisashi
+   Amakawa, Akitomo
+   Sato, Junichi
+   Muto, Mizuki
+   Seki, Shoichiro
+   Komaba, Atsushi
+   Onishi, Hiroshi
+TI Application of NotebookLM, a large language model with
+   retrieval-augmented generation, for lung cancer staging
+SO JAPANESE JOURNAL OF RADIOLOGY
+VL 43
+IS 4
+BP 706
+EP 712
+DI 10.1007/s11604-024-01705-1
+EA NOV 2024
+DT Article
+PD APR 2025
+PY 2025
+AB PurposeIn radiology, large language models (LLMs), including ChatGPT,
+   have recently gained attention, and their utility is being rapidly
+   evaluated. However, concerns have emerged regarding their reliability in
+   clinical applications due to limitations such as hallucinations and
+   insufficient referencing. To address these issues, we focus on the
+   latest technology, retrieval-augmented generation (RAG), which enables
+   LLMs to reference reliable external knowledge (REK). Specifically, this
+   study examines the utility and reliability of a recently released
+   RAG-equipped LLM (RAG-LLM), NotebookLM, for staging lung
+   cancer.Materials and methodsWe summarized the current lung cancer
+   staging guideline in Japan and provided this as REK to NotebookLM. We
+   then tasked NotebookLM with staging 100 fictional lung cancer cases
+   based on CT findings and evaluated its accuracy. For comparison, we
+   performed the same task using a gold-standard LLM, GPT-4 Omni (GPT-4o),
+   both with and without the REK. For GPT-4o, the REK was provided directly
+   within the prompt rather than through RAG.ResultsNotebookLM achieved 86%
+   diagnostic accuracy in the lung cancer staging experiment, outperforming
+   GPT-4o, which recorded 39% accuracy with the REK and 25% without it.
+   Moreover, NotebookLM demonstrated 95% accuracy in searching reference
+   locations within the REK.ConclusionNotebookLM, a RAG-LLM, successfully
+   performed lung cancer staging by utilizing the REK, demonstrating
+   superior performance compared to GPT-4o (without RAG). Additionally, it
+   provided highly accurate reference locations within the REK, allowing
+   radiologists to efficiently evaluate the reliability of NotebookLM's
+   responses and detect possible hallucinations. Overall, this study
+   highlights the potential of NotebookLM, a RAG-LLM, in image diagnosis.
+ZB 0
+Z8 0
+TC 5
+ZS 0
+ZA 0
+ZR 0
+Z9 5
+DA 2024-11-30
+UT WOS:001362633800001
+PM 39585559
+ER
+
+PT J
+AU Naik, Himani R.
+   Prather, Andrew D.
+   Gurda, Grzegorz T.
+TI Synchronous Bilateral Breast Cancer: A Case Report Piloting and
+   Evaluating the Implementation of the AI-Powered Large Language Model
+   (LLM) ChatGPT
+SO CUREUS JOURNAL OF MEDICAL SCIENCE
+VL 15
+IS 4
+AR e37587
+DI 10.7759/cureus.37587
+DT Article
+PD APR 14 2023
+PY 2023
+AB Primary breast carcinoma is the most common cancer type in women, and
+   although bilateral synchronous breast cancers (s-BBC) remain quite rare,
+   the reported incidence may increase with the adoption of more sensitive
+   imaging modalities. Here, we present a case of histomorphological and
+   clinically distinct s-BBC, together with a discussion of clinical
+   management decisions, prognosis, and treatment standards and how these
+   relate to outcomes vis-a-vis more established standards in unifocal
+   breast carcinoma. The case report also constitutes a pilot and formal
+   evaluation of a large language model (LLM) of ChatGPT as a tool to aid
+   in generating a single patient case report.
+ZB 4
+Z8 1
+ZR 0
+ZA 0
+TC 8
+ZS 0
+Z9 9
+DA 2023-11-05
+UT WOS:001082835600036
+PM 37193434
+ER
+
+PT J
+AU Yasaka, Koichiro
+   Kanzawa, Jun
+   Kanemaru, Noriko
+   Koshino, Saori
+   Abe, Osamu
+TI Fine-Tuned Large Language Model for Extracting Patients on Pretreatment
+   for Lung Cancer from a Picture Archiving and Communication System Based
+   on Radiological Reports
+SO JOURNAL OF IMAGING INFORMATICS IN MEDICINE
+VL 38
+IS 1
+BP 327
+EP 334
+DI 10.1007/s10278-024-01186-8
+EA JUL 2024
+DT Article
+PD FEB 2025
+PY 2025
+AB This study aimed to investigate the performance of a fine-tuned large
+   language model (LLM) in extracting patients on pretreatment for lung
+   cancer from picture archiving and communication systems (PACS) and
+   comparing it with that of radiologists. Patients whose radiological
+   reports contained the term lung cancer (3111 for training, 124 for
+   validation, and 288 for test) were included in this retrospective study.
+   Based on clinical indication and diagnosis sections of the radiological
+   report (used as input data), they were classified into four groups (used
+   as reference data): group 0 (no lung cancer), group 1 (pretreatment lung
+   cancer present), group 2 (after treatment for lung cancer), and group 3
+   (planning radiation therapy). Using the training and validation
+   datasets, fine-tuning of the pretrained LLM was conducted ten times. Due
+   to group imbalance, group 2 data were undersampled in the training. The
+   performance of the best-performing model in the validation dataset was
+   assessed in the independent test dataset. For testing purposes, two
+   other radiologists (readers 1 and 2) were also involved in classifying
+   radiological reports. The overall accuracy of the fine-tuned LLM, reader
+   1, and reader 2 was 0.983, 0.969, and 0.969, respectively. The
+   sensitivity for differentiating group 0/1/2/3 by LLM, reader 1, and
+   reader 2 was 1.000/0.948/0.991/1.000, 0.750/0.879/0.996/1.000, and
+   1.000/0.931/0.978/1.000, respectively. The time required for
+   classification by LLM, reader 1, and reader 2 was 46s/2539s/1538s,
+   respectively. Fine-tuned LLM effectively extracted patients on
+   pretreatment for lung cancer from PACS with comparable performance to
+   radiologists in a shorter time.
+ZA 0
+ZB 0
+TC 6
+ZS 0
+ZR 0
+Z8 0
+Z9 6
+DA 2024-07-10
+UT WOS:001261213000001
+PM 38955964
+ER
+
+PT J
+AU Camur, Eren
+   Cesur, Turay
+   Gunes, Yasin Celal
+TI Comparison of Performance of Large Language Models on Lung-RADS Related
+   Questions
+SO JCO GLOBAL ONCOLOGY
+VL 10
+AR e2400200
+DI 10.1200/GO.24.00200
+DT Letter
+PD AUG 2024
+PY 2024
+AB This study evaluates LLM integration in interpreting Lung-RADS for lung
+   cancer screening, highlighting their innovative role in enhancing
+   radiological practice. Our findings reveal that Claude 3 Opus and
+   Perplexity achieved a 96% accuracy rate, outperforming other models.
+ZB 0
+ZS 0
+TC 1
+ZA 0
+ZR 0
+Z8 0
+Z9 1
+DA 2024-09-18
+UT WOS:001309840500001
+PM 39208360
+ER
+
+PT J
+AU Gilbert, M.
+   Crutchfield, A.
+   Luo, B.
+   Thind, K.
+   Ghanem, A. I.
+   Siddiqui, F.
+TI Using a Large Language Model (LLM) for Automated Extraction of Discrete
+   Elements from Clinical Notes for Creation of Cancer Databases
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3371
+BP E625
+EP E625
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+Z8 0
+ZA 0
+ZS 0
+ZB 0
+ZR 0
+TC 1
+Z9 1
+DA 2024-12-16
+UT WOS:001325892302054
+ER
+
+PT J
+AU Li, Ya
+   Zheng, Xuecong
+   Li, Jiaping
+   Dai, Qingyun
+   Wang, Chang-Dong
+   Chen, Min
+TI LKAN: LLM-Based Knowledge-Aware Attention Network for Clinical Staging
+   of Liver Cancer
+SO IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS
+VL 29
+IS 4
+BP 3007
+EP 3020
+DI 10.1109/JBHI.2024.3478809
+DT Article
+PD APR 2025
+PY 2025
+AB Clinical staging of liver cancer (CSoLC), an important indicator for
+   evaluating primary liver cancer (PLC), is key in the diagnosis,
+   treatment, and rehabilitation of liver cancer. In China, the current
+   CSoLC adopts the China liver cancer (CNLC) staging, which is usually
+   evaluated by clinicians based on radiology reports. Therefore, inferring
+   clinical information from unstructured radiology reports can provide
+   auxiliary decision support for clinicians. The key to solving the
+   challenging task is to guide the model to pay attention to the
+   staging-related words or sentences, and the following issues may occur:
+   1) Imbalanced categories: Early- and mid-stage liver cancer symptoms are
+   subtle, resulting in more data in the end-stage. 2) Domain sensitivity
+   of liver cancer data: The liver cancer dataset contains substantial
+   domain knowledge, leading to out-of-vocabulary issues and reduced
+   classification accuracy. 3) Free-text and lengthy report: Radiology
+   reports sparsely describe various lesions using domain-specific terms,
+   making it hard to mine staging-related information. To address these,
+   this article proposes a large language model (LLM)-based Knowledge-aware
+   Attention Network (LKAN) for CSoLC. First, for maintaining semantic
+   consistency, LLM and a rule-based algorithm are integrated to generate
+   more diverse and reasonable data. Second, an unlabeled radiology corpus
+   is pre-trained to introduce domain knowledge for subsequent
+   representation learning. Third, attention is improved by incorporating
+   both global and local features to guide the model's focus on
+   staging-relevant information. Compared with the baseline models, LKAN
+   has achieved the best results with 90.3% Accuracy, 90.0% Macro_F1 score,
+   and 90.0% Macro_Recall.
+ZR 0
+ZS 0
+Z8 0
+ZA 0
+ZB 0
+TC 1
+Z9 1
+DA 2025-04-19
+UT WOS:001459663700029
+PM 39392729
+ER
+
+PT C
+AU Kim, Kyungwon
+   Lee, Yongmoon
+   Park, Doohyun
+   Eo, Taejoon
+   Youn, Daemyung
+   Lee, Hyesang
+   Hwang, Dosik
+BE Feragen, A
+   Giannarou, S
+   Glocker, B
+   Lekadir, K
+   Schnabel, JA
+   Linguraru, MG
+   Dou, Q
+TI LLM-Guided Multi-modal Multiple Instance Learning for 5-Year Overall
+   Survival Prediction of Lung Cancer
+SO MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION - MICCAI
+   2024, PT III
+SE Lecture Notes in Computer Science
+VL 15003
+BP 239
+EP 249
+DI 10.1007/978-3-031-72384-1_23
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Accurately predicting the 5-year prognosis of lung cancer patients is
+   crucial for guiding treatment planning and providing optimal patient
+   care. Traditional methods relying on CT image-based cancer stage
+   assessment and morphological analysis of cancer cells in pathology
+   images have encountered challenges in terms of reliability and accuracy
+   due to the complexity and diversity of information within these images.
+   Recent rapid advancements in deep learning have shown promising
+   performance in prognosis prediction, however utilizing CT and pathology
+   images independently is limited by their differing imaging
+   characteristics and the unique prognostic information. To effectively
+   address these challenges, this study proposes a novel framework that
+   integrates prognostic capabilities of both CT and pathology images with
+   clinical information, employing a multi-modal integration approach via
+   multiple instance learning, leveraging large language models (LLMs) to
+   analyze clinical notes and align them with image modalities. The
+   proposed approach was rigorously validated using external datasets from
+   different hospitals, demonstrating superior performance over models
+   reliant on vision or clinical data alone. This highlights the
+   adaptability and strength of LLMs in managing complex multi-modal
+   medical datasets for lung cancer prognosis, marking a significant
+   advance towards more accurate and comprehensive patient care strategies.
+   The code is publicly available on
+   https://github.com/KyleKWKim/LLM-guided-Multimodal-MIL.
+CT 27th International Conference on Medical Image Computing and Computer
+   Assisted Intervention (MICCAI)
+CY OCT 06-10, 2024
+CL Palmeraie Conf Ctr, Marrakesh, MOROCCO
+HO Palmeraie Conf Ctr
+SP GH Labs; Childrens Natl Hosp; Pierre Fabre; Comp Assisted Med Intervent
+   Labex; Multidisciplinary Inst Artificial Intelligence Grenoble Alpes;
+   Western Univ, Frugal Biomed Innovat Program; Int Soc Radiol; Medtronic;
+   Pasqual Maragall Fdn; Delft Imaging; Univ Barcelona, Artificial
+   Intelligence Med Lab; Cadi Ayyad Univ; Natl Ctr Sci & Tech Res
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+TC 1
+ZA 0
+Z9 1
+DA 2024-11-28
+UT WOS:001342227700023
+ER
+
+PT J
+AU Sun, Di
+   Hadjiiski, Lubomir
+   Gormley, John
+   Chan, Heang-Ping
+   Caoili, Elaine
+   Cohan, Richard
+   Alva, Ajjai
+   Bruno, Grace
+   Mihalcea, Rada
+   Zhou, Chuan
+   Gulani, Vikas
+TI Outcome Prediction Using Multi-Modal Information: Integrating Large
+   Language Model-Extracted Clinical Information and Image Analysis
+SO CANCERS
+VL 16
+IS 13
+AR 2402
+DI 10.3390/cancers16132402
+DT Article
+PD JUL 2024
+PY 2024
+AB Simple Summary: Predicting the survival of bladder cancer patients
+   following cystectomy can offer valuable information for treatment
+   planning, decision-making, patient counseling, and resource allocation.
+   Our aim was to develop large language model (LLM)-aided multi-modal
+   predictive models, based on clinical information and CT images. These
+   models achieved performances comparable to those of multi-modal
+   predictive models that rely on manually extracted clinical information.
+   This study demonstrates the potential of employing LLMs to process
+   medical data, and of integrating LLM-processed data into modeling for
+   prognosis.
+   Survival prediction post-cystectomy is essential for the follow-up care
+   of bladder cancer patients. This study aimed to evaluate artificial
+   intelligence (AI)-large language models (LLMs) for extracting clinical
+   information and improving image analysis, with an initial application
+   involving predicting five-year survival rates of patients after radical
+   cystectomy for bladder cancer. Data were retrospectively collected from
+   medical records and CT urograms (CTUs) of bladder cancer patients
+   between 2001 and 2020. Of 781 patients, 163 underwent chemotherapy, had
+   pre- and post-chemotherapy CTUs, underwent radical cystectomy, and had
+   an available post-surgery five-year survival follow-up. Five AI-LLMs
+   (Dolly-v2, Vicuna-13b, Llama-2.0-13b, GPT-3.5, and GPT-4.0) were used to
+   extract clinical descriptors from each patient's medical records. As a
+   reference standard, clinical descriptors were also extracted manually.
+   Radiomics and deep learning descriptors were extracted from CTU images.
+   The developed multi-modal predictive model, CRD, was based on the
+   clinical (C), radiomics (R), and deep learning (D) descriptors. The LLM
+   retrieval accuracy was assessed. The performances of the survival
+   predictive models were evaluated using AUC and Kaplan-Meier analysis.
+   For the 163 patients (mean age 64 +/- 9 years; M:F 131:32), the LLMs
+   achieved extraction accuracies of 74%similar to 87% (Dolly), 76%similar
+   to 83% (Vicuna), 82%similar to 93% (Llama), 85%similar to 91% (GPT-3.5),
+   and 94%similar to 97% (GPT-4.0). For a test dataset of 64 patients, the
+   CRD model achieved AUCs of 0.89 +/- 0.04 (manually extracted
+   information), 0.87 +/- 0.05 (Dolly), 0.83 +/- 0.06 similar to 0.84 +/-
+   0.05 (Vicuna), 0.81 +/- 0.06 similar to 0.86 +/- 0.05 (Llama), 0.85 +/-
+   0.05 similar to 0.88 +/- 0.05 (GPT-3.5), and 0.87 +/- 0.05 similar to
+   0.88 +/- 0.05 (GPT-4.0). This study demonstrates the use of LLM
+   model-extracted clinical information, in conjunction with imaging
+   analysis, to improve the prediction of clinical outcomes, with bladder
+   cancer as an initial example.
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+ZA 0
+TC 4
+Z9 4
+DA 2024-07-24
+UT WOS:001270395100001
+PM 39001463
+ER
+
+PT J
+AU Singh, Ria
+   Hamouda, Mohamed
+   Chamberlin, Jordan H.
+   Toth, Adrienn
+   Munford, James
+   Silbergleit, Matthew
+   Baruah, Dhiraj
+   Burt, Jeremy R.
+   Kabakus, Ismail M.
+TI ChatGPT vs. Gemini: Comparative accuracy and efficiency in Lung-RADS
+   score assignment from radiology reports
+SO CLINICAL IMAGING
+VL 121
+AR 110455
+DI 10.1016/j.clinimag.2025.110455
+EA MAR 2025
+DT Article
+PD MAY 2025
+PY 2025
+AB Objective: To evaluate the accuracy of large language models (LLMs) in
+   generating Lung-RADS scores based on lung cancer screening low-dose
+   computed tomography radiology reports. Material and methods: A
+   retrospective cross-sectional analysis was performed on 242 consecutive
+   LDCT radiology reports generated by cardiothoracic fellowship-trained
+   radiologists at a tertiary center. LLMs evaluated included ChatGPT-3.5,
+   ChatGPT-4o, Google Gemini, and Google Gemini Advanced. Each LLM was used
+   to assign LungRADS scores based on the findings section of each report.
+   No domain-specific fine-tuning was applied. Accuracy was determined by
+   comparing the LLM-assigned scores to radiologist-assigned scores.
+   Efficiency was assessed by measuring response times for each LLM.
+   Results: ChatGPT-4o achieved the highest accuracy (83.6 %) in assigning
+   Lung-RADS scores compared to other models, with ChatGPT-3.5 reaching
+   70.1 %. Gemini and Gemini Advanced had similar accuracy (70.9 % and 65.1
+   %, respectively). ChatGPT-3.5 had the fastest response time (median 4
+   s), while ChatGPT-4o was slower (median 10 s). Higher Lung-RADS
+   categories were associated with marginally longer completion times.
+   ChatGPT4o demonstrated the greatest agreement with radiologists (kappa =
+   0.836), although it was less than the previously reported human
+   interobserver agreement. Conclusion: ChatGPT-4o outperformed
+   ChatGPT-3.5, Gemini, and Gemini Advanced in Lung-RADS score assignment
+   accuracy but did not reach the level of human experts. Despite promising
+   results, further work is needed to integrate domain-specific training
+   and ensure LLM reliability for clinical decision-making in lung cancer
+   screening.
+ZS 0
+TC 0
+ZB 0
+ZR 0
+ZA 0
+Z8 0
+Z9 0
+DA 2025-03-27
+UT WOS:001448143100001
+PM 40090067
+ER
+
+PT J
+AU John, Annette
+   Alhajj, Reda
+   Rokne, Jon
+TI A systematic review of AI as a digital twin for prostate cancer care
+SO COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
+VL 268
+AR 108804
+DI 10.1016/j.cmpb.2025.108804
+EA MAY 2025
+DT Review
+PD AUG 2025
+PY 2025
+AB Artificial Intelligence (AI) and Digital Twin (DT) technologies are
+   rapidly transforming healthcare, offering the potential for
+   personalized, accurate, and efficient medical care. This systematic
+   review focuses on the intersection of AI-based digital twins and their
+   applications in prostate cancer pathology. A digital twin, when applied
+   to healthcare, creates a dynamic, data-driven virtual model that
+   simulates a patient's biological systems in real-time. By incorporating
+   AI techniques such as Machine Learning (ML) and Deep Learning (DL),
+   these systems enhance predictive accuracy, enable early diagnosis, and
+   facilitate individualized treatment strategies for prostate cancer. This
+   review systematically examines recent advances (2020-2025) in AI-driven
+   digital twins for prostate cancer, highlighting key methodologies,
+   algorithms, and data integration strategies. The literature analysis
+   also reveals substantial progress in image processing, predictive
+   modeling, and clinical decision support systems, which are the basic
+   tools used when implementing digital twins for prostate cancer care. Our
+   survey also critically evaluates the strengths and limitations of
+   current approaches, identifying gaps such as the need for real-time data
+   integration, improved explainability in AI models, and more robust
+   clinical validation. It concludes with a discussion of future research
+   directions, emphasizing the importance of integrating multi-modal data
+   with Large Language Models (LLMs) and Vision-Language Models (VLMs),
+   scalability, and ethical considerations in advancing AI-driven digital
+   twins for prostate cancer diagnosis and treatment. This paper provides a
+   comprehensive resource for researchers and clinicians, offering insights
+   into how AI-based digital twins can enhance precision medicine and
+   improve patient outcomes in prostate cancer care.
+ZA 0
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+TC 0
+Z9 0
+DA 2025-05-23
+UT WOS:001490802200002
+PM 40347618
+ER
+
+PT J
+AU Bhayana, Rajesh
+   Jajodia, Ankush
+   Chawla, Tanya
+   Deng, Yangqing
+   Bouchard-Fortier, Genevieve
+   Haider, Masoom
+   Krishna, Satheesh
+TI Accuracy of Large Language Model-based Automatic Calculation of
+   Ovarian-Adnexal Reporting and Data System MRI Scores from Pelvic MRI
+   Reports
+SO RADIOLOGY
+VL 315
+IS 1
+AR e241554
+DI 10.1148/radiol.241554
+DT Article
+PD APR 2025
+PY 2025
+AB Background: Ovarian-Adnexal Reporting and Data System (O-RADS) for MRI
+   helps assign malignancy risk, but radiologist adoption is inconsistent.
+   Automatic assignment of O-RADS scores from reports could increase
+   adoption and accuracy. Purpose: To evaluate the accuracy of large
+   language models (LLMs), after strategic optimization, for automatically
+   calculating O-RADS scores from reports. Materials and Methods: This
+   retrospective single-center study from a large quaternary care cancer
+   center included consecutive gadolinium chelate-enhanced pelvic MRI
+   reports with at least one assigned O-RADS score from July 2021 to
+   October 2023. Reports from January 2018 to October 2019 (before O-RADS
+   MRI implementation) were randomly selected for additional testing.
+   Reference standard O-RADS scores were determined by radiologists
+   interpreting reports. After prompt optimization using a subset of
+   reports, two LLM-based strategies were evaluated: few-shot learning with
+   GPT-4 (version 0613; OpenAI) prompted with O-RADS rules ("LLM only") and
+   a hybrid strategy leveraging GPT-4 to classify features fed into a
+   deterministic formula ("hybrid"). Accuracy of each model and originally
+   reported scores were calculated and compared using the McNemar test.
+   Results: A total of 284 reports from 284 female patients (mean age, 53.2
+   years +/- 16.3 [SD]) with 372 adnexal lesions were included: 10 reports
+   in the training set (16 lesions), 134 reports in the internal test set 1
+   (173 lesions; 158 O-RADS assigned), and 140 reports in internal test set
+   2 (183 lesions). For assigning O-RADS MRI scores, the hybrid model
+   accuracy (97%; 168 of 173) outperformed LLM-only model (90%; 155 of 173;
+   P = .006). For lesions with an originally reported O-RADS score, hybrid
+   model accuracy exceeded that of reporting radiologists (97% [153 of 158]
+   vs 88% [139 of 158]; P = .004). Hybrid model also outperformed LLM-only
+   model for 183 lesions from before O-RADS implementation (95% [173 of
+   183] vs 87% [159 of 183], respectively; P = .01). Conclusion: A hybrid
+   LLM-based application, combining LLM feature classification with
+   deterministic elements, accurately assigned O-RADS MRI scores from
+   report descriptions, exceeding both an LLM-only strategy and the
+   original reporting radiologist. (c) RSNA, 2025
+ZR 0
+ZS 0
+TC 1
+ZA 0
+ZB 0
+Z8 0
+Z9 1
+DA 2025-04-20
+UT WOS:001464808700007
+PM 40167432
+ER
+
+PT J
+AU Hooshangnejad, Hamed
+   Huang, Gaofeng
+   Kelly, Katelyn
+   Feng, Xue
+   Luo, Yi
+   Zhang, Rui
+   Xu, Ziyue
+   Chen, Quan
+   Ding, Kai
+TI EXACT-Net: Framework for EHR-Guided Lung Tumor Auto-Segmentation for
+   Non-Small Cell Lung Cancer Radiotherapy
+SO CANCERS
+VL 16
+IS 23
+AR 4097
+DI 10.3390/cancers16234097
+DT Article
+PD DEC 2024
+PY 2024
+AB Background/Objectives: Lung cancer is a devastating disease with the
+   highest mortality rate among cancer types. Over 60% of non-small cell
+   lung cancer (NSCLC) patients, accounting for 87% of lung cancer
+   diagnoses, require radiation therapy. Rapid treatment initiation
+   significantly increases the patient's survival rate and reduces the
+   mortality rate. Accurate tumor segmentation is a critical step in
+   diagnosing and treating NSCLC. Manual segmentation is time- and
+   labor-consuming and causes delays in treatment initiation. Although many
+   lung nodule detection methods, including deep learning-based models,
+   have been proposed. Most of these methods still have a long-standing
+   problem of high false positives (FPs). Methods: Here, we developed an
+   electronic health record (EHR)-guided lung tumor auto-segmentation
+   called EXACT-Net (EHR-enhanced eXACtitude in Tumor segmentation), where
+   the extracted information from EHRs using a pre-trained large language
+   model (LLM) was used to remove the FPs and keep the TP nodules only.
+   Results: The auto-segmentation model was trained on NSCLC patients'
+   computed tomography (CT), and the pre-trained LLM was used with the
+   zero-shot learning approach. Our approach resulted in a 250% boost in
+   successful nodule detection using the data from ten NSCLC patients
+   treated in our institution. Conclusions: We demonstrated that combining
+   vision-language information in EXACT-Net multi-modal AI framework
+   greatly enhances the performance of vision only models, paving the road
+   to multimodal AI framework for medical image processing.
+ZS 0
+ZA 0
+ZR 0
+ZB 0
+TC 0
+Z8 0
+Z9 0
+DA 2024-12-19
+UT WOS:001376131100001
+PM 39682283
+ER
+
+PT J
+AU Ghorbian, Mohsen
+   Ghobaei-Arani, Mostafa
+   Ghorbian, Saied
+TI Transforming breast cancer diagnosis and treatment with large language
+   Models: A comprehensive survey
+SO METHODS
+VL 239
+BP 85
+EP 110
+DI 10.1016/j.ymeth.2025.04.001
+EA APR 2025
+DT Article
+PD JUL 2025
+PY 2025
+AB Breast cancer (BrCa), being one of the most prevalent forms of cancer in
+   women, poses many challenges in the field of treatment and diagnosis due
+   to its complex biological mechanisms. Early and accurate diagnosis plays
+   a fundamental role in improving survival rates, but the limitations of
+   existing imaging methods and clinical data interpretation often prevent
+   optimal results. Large Language Models (LLMs), which are developed based
+   on advanced architectures such as transformers, have brought about a
+   significant revolution in data processing and medical decision-making.
+   By analyzing a large volume of medical and clinical data, these models
+   enable early diagnosis by identifying patterns in images and medical
+   records and provide personalized treatment strategies by integrating
+   genetic markers and clinical guidelines. Despite the transformative
+   potential of these models, their use in BrCa management faces challenges
+   such as data sensitivity, algorithm transparency, ethical
+   considerations, and model compatibility with the details of medical
+   applications that need to be addressed to achieve reliable results. This
+   review systematically reviews the impact of LLMs on BrCa treatment and
+   diagnosis. This study's objectives include analyzing the role of LLM
+   technology in diagnosing and treating this disease. The findings
+   indicate that the application of LLMs has resulted in significant
+   improvements in various aspects of BrCa management, such as a 35%
+   increase in the Efficiency of Diagnosis and BrCa Treatment (EDBC), a 30%
+   enhancement in the System's Clinical Trust and Reliability (SCTR), and a
+   20% improvement in the quality of patient education and information
+   (IPEI). Ultimately, this study demonstrates the importance of LLMs in
+   advancing precision medicine for BrCa and paves the way for effective
+   patient-centered care solutions.
+ZS 0
+ZR 0
+TC 0
+ZB 0
+ZA 0
+Z8 0
+Z9 0
+DA 2025-04-20
+UT WOS:001466448900001
+PM 40199412
+ER
+
+PT J
+AU Rao, Arya
+   Kim, John
+   Kamineni, Meghana
+   Pang, Michael
+   Lie, Winston
+   Succi, Marc D
+TI Evaluating ChatGPT as an Adjunct for Radiologic Decision-Making.
+SO medRxiv : the preprint server for health sciences
+DI 10.1101/2023.02.02.23285399
+DT Preprint
+PD 2023 Feb 07
+PY 2023
+AB BACKGROUND: ChatGPT, a popular new large language model (LLM) built by
+   OpenAI, has shown impressive performance in a number of specialized
+   applications. Despite the rising popularity and performance of AI,
+   studies evaluating the use of LLMs for clinical decision support are
+   lacking.
+   PURPOSE: To evaluate ChatGPT's capacity for clinical decision support in
+   radiology via the identification of appropriate imaging services for two
+   important clinical presentations: breast cancer screening and breast
+   pain.
+   MATERIALS AND METHODS: We compared ChatGPT's responses to the American
+   College of Radiology (ACR) Appropriateness Criteria for breast pain and
+   breast cancer screening. Our prompt formats included an open-ended (OE)
+   format, where ChatGPT was asked to provide the single most appropriate
+   imaging procedure, and a select all that apply (SATA) format, where
+   ChatGPT was given a list of imaging modalities to assess. Scoring
+   criteria evaluated whether proposed imaging modalities were in
+   accordance with ACR guidelines.
+   RESULTS: ChatGPT achieved an average OE score of 1.83 (out of 2) and a
+   SATA average percentage correct of 88.9% for breast cancer screening
+   prompts, and an average OE score of 1.125 (out of 2) and a SATA average
+   percentage correct of 58.3% for breast pain prompts.
+   CONCLUSION: Our results demonstrate the feasibility of using ChatGPT for
+   radiologic decision making, with the potential to improve clinical
+   workflow and responsible use of radiology services.
+ZR 0
+Z8 1
+TC 62
+ZA 0
+ZS 0
+ZB 14
+Z9 63
+DA 2023-02-18
+UT MEDLINE:36798292
+PM 36798292
+ER
+
+PT J
+AU Zhong, Jiayang
+   Sehgal, Kanika
+   Hickey, Kyle
+   Mohammad, Aziza
+   Robinson, Stephen
+   Farrell, James J.
+   Shung, Dennis
+TI A LOCAL LARGE LANGUAGE MODEL PIPELINE AUTOMATICALLY RISK STRATIFIES
+   PANCREATIC CYSTS FOR POPULATION HEALTH MANAGEMENT FROM SERIAL RADIOLOGY
+   REPORTS
+SO GASTROENTEROLOGY
+VL 166
+IS 5
+MA Su1183
+BP S687
+EP S687
+SU S
+DT Meeting Abstract
+PD MAY 2024
+PY 2024
+CT Digestive Disease Week (DDW)
+CY MAY 18-21, 2024
+CL Washington, DC
+ZA 0
+ZS 0
+Z8 0
+ZB 0
+TC 0
+ZR 0
+Z9 0
+DA 2024-10-30
+UT WOS:001282837702549
+ER
+
+PT J
+AU Oh, Yujin
+   Park, Sangjoon
+   Byun, Hwa Kyung
+   Cho, Yeona
+   Lee, Ik Jae
+   Kim, Jin Sung
+   Ye, Jong Chul
+TI LLM-driven multimodal target volume contouring in radiation oncology
+SO NATURE COMMUNICATIONS
+VL 15
+IS 1
+AR 9186
+DI 10.1038/s41467-024-53387-y
+DT Article
+PD OCT 24 2024
+PY 2024
+AB Target volume contouring for radiation therapy is considered
+   significantly more challenging than the normal organ segmentation tasks
+   as it necessitates the utilization of both image and text-based clinical
+   information. Inspired by the recent advancement of large language models
+   (LLMs) that can facilitate the integration of the textural information
+   and images, here we present an LLM-driven multimodal artificial
+   intelligence (AI), namely LLMSeg, that utilizes the clinical information
+   and is applicable to the challenging task of 3-dimensional context-aware
+   target volume delineation for radiation oncology. We validate our
+   proposed LLMSeg within the context of breast cancer radiotherapy using
+   external validation and data-insufficient environments, which attributes
+   highly conducive to real-world applications. We demonstrate that the
+   proposed multimodal LLMSeg exhibits markedly improved performance
+   compared to conventional unimodal AI models, particularly exhibiting
+   robust generalization performance and data-efficiency.
+   The integration of multimodal knowledge would be essential for radiation
+   oncologist to determine the therapeutic treatment. Here, inspired by the
+   large language models facilitating the integration of textural
+   information and images, this group reports a 3D multimodal clinical
+   target volume delineation model combining image and text-based clinical
+   information for decision-making in radiation oncology.
+TC 9
+ZS 0
+Z8 2
+ZB 3
+ZR 0
+ZA 0
+Z9 10
+DA 2024-11-07
+UT WOS:001342098500028
+PM 39448587
+ER
+
+PT J
+AU Nguyen, Daniel
+   Swanson, Daniel
+   Newbury, Alex
+   Kim, Young H.
+TI Evaluation of ChatGPT and Google Bard Using Prompt Engineering in Cancer
+   Screening Algorithms
+SO ACADEMIC RADIOLOGY
+VL 31
+IS 5
+BP 1799
+EP 1804
+DI 10.1016/j.acra.2023.11.002
+EA MAY 2024
+DT Article
+PD MAY 2024
+PY 2024
+AB Large language models (LLMs) such as ChatGPT and Bard have emerged as
+   powerful tools in medicine, showcasing strong results in tasks such as
+   radiology report translations and research paper drafting. While their
+   implementation in clinical practice holds promise, their response
+   accuracy remains variable. This study aimed to evaluate the accuracy of
+   ChatGPT and Bard in clinical decision-making based on the American
+   College of Radiology Appropriateness Criteria for various cancers. Both
+   LLMs were evaluated in terms of their responses to open-ended (OE) and
+   select-all-that-apply (SATA) prompts. Furthermore, the study
+   incorporated prompt engineering (PE) techniques to enhance the accuracy
+   of LLM outputs. The results revealed similar performances between
+   ChatGPT and Bard on OE prompts, with ChatGPT exhibiting marginally
+   higher accuracy in SATA scenarios. The introduction of PE also
+   marginally improved LLM outputs in OE prompts but did not enhance SATA
+   responses. The results highlight the potential of LLMs in aiding
+   clinical decisionmaking processes, especially when guided by optimally
+   engineered prompts. Future studies in diverse clinical situations are
+   imperative to better understand the impact of LLMs in radiology. (c)
+   2024 The Association of University Radiologists. Published by Elsevier
+   Inc. All rights reserved.
+ZB 1
+TC 13
+ZA 0
+ZR 0
+Z8 0
+ZS 0
+Z9 13
+DA 2024-06-10
+UT WOS:001239932200001
+PM 38103973
+ER
+
+PT J
+AU Haider, Syed Ali
+   Pressman, Sophia M.
+   Borna, Sahar
+   Gomez-Cabello, Cesar A.
+   Sehgal, Ajai
+   Leibovich, Bradley C.
+   Forte, Antonio Jorge
+TI Evaluating Large Language Model (LLM) Performance on Established Breast
+   Classification Systems
+SO DIAGNOSTICS
+VL 14
+IS 14
+AR 1491
+DI 10.3390/diagnostics14141491
+DT Article
+PD JUL 2024
+PY 2024
+AB Medical researchers are increasingly utilizing advanced LLMs like
+   ChatGPT-4 and Gemini to enhance diagnostic processes in the medical
+   field. This research focuses on their ability to comprehend and apply
+   complex medical classification systems for breast conditions, which can
+   significantly aid plastic surgeons in making informed decisions for
+   diagnosis and treatment, ultimately leading to improved patient
+   outcomes. Fifty clinical scenarios were created to evaluate the
+   classification accuracy of each LLM across five established
+   breast-related classification systems. Scores from 0 to 2 were assigned
+   to LLM responses to denote incorrect, partially correct, or completely
+   correct classifications. Descriptive statistics were employed to compare
+   the performances of ChatGPT-4 and Gemini. Gemini exhibited superior
+   overall performance, achieving 98% accuracy compared to ChatGPT-4's 71%.
+   While both models performed well in the Baker classification for
+   capsular contracture and UTSW classification for gynecomastia, Gemini
+   consistently outperformed ChatGPT-4 in other systems, such as the
+   Fischer Grade Classification for gender-affirming mastectomy, Kajava
+   Classification for ectopic breast tissue, and Regnault Classification
+   for breast ptosis. With further development, integrating LLMs into
+   plastic surgery practice will likely enhance diagnostic support and
+   decision making.
+ZA 0
+TC 11
+ZS 0
+Z8 0
+ZB 2
+ZR 0
+Z9 11
+DA 2024-08-02
+UT WOS:001276540600001
+PM 39061628
+ER
+
+PT J
+AU Skoulakis, Charalambos E.
+   Stavroulaki, Pelagia
+   Moschotzopoulos, Panagiotis
+   Paxinos, Mihalis
+   Fericean, Angela
+   Valagiannis, Dimitris E.
+TI Laryngeal leiomyosarcoma: a case report and review of the literature
+SO EUROPEAN ARCHIVES OF OTO-RHINO-LARYNGOLOGY
+VL 263
+IS 10
+BP 929
+EP 934
+DI 10.1007/s00405-006-0092-0
+DT Article
+PD OCT 2006
+PY 2006
+AB Laryngeal leiomyosarcoma (LLM) is a rare malignancy originating from the
+   smooth muscles of blood vessels or from aberrant undifferentiated
+   mesenchymal tissue. Histological diagnosis may be particularly difficult
+   and correct diagnosis is based on immunohistochemical investigations and
+   electron microscopy. A case report of a LLM in a 74-year-old man is
+   presented. Direct laryngoscopy revealed a large glottic lesion causing
+   airway compromise and an emergency tracheotomy was performed. Subsequent
+   total laryngectomy confirmed the diagnosis of leiomyosarcoma. Lung
+   metastases developed 8 months following treatment, despite the absence
+   of local or regional recurrence, and the patient died 3 months later. A
+   review of the English and French literature revealed 30 previous cases
+   of LLM. Clinical presentation, histological diagnosis, and management of
+   this rare malignancy are analyzed aiming to improve our knowledge
+   regarding the best treatment modality.
+Z8 0
+TC 17
+ZR 0
+ZS 0
+ZB 4
+ZA 0
+Z9 17
+DA 2006-10-01
+UT WOS:000240396200009
+PM 16804717
+ER
+
+PT J
+AU Zhu, L.
+   Anand, A.
+   Gevorkyan, G.
+   Mcgee, L. A.
+   Rwigema, J. C.
+   Rong, Y.
+   Patel, S. H.
+TI Testing and Validation of a Custom Trained Large Language Model for HN
+   Patients with Guardrails
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 118
+IS 5
+MA 182
+BP E52
+EP E53
+DT Meeting Abstract
+PD APR 1 2024
+PY 2024
+CT Multidisciplinary Head and Neck Cancers Symposium
+CY FEB 29-MAR 02, 2024
+CL Phoenix, AZ
+TC 1
+ZS 0
+Z8 0
+ZA 0
+ZR 0
+ZB 0
+Z9 1
+DA 2024-10-18
+UT WOS:001300212900102
+ER
+
+PT J
+AU Gupta, Amit
+   Singh, Swarndeep
+   Malhotra, Hema
+   Pruthi, Himanshu
+   Sharma, Aparna
+   Garg, Amit K.
+   Yadav, Mukesh
+   Kandasamy, Devasenathipathy
+   Batra, Atul
+   Rangarajan, Krithika
+TI Provision of Radiology Reports Simplified With Large Language Models to
+   Patients With Cancer: Impact on Patient Satisfaction
+SO JCO CLINICAL CANCER INFORMATICS
+VL 9
+AR e2400166
+DI 10.1200/CCI-24-00166
+DT Article
+PD JAN 2025
+PY 2025
+AB PURPOSE To explore the perceived utility and effect of simplified
+   radiology reports on oncology patients' knowledge and feasibility of
+   large language models (LLMs) to generate such reports. MATERIALS AND
+   METHODS This study was approved by the Institute Ethics Committee. In
+   phase I, five state-of-the-art LLMs (Generative Pre-Trained
+   Transformer-4o [GPT-4o], Google Gemini, Claude Opus, Llama-3.1-8B, and
+   Phi-3.5-mini) were tested to simplify 50 oncology computed tomography
+   (CT) report impressions using five distinct prompts with each LLM. The
+   outputs were evaluated quantitatively using readability indices. Five
+   LLM-prompt combinations with best average readability scores were also
+   assessed qualitatively, and the best LLM-prompt combination was
+   selected. In phase II, 100 consecutive oncology patients were randomly
+   assigned into two groups: original report (received original report
+   impression) and simplified report (received LLM-generated simplified
+   versions of their CT report impressions under the supervision of a
+   radiologist). A questionnaire assessed the impact of these reports on
+   patients' knowledge and perceived utility. RESULTS In phase I, Claude
+   Opus-Prompt 3 (explain to a 15-year-old) performed slightly better than
+   other LLMs, although scores for GPT-4o, Gemini, Claude Opus, and
+   Llama-3.1 were not significantly different (P > .0033 on Wilcoxon
+   signed-rank test with Bonferroni correction). In phase II, simplified
+   report group patients demonstrated significantly better knowledge of
+   primary site and extent of their disease as well as showed significantly
+   higher confidence and understanding of the report (P < .05 for all).
+   Only three (of 50) simplified reports required corrections by the
+   radiologist. CONCLUSION Simplified radiology reports significantly
+   enhanced patients' understanding and confidence in comprehending their
+   medical condition. LLMs performed very well at this simplification task;
+   therefore, they can be potentially used for this purpose, although there
+   remains a need for human oversight.
+ZA 0
+ZS 0
+ZR 0
+TC 0
+ZB 0
+Z8 0
+Z9 0
+DA 2025-02-10
+UT WOS:001413669900001
+PM 39879570
+ER
+
+PT J
+AU Kanemaru, Noriko
+   Yasaka, Koichiro
+   Fujita, Nana
+   Kanzawa, Jun
+   Abe, Osamu
+TI The Fine-Tuned Large Language Model for Extracting the Progressive Bone
+   Metastasis from Unstructured Radiology Reports
+SO JOURNAL OF IMAGING INFORMATICS IN MEDICINE
+VL 38
+IS 2
+BP 865
+EP 872
+DI 10.1007/s10278-024-01242-3
+EA AUG 2024
+DT Article
+PD APR 2025
+PY 2025
+AB Early detection of patients with impending bone metastasis is crucial
+   for prognosis improvement. This study aimed to investigate the
+   feasibility of a fine-tuned, locally run large language model (LLM) in
+   extracting patients with bone metastasis in unstructured Japanese
+   radiology report and to compare its performance with manual annotation.
+   This retrospective study included patients with "metastasis" in
+   radiological reports (April 2018-January 2019, August-May 2022, and
+   April-December 2023 for training, validation, and test datasets of 9559,
+   1498, and 7399 patients, respectively). Radiologists reviewed the
+   clinical indication and diagnosis sections of the radiological report
+   (used as input data) and classified them into groups 0 (no bone
+   metastasis), 1 (progressive bone metastasis), and 2 (stable or decreased
+   bone metastasis). The data for group 0 was under-sampled in training and
+   test datasets due to group imbalance. The best-performing model from the
+   validation set was subsequently tested using the testing dataset. Two
+   additional radiologists (readers 1 and 2) were involved in classifying
+   radiological reports within the test dataset for testing purposes. The
+   fine-tuned LLM, reader 1, and reader 2 demonstrated an accuracy of
+   0.979, 0.996, and 0.993, sensitivity for groups 0/1/2 of
+   0.988/0.947/0.943, 1.000/1.000/0.966, and 1.000/0.982/0.954, and time
+   required for classification (s) of 105, 2312, and 3094 in under-sampled
+   test dataset (n = 711), respectively. Fine-tuned LLM extracted patients
+   with bone metastasis, demonstrating satisfactory performance that was
+   comparable to or slightly lower than manual annotation by radiologists
+   in a noticeably shorter time.
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+TC 4
+ZR 0
+Z9 4
+DA 2024-09-01
+UT WOS:001298719700004
+PM 39187702
+ER
+
+PT J
+AU Ra, Sinyoung
+   Kim, Jonghun
+   Na, Inye
+   Ko, Eun Sook
+   Park, Hyunjin
+TI Enhancing radiomics features via a large language model for classifying
+   benign and malignant breast tumors in mammography
+SO COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
+VL 265
+AR 108765
+DI 10.1016/j.cmpb.2025.108765
+EA APR 2025
+DT Article
+PD JUN 2025
+PY 2025
+AB Background and Objectives: Radiomics is widely used to assist in
+   clinical decision-making, disease diagnosis, and treatment planning for
+   various target organs, including the breast. Recent advances in large
+   language models (LLMs) have helped enhance radiomics analysis. Materials
+   and Methods: Herein, we sought to improve radiomics analysis by
+   incorporating LLM-learned clinical knowledge, to classify benign and
+   malignant tumors in breast mammography. We extracted radiomics features
+   from the mammograms based on the region of interest and retained the
+   features related to the target task. Using prompt engineering, we
+   devised an input sequence that reflected the selected features and the
+   target task. The input sequence was fed to the chosen LLM (LLaMA
+   variant), which was fine-tuned using low-rank adaptation to enhance
+   radiomics features. This was then evaluated on two mammogram datasets
+   (VinDr-Mammo and INbreast) against conventional baselines. Results: The
+   enhanced radiomics-based method performed better than baselines using
+   conventional radiomics features tested on two mammogram datasets,
+   achieving accuracies of 0.671 for the VinDr-Mammo dataset and 0.839 for
+   the INbreast dataset. Conventional radiomics models require retraining
+   from scratch for an unseen dataset using a new set of features. In
+   contrast, the model developed in this study effectively reused the
+   common features between the training and unseen datasets by explicitly
+   linking feature names with feature values, leading to extensible
+   learning across datasets. Our method performed better than the baseline
+   method in this retraining setting using an unseen dataset. Conclusions:
+   Our method, one of the first to incorporate LLM into radiomics, has the
+   potential to improve radiomics analysis.
+ZS 0
+Z8 0
+ZR 0
+TC 0
+ZA 0
+ZB 0
+Z9 0
+DA 2025-04-21
+UT WOS:001466026900001
+PM 40203779
+ER
+
+PT J
+AU Rahmanti, Annisa Ristya
+   Gao, Xiaohong W
+TI ChatEndoscopist: A Domain-Specific Chatbot with Images for
+   Gastrointestinal Diseases.
+SO Studies in health technology and informatics
+VL 327
+BP 843
+EP 847
+DI 10.3233/SHTI250478
+DT Journal Article
+PD 2025-May-15
+PY 2025
+AB This study aims to enhance domain-specific medical knowledge within
+   large language models (LLMs) by developing a chatbot, chatEndoscopist, a
+   specialized model for oesophageal cancer. In particular, the chatbot
+   incorporates related images to further elucidate the retrieved content
+   while providing answers. Fine-tuned BioMistral LLM with 50 related
+   documents, a dataset specifically curated for medical literature,
+   ChatEndoscopist was compared to ChatGPT. For text answers, despite its
+   specialized training, ChatGPT appears to outperform ChatEndoscopist in
+   precision (0.210 vs. 0.148), recall (0.323 vs. 0.049), and F1 score
+   (0.266 vs. 0.099). ChatGPT also demonstrated superior lexical diversity
+   with a Type-Token Ratio (TTR) of 0.772 and Lexical Density of 0.813,
+   compared to ChatEndoscopist's TTR of 0.717 and Lexical Density of 0.781.
+   This in part, could be due to the limited documents to fine tune.
+   However, the related images are mostly retrieval with regarding to
+   user's queries. Future work will focus on incorporating more related
+   papers to balance specialized accuracy with broader linguistic
+   flexibility.
+ZA 0
+TC 0
+ZR 0
+ZS 0
+ZB 0
+Z8 0
+Z9 0
+DA 2025-05-20
+UT MEDLINE:40380586
+PM 40380586
+ER
+
+PT J
+AU Yamagishi, Yosuke
+   Nakamura, Yuta
+   Hanaoka, Shouhei
+   Abe, Osamu
+TI Large Language Model Approach for Zero-Shot Information Extraction and
+   Clustering of Japanese Radiology Reports: Algorithm Development and
+   Validation
+SO JMIR CANCER
+VL 11
+AR e57275
+DI 10.2196/57275
+DT Article
+PD 2025
+PY 2025
+AB Background: The application of natural language processing in medicine
+   has increased significantly, including tasks such as information
+   extraction and classification. Natural language processing plays a
+   crucial role in structuring free-form radiology reports, facilitating
+   the interpretation of textual content, and enhancing data utility
+   through clustering techniques. Clustering allows for the identification
+   of similar lesions and disease patterns across a broad dataset, making
+   it useful for aggregating information and discovering new insights in
+   medical imaging. However, most publicly available medical datasets are
+   in English, with limited resources in other languages. This scarcity
+   poses a challenge for development of models geared toward non-English
+   downstream tasks. Objective: This study aimed to develop and evaluate an
+   algorithm that uses large language models (LLMs) to extract information
+   from Japanese lung cancer radiology reports and perform clustering
+   analysis. The effectiveness of this approach was assessed and compared
+   with previous supervised methods. Methods: This study employed the
+   MedTxt-RR dataset, comprising 135 Japanese radiology reports from 9
+   radiologists who interpreted the computed tomography images of 15 lung
+   cancer patients obtained from Radiopaedia. Previously used in the
+   NTCIR-16 (NII Testbeds and Community for Information Access Research)
+   shared task for clustering performance competition, this dataset was
+   ideal for comparing the clustering ability of our algorithm with those
+   of previous methods. The dataset was split into 8 cases for development
+   and 7 for testing, respectively. The study's approach involved using the
+   LLM to extract information pertinent to lung cancer findings and
+   transforming it into numeric features for clustering, using the K-means
+   method. Performance was evaluated using 135 reports for information
+   extraction accuracy and 63 test reports for clustering performance. This
+   study focused on the accuracy of automated systems for extracting tumor
+   size, location, and laterality from clinical reports. The clustering
+   performance was evaluated using normalized mutual information, adjusted
+   mutual information , and the Fowlkes-Mallows index for both the
+   development and test data. Results: The tumor size was accurately
+   identified in 99 out of 135 reports (73.3%), with errors in 36 reports
+   (26.7%), primarily due to missing or incorrect size information. Tumor
+   location and laterality were identified with greater accuracy in 112 out
+   of 135 reports (83%); however, 23 reports (17%) contained errors mainly
+   due to empty values or incorrect data. Clustering performance of the
+   test data yielded an normalized mutual information of 0.6414, adjusted
+   mutual information of 0.5598, and Fowlkes-Mallows index of 0.5354. The
+   proposed method demonstrated superior performance across all evaluation
+   metrics compared to previous methods. Conclusions: The unsupervised LLM
+   approach surpassed the existing supervised methods in clustering
+   Japanese radiology reports. These findings suggest that LLMs hold
+   promise for extracting information from radiology reports and
+   integrating it into disease-specific knowledge structures.
+TC 0
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+ZB 0
+Z9 0
+DA 2025-02-20
+UT WOS:001420173900001
+PM 39864093
+ER
+
+PT C
+AU Zhang, Tiantian
+   Lin, Manxi
+   Guo, Hongda
+   Zhang, Xiaofan
+   Chiu, Ka Fung Peter
+   Feragen, Aasa
+   Dou, Qi
+BE Dou, Q
+   Feragen, A
+   Giannarou, S
+   Glocker, B
+   Lekadir, K
+   Schnabel, JA
+   Linguraru, MG
+TI Incorporating Clinical Guidelines Through Adapting Multi-modal Large
+   Language Model for Prostate Cancer PI-RADS Scoring
+SO MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION - MICCAI
+   2024, PT V
+SE Lecture Notes in Computer Science
+VL 15005
+BP 360
+EP 370
+DI 10.1007/978-3-031-72086-4_34
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB The Prostate Imaging Reporting and Data System (PI-RADS) is pivotal in
+   the diagnosis of clinically significant prostate cancer through MRI
+   imaging. Current deep learning-based PI-RADS scoring methods often lack
+   the incorporation of common PI-RADS clinical guideline (PICG) utilized
+   by radiologists, potentially compromising scoring accuracy. This paper
+   introduces a novel approach that adapts a multi-modal large language
+   model (MLLM) to incorporate PICG into PI-RADS scoring model without
+   additional annotations and network parameters. We present a designed
+   two-stage fine-tuning process aiming at adapting a MLLM originally
+   trained on natural images to the MRI images while effectively
+   integrating the PICG. Specifically, in the first stage, we develop a
+   domain adapter layer tailored for processing 3D MRI inputs and instruct
+   the MLLM to differentiate MRI sequences. In the second stage, we
+   translate PICG for guiding instructions from the model to generate
+   PICG-guided image features. Through such a feature distillation step, we
+   align the scoring network's features with the PICG-guided image
+   features, which enables the model to effectively incorporate the PICG
+   information. We develop our model on a public dataset and evaluate it on
+   an in-house dataset. Experimental results demonstrate that our approach
+   effectively improves the performance of current scoring networks. Code
+   is available at: https://github.com/medair/PICG2scoring
+CT 27th International Conference on Medical Image Computing and Computer
+   Assisted Intervention (MICCAI)
+CY OCT 06-10, 2024
+CL Palmeraie Conf Ctr, Marrakesh, MOROCCO
+HO Palmeraie Conf Ctr
+SP GH Labs; Childrens Natl Hosp; Pierre Fabre; Comp Assisted Med Intervent
+   Labex; Multidisciplinary Inst Artificial Intelligence Grenoble Alpes;
+   Western Univ, Frugal Biomed Innovat Program; Int Soc Radiol; Medtronic;
+   Pasqual Maragall Fdn; Delft Imaging; Univ Barcelona, Artificial
+   Intelligence Med Lab; Cadi Ayyad Univ; Natl Ctr Sci & Tech Res
+TC 0
+Z8 0
+ZB 0
+ZA 0
+ZS 0
+ZR 0
+Z9 0
+DA 2024-11-28
+UT WOS:001342230100034
+ER
+
+PT J
+AU Shah, Syed Jawad Hussain
+   Albishri, Ahmed
+   Wang, Rong
+   Lee, Yugyung
+TI Integrating local and global attention mechanisms for enhanced oral
+   cancer detection and explainability.
+SO Computers in biology and medicine
+VL 189
+BP 109841
+EP 109841
+DI 10.1016/j.compbiomed.2025.109841
+DT Journal Article
+PD 2025-May
+PY 2025
+AB BACKGROUND AND OBJECTIVE: Early detection of Oral Squamous Cell
+   Carcinoma (OSCC) improves survival rates, but traditional diagnostic
+   methods often produce inconsistent results. This study introduces the
+   Oral Cancer Attention Network (OCANet), a U-Net-based architecture
+   designed to enhance tumor segmentation in hematoxylin and eosin
+   (H&E)-stained images. By integrating local and global attention
+   mechanisms, OCANet captures complex cancerous patterns that existing
+   deep-learning models may overlook. A Large Language Model (LLM) analyzes
+   feature maps and Grad-CAM visualizations to improve interpretability,
+   providing insights into the model's decision-making process.
+   METHODS: OCANet incorporates the Channel and Spatial Attention Fusion
+   (CSAF) module, Squeeze-and-Excitation (SE) blocks, Atrous Spatial
+   Pyramid Pooling (ASPP), and residual connections to refine feature
+   extraction and segmentation. The model was evaluated on the Oral
+   Cavity-Derived Cancer (OCDC) and Oral Cancer Annotated (ORCA) datasets
+   and the DigestPath colon tumor dataset to assess generalizability.
+   Performance was measured using accuracy, Dice Similarity Coefficient
+   (DSC), and mean Intersection over Union (mIoU), focusing on
+   class-specific segmentation performance.
+   RESULTS: OCANet outperformed state-of-the-art models across all
+   datasets. On ORCA, it achieved 90.98% accuracy, 86.14% DSC, and 77.10%
+   mIoU. On OCDC, it reached 98.24% accuracy, 94.09% DSC, and 88.84% mIoU.
+   On DigestPath, it demonstrated strong generalization with 84.65% DSC
+   despite limited training data. The model showed superior carcinoma
+   detection performance, distinguishing cancerous from non-cancerous
+   regions with high specificity.
+   CONCLUSION: OCANet enhances tumor segmentation accuracy and
+   interpretability in histopathological images by integrating advanced
+   attention mechanisms. Combining visual and textual insights, its
+   multimodal explainability framework improves transparency while
+   supporting clinical decision-making. With strong generalization across
+   datasets and computational efficiency, OCANet presents a promising tool
+   for oral and other cancer diagnostics, particularly in resource-limited
+   settings.
+TC 0
+ZA 0
+Z8 0
+ZR 0
+ZB 0
+ZS 0
+Z9 0
+DA 2025-03-11
+UT MEDLINE:40056841
+PM 40056841
+ER
+
+PT J
+AU Khanmohammadi, R.
+   Ghanem, A. I.
+   Verdecchia, K.
+   Hall, R.
+   Elshaikh, M. A.
+   Movsas, B.
+   Bagher-Ebadian, H.
+   Chetty, I. J.
+   Ghassemi, M. M.
+   Thind, K.
+TI A Novel Localized Student-Teacher LLM for Enhanced Toxicity Extraction
+   in Radiation Oncology
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 3388
+BP E632
+EP E633
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+Z8 0
+TC 0
+ZB 0
+ZR 0
+ZA 0
+ZS 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302069
+ER
+
+PT J
+AU Ghosh, Adarsh
+   Li, Hailong
+   Trout, Andrew T.
+TI Large Language Models can Help with Biostatistics and Coding Needed in
+   Radiology Research
+SO ACADEMIC RADIOLOGY
+VL 32
+IS 2
+BP 604
+EP 611
+DI 10.1016/j.acra.2024.09.042
+EA FEB 2025
+DT Article
+PD FEB 2025
+PY 2025
+AB Introduction: Original research in radiology often involves handling
+   large datasets, data manipulation, statistical tests, and coding. Recent
+   studies show that large language models (LLMs) can solve bioinformatics
+   tasks, suggesting their potential in radiology research. This study
+   evaluates an LLM's ability to provide statistical and deep learning
+   solutions and code for radiology research. Materials and Methods: We
+   used web-based chat interfaces available for ChatGPT-4o, ChatGPT-3.5,
+   and Google Gemini. Experiment 1: Biostatistics and Data Visualization:
+   We assessed each LLMs' ability to suggest biostatistical tests and
+   generate R code for the same using a Cancer Imaging Archive dataset.
+   Prompts were based on statistical analyses from a peer-reviewed
+   manuscript. The generated code was tested in R Studio for correctness,
+   runtime errors and the ability to generate the requested visualization.
+   Experiment 2: Deep Learning: We used the RSNA-STR Pneumonia Detection
+   Challenge dataset to evaluate ChatGPT-4o and Gemini's ability to
+   generate Python code for transformer-based image classification models
+   (Vision Transformer ViT-B/16). The generated code was tested in a
+   Jupiter Notebook for functionality and run time errors. Results: Out of
+   the 8 statistical questions posed, correct statistical answers were
+   suggested for 7 (ChatGPT-4o), 6 (ChatGPT-3.5), and 5 (Gemini) scenarios.
+   The R code output by ChatGPT-4o had fewer runtime errors (6 out of the 7
+   total codes provided) compared to ChatGPT-3.5 (5/7) and Gemini (5/7).
+   Both ChatGPT4o and Gemini were able to generate visualization requested
+   with a few run time errors. Iteratively copying runtime errors from the
+   code generated by ChatGPT4o into the chat helped resolve them. Gemini
+   initially hallucinated during code generation but was able to provide
+   accurate code on restarting the experiment. ChatGPT4-o and Gemini
+   successfully generated initial Python code for deep learning tasks.
+   Errors encountered during implementation were resolved through
+   iterations using the chat interface, demonstrating LLM utility in
+   providing baseline code for further code refinement and resolving run
+   time errors. Conclusion: LLMs can assist in coding tasks for radiology
+   research, providing initial code for data visualization, statistical
+   tests, and deep learning models helping researchers with foundational
+   biostatistical knowledge. While LLM can offer a useful starting point,
+   they require users to refine and validate the code and caution is
+   necessary due to potential errors, the risk of hallucinations and data
+   privacy regulations. Summary statement: LLMs can help with coding and
+   statistical problems in radiology research. This can help primary
+   authors trouble shoot coding needed in radiology research. (c) 2024 The
+   Association of University Radiologists. Published by Elsevier Inc. All
+   rights are reserved, including those for text and data mining, AI
+   training, and similar technologies.
+ZR 0
+Z8 0
+ZA 0
+ZS 0
+ZB 1
+TC 2
+Z9 2
+DA 2025-03-03
+UT WOS:001424847700001
+PM 39406582
+ER
+
+PT J
+AU Zerunian, Marta
+   Nacci, Ilaria
+   Caruso, Damiano
+   Polici, Michela
+   Masci, Benedetta
+   De Santis, Domenico
+   Mercantini, Paolo
+   Arrivi, Giulia
+   Mazzuca, Federica
+   Paolantonio, Pasquale
+   Pilozzi, Emanuela
+   Vecchione, Andrea
+   Tarallo, Mariarita
+   Fiori, Enrico
+   Iannicelli, Elsa
+   Laghi, Andrea
+TI Is CT Radiomics Superior to Morphological Evaluation for pN0
+   Characterization? A Pilot Study in Colon Cancer
+SO CANCERS
+VL 16
+IS 3
+AR 660
+DI 10.3390/cancers16030660
+DT Article
+PD FEB 2024
+PY 2024
+AB Lymph node (LN) involvement is one of the most important prognostic
+   factors for patients with colon cancer (CC). CT morphological analysis
+   is not a reliable method to assess nodal status. Thus, the aim of this
+   study was to assess the potential added value of radiomic features
+   extracted from contrast-enhanced computed tomography (CECT) images
+   compared to morphological features when assessing regional LNs in
+   patients with pathologically confirmed stage I to stage IIC CC, in order
+   to obtain a non-invasive preoperative tool. The aim of this study was to
+   compare CT radiomics and morphological features when assessing benign
+   lymph nodes (LNs) in colon cancer (CC). This retrospective study
+   included 100 CC patients (test cohort) who underwent a preoperative CT
+   examination and were diagnosed as pN0 after surgery. Regional LNs were
+   scored with a morphological Likert scale (NODE-SCORE) and divided into
+   two groups: low likelihood (LLM: 0-2 points) and high likelihood (HLM:
+   3-7 points) of malignancy. The T-test and the Mann-Whitney test were
+   used to compare 107 radiomic features extracted from the two groups.
+   Radiomic features were also extracted from primary lesions (PLs), and
+   the receiver operating characteristic (ROC) was used to test a LN/PL
+   ratio when assessing the LN's status identified with radiomics and with
+   the NODE-SCORE. An amount of 337 LNs were divided into 167 with LLM and
+   170 with HLM. Radiomics showed 15/107 features, with a significant
+   difference (p < 0.02) between the two groups. The comparison of selected
+   features between 81 PLs and the corresponding LNs showed all significant
+   differences (p < 0.0001). According to the LN/PL ratio, the selected
+   features recognized a higher number of LNs than the NODE-SCORE (p <
+   0.001). On validation of the cohort of 20 patients (10 pN0, 10 pN2),
+   significant ROC curves were obtained for LN/PL busyness (AUC = 0.91;
+   0.69-0.99; 95% C.I.; and p < 0.001) and for LN/PL dependence entropy
+   (AUC = 0.76; 0.52-0.92; 95% C.I.; and p = 0.03). The radiomics ratio
+   between CC and LNs is more accurate for noninvasively discriminating
+   benign LNs compared to CT morphological features.
+ZS 0
+ZB 0
+Z8 0
+TC 0
+ZA 0
+ZR 0
+Z9 0
+DA 2024-02-21
+UT WOS:001161440700001
+PM 38339411
+ER
+
+PT J
+AU Fukumoto, M
+   Kurohara, A
+   Yoshimura, N
+   Yoshida, D
+   Akagi, N
+   Yoshida, S
+TI Relationship between ATP synthesis and <SUP>201</SUP>Tl uptake in
+   transformed and non-transformed cell lines
+SO NUCLEAR MEDICINE COMMUNICATIONS
+VL 19
+IS 12
+BP 1169
+EP 1175
+DI 10.1097/00006231-199812000-00009
+DT Article
+PD DEC 1998
+PY 1998
+AB Tl-201 tumour imaging is an established procedure, but little is known
+   about its biological significance in transformed and non-transformed
+   cells. In investigating the relationship between Tl-201 uptake and
+   intracellular ATP, we wished to determine whether the observed
+   difference in delayed uptake is attributable to re-uptake via Na-K
+   ATPase by using transformed (HeLa) and non-transformed (human
+   fibroblast: hFB) cell lines. In each cell line, ATP was measured using
+   the Luciferin-Luciferase method (LLM). The change in Tl-201 uptake was
+   assessed under conditions of mitochondrial suppression. Additionally, we
+   assessed whether glycolysis is involved in Tl-201 uptake under
+   conditions of mitochondrial suppression and anaerobic incubation.
+   Re-uptake via Na-K ATPase (HeLa vs hFB: 37.3 vs 24.2%) showed a clear
+   difference in delayed uptake between HeLa and hFB. With HeLa, 201Tl
+   uptake decreased biphasically with a reduction in ATP levels, whereas
+   with hFB a linear correlation was evident. Despite the suppression of
+   mitochondrial potential, a 5% glucose loading accelerated glycolysis
+   with HeLa, and increased ATP (10.0 +/- 4.0%) and Tl-201 uptake (16.2 +/-
+   3.0%). Conversely, neither ATP nor Tl-201 uptake increased with hFB. Our
+   results provide evidence that Tl-201 uptake in transformed cells is
+   related to enhanced glycolysis as well as mitochondrial ATP synthesis.
+   ((C) 1998 Lippincott Williams & Wilkins).
+TC 5
+Z8 0
+ZB 4
+ZR 1
+ZS 0
+ZA 0
+Z9 7
+DA 1998-12-01
+UT WOS:000077790100009
+PM 9885807
+ER
+
+PT J
+AU Duponchel, Ludovic
+   de Oliveira, Rodrigo Rocha
+   Motto-Ros, Vincent
+TI Large Language Models (such as ChatGPT) as Tools for Machine
+   Learning-Based Data Insights in Analytical Chemistry
+SO ANALYTICAL CHEMISTRY
+VL 97
+IS 13
+BP 6956
+EP 6961
+DI 10.1021/acs.analchem.4c05046
+EA FEB 2025
+DT Article
+PD FEB 5 2025
+PY 2025
+AB Artificial intelligence (AI), especially through the development of deep
+   learning techniques like convolutional neural networks (CNNs), has
+   revolutionized numerous fields. CNNs, introduced by Yann LeCun in the
+   1990s (Hubbard, W.; Jackel, L. D. Backpropagation Applied to Handwritten
+   Zip Code Recognition. Neural Comput. 1989, 1 (4), 541- 551.
+   https://doi.org/10.1162/neco.1989.1.4.541), have found applications in
+   healthcare for medical diagnostics, autonomous vehicles in
+   transportation, stock market prediction in finance, and image
+   recognition in computer vision to name just a few. Similarly, in
+   analytical chemistry, deep learning has enhanced data analysis from
+   techniques like MS spectrometry, NMR, fluorescence spectroscopy, and
+   chromatography. Another AI branch, Natural Language Processing (NLP),
+   has surged recently with the advent of Large Language Models (LLMs),
+   such as OpenAI's ChatGPT. This paper demonstrates the application of an
+   LLM via a smartphone to conduct multivariate data analyses, in an
+   interactive conversational manner, of a hyper-spectral imaging data set
+   from laser-induced breakdown spectroscopy (LIBS). We demonstrate the
+   potential of LLMs to process and analyze data sets, which automatically
+   generate and execute code in response to user queries, and anticipate
+   their growing role in the future of analytical chemistry.
+ZA 0
+ZS 0
+ZR 0
+Z8 0
+ZB 0
+TC 2
+Z9 2
+DA 2025-02-14
+UT WOS:001416057000001
+PM 39907023
+ER
+
+PT C
+AU Sun, Di
+   Hadjiiski, Lubomir
+   Gormley, John
+   Chan, Heang-Ping
+   Caoili, Elaine M.
+   Cohan, Richard H.
+   Alva, Ajjai
+   Mihalcea, Rada
+   Zhou, Chuan
+   Gulani, Vikas
+BE Chen, W
+   Astley, SM
+TI Large Language Model-Assisted Information Extraction from Clinical
+   Reports for Survival Prediction of Bladder Cancer Patients
+SO COMPUTER-AIDED DIAGNOSIS, MEDICAL IMAGING 2024
+SE Progress in Biomedical Optics and Imaging
+VL 12927
+AR 129271V
+DI 10.1117/12.3008751
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB We are developing five-year survival prediction models for bladder
+   cancer patients who underwent neoadjuvant chemotherapy and radical
+   cystectomy. This study investigated the feasibility of using large
+   language models (Vicuna and Dolly) to extract clinical descriptors from
+   reports for survival prediction with a nomogram model, and with or
+   without further combining with radiomics and deep-learning descriptors
+   from CTU images using BPNNs. The models were developed and validated
+   using data of 163 patients collected with IRB approval. The developed
+   models included C (based on clinical descriptors and nomogram), R
+   (radiomics descriptors), D (deep-learning descriptor), CR (clinical and
+   radiomics descriptors), CD (clinical and deep-learning descriptors), and
+   CRD (clinical, radiomics, and deep-learning descriptors). The developed
+   models achieved the following AUCs on test set: 0.82 +/- 0.06 (C:
+   manually labeled reference), 0.73 +/- 0.07 (R), and 0.71 +/- 0.07 (D),
+   0.80 +/- 0.06 (C: User1 Vicuna-C2 labeled), 0.83 +/- 0.05 (C: User1
+   Dolly labeled), 0.78 +/- 0.06 (C: User2 Vicuna-C2 labeled), and 0.85 +/-
+   0.05 (C: User2 Dolly-C2 labeled). For the combined models, the AUCs were
+   (1) manually labeled reference: 0.86 +/- 0.05 (CR), 0.86 +/- 0.05 (CD),
+   and 0.87 +/- 0.05 (CRD), (2) CRD performance on Vicuna-C2 labeled: 0.86
+   +/- 0.05 (User1) and 0.84 +/- 0.05 (User2); (3) CRD performance on
+   Dolly-C2 labeled: 0.88 +/- 0.05 (User1) and 0.89 +/- 0.04 (User2). The
+   results showed that the LLMs extracted three clinical descriptors with
+   accuracy ranging from 77% to 100% relative to manual extraction, and the
+   LLMs run by two users had similar performance. The combined models
+   outperformed individual models, and using LLM-extracted clinical
+   descriptors achieved similar performance as manually extracted
+   descriptors.
+CT Conference on Medical Imaging - Computer-Aided Diagnosis
+CY FEB 19-22, 2024
+CL San Diego, CA
+SP SPIE; Siemens Healthineers
+ZA 0
+Z8 0
+TC 0
+ZB 0
+ZS 0
+ZR 0
+Z9 0
+DA 2024-05-16
+UT WOS:001208134600062
+ER
+
+PT J
+AU Chen, Li-Ching
+   Zack, Travis
+   Demirci, Arda
+   Sushil, Madhumita
+   Miao, Brenda
+   Kasap, Corynn
+   Butte, Atul
+   Collisson, Eric A.
+   Hong, Julian C.
+TI Assessing Large Language Models for Oncology Data Inference From
+   Radiology Reports
+SO JCO CLINICAL CANCER INFORMATICS
+VL 8
+AR e2400126
+DI 10.1200/CCI.24.00126
+DT Article
+PD DEC 2024
+PY 2024
+AB PURPOSEWe examined the effectiveness of proprietary and open large
+   language models (LLMs) in detecting disease presence, location, and
+   treatment response in pancreatic cancer from radiology reports.METHODSWe
+   analyzed 203 deidentified radiology reports, manually annotated for
+   disease status, location, and indeterminate nodules needing follow-up.
+   Using generative pre-trained transformer (GPT)-4, GPT-3.5-turbo, and
+   open models such as Gemma-7B and Llama3-8B, we employed strategies such
+   as ablation and prompt engineering to boost accuracy. Discrepancies
+   between human and model interpretations were reviewed by a secondary
+   oncologist.RESULTSAmong 164 patients with pancreatic tumor, GPT-4 showed
+   the highest accuracy in inferring disease status, achieving a 75.5%
+   correctness (F1-micro). Open models Mistral-7B and Llama3-8B performed
+   comparably, with accuracies of 68.6% and 61.4%, respectively. Mistral-7B
+   excelled in deriving correct inferences from objective findings
+   directly. Most tested models demonstrated proficiency in identifying
+   disease containing anatomic locations from a list of choices, with GPT-4
+   and Llama3-8B showing near-parity in precision and recall for disease
+   site identification. However, open models struggled with differentiating
+   benign from malignant postsurgical changes, affecting their precision in
+   identifying findings indeterminate for cancer. A secondary review
+   occasionally favored GPT-3.5's interpretations, indicating the
+   variability in human judgment.CONCLUSIONLLMs, especially GPT-4, are
+   proficient in deriving oncologic insights from radiology reports. Their
+   performance is enhanced by effective summarization strategies,
+   demonstrating their potential in clinical support and health care
+   analytics. This study also underscores the possibility of zero-shot open
+   model utility in environments where proprietary models are restricted.
+   Finally, by providing a set of annotated radiology reports, this paper
+   presents a valuable data set for further LLM research in oncology.
+ZB 0
+TC 2
+Z8 0
+ZS 0
+ZA 0
+ZR 0
+Z9 2
+DA 2024-12-22
+UT WOS:001379072100001
+PM 39661914
+ER
+
+PT J
+AU Cao, Zhenjie
+   Deng, Zhuo
+   Ma, Jie
+   Hu, Jintao
+   Ma, Lan
+TI MammoVLM: A generative large vision-language model for
+   mammography-related diagnostic assistance
+SO INFORMATION FUSION
+VL 118
+AR 102998
+DI 10.1016/j.inffus.2025.102998
+EA FEB 2025
+DT Article
+PD JUN 2025
+PY 2025
+AB Inspired by the recent success of large language models (LLMs) in the
+   general domain, many large multimodal models, such as vision-language
+   models, have been developed to tackle problems across modalities. In the
+   realm of breast cancer, which is now the most deadly cancer worldwide,
+   mammography serves as the primary screening approach for early
+   detection. There is a practical need for patients to have a diagnostic
+   assistant for their follow-up Q&A regarding their mammography screening.
+   We believe large vision-language models have great potential to address
+   this need. However, applying off-the-shelf large models directly in
+   medical scenarios normally provides unsatisfactory results. In this
+   work, we present MammoVLM, a large vision-language model to assist
+   patients with problems related to mammograms. MammoVLM has a sparse
+   visual-MoE module that attends to different encoders based on the
+   densities of the input image. Besides, we build a novel projection
+   module, UMiCon, that leverages unimodal and multimodal contrastive
+   learning training strategies to improve the alignment between visual and
+   textual features. GLM-4 9B, an open-source LLM, is attached after
+   previous multimodal modules to generate answers after supervised
+   fine-tuning. We build our own dataset with 33,630 mammogram studies with
+   diagnostic reports from 30,495 patients. MammoVLM has shown
+   extraordinary potential in multi-round interactive dialogues. Our
+   experimental results show that it has not only beaten other leading VLMs
+   but also shows a professional capability similar to that of a junior
+   radiologist.
+ZA 0
+TC 0
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+Z9 0
+DA 2025-03-01
+UT WOS:001428238900001
+ER
+
+PT J
+AU Wu Daocheng
+   Wan Mingxi
+TI Preparation of the core-shell structure adriamycin lipiodol
+   microemulsions and their synergistic anti-tumor effects with
+   diethyldithiocarbamate in vivo
+SO BIOMEDICINE & PHARMACOTHERAPY
+VL 64
+IS 9
+BP 615
+EP 623
+DI 10.1016/j.biopha.2010.03.001
+DT Article
+PD NOV 2010
+PY 2010
+AB We prepared the core-shell structure adriamycin lipiodol microemulsions
+   (ADM-CSLMs) and evaluated their in vivo antitumor effects in combination
+   with Diethyldithiocarbamate (DDC). Two types of ADM-CSLMs, adriamycin
+   liposome-lipiodol inicroemulsion(ADM-LLM) and adriamycin microsphere
+   lipiodol microemulsion (ADM-MLM), were prepared through the
+   emulsification method. The drug loading and encapsulation efficiency of
+   ADM-CSLMs were measured by the high-performance liquid chromatograph
+   (HPLC). The size and shape of the ADM-CSLMs were determined by an atom
+   force microscopy (AFM), a transmission electron microscopy (TEM), and a
+   particle size analyzer, respectively. The synergistic effects of DDC and
+   ADM-CSLMs for cancer treatment of carcinoma drug-resistance cell was
+   evaluated by the MTI' method, the activation of superoxide dismutase
+   (SOD) was detected by chemiluminescence, and the ADM accumulation in
+   cells was measured by flow cytometry. Walker-256 carcinoma was
+   transplanted to the livers of the male SD rats, ADM-CSLMs were
+   administrated to the livers of the rats by intervention hepatic artery
+   embolization through microsurgery. The tumor growth and animal survival
+   were evaluated. The results show that the average diameter of ADM-LLM
+   and ADM-MLM were 4.23 +/- 1.2 mu m and 4.67 +/- 1.4 mu m, respectively,
+   and their ADM encapsulation efficiency were 83.7% and 87.2% with respect
+   to loading efficiency of 82 mu g/ml and 91 mu g/ml. The tumor growth and
+   animal survival in two of the ADM-CSLMs combined with DDC groups were
+   significantly higher than that of ADM only treatment, ADM liposome
+   combined with DDC (P < 0.01), as well as the ADM microsphere combined
+   with DDC (P < 0.01). Therefore, ADM-CSLMs are useful carriers for the
+   treatment of carcinoma and their antitumor effect can be enhanced by DDC
+   in a suitable concentration. (C) 2010 Elsevier Masson SAS. All rights
+   reserved.
+Z8 0
+ZS 0
+ZR 0
+ZB 1
+ZA 0
+TC 6
+Z9 6
+DA 2010-11-01
+UT WOS:000284862000007
+PM 20888179
+ER
+
+PT J
+AU Chen, Kun
+   Xu, Wengui
+   Li, Xiaofeng
+TI The Potential of Gemini and GPTs for Structured Report Generation based
+   on Free-Text <SUP>18</SUP>F-FDG PET/CT Breast Cancer Reports
+SO ACADEMIC RADIOLOGY
+VL 32
+IS 2
+BP 624
+EP 633
+DI 10.1016/j.acra.2024.08.052
+EA FEB 2025
+DT Article
+PD FEB 2025
+PY 2025
+AB Rationale and objective: To compare the performance of large language
+   model (LLM) based Gemini and Generative Pre-trained Transformers (GPTs)
+   in data mining and generating structured reports based on free-text
+   PET/CT reports for breast cancer after user-defined tasks.
+   Materials and methods: Breast cancer patients (mean age, 50 years +/- 11
+   [SD]; all female) who underwent consecutive F-18-FDG PET/ CT for
+   follow-up between July 2005 and October 2023 were retrospectively
+   included in the study. A total of twenty reports from 10 patients were
+   used to train user-defined text prompts for Gemini and GPTs, by which
+   structured PET/CT reports were generated. The natural language
+   processing (NLP) generated structured reports and the structured reports
+   annotated by nuclear medicine physicians were compared in terms of data
+   extraction accuracy and capacity of progress decision-making.
+   Statistical methods, including chisquare test, McNemar test and paired
+   samples t-test, were employed in the study. Results: The
+   structured PET/CT reports for 131 patients were generated by using the
+   two NLP techniques, including Gemini and GPTs. In general, GPTs
+   exhibited superiority over Gemini in data mining in terms of primary
+   lesion size (89.6% vs. 53.8%, p < 0.001) and metastatic lesions (96.3%
+   vs 89.6%, p < 0.001). Moreover, GPTs outperformed Gemini in making
+   decision for progress (p < 0.001) and semantic similarity (F1 score
+   0.930 vs 0.907, p < 0.001) for reports. Conclusion: GPTs
+   outperformed Gemini in generating structured reports based on free-text
+   PET/CT reports, which is potentially applied in clinical practice.
+ZB 2
+TC 4
+ZS 0
+ZR 0
+Z8 1
+ZA 0
+Z9 4
+DA 2025-02-26
+UT WOS:001426380600001
+PM 39245597
+ER
+
+PT J
+AU Li, Ronghao
+   Mao, Shuai
+   Zhu, Congmin
+   Yang, Yingliang
+   Tan, Chunting
+   Li, Li
+   Mu, Xiangdong
+   Liu, Honglei
+   Yang, Yuqing
+TI Enhancing Pulmonary Disease Prediction Using Large Language Models With
+   Feature Summarization and Hybrid Retrieval-Augmented Generation:
+   Multicenter Methodological Study Based on Radiology Report.
+SO Journal of medical Internet research
+VL 27
+BP e72638
+EP e72638
+DI 10.2196/72638
+DT Journal Article; Multicenter Study
+PD 2025 Jun 11
+PY 2025
+AB Background: The rapid advancements in natural language processing,
+   particularly the development of large language models (LLMs), have
+   opened new avenues for managing complex clinical text data. However, the
+   inherent complexity and specificity of medical texts present significant
+   challenges for the practical application of prompt engineering in
+   diagnostic tasks.
+   Objective: This paper explores LLMs with new prompt engineering
+   technology to enhance model interpretability and improve the prediction
+   performance of pulmonary disease based on a traditional deep learning
+   model.
+   Methods: A retrospective dataset including 2965 chest CT radiology
+   reports was constructed. The reports were from 4 cohorts, namely,
+   healthy individuals and patients with pulmonary tuberculosis, lung
+   cancer, and pneumonia. Then, a novel prompt engineering strategy that
+   integrates feature summarization (F-Sum), chain of thought (CoT)
+   reasoning, and a hybrid retrieval-augmented generation (RAG) framework
+   was proposed. A feature summarization approach, leveraging term
+   frequency-inverse document frequency (TF-IDF) and K-means clustering,
+   was used to extract and distill key radiological findings related to 3
+   diseases. Simultaneously, the hybrid RAG framework combined dense and
+   sparse vector representations to enhance LLMs' comprehension of
+   disease-related text. In total, 3 state-of-the-art LLMs, GLM-4-Plus,
+   GLM-4-air (Zhipu AI), and GPT-4o (OpenAI), were integrated with the
+   prompt strategy to evaluate the efficiency in recognizing pneumonia,
+   tuberculosis, and lung cancer. The traditional deep learning model, BERT
+   (Bidirectional Encoder Representations from Transformers), was also
+   compared to assess the superiority of LLMs. Finally, the proposed method
+   was tested on an external validation dataset consisted of 343 chest
+   computed tomography (CT) report from another hospital.
+   Results: Compared with BERT-based prediction model and various other
+   prompt engineering techniques, our method with GLM-4-Plus achieved the
+   best performance on test dataset, attaining an F1-score of 0.89 and
+   accuracy of 0.89. On the external validation dataset, F1-score (0.86)
+   and accuracy (0.92) of the proposed method with GPT-4o were the highest.
+   Compared to the popular strategy with manually selected typical samples
+   (few-shot) and CoT designed by doctors (F1-score=0.83 and
+   accuracy=0.83), the proposed method that summarized disease
+   characteristics (F-Sum) based on LLM and automatically generated CoT
+   performed better (F1-score=0.89 and accuracy=0.90). Although the
+   BERT-based model got similar results on the test dataset (F1-score=0.85
+   and accuracy=0.88), its predictive performance significantly decreased
+   on the external validation set (F1-score=0.48 and accuracy=0.78).
+   Conclusions: These findings highlight the potential of LLMs to
+   revolutionize pulmonary disease prediction, particularly in
+   resource-constrained settings, by surpassing traditional models in both
+   accuracy and flexibility. The proposed prompt engineering strategy not
+   only improves predictive performance but also enhances the adaptability
+   of LLMs in complex medical contexts, offering a promising tool for
+   advancing disease diagnosis and clinical decision-making.
+ZS 0
+TC 0
+Z8 0
+ZR 0
+ZB 0
+ZA 0
+Z9 0
+DA 2025-06-14
+UT MEDLINE:40499132
+PM 40499132
+ER
+
+PT J
+AU Teramoto, Atsushi
+   Michiba, Ayano
+   Kiriyama, Yuka
+   Tsukamoto, Tetsuya
+   Imaizumi, Kazuyoshi
+   Fujita, Hiroshi
+TI Automated Description Generation of Cytologic Findings for Lung
+   Cytological Images Using a Pretrained Vision Model and Dual Text
+   Decoders: Preliminary Study
+SO CYTOPATHOLOGY
+VL 36
+IS 3
+BP 240
+EP 249
+DI 10.1111/cyt.13474
+EA FEB 2025
+DT Article
+PD MAY 2025
+PY 2025
+AB ObjectiveCytology plays a crucial role in lung cancer diagnosis.
+   Pulmonary cytology involves cell morphological characterisation in the
+   specimen and reporting the corresponding findings, which are extremely
+   burdensome tasks. In this study, we propose a technique to generate
+   cytologic findings from for cytologic images to assist in the reporting
+   of pulmonary cytology.MethodsFor this study, 801 patch images were
+   retrieved using cytology specimens collected from 206 patients; the
+   findings were assigned to each image as a dataset for generating
+   cytologic findings. The proposed method consists of a vision model and
+   dual text decoders. In the former, a convolutional neural network (CNN)
+   is used to classify a given image as benign or malignant, and the
+   features related to the image are extracted from the intermediate layer.
+   Independent text decoders for benign and malignant cells are prepared
+   for text generation, and the text decoder switches according to the CNN
+   classification results. The text decoder is configured using a
+   transformer that uses the features obtained from the CNN for generating
+   findings.ResultsThe sensitivity and specificity were 100% and 96.4%,
+   respectively, for automated benign and malignant case classification,
+   and the saliency map indicated characteristic benign and malignant
+   areas. The grammar and style of the generated texts were confirmed
+   correct, achieving a BLEU-4 score of 0.828, reflecting high degree of
+   agreement with the gold standard, outperforming existing LLM-based
+   image-captioning methods and single-text-decoder ablation
+   model.ConclusionExperimental results indicate that the proposed method
+   is useful for pulmonary cytology classification and generation of
+   cytologic findings.
+ZR 0
+Z8 0
+ZA 0
+ZS 0
+TC 1
+ZB 0
+Z9 1
+DA 2025-02-14
+UT WOS:001415308400001
+PM 39918342
+ER
+
+PT J
+AU Schmidl, Benedikt
+   Hoch, Cosima C.
+   Walter, Robert
+   Wirth, Markus
+   Wollenberg, Barbara
+   Hussain, Timon
+TI Assessing the value of artificial intelligence-based image analysis for
+   pre-operative surgical planning of neck dissections and iENE detection
+   in head and neck cancer patients
+SO DISCOVER ONCOLOGY
+VL 16
+IS 1
+AR 956
+DI 10.1007/s12672-025-02798-4
+DT Article
+PD MAY 30 2025
+PY 2025
+AB ObjectivesAccurate preoperative detection and analysis of lymph node
+   metastasis (LNM) in head and neck squamous cell carcinoma (HNSCC) is
+   essential for the surgical planning and execution of a neck dissection
+   and may directly affect the morbidity and prognosis of patients.
+   Additionally, predicting extranodal extension (ENE) using pre-operative
+   imaging could be particularly valuable in oropharyngeal HPV-positive
+   squamous cell carcinoma, enabling more accurate patient counseling,
+   allowing the decision to favor primary chemoradiotherapy over immediate
+   neck dissection when appropriate. Currently, radiological images are
+   evaluated by radiologists and head and neck oncologists; and automated
+   image interpretation is not part of the current standard of care.
+   Therefore, the value of preoperative image recognition by artificial
+   intelligence (AI) with the large language model (LLM) ChatGPT-4 V was
+   evaluated in this exploratory study based on neck computed tomography
+   (CT) images of HNSCC patients with cervical LNM, and corresponding
+   images without LNM. The objective of this study was to firstly assess
+   the preoperative rater accuracy by comparing clinician assessments of
+   imaging-detected extranodal extension (iENE) and the extent of neck
+   dissection to AI predictions, and secondly to evaluate the
+   pathology-based accuracy by comparing AI predictions to final
+   histopathological outcomes.Materials and methods45 preoperative CT scans
+   were retrospectively analyzed in this study: 15 cases in which a
+   selective neck dissection (sND) was performed, 15 cases with ensuing
+   radical neck dissection (mrND), and 15 cases without LNM (sND). Of note,
+   image analysis was based on three single images provided to both
+   ChatGPT-4 V and the head and neck surgeons as reviewers. Final
+   pathological characteristics were available in all cases as HNSCC
+   patients had undergone surgery. ChatGPT-4 V was tasked with providing
+   the extent of LNM in the preoperative CT scans and with providing a
+   recommendation for the extent of neck dissection and the detection of
+   iENE. The diagnostic performance of ChatGPT-4 V was reviewed
+   independently by two head and neck surgeons with its accuracy,
+   sensitivity, and specificity being assessed.ResultsIn this study,
+   ChatGPT-4 V reached a sensitivity of 100% and a specificity of 34.09% in
+   identifying the need for a radical neck dissection based on neck CT
+   images. The sensitivity and specificity of detecting iENE was 100% and
+   34.15%, respectively. Both human reviewers achieved higher specificity.
+   Notably, ChatGPT-4 V also recommended a mrND and detected iENE on CT
+   images without any cervical LNM.DiscussionIn this exploratory study of
+   45 preoperative CT Neck scans before a neck dissection, ChatGPT-4 V
+   substantially overestimated the degree and severity of lymph node
+   metastasis in head and neck cancer. While these results suggest that
+   ChatGPT-4 V may not yet be a tool providing added value for surgical
+   planning in head and neck cancer, the unparalleled speed of analysis and
+   well-founded reasoning provided suggests that AI tools may provide added
+   value in the future.
+ZR 0
+TC 0
+ZB 0
+ZA 0
+Z8 0
+ZS 0
+Z9 0
+DA 2025-06-05
+UT WOS:001499241000005
+PM 40445459
+ER
+
+PT J
+AU Yang, Z.
+   Kazemimoghadam, M.
+   Wang, L.
+   Szalkowski, G. A.
+   Chuang, C. F.
+   Liu, L.
+   Soltys, S. G.
+   Pollom, E.
+   Rahimy, E.
+   Jiang, H.
+   Park, D.
+   Persad, A.
+   Hori, Y.
+   Fu, J.
+   Romero, I. O.
+   Zalavari, L.
+   Chen, M.
+   Lu, W.
+   Gu, X.
+TI A Deep Learning-Driven Framework for Large Language Model -Assisted
+   Automatic Target Volume Localization and Delineation for Enhancing
+   Spinal Metastases Stereotactic Body Radiotherapy Workflow
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 195
+BP S61
+EP S62
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+TC 0
+ZA 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892302564
+ER
+
+PT J
+AU Ding, Liya
+   Fan, Lei
+   Shen, Miao
+   Wang, Yawen
+   Sheng, Kaiqin
+   Zou, Zijuan
+   An, Huimin
+   Jiang, Zhinong
+TI Evaluating ChatGPT's diagnostic potential for pathology images
+SO FRONTIERS IN MEDICINE
+VL 11
+AR 1507203
+DI 10.3389/fmed.2024.1507203
+DT Article
+PD JAN 23 2025
+PY 2025
+AB Background Chat Generative Pretrained Transformer (ChatGPT) is a type of
+   large language model (LLM) developed by OpenAI, known for its extensive
+   knowledge base and interactive capabilities. These attributes make it a
+   valuable tool in the medical field, particularly for tasks such as
+   answering medical questions, drafting clinical notes, and optimizing the
+   generation of radiology reports. However, keeping accuracy in medical
+   contexts is the biggest challenge to employing GPT-4 in a clinical
+   setting. This study aims to investigate the accuracy of GPT-4, which can
+   process both text and image inputs, in generating diagnoses from
+   pathological images.Methods This study analyzed 44 histopathological
+   images from 16 organs and 100 colorectal biopsy photomicrographs. The
+   initial evaluation was conducted using the standard GPT-4 model in
+   January 2024, with a subsequent re-evaluation performed in July 2024.
+   The diagnostic accuracy of GPT-4 was assessed by comparing its outputs
+   to a reference standard using statistical measures. Additionally, four
+   pathologists independently reviewed the same images to compare their
+   diagnoses with the model's outputs. Both scanned and photographed images
+   were tested to evaluate GPT-4's generalization ability across different
+   image types.Results GPT-4 achieved an overall accuracy of 0.64 in
+   identifying tumor imaging and tissue origins. For colon polyp
+   classification, accuracy varied from 0.57 to 0.75 in different subtypes.
+   The model achieved 0.88 accuracy in distinguishing low-grade from
+   high-grade dysplasia and 0.75 in distinguishing high-grade dysplasia
+   from adenocarcinoma, with a high sensitivity in detecting
+   adenocarcinoma. Consistency between initial and follow-up evaluations
+   showed slight to moderate agreement, with Kappa values ranging from
+   0.204 to 0.375.Conclusion GPT-4 demonstrates the ability to diagnose
+   pathological images, showing improved performance over earlier versions.
+   Its diagnostic accuracy in cancer is comparable to that of pathology
+   residents. These findings suggest that GPT-4 holds promise as a
+   supportive tool in pathology diagnostics, offering the potential to
+   assist pathologists in routine diagnostic workflows.
+ZS 0
+Z8 0
+TC 0
+ZR 0
+ZB 0
+ZA 0
+Z9 0
+DA 2025-02-10
+UT WOS:001414088100001
+PM 39917264
+ER
+
+PT J
+AU Schmidl, Benedikt
+   Huetten, Tobias
+   Pigorsch, Steffi
+   Stoegbauer, Fabian
+   Hoch, Cosima C.
+   Hussain, Timon
+   Wollenberg, Barbara
+   Wirth, Markus
+TI Artificial intelligence for image recognition in diagnosing oral and
+   oropharyngeal cancer and leukoplakia
+SO SCIENTIFIC REPORTS
+VL 15
+IS 1
+AR 3625
+DI 10.1038/s41598-025-85920-4
+DT Article
+PD JAN 29 2025
+PY 2025
+AB Visual diagnosis is one of the key features of squamous cell carcinoma
+   of the oral cavity (OSCC) and oropharynx (OPSCC), both subsets of head
+   and neck squamous cell carcinoma (HNSCC) with a heterogeneous clinical
+   appearance. Advancements in artificial intelligence led to Image
+   recognition being introduced recently into large language models (LLMs)
+   such as ChatGPT 4.0. This exploratory study, for the first time,
+   evaluated the application of image recognition by ChatGPT to diagnose
+   squamous cell carcinoma and leukoplakia based on clinical images, with
+   images without any lesion as a control group. A total of 45 clinical
+   images were analyzed, comprising 15 cases each of SCC, leukoplakia, and
+   non-lesion images. ChatGPT 4.0 was tasked with providing the most likely
+   diagnosis based on these images in scenario one. In scenario two the
+   image and the clinical history were provided, whereas in scenario three
+   only the clinical history was given. The results and the accuracy of the
+   LLM were rated by two independent reviewers and the overall performance
+   was evaluated using the modified Artificial Intelligence Performance
+   Index (AIPI. In this study, ChatGPT 4.0 demonstrated the ability to
+   correctly identify leukoplakia cases using image recognition alone,
+   while the ability to diagnose SCC was insufficient, but improved by
+   including the clinical history in the prompt. Providing only the
+   clinical history resulted in a misclassification of most leukoplakia and
+   some SCC cases. Oral cavity lesions were more likely to be diagnosed
+   correctly. In this exploratory study of 45 images of oral lesions,
+   ChatGPT 4.0 demonstrated a convincing performance for detecting SCC only
+   when the clinical history was added, whereas Leukoplakia was detected
+   solely by image recognition. ChatGPT is therefore currently insufficient
+   for reliable OPSCC and OSCC diagnosis, but further technological
+   advancements may pave the way for the use in the clinical setting.
+ZR 0
+ZS 0
+Z8 0
+TC 2
+ZA 0
+ZB 0
+Z9 2
+DA 2025-02-09
+UT WOS:001410929000012
+PM 39880876
+ER
+
+PT J
+AU Weisman, Dan
+   Sugarman, Alanna
+   Huang, Yue Ming
+   Gelberg, Lillian
+   Ganz, Patricia A
+   Comulada, Warren Scott
+TI Development of a GPT-4-Powered Virtual Simulated Patient and
+   Communication Training Platform for Medical Students to Practice
+   Discussing Abnormal Mammogram Results With Patients: Multiphase Study.
+SO JMIR formative research
+VL 9
+BP e65670
+EP e65670
+DI 10.2196/65670
+DT Journal Article
+PD 2025 Apr 17
+PY 2025
+AB BACKGROUND: Standardized patients (SPs) prepare medical students for
+   difficult conversations with patients. Despite their value, SP-based
+   simulation training is constrained by available resources and competing
+   clinical demands. Researchers are turning to artificial intelligence and
+   large language models, such as generative pretrained transformers, to
+   create communication training that incorporates virtual simulated
+   patients (VSPs). GPT-4 is a large language model advance allowing
+   developers to design virtual simulation scenarios using text-based
+   prompts instead of relying on branching path simulations with
+   prescripted dialogue. These nascent developmental practices have not
+   taken root in the literature to guide other researchers in developing
+   their own simulations.
+   OBJECTIVE: This study aims to describe our developmental process and
+   lessons learned for creating a GPT-4-driven VSP. We designed the VSP to
+   help medical student learners rehearse discussing abnormal mammography
+   results with a patient as a primary care physician (PCP). We aimed to
+   assess GPT-4's ability to generate appropriate VSP responses to learners
+   during spoken conversations and provide appropriate feedback on learner
+   performance.
+   METHODS: A research team comprised of physicians, a medical student, an
+   educator, an SP program director, a learning experience designer, and a
+   health care researcher conducted the study. A formative phase with
+   in-depth knowledge user interviews informed development, followed by a
+   development phase to create the virtual training module. The team
+   conducted interviews with 5 medical students, 5 PCPs, and 5 breast
+   cancer survivors. They then developed a VSP using simulation authoring
+   software and provided the GPT-4-enabled VSP with an initial prompt
+   consisting of a scenario description, emotional state, and expectations
+   for learner dialogue. It was iteratively refined through an agile design
+   process involving repeated cycles of testing, documenting issues, and
+   revising the prompt. As an exploratory feature, the simulation used
+   GPT-4 to provide written feedback to learners about their performance
+   communicating with the VSP and their adherence to guidelines for
+   difficult conversations.
+   RESULTS: In-depth interviews helped establish the appropriate timing,
+   mode of communication, and protocol for conversations between PCPs and
+   patients during the breast cancer screening process. The scenario
+   simulated a telephone call between a physician and patient to discuss
+   the abnormal results of a diagnostic mammogram that that indicated a
+   need for a biopsy. Preliminary testing was promising. The VSP asked
+   sensible questions about their mammography results and responded to
+   learner inquiries using a voice replete with appropriate emotional
+   inflections. GPT-4 generated performance feedback that successfully
+   identified strengths and areas for improvement using relevant quotes
+   from the learner-VSP conversation, but it occasionally misidentified
+   learner adherence to communication protocols.
+   CONCLUSIONS: GPT-4 streamlined development and facilitated more dynamic,
+   humanlike interactions between learners and the VSP compared to
+   branching path simulations. For the next steps, we will pilot-test the
+   VSP with medical students to evaluate its feasibility and acceptability.
+ZR 0
+ZB 0
+TC 0
+ZS 0
+Z8 0
+ZA 0
+Z9 0
+DA 2025-04-20
+UT MEDLINE:40246299
+PM 40246299
+ER
+
+PT C
+AU Sharma, Manish
+   Farough, Samira
+   Burkett, Andre
+   Prasanth, Jerome
+   El-Shafeey, Nabil
+   Zygadlo, Dominic
+   Dunn, Chera
+   Korn, Ron
+BE Yoshida, H
+   Wu, S
+TI Enhancing interpretation assistance by real-time query resolution in
+   BICR of Oncology Clinical Trials by leveraging ChatGPT bots
+SO IMAGING INFORMATICS FOR HEALTHCARE, RESEARCH, AND APPLICATIONS, MEDICAL
+   IMAGING 2024
+SE Proceedings of SPIE
+VL 12931
+AR 1293117
+DI 10.1117/12.3011602
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Purpose: Blinded Independent Central Review (BICR) is pivotal in
+   maintaining unbiased assessment in oncology clinical trials employing
+   various assessment criteria like Response Evaluation Criteria In Solid
+   Tumors (RECIST) in clinical trials framework. This paper emphasizes the
+   potential of Large Language Models (LLMs) such as OpenAI's GPT-4 and
+   ChatGPT trained on clinical trials' documents and other reader training
+   materials, to significantly improve interpretation assistance and
+   real-time query resolution. During central review process these
+   documents are easily accessible to readers but sometimes, given that
+   most readers read on multiple ongoing clinical trials on regular basis,
+   it is a daunting task to search details like trial design, endpoints and
+   specific reader rules. Through various pre-trained frameworks using
+   ChatGPT Application Programming Interface (API), an AI-based chatbot can
+   be used for helping readers saving time by providing accurate study
+   design related questions based on uploaded training documents. If
+   successful, this analysis can open another novel implementation for LLMs
+   (or ChatGPT) in clinical research and medical imaging.
+   Methods: This prospective study involved the review of study design and
+   protocol available from clinicaltrials.gov database maintained by The
+   National Library of Medicine (NLM) at the National Institutes of Health
+   (NIH). ClinicalTrials.gov is a registry of clinical trials that contains
+   information on clinical studies funded by the NIH, other federal
+   agencies, and private industry. The database includes over 444,000
+   trials from 221 countries. The NLM works with the US Food and Drug
+   Administration (FDA) to develop and maintain the database. The ChatGPT
+   based Chatbot was trained on clinical trial design data from respective
+   studies to grasp the intricacies of assessment criteria, patient
+   population, inclusion / exclusion criteria and other assessment nuances,
+   as applicable. Fine-tuning with prompt engineering ensured Chatbot to
+   understand the language and context specific to BICR. The resulting
+   models serve as intelligent assistants to provide a user-friendly
+   interface for reviewers. Reviewers can engage with the chatbot in
+   natural language, obtaining clarifications on assessment guidelines,
+   terminology, and complex cases. To train the Chatbot, we searched for
+   Lung Cancer studies with following specifications: "Completed Studies |
+   Studies With Results | Interventional Studies | Lung Cancer | Phase 3 |
+   Study Protocols | Statistical Analysis Plans (SAPs)" from the
+   clinicaltrials.gov website. Without any bias, we selected the first 3
+   studies in search results for our prospective study and 7 questions to
+   ask, representative of commonly encountered queries for readers.
+   Results: The algorithm supported by ChatGPT was evaluated against a Gold
+   Standard medical opinion, determined by a board-certified radiologist
+   with over 20 years of experience in the BICR process. The Chatbot
+   provided immediate, contextually accurate insights for all the questions
+   across 3 studies. The trick questions which did not have the answers,
+   data or references in the provided text were rightly called out by the
+   Chatbot, suggesting the user to check with document or study team.
+   Though sometimes, in addition to referencing the study team or
+   documents, it did provide a clinical practice or general criteria
+   related feedback. Real-time query resolution reduces response time,
+   preventing delays in assessment and decision-making.
+   Conclusions: LLMs can streamline training by offering on-the-spot
+   explanations and references, enhancing reviewer proficiency and
+   efficiency. By acting as interactive chatbots, LLMs have immense
+   potential to improve quality and efficiency by offering contextual
+   guidance and expedited responses, ultimately enhancing decision-making
+   and study efficiency.
+CT Conference on Medical Imaging - Imaging Informatics for Healthcare,
+   Research, and Applications
+CY FEB 19-21, 2024
+CL San Diego, CA
+SP SPIE; Amer Assoc Physicists Med; Radiol Soc N Amer; World Mol Imaging
+   Soc; Soc Imaging Informat Med; Int Fdn Comp Assisted Radiol & Surg; Med
+   Image Percept Soc
+ZR 0
+Z8 0
+ZS 0
+TC 0
+ZB 0
+ZA 0
+Z9 0
+DA 2024-05-31
+UT WOS:001219280700038
+ER
+
+PT J
+AU Bhayana, Rajesh
+   Nanda, Bipin
+   Dehkharghanian, Taher
+   Deng, Yangqing
+   Bhambra, Nishaant
+   Elias, Gavin
+   Datta, Daksh
+   Kambadakone, Avinash
+   Shwaartz, Chaya G.
+   Moulton, Carol-Anne
+   Henault, David
+   Gallinger, Steven
+   Krishna, Satheesh
+TI Large Language Models for Automated Synoptic Reports and Resectability
+   Categorization in Pancreatic Cancer
+SO RADIOLOGY
+VL 311
+IS 3
+AR e233117
+DI 10.1148/radiol.233117
+DT Article
+PD JUN 2024
+PY 2024
+AB Background: Structured radiology reports for pancreatic ductal
+   adenocarcinoma (PDAC) improve surgical decision-making over free-text
+   reports, but radiologist adoption is variable. Resectability criteria
+   are applied inconsistently. Purpose: To evaluate the performance of
+   large language models (LLMs) in automatically creating PDAC synoptic
+   reports from original reports and to explore performance in categorizing
+   tumor resectability. Materials and Methods: In this institutional review
+   board-approved retrospective study, 180 consecutive PDAC staging CT
+   reports on patients referred to the authors' European Society for
+   Medical Oncology-designated cancer center from January to December 2018
+   were included. Reports were reviewed by two radiologists to establish
+   the reference standard for 14 key findings and National Comprehensive
+   Cancer Network (NCCN) resectability category. GPT-3.5 and GPT-4
+   (accessed September 18-29, 2023) were prompted to create synoptic
+   reports from original reports with the same 14 features, and their
+   performance was evaluated (recall, precision, F1 score). To categorize
+   resectability, three prompting strategies (default knowledge, in-context
+   knowledge, chain-of-thought) were used for both LLMs.
+   Hepatopancreaticobiliary surgeons reviewed original and artificial
+   intelligence (AI)-generated reports to determine resectability, with
+   accuracy and review time compared. The McNemar test, t test, Wilcoxon
+   signed-rank test, and mixed effects logistic regression models were used
+   where appropriate. Results: GPT-4 outperformed GPT-3.5 in the creation
+   of synoptic reports (F1 score: 0.997 vs 0.967, respectively). Compared
+   with GPT-3.5, GPT-4 achieved equal or higher F1 scores for all 14
+   extracted features. GPT-4 had higher precision than GPT-3.5 for
+   extracting superior mesenteric artery involvement (100% vs 88.8%,
+   respectively). For categorizing resectability, GPT-4 outperformed
+   GPT-3.5 for each prompting strategy. For GPT-4, chain-of-thought
+   prompting was most accurate, outperforming in-context knowledge
+   prompting (92% vs 83%, respectively; P = .002), which outperformed the
+   default knowledge strategy (83% vs 67%, P < .001). Surgeons were more
+   accurate in categorizing resectability using AI-generated reports than
+   original reports (83% vs 76%, respectively; P = .03), while spending
+   less time on each report (58%; 95% CI: 0.53, 0.62). Conclusion: GPT-4
+   created near-perfect PDAC synoptic reports from original reports. GPT-4
+   with chain-of-thought achieved high accuracy in categorizing
+   resectability. Surgeons were more accurate and efficient using
+   AI-generated reports. (c) RSNA, 2024 Supplemental material is available
+   for this article .
+ZS 0
+ZA 0
+ZR 0
+ZB 2
+Z8 2
+TC 15
+Z9 17
+DA 2024-07-28
+UT WOS:001272193800035
+PM 38888478
+ER
+
+PT J
+AU Han, B.
+   Chen, Y.
+   Buyyounouski, M. K.
+   Gensheimer, M. F.
+   Xing, L.
+TI RadAlonc: Enhancing Decision-Making in Radiation Oncology with a
+   GPT-4-Based Prompt-Driven Large Language Model
+SO INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS
+VL 120
+IS 2
+MA 2297
+BP E134
+EP E134
+SU S
+DT Meeting Abstract
+PD OCT 1 2024
+PY 2024
+CT 66th International Conference on American-Society-for-Radiation-Oncology
+   (ASTRO)
+CY SEP 29-OCT 02, 2024
+CL Washington, DC
+SP Amer Soc Radiat Oncol
+ZS 0
+ZB 0
+TC 0
+Z8 0
+ZR 0
+ZA 0
+Z9 0
+DA 2024-12-16
+UT WOS:001325892300029
+ER
+
+PT C
+AU Sharma, Manish
+   Farough, Samira
+   Burkett, Andre
+   Prasanth, Jerome
+   El-Shafeey, Nabil
+   Zygadlo, Dominic
+   Dunn, Chera
+   Korn, Ron
+BE Yoshida, H
+   Wu, S
+TI Leveraging LLMs like ChatGPT for robust quality checks and medical text
+   agreement rationale enhancing adjudication quality and alignment in BICR
+   for oncology clinical trials
+SO IMAGING INFORMATICS FOR HEALTHCARE, RESEARCH, AND APPLICATIONS, MEDICAL
+   IMAGING 2024
+SE Proceedings of SPIE
+VL 12931
+AR 1293103
+DI 10.1117/12.3009153
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Purpose: Blinded independent central review (BICR) is recommended by the
+   US FDA for registration of oncology trials as image assessment bias is
+   avoided and no chance of unblinding of patient data. Double read with
+   adjudication is the method used to reduce endpoint assessment
+   variability. In cases of disagreement between the readers, a third
+   reader called an adjudicator, reviews the assessment by the two
+   radiologists and decides which assessment is most accurate. Adjudication
+   rate (AR) and adjudicator agreement rate (AAR) are the two indicators
+   used to evaluate reviewer performance and overall trial variability and
+   quality. Sentiment analysis (SA) is based on natural language processing
+   and can tag the data as 'positive', 'negative' or 'neutral' although
+   current technologies can provide a more complex analysis of emotions in
+   the written text. Medical SA can analyze patients' and doctors'
+   opinions, sentiments, attitudes, and emotions in the clinical
+   background. Python, the most frequently used programming language for
+   deep learning worldwide and ChatGPT, an AI-based chatbot can be used for
+   assessing adjudicator comment quality based on sentiment analysis. If
+   successful, this analysis can open another novel implementation for
+   Large Language Models (LLMs) or ChatGPT in clinical research and medical
+   imaging.
+   Methods: This prospective study involved the review of cases for 100
+   subjects by board-certified radiologists using the Response Evaluation
+   Criteria in Solid Tumors (RECIST) 1.1 criteria. The study employed a
+   double read with adjudication paradigm in a central imaging review
+   setup. The agreement of adjudication was assessed and compared with the
+   overall response, agreed reader, and medical text. The medical text
+   entered by the adjudicator is usually a free text field that typically
+   lacks standardization and control over its content, which may affect its
+   correlation with reviewer selection for agreement. Although uncommon,
+   errors by the adjudicator can occur due to ambiguous text, mis-clicks,
+   or application delay errors. To analyze the adjudicator's comments,
+   sentiment analysis was conducted using a Python plug-in with ChatGPT as
+   a large language model. Based on this analysis, the subjects were
+   categorized as either having "Potential Error" or "No Error".
+   Results: The algorithm supported by ChatGPT was evaluated against a Gold
+   Standard, determined by a board-certified radiologist with over 20 years
+   of experience in the BICR process. A comparison was made to assess
+   accuracy and reproducibility, revealing that only 4 out of 100 subjects
+   had different outcomes. The sensitivity was calculated as 0.857,
+   specificity as 1.0, and accuracy as 0.96.
+   Conclusions: The remarkable Natural Language Processing (NLP)
+   capabilities of ChatGPT are evident in its ability to classify the
+   sentiment as positive, negative, or neutral based on the free-text
+   adjudicator comments provided during the review process. This
+   classification enables a comparison with the actual assessment,
+   adjudicator agreement, and overall patient outcome, highlighting the
+   impressive performance of ChatGPT in this regard.
+CT Conference on Medical Imaging - Imaging Informatics for Healthcare,
+   Research, and Applications
+CY FEB 19-21, 2024
+CL San Diego, CA
+SP SPIE; Amer Assoc Physicists Med; Radiol Soc N Amer; World Mol Imaging
+   Soc; Soc Imaging Informat Med; Int Fdn Comp Assisted Radiol & Surg; Med
+   Image Percept Soc
+ZA 0
+ZS 0
+ZR 0
+TC 0
+ZB 0
+Z8 0
+Z9 0
+DA 2024-05-31
+UT WOS:001219280700002
+ER
+
+EF
