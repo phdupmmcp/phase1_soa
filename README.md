@@ -12,11 +12,10 @@ This repository contains tools and analyses for investigating trends and researc
 
 ## Key Features
 
-- **Automated literature collection**: Scripts to query and extract articles from arXiv and PubMed with specific criteria
-- **Trend analysis**: Identification of emerging topics and temporal evolution of research
+- **Automated literature collection**: Funtions to query and extract articles from arXiv and PubMed with specific criteria
+- **Tags/trend analysis**: Identification of emerging topics and temporal evolution of research
 - **Keyword extraction**: Automatic detection of key terms and relevant concepts
 - **Co-occurrence analysis**: Co-occurrence matrices to identify relationships between concepts
-- **Data visualization**: Generation of graphs and tables to represent findings
 - **LaTeX export**: Tools to generate LaTeX tables for academic publications
 
 ## Research Areas
